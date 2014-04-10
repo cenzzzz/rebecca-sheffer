@@ -5,22 +5,15 @@ BAR_MARGIN = 1;
 TEXT_MARGIN = 2;
 
 var margin = {
-    top: 50,
-    right: 50,
-    bottom: 50,
-    left: 50
+    top: 20,
+    right: 20,
+    bottom: 20,
+    left: 20
 };
 
 var width = 1000 - margin.left - margin.right;
 
 var height = 600 - margin.bottom - margin.top;
-
-bbVis = {
-    x: 0,
-    y: 10,
-    w: width,
-    h: 50
-};
 
 // from http://stackoverflow.com/questions/14167863/how-can-i-bring-a-circle-to-the-front-with-d3
 var front = function(sel) {
@@ -38,13 +31,15 @@ svg = d3.select("#vis").append("svg").attr({
     
 var tip = d3.select("body").append("div")
     .attr("class","tooltip")
-    .text("test!");
-    
+    .text("(competitor)");
+
+data = [];
 d3.json("res_data.json", function(error,data){
     var sel_html = ''
     data.forEach(function(heat,ii) {
-        if (heat[0][".name"][1] !== "-")
+        if (heat[0][".name"][1] !== "-" && ii>0) {
             sel_html += ("<option value="+ii.toString()+">"+heat[0][".name"]+"</option>");
+        }
     });
     d3.select("select")
         .html(sel_html)
@@ -53,7 +48,7 @@ d3.json("res_data.json", function(error,data){
         });
     
     
-    draw_rnd(data,15);
+    draw_rnd(data,2);
 });
 
 function lh(d) {
@@ -75,6 +70,7 @@ function draw_rnd(data,rnd_id) {
     svg.selectAll("*").remove();
     
     var rnd = data[rnd_id];
+    console.log(rnd);
     
     rnd[1].sort(function(a,b) {
         var diff = result(a,rnd) - result(b,rnd);

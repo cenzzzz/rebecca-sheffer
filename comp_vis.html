@@ -48,11 +48,22 @@
 <body>
     <h1>Ballroom Competition Results -- Harvard Invitational 2014</h1>
     <form action="">
+    Event:
     <select name="round">
     </select>
     </form>
     <div id="vis"></div>
-    source: <a href="http://www.o2cm.com/Results/event3.asp?event=hid14">O2CM: HI14</a>
+    <div id="key">
+        Left-to-right: last round reached / placement within round<br/>
+        Top-to-bottom: overall ranking of competitors, ascending<br/>
+        Color Scale: score in each round (green/grey/red = above/at/below cutoff)<br/>
+        Hover: couple's registration number, lead's name, and follow's name<br/>
+        <br/>
+    </div>
+    <div id="about">
+        This prototype is restricted to one view type (competitors), and one particular competition (Harvard Invitational 2014, held 5-6 April 2014)<br/>
+        source: <a href="http://www.o2cm.com/Results/event3.asp?event=hid14">O2CM: HI14</a>
+    </div>
 	<script src="comp_vis.js"></script>
 </body>
 </html>
