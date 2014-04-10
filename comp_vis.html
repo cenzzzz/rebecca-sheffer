@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Homework 3 graph 2</title>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <style>
+        .axis path,
+        .axis line {
+            fill: none;
+            stroke: lightgrey;
+            z-index:1;
+        }
+
+        .path {
+            stroke-width:4;
+            z-index:0;
+        }
+        
+        .dot{
+            stroke: none;
+            fill:white;
+        }
+        
+        div.tooltip { /*from http://www.d3noob.org/2013/01/adding-tooltips-to-d3js-graph.html*/
+            position: absolute;           
+            text-align: center;
+            padding: 2px;             
+            font: 18px sans-serif;        
+            background: lightgrey;   
+            border: 0px;      
+            border-radius: 8px;           
+            pointer-events: none;  
+            opacity: 0;
+            z-index:10;
+        }
+        
+        text.note {
+            fill: black;
+            font-weight:bold;
+            text-anchor: beginning;
+            alignment-baseline: middle;
+            opacity:0;
+        }
+
+    </style>
+
+</head>
+<body>
+    <h1>Ballroom Competition Results -- Harvard Invitational 2014</h1>
+    <form action="">
+    <select name="round">
+    </select>
+    </form>
+    <div id="vis"></div>
+    source: <a href="http://www.o2cm.com/Results/event3.asp?event=hid14">O2CM: HI14</a>
+	<script src="comp_vis.js"></script>
+</body>
+</html>
