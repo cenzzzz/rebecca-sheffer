@@ -3,21 +3,29 @@ import csv
 exec(open('scrape/o2cm/scrape.py').read())
 exec(open('scrape/o2cm/flatten.py').read())
 
+DIR = "mit14"
 SHORTCUT_FILES = False
 
 results = {}
+if (not os.path.isdir(DIR)) :
+    os.mkdir(DIR)
 # res_data.json
-if (os.path.isfile('res_data.json') and SHORTCUT_FILES) :
-    with open('res_data.json', 'r') as f:
+if (os.path.isfile(DIR+'/res_data.json') and SHORTCUT_FILES) :
+    with open(DIR+'/res_data.json', 'r') as f:
         results = json.load(f)
     print('used existing res_data.json')
 else:
     
+    def couple(line) :
+        return (str(line['couple']),str(line['lead_name']),str(line['follow_name']))
+    
     flat_comp = []
     # flat_comp.csv
-    if (os.path.isfile('flat_comp.csv') and False) :
-        with open('flat_comp.csv', 'r') as f:
+    if (os.path.isfile(DIR+'/flat_comp.csv')) :
+        with open(DIR+'/flat_comp.csv', 'r') as f:
             reader = csv.DictReader(f)
+            for line in reader :
+                flat_comp.append(line)
         print('used existing flat_comp.csv')
     else:
         
@@ -25,17 +33,20 @@ else:
         links = comp_links()
         
         # for now, we'll just prototype on a single competition
-        sample = links[0]
+        sample = links[1]
         
         comp_id = comp_id_from_link(sample[1])
         comp = competition_document('Sample',sample[1])
         flat_comp = flatten_comp(comp)
         
         # we write this as a csv, because that's the difference between a 5MB file and a 15MB one
-        with open('flat_comp.csv', 'w', newline='') as f:
+        with open(DIR+'/flat_comp.csv', 'w', newline='') as f:
             writer = csv.DictWriter(f,['couple_location','round_id','mark','round_name','lead_name','follow_name','judge','result','value','heat_name','comp_name','dance_id','comp_id','heat_id','couple','judge_name','dance_name','final_result'])
             writer.writeheader()
             writer.writerows(flat_comp)
+            #for row in flat_comp :
+                #enc = [str(str(s).encode("utf-8")) for s in row]
+                #writer.writerow(enc)
         print('wrote new flat_comp.csv')
         
     # flat_comp is a list of dict
@@ -43,8 +54,6 @@ else:
     # let's aggregate our data:
     ## { event_id:{ 'name':name , 'num_judges':[(total_this_round,req_for_recall)] , str(couple) :(best_round_id,[final_marks,semi_marks,...]) } , event2_id:{...} }
     
-    def couple(line) :
-        return (str(line['couple']),str(line['lead_name']),str(line['follow_name']))
     
     results = {}
     for line in flat_comp :
@@ -95,8 +104,9 @@ else:
             for ii in range(1,n_rounds) :
                 if (ii == couple[0] and couple[1][ii] > max_cut[ii]) :
                     max_cut[ii] = couple[1][ii]
-                elif (ii > couple[0] and (couple[1][ii] < min_call[ii] or min_call[ii] == -1)) :
-                    min_call[ii] = couple[1][ii]
+                else :
+                    if (ii > couple[0] and ii < len(couple[1]) and (couple[1][ii] < min_call[ii] or min_call[ii] == -1)) :
+                        min_call[ii] = couple[1][ii]
         heat['.judges'] = [(0,0)] * n_rounds
         
         for ii in range(0,n_rounds) :
@@ -115,6 +125,6 @@ else:
         ret_results.append(ret_heat)
     
     # we write this as json, so we can get at it easier later
-    with open('res_data.json', 'w') as f:
+    with open(DIR+'/res_data.json', 'w') as f:
         json.dump(ret_results, f)
     print('wrote new res_data.json')

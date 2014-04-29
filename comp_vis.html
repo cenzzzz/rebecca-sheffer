@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Homework 3 graph 2</title>
+    <title>Ballroom Results Reporter</title>
     <script src="http://d3js.org/d3.v3.min.js"></script>
     <style>
         .axis path,
@@ -46,11 +46,10 @@
 
 </head>
 <body>
-    <h1>Ballroom Competition Results -- Harvard Invitational 2014</h1>
+    <h1 id="comp_name">Ballroom Results Explorer</h1>
     <form action="">
-    Event:
-    <select name="round">
-    </select>
+    Competition: <select id = "comp" name="comp"></select>
+    Event: <select id = "round" name="round"></select>
     </form>
     <div id="vis"></div>
     <div id="key">
