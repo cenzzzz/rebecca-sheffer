@@ -1,0 +1,126 @@
+couple_location,round_id,mark,round_name,lead_name,follow_name,judge,result,value,heat_name,comp_name,dance_id,comp_id,heat_id,couple,judge_name,dance_name,final_result
+NJ,0,95.00,Final,Craig Abaya-Campos,Samantha Abaya-Campos,10,,0, Proficiency Adult Silver Standard  (WFQ),Sample,0,tst09,1B2423010,195,Didio Barrera,Waltz,1
+NJ,0,95.00,Final,Craig Abaya-Campos,Samantha Abaya-Campos,11,,0, Proficiency Adult Silver Standard  (WFQ),Sample,0,tst09,1B2423010,195,Felix Castillo,Waltz,1
+NJ,0,98.75,Final,Craig Abaya-Campos,Samantha Abaya-Campos,12,,0, Proficiency Adult Silver Standard  (WFQ),Sample,0,tst09,1B2423010,195,Wayne Crowder,Waltz,1
+NJ,0,95.00,Final,Craig Abaya-Campos,Samantha Abaya-Campos,10,,0, Proficiency Adult Silver Standard  (WFQ),Sample,1,tst09,1B2423010,195,Didio Barrera,Foxtrot,1
+NJ,0,97.50,Final,Craig Abaya-Campos,Samantha Abaya-Campos,11,,0, Proficiency Adult Silver Standard  (WFQ),Sample,1,tst09,1B2423010,195,Felix Castillo,Foxtrot,1
+NJ,0,96.25,Final,Craig Abaya-Campos,Samantha Abaya-Campos,12,,0, Proficiency Adult Silver Standard  (WFQ),Sample,1,tst09,1B2423010,195,Wayne Crowder,Foxtrot,1
+NJ,0,98.75,Final,Craig Abaya-Campos,Samantha Abaya-Campos,10,,0, Proficiency Adult Silver Standard  (WFQ),Sample,2,tst09,1B2423010,195,Didio Barrera,Quickstep,1
+NJ,0,95.00,Final,Craig Abaya-Campos,Samantha Abaya-Campos,11,,0, Proficiency Adult Silver Standard  (WFQ),Sample,2,tst09,1B2423010,195,Felix Castillo,Quickstep,1
+NJ,0,98.75,Final,Craig Abaya-Campos,Samantha Abaya-Campos,12,,0, Proficiency Adult Silver Standard  (WFQ),Sample,2,tst09,1B2423010,195,Wayne Crowder,Quickstep,1
+CA,0,1,Final,Nathaniel Chen,Sarah Abitria,10,1,1, Pro/Am Adult Bronze Intl. Waltz  (W),Sample,0,tst09,80422818,361,Didio Barrera,Intl. Waltz,1
+CA,0,2,Final,Nathaniel Chen,Sarah Abitria,11,1,2, Pro/Am Adult Bronze Intl. Waltz  (W),Sample,0,tst09,80422818,361,Felix Castillo,Intl. Waltz,1
+CA,0,2,Final,Nathaniel Chen,Sarah Abitria,12,1,2, Pro/Am Adult Bronze Intl. Waltz  (W),Sample,0,tst09,80422818,361,Wayne Crowder,Intl. Waltz,1
+CA,0,3,Final,Nathaniel Chen,Sarah Abitria,13,1,3, Pro/Am Adult Bronze Intl. Waltz  (W),Sample,0,tst09,80422818,361,Nathan Hawes Daniels,Intl. Waltz,1
+CA,0,1,Final,Nathaniel Chen,Sarah Abitria,14,1,1, Pro/Am Adult Bronze Intl. Waltz  (W),Sample,0,tst09,80422818,361,Wendi Davies,Intl. Waltz,1
+CA,0,2,Final,Nathaniel Chen,Sarah Abitria,15,1,2, Pro/Am Adult Bronze Intl. Waltz  (W),Sample,0,tst09,80422818,361,Randall Deats,Intl. Waltz,1
+CA,0,2,Final,Nathaniel Chen,Sarah Abitria,16,1,2, Pro/Am Adult Bronze Intl. Waltz  (W),Sample,0,tst09,80422818,361,Melissa Dexter,Intl. Waltz,1
+FL,0,2,Final,Zander Adkins,Lucia DAndrea,10,2,2, Pro/Am Adult Bronze Intl. Waltz  (W),Sample,0,tst09,80422818,174,Didio Barrera,Intl. Waltz,2
+FL,0,3,Final,Zander Adkins,Lucia DAndrea,11,2,3, Pro/Am Adult Bronze Intl. Waltz  (W),Sample,0,tst09,80422818,174,Felix Castillo,Intl. Waltz,2
+FL,0,1,Final,Zander Adkins,Lucia DAndrea,12,2,1, Pro/Am Adult Bronze Intl. Waltz  (W),Sample,0,tst09,80422818,174,Wayne Crowder,Intl. Waltz,2
+FL,0,2,Final,Zander Adkins,Lucia DAndrea,13,2,2, Pro/Am Adult Bronze Intl. Waltz  (W),Sample,0,tst09,80422818,174,Nathan Hawes Daniels,Intl. Waltz,2
+FL,0,2,Final,Zander Adkins,Lucia DAndrea,14,2,2, Pro/Am Adult Bronze Intl. Waltz  (W),Sample,0,tst09,80422818,174,Wendi Davies,Intl. Waltz,2
+FL,0,3,Final,Zander Adkins,Lucia DAndrea,15,2,3, Pro/Am Adult Bronze Intl. Waltz  (W),Sample,0,tst09,80422818,174,Randall Deats,Intl. Waltz,2
+FL,0,1,Final,Zander Adkins,Lucia DAndrea,16,2,1, Pro/Am Adult Bronze Intl. Waltz  (W),Sample,0,tst09,80422818,174,Melissa Dexter,Intl. Waltz,2
+MA,0,3,Final,Gil Alterovitz,Nelly Martin,10,3,3, Pro/Am Adult Bronze Intl. Waltz  (W),Sample,0,tst09,80422818,224,Didio Barrera,Intl. Waltz,3
+MA,0,1,Final,Gil Alterovitz,Nelly Martin,11,3,1, Pro/Am Adult Bronze Intl. Waltz  (W),Sample,0,tst09,80422818,224,Felix Castillo,Intl. Waltz,3
+MA,0,3,Final,Gil Alterovitz,Nelly Martin,12,3,3, Pro/Am Adult Bronze Intl. Waltz  (W),Sample,0,tst09,80422818,224,Wayne Crowder,Intl. Waltz,3
+MA,0,1,Final,Gil Alterovitz,Nelly Martin,13,3,1, Pro/Am Adult Bronze Intl. Waltz  (W),Sample,0,tst09,80422818,224,Nathan Hawes Daniels,Intl. Waltz,3
+MA,0,3,Final,Gil Alterovitz,Nelly Martin,14,3,3, Pro/Am Adult Bronze Intl. Waltz  (W),Sample,0,tst09,80422818,224,Wendi Davies,Intl. Waltz,3
+MA,0,1,Final,Gil Alterovitz,Nelly Martin,15,3,1, Pro/Am Adult Bronze Intl. Waltz  (W),Sample,0,tst09,80422818,224,Randall Deats,Intl. Waltz,3
+MA,0,3,Final,Gil Alterovitz,Nelly Martin,16,3,3, Pro/Am Adult Bronze Intl. Waltz  (W),Sample,0,tst09,80422818,224,Melissa Dexter,Intl. Waltz,3
+NJ,0,95.00,Final,Craig Abaya-Campos,Samantha Abaya-Campos,10,,0, Proficiency Adult Silver Intl. Waltz  (W),Sample,0,tst09,3B2423018,195,Didio Barrera,Intl. Waltz,1
+NJ,0,95.00,Final,Craig Abaya-Campos,Samantha Abaya-Campos,11,,0, Proficiency Adult Silver Intl. Waltz  (W),Sample,0,tst09,3B2423018,195,Felix Castillo,Intl. Waltz,1
+NJ,0,95.00,Final,Craig Abaya-Campos,Samantha Abaya-Campos,12,,0, Proficiency Adult Silver Intl. Waltz  (W),Sample,0,tst09,3B2423018,195,Wayne Crowder,Intl. Waltz,1
+NJ,0,95.00,Final,Craig Abaya-Campos,Samantha Abaya-Campos,13,,0, Proficiency Adult Silver Intl. Waltz  (W),Sample,0,tst09,3B2423018,195,Nathan Hawes Daniels,Intl. Waltz,1
+NJ,0,95.00,Final,Craig Abaya-Campos,Samantha Abaya-Campos,14,,0, Proficiency Adult Silver Intl. Waltz  (W),Sample,0,tst09,3B2423018,195,Wendi Davies,Intl. Waltz,1
+NJ,0,95.00,Final,Craig Abaya-Campos,Samantha Abaya-Campos,15,,0, Proficiency Adult Silver Intl. Waltz  (W),Sample,0,tst09,3B2423018,195,Randall Deats,Intl. Waltz,1
+NJ,0,95.00,Final,Craig Abaya-Campos,Samantha Abaya-Campos,16,,0, Proficiency Adult Silver Intl. Waltz  (W),Sample,0,tst09,3B2423018,195,Melissa Dexter,Intl. Waltz,1
+OR,0,95.00,Final,Mark Tabor,Tiffanie Tabor,10,,0, Proficiency Senior I Silver Intl. Waltz  (W),Sample,0,tst09,1B2433018,876,Didio Barrera,Intl. Waltz,1
+OR,0,95.00,Final,Mark Tabor,Tiffanie Tabor,11,,0, Proficiency Senior I Silver Intl. Waltz  (W),Sample,0,tst09,1B2433018,876,Felix Castillo,Intl. Waltz,1
+OR,0,93.75,Final,Mark Tabor,Tiffanie Tabor,12,,0, Proficiency Senior I Silver Intl. Waltz  (W),Sample,0,tst09,1B2433018,876,Wayne Crowder,Intl. Waltz,1
+OR,0,95.00,Final,Mark Tabor,Tiffanie Tabor,13,,0, Proficiency Senior I Silver Intl. Waltz  (W),Sample,0,tst09,1B2433018,876,Nathan Hawes Daniels,Intl. Waltz,1
+OR,0,95.00,Final,Mark Tabor,Tiffanie Tabor,14,,0, Proficiency Senior I Silver Intl. Waltz  (W),Sample,0,tst09,1B2433018,876,Wendi Davies,Intl. Waltz,1
+OR,0,95.00,Final,Mark Tabor,Tiffanie Tabor,15,,0, Proficiency Senior I Silver Intl. Waltz  (W),Sample,0,tst09,1B2433018,876,Randall Deats,Intl. Waltz,1
+OR,0,95.00,Final,Mark Tabor,Tiffanie Tabor,16,,0, Proficiency Senior I Silver Intl. Waltz  (W),Sample,0,tst09,1B2433018,876,Melissa Dexter,Intl. Waltz,1
+FL,0,1,Final,Zander Adkins,Lucia DAndrea,10,1,1, Pro/Am Adult Bronze Intl. Tango  (T),Sample,0,tst09,80422819,174,Didio Barrera,Intl. Tango,1
+FL,0,1,Final,Zander Adkins,Lucia DAndrea,11,1,1, Pro/Am Adult Bronze Intl. Tango  (T),Sample,0,tst09,80422819,174,Felix Castillo,Intl. Tango,1
+FL,0,2,Final,Zander Adkins,Lucia DAndrea,12,1,2, Pro/Am Adult Bronze Intl. Tango  (T),Sample,0,tst09,80422819,174,Wayne Crowder,Intl. Tango,1
+MA,0,2,Final,Gil Alterovitz,Nelly Martin,10,2,2, Pro/Am Adult Bronze Intl. Tango  (T),Sample,0,tst09,80422819,224,Didio Barrera,Intl. Tango,2
+MA,0,2,Final,Gil Alterovitz,Nelly Martin,11,2,2, Pro/Am Adult Bronze Intl. Tango  (T),Sample,0,tst09,80422819,224,Felix Castillo,Intl. Tango,2
+MA,0,1,Final,Gil Alterovitz,Nelly Martin,12,2,1, Pro/Am Adult Bronze Intl. Tango  (T),Sample,0,tst09,80422819,224,Wayne Crowder,Intl. Tango,2
+NJ,0,95.00,Final,Craig Abaya-Campos,Samantha Abaya-Campos,10,,0, Proficiency Adult Silver Intl. Tango  (T),Sample,0,tst09,2B2423019,195,Didio Barrera,Intl. Tango,1
+NJ,0,95.00,Final,Craig Abaya-Campos,Samantha Abaya-Campos,11,,0, Proficiency Adult Silver Intl. Tango  (T),Sample,0,tst09,2B2423019,195,Felix Castillo,Intl. Tango,1
+NJ,0,95.00,Final,Craig Abaya-Campos,Samantha Abaya-Campos,12,,0, Proficiency Adult Silver Intl. Tango  (T),Sample,0,tst09,2B2423019,195,Wayne Crowder,Intl. Tango,1
+OR,0,95.00,Final,Mark Tabor,Tiffanie Tabor,10,,0, Proficiency Senior I Silver Intl. Tango  (T),Sample,0,tst09,1B2433019,876,Didio Barrera,Intl. Tango,1
+OR,0,95.00,Final,Mark Tabor,Tiffanie Tabor,11,,0, Proficiency Senior I Silver Intl. Tango  (T),Sample,0,tst09,1B2433019,876,Felix Castillo,Intl. Tango,1
+OR,0,95.00,Final,Mark Tabor,Tiffanie Tabor,12,,0, Proficiency Senior I Silver Intl. Tango  (T),Sample,0,tst09,1B2433019,876,Wayne Crowder,Intl. Tango,1
+CA,0,1,Final,Nathaniel Chen,Sarah Abitria,10,1,1, Pro/Am Adult Bronze Intl. V. Waltz  (V),Sample,0,tst09,8042281A,361,Didio Barrera,Intl. V. Waltz,1
+CA,0,2,Final,Nathaniel Chen,Sarah Abitria,11,1,2, Pro/Am Adult Bronze Intl. V. Waltz  (V),Sample,0,tst09,8042281A,361,Felix Castillo,Intl. V. Waltz,1
+CA,0,2,Final,Nathaniel Chen,Sarah Abitria,12,1,2, Pro/Am Adult Bronze Intl. V. Waltz  (V),Sample,0,tst09,8042281A,361,Wayne Crowder,Intl. V. Waltz,1
+FL,0,2,Final,Zander Adkins,Lucia DAndrea,10,2,2, Pro/Am Adult Bronze Intl. V. Waltz  (V),Sample,0,tst09,8042281A,174,Didio Barrera,Intl. V. Waltz,2
+FL,0,3,Final,Zander Adkins,Lucia DAndrea,11,2,3, Pro/Am Adult Bronze Intl. V. Waltz  (V),Sample,0,tst09,8042281A,174,Felix Castillo,Intl. V. Waltz,2
+FL,0,1,Final,Zander Adkins,Lucia DAndrea,12,2,1, Pro/Am Adult Bronze Intl. V. Waltz  (V),Sample,0,tst09,8042281A,174,Wayne Crowder,Intl. V. Waltz,2
+MA,0,3,Final,Gil Alterovitz,Nelly Martin,10,3,3, Pro/Am Adult Bronze Intl. V. Waltz  (V),Sample,0,tst09,8042281A,224,Didio Barrera,Intl. V. Waltz,3
+MA,0,1,Final,Gil Alterovitz,Nelly Martin,11,3,1, Pro/Am Adult Bronze Intl. V. Waltz  (V),Sample,0,tst09,8042281A,224,Felix Castillo,Intl. V. Waltz,3
+MA,0,3,Final,Gil Alterovitz,Nelly Martin,12,3,3, Pro/Am Adult Bronze Intl. V. Waltz  (V),Sample,0,tst09,8042281A,224,Wayne Crowder,Intl. V. Waltz,3
+NJ,0,95.00,Final,Craig Abaya-Campos,Samantha Abaya-Campos,10,,0, Proficiency Adult Silver Intl. V. Waltz  (V),Sample,0,tst09,2B242301A,195,Didio Barrera,Intl. V. Waltz,1
+NJ,0,95.00,Final,Craig Abaya-Campos,Samantha Abaya-Campos,11,,0, Proficiency Adult Silver Intl. V. Waltz  (V),Sample,0,tst09,2B242301A,195,Felix Castillo,Intl. V. Waltz,1
+NJ,0,95.00,Final,Craig Abaya-Campos,Samantha Abaya-Campos,12,,0, Proficiency Adult Silver Intl. V. Waltz  (V),Sample,0,tst09,2B242301A,195,Wayne Crowder,Intl. V. Waltz,1
+OR,0,95.00,Final,Mark Tabor,Tiffanie Tabor,10,,0, Proficiency Senior I Silver Intl. V. Waltz  (V),Sample,0,tst09,1B243301A,876,Didio Barrera,Intl. V. Waltz,1
+OR,0,95.00,Final,Mark Tabor,Tiffanie Tabor,11,,0, Proficiency Senior I Silver Intl. V. Waltz  (V),Sample,0,tst09,1B243301A,876,Felix Castillo,Intl. V. Waltz,1
+OR,0,95.00,Final,Mark Tabor,Tiffanie Tabor,12,,0, Proficiency Senior I Silver Intl. V. Waltz  (V),Sample,0,tst09,1B243301A,876,Wayne Crowder,Intl. V. Waltz,1
+CA,0,1,Final,Nathaniel Chen,Sarah Abitria,10,1,1, Pro/Am Adult Bronze Intl. Foxtrot  (F),Sample,0,tst09,8042281B,361,Didio Barrera,Intl. Foxtrot,1
+CA,0,1,Final,Nathaniel Chen,Sarah Abitria,11,1,1, Pro/Am Adult Bronze Intl. Foxtrot  (F),Sample,0,tst09,8042281B,361,Felix Castillo,Intl. Foxtrot,1
+CA,0,1,Final,Nathaniel Chen,Sarah Abitria,12,1,1, Pro/Am Adult Bronze Intl. Foxtrot  (F),Sample,0,tst09,8042281B,361,Wayne Crowder,Intl. Foxtrot,1
+NJ,0,95.00,Final,Craig Abaya-Campos,Samantha Abaya-Campos,10,,0, Proficiency Adult Silver Intl. Foxtrot  (F),Sample,0,tst09,2B242301B,195,Didio Barrera,Intl. Foxtrot,1
+NJ,0,95.00,Final,Craig Abaya-Campos,Samantha Abaya-Campos,11,,0, Proficiency Adult Silver Intl. Foxtrot  (F),Sample,0,tst09,2B242301B,195,Felix Castillo,Intl. Foxtrot,1
+NJ,0,95.00,Final,Craig Abaya-Campos,Samantha Abaya-Campos,12,,0, Proficiency Adult Silver Intl. Foxtrot  (F),Sample,0,tst09,2B242301B,195,Wayne Crowder,Intl. Foxtrot,1
+OR,0,95.00,Final,Mark Tabor,Tiffanie Tabor,10,,0, Proficiency Senior I Silver Intl. Foxtrot  (F),Sample,0,tst09,1B243301B,876,Didio Barrera,Intl. Foxtrot,1
+OR,0,95.00,Final,Mark Tabor,Tiffanie Tabor,11,,0, Proficiency Senior I Silver Intl. Foxtrot  (F),Sample,0,tst09,1B243301B,876,Felix Castillo,Intl. Foxtrot,1
+OR,0,95.00,Final,Mark Tabor,Tiffanie Tabor,12,,0, Proficiency Senior I Silver Intl. Foxtrot  (F),Sample,0,tst09,1B243301B,876,Wayne Crowder,Intl. Foxtrot,1
+CA,0,1,Final,Nathaniel Chen,Sarah Abitria,10,1,1, Pro/Am Adult Bronze Intl. Quickstep  (Q),Sample,0,tst09,8042281C,361,Didio Barrera,Intl. Quickstep,1
+CA,0,2,Final,Nathaniel Chen,Sarah Abitria,11,1,2, Pro/Am Adult Bronze Intl. Quickstep  (Q),Sample,0,tst09,8042281C,361,Felix Castillo,Intl. Quickstep,1
+CA,0,2,Final,Nathaniel Chen,Sarah Abitria,12,1,2, Pro/Am Adult Bronze Intl. Quickstep  (Q),Sample,0,tst09,8042281C,361,Wayne Crowder,Intl. Quickstep,1
+FL,0,2,Final,Zander Adkins,Lucia DAndrea,10,2,2, Pro/Am Adult Bronze Intl. Quickstep  (Q),Sample,0,tst09,8042281C,174,Didio Barrera,Intl. Quickstep,2
+FL,0,3,Final,Zander Adkins,Lucia DAndrea,11,2,3, Pro/Am Adult Bronze Intl. Quickstep  (Q),Sample,0,tst09,8042281C,174,Felix Castillo,Intl. Quickstep,2
+FL,0,1,Final,Zander Adkins,Lucia DAndrea,12,2,1, Pro/Am Adult Bronze Intl. Quickstep  (Q),Sample,0,tst09,8042281C,174,Wayne Crowder,Intl. Quickstep,2
+MA,0,3,Final,Gil Alterovitz,Nelly Martin,10,3,3, Pro/Am Adult Bronze Intl. Quickstep  (Q),Sample,0,tst09,8042281C,224,Didio Barrera,Intl. Quickstep,3
+MA,0,1,Final,Gil Alterovitz,Nelly Martin,11,3,1, Pro/Am Adult Bronze Intl. Quickstep  (Q),Sample,0,tst09,8042281C,224,Felix Castillo,Intl. Quickstep,3
+MA,0,3,Final,Gil Alterovitz,Nelly Martin,12,3,3, Pro/Am Adult Bronze Intl. Quickstep  (Q),Sample,0,tst09,8042281C,224,Wayne Crowder,Intl. Quickstep,3
+NJ,0,95.00,Final,Craig Abaya-Campos,Samantha Abaya-Campos,10,,0, Proficiency Adult Silver Intl. Quickstep  (Q),Sample,0,tst09,2B242301C,195,Didio Barrera,Intl. Quickstep,1
+NJ,0,95.00,Final,Craig Abaya-Campos,Samantha Abaya-Campos,11,,0, Proficiency Adult Silver Intl. Quickstep  (Q),Sample,0,tst09,2B242301C,195,Felix Castillo,Intl. Quickstep,1
+NJ,0,95.00,Final,Craig Abaya-Campos,Samantha Abaya-Campos,12,,0, Proficiency Adult Silver Intl. Quickstep  (Q),Sample,0,tst09,2B242301C,195,Wayne Crowder,Intl. Quickstep,1
+OR,0,95.00,Final,Mark Tabor,Tiffanie Tabor,10,,0, Proficiency Senior I Silver Intl. Quickstep  (Q),Sample,0,tst09,1B243301C,876,Didio Barrera,Intl. Quickstep,1
+OR,0,95.00,Final,Mark Tabor,Tiffanie Tabor,11,,0, Proficiency Senior I Silver Intl. Quickstep  (Q),Sample,0,tst09,1B243301C,876,Felix Castillo,Intl. Quickstep,1
+OR,0,95.00,Final,Mark Tabor,Tiffanie Tabor,12,,0, Proficiency Senior I Silver Intl. Quickstep  (Q),Sample,0,tst09,1B243301C,876,Wayne Crowder,Intl. Quickstep,1
+OR,0,95.00,Final,Mark Tabor,Tiffanie Tabor,10,,0, Proficiency Senior I Gold Intl. Waltz  (W),Sample,0,tst09,3B2433818,876,Didio Barrera,Intl. Waltz,1
+OR,0,95.00,Final,Mark Tabor,Tiffanie Tabor,11,,0, Proficiency Senior I Gold Intl. Waltz  (W),Sample,0,tst09,3B2433818,876,Felix Castillo,Intl. Waltz,1
+OR,0,95.00,Final,Mark Tabor,Tiffanie Tabor,12,,0, Proficiency Senior I Gold Intl. Waltz  (W),Sample,0,tst09,3B2433818,876,Wayne Crowder,Intl. Waltz,1
+OR,0,95.00,Final,Mark Tabor,Tiffanie Tabor,10,,0, Proficiency Senior I Gold Intl. Tango  (T),Sample,0,tst09,3B2433819,876,Didio Barrera,Intl. Tango,1
+OR,0,95.00,Final,Mark Tabor,Tiffanie Tabor,11,,0, Proficiency Senior I Gold Intl. Tango  (T),Sample,0,tst09,3B2433819,876,Felix Castillo,Intl. Tango,1
+OR,0,95.00,Final,Mark Tabor,Tiffanie Tabor,12,,0, Proficiency Senior I Gold Intl. Tango  (T),Sample,0,tst09,3B2433819,876,Wayne Crowder,Intl. Tango,1
+OR,0,95.00,Final,Mark Tabor,Tiffanie Tabor,10,,0, Proficiency Senior I Gold Intl. V. Waltz  (V),Sample,0,tst09,3B243381A,876,Didio Barrera,Intl. V. Waltz,1
+OR,0,95.00,Final,Mark Tabor,Tiffanie Tabor,11,,0, Proficiency Senior I Gold Intl. V. Waltz  (V),Sample,0,tst09,3B243381A,876,Felix Castillo,Intl. V. Waltz,1
+OR,0,95.00,Final,Mark Tabor,Tiffanie Tabor,12,,0, Proficiency Senior I Gold Intl. V. Waltz  (V),Sample,0,tst09,3B243381A,876,Wayne Crowder,Intl. V. Waltz,1
+OR,0,95.00,Final,Mark Tabor,Tiffanie Tabor,10,,0, Proficiency Senior I Gold Intl. Foxtrot  (F),Sample,0,tst09,3B243381B,876,Didio Barrera,Intl. Foxtrot,1
+OR,0,95.00,Final,Mark Tabor,Tiffanie Tabor,11,,0, Proficiency Senior I Gold Intl. Foxtrot  (F),Sample,0,tst09,3B243381B,876,Felix Castillo,Intl. Foxtrot,1
+OR,0,95.00,Final,Mark Tabor,Tiffanie Tabor,12,,0, Proficiency Senior I Gold Intl. Foxtrot  (F),Sample,0,tst09,3B243381B,876,Wayne Crowder,Intl. Foxtrot,1
+OR,0,95.00,Final,Mark Tabor,Tiffanie Tabor,10,,0, Proficiency Senior I Gold Intl. Quickstep  (Q),Sample,0,tst09,3B243381C,876,Didio Barrera,Intl. Quickstep,1
+OR,0,95.00,Final,Mark Tabor,Tiffanie Tabor,11,,0, Proficiency Senior I Gold Intl. Quickstep  (Q),Sample,0,tst09,3B243381C,876,Felix Castillo,Intl. Quickstep,1
+OR,0,95.00,Final,Mark Tabor,Tiffanie Tabor,12,,0, Proficiency Senior I Gold Intl. Quickstep  (Q),Sample,0,tst09,3B243381C,876,Wayne Crowder,Intl. Quickstep,1
+NJ,0,95.00,Final,Craig Abaya-Campos,Samantha Abaya-Campos,10,,0, Proficiency Adult Gold Intl. Cha Cha  (C),Sample,0,tst09,1B2423828,195,Didio Barrera,Intl. Cha Cha,1
+NJ,0,95.00,Final,Craig Abaya-Campos,Samantha Abaya-Campos,11,,0, Proficiency Adult Gold Intl. Cha Cha  (C),Sample,0,tst09,1B2423828,195,Felix Castillo,Intl. Cha Cha,1
+NJ,0,95.00,Final,Craig Abaya-Campos,Samantha Abaya-Campos,12,,0, Proficiency Adult Gold Intl. Cha Cha  (C),Sample,0,tst09,1B2423828,195,Wayne Crowder,Intl. Cha Cha,1
+NJ,0,95.00,Final,Craig Abaya-Campos,Samantha Abaya-Campos,10,,0, Proficiency Adult Gold Intl. Samba  (S),Sample,0,tst09,1B2423829,195,Didio Barrera,Intl. Samba,1
+NJ,0,95.00,Final,Craig Abaya-Campos,Samantha Abaya-Campos,11,,0, Proficiency Adult Gold Intl. Samba  (S),Sample,0,tst09,1B2423829,195,Felix Castillo,Intl. Samba,1
+NJ,0,95.00,Final,Craig Abaya-Campos,Samantha Abaya-Campos,12,,0, Proficiency Adult Gold Intl. Samba  (S),Sample,0,tst09,1B2423829,195,Wayne Crowder,Intl. Samba,1
+NJ,0,95.00,Final,Craig Abaya-Campos,Samantha Abaya-Campos,10,,0, Proficiency Adult Gold Intl. Rumba  (R),Sample,0,tst09,1B242382A,195,Didio Barrera,Intl. Rumba,1
+NJ,0,95.00,Final,Craig Abaya-Campos,Samantha Abaya-Campos,11,,0, Proficiency Adult Gold Intl. Rumba  (R),Sample,0,tst09,1B242382A,195,Felix Castillo,Intl. Rumba,1
+NJ,0,95.00,Final,Craig Abaya-Campos,Samantha Abaya-Campos,12,,0, Proficiency Adult Gold Intl. Rumba  (R),Sample,0,tst09,1B242382A,195,Wayne Crowder,Intl. Rumba,1
+NJ,0,95.00,Final,Craig Abaya-Campos,Samantha Abaya-Campos,10,,0, Proficiency Adult Gold Intl. Paso Doble  (P),Sample,0,tst09,1B242382B,195,Didio Barrera,Intl. Paso Doble,1
+NJ,0,95.00,Final,Craig Abaya-Campos,Samantha Abaya-Campos,11,,0, Proficiency Adult Gold Intl. Paso Doble  (P),Sample,0,tst09,1B242382B,195,Felix Castillo,Intl. Paso Doble,1
+NJ,0,95.00,Final,Craig Abaya-Campos,Samantha Abaya-Campos,12,,0, Proficiency Adult Gold Intl. Paso Doble  (P),Sample,0,tst09,1B242382B,195,Wayne Crowder,Intl. Paso Doble,1
+NJ,0,95.00,Final,Craig Abaya-Campos,Samantha Abaya-Campos,10,,0, Proficiency Adult Gold Intl. Jive  (J),Sample,0,tst09,1B242382C,195,Didio Barrera,Intl. Jive,1
+NJ,0,95.00,Final,Craig Abaya-Campos,Samantha Abaya-Campos,11,,0, Proficiency Adult Gold Intl. Jive  (J),Sample,0,tst09,1B242382C,195,Felix Castillo,Intl. Jive,1
+NJ,0,95.00,Final,Craig Abaya-Campos,Samantha Abaya-Campos,12,,0, Proficiency Adult Gold Intl. Jive  (J),Sample,0,tst09,1B242382C,195,Wayne Crowder,Intl. Jive,1

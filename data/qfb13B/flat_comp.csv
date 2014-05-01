@@ -1,0 +1,718 @@
+couple_location,round_id,mark,round_name,lead_name,follow_name,judge,result,value,heat_name,comp_name,dance_id,comp_id,heat_id,couple,judge_name,dance_name,final_result
+WA,0,1,Final,Arseniy Marshak,Anastasia Smirnova,10,1,1, Junior Newcomer Standard  (W),Sample,0,qfb13B,402C2010,115,Jeanette Ball,Waltz,1
+WA,0,1,Final,Arseniy Marshak,Anastasia Smirnova,11,1,1, Junior Newcomer Standard  (W),Sample,0,qfb13B,402C2010,115,Monique Hrouda,Waltz,1
+WA,0,2,Final,Arseniy Marshak,Anastasia Smirnova,12,1,2, Junior Newcomer Standard  (W),Sample,0,qfb13B,402C2010,115,Elena Zakharova,Waltz,1
+WA,0,2,Final,Kyle McLinden,Aaliyah Magee,10,2,2, Junior Newcomer Standard  (W),Sample,0,qfb13B,402C2010,116,Jeanette Ball,Waltz,2
+WA,0,2,Final,Kyle McLinden,Aaliyah Magee,11,2,2, Junior Newcomer Standard  (W),Sample,0,qfb13B,402C2010,116,Monique Hrouda,Waltz,2
+WA,0,1,Final,Kyle McLinden,Aaliyah Magee,12,2,1, Junior Newcomer Standard  (W),Sample,0,qfb13B,402C2010,116,Elena Zakharova,Waltz,2
+WA,0,1,Final,Jordan Naini,Christina Tatevosyan,10,1,1, Pre-Teen Bronze Standard  (WQ),Sample,0,qfb13B,40272810,117,Jeanette Ball,Waltz,1
+WA,0,1,Final,Jordan Naini,Christina Tatevosyan,11,1,1, Pre-Teen Bronze Standard  (WQ),Sample,0,qfb13B,40272810,117,Monique Hrouda,Waltz,1
+WA,0,1,Final,Jordan Naini,Christina Tatevosyan,12,1,1, Pre-Teen Bronze Standard  (WQ),Sample,0,qfb13B,40272810,117,Elena Zakharova,Waltz,1
+WA,0,2,Final,Arseniy Marshak,Anastasia Smirnova,10,2,2, Pre-Teen Bronze Standard  (WQ),Sample,0,qfb13B,40272810,115,Jeanette Ball,Waltz,2
+WA,0,2,Final,Arseniy Marshak,Anastasia Smirnova,11,2,2, Pre-Teen Bronze Standard  (WQ),Sample,0,qfb13B,40272810,115,Monique Hrouda,Waltz,2
+WA,0,3,Final,Arseniy Marshak,Anastasia Smirnova,12,2,3, Pre-Teen Bronze Standard  (WQ),Sample,0,qfb13B,40272810,115,Elena Zakharova,Waltz,2
+WA,0,3,Final,Kyle McLinden,Aaliyah Magee,10,3,3, Pre-Teen Bronze Standard  (WQ),Sample,0,qfb13B,40272810,116,Jeanette Ball,Waltz,3
+WA,0,3,Final,Kyle McLinden,Aaliyah Magee,11,3,3, Pre-Teen Bronze Standard  (WQ),Sample,0,qfb13B,40272810,116,Monique Hrouda,Waltz,3
+WA,0,2,Final,Kyle McLinden,Aaliyah Magee,12,3,2, Pre-Teen Bronze Standard  (WQ),Sample,0,qfb13B,40272810,116,Elena Zakharova,Waltz,3
+WA,0,1,Final,Jordan Naini,Christina Tatevosyan,10,1,1, Pre-Teen Bronze Standard  (WQ),Sample,1,qfb13B,40272810,117,Jeanette Ball,Quickstep,1
+WA,0,1,Final,Jordan Naini,Christina Tatevosyan,11,1,1, Pre-Teen Bronze Standard  (WQ),Sample,1,qfb13B,40272810,117,Monique Hrouda,Quickstep,1
+WA,0,1,Final,Jordan Naini,Christina Tatevosyan,12,1,1, Pre-Teen Bronze Standard  (WQ),Sample,1,qfb13B,40272810,117,Elena Zakharova,Quickstep,1
+WA,0,2,Final,Arseniy Marshak,Anastasia Smirnova,10,2,2, Pre-Teen Bronze Standard  (WQ),Sample,1,qfb13B,40272810,115,Jeanette Ball,Quickstep,2
+WA,0,2,Final,Arseniy Marshak,Anastasia Smirnova,11,2,2, Pre-Teen Bronze Standard  (WQ),Sample,1,qfb13B,40272810,115,Monique Hrouda,Quickstep,2
+WA,0,3,Final,Arseniy Marshak,Anastasia Smirnova,12,2,3, Pre-Teen Bronze Standard  (WQ),Sample,1,qfb13B,40272810,115,Elena Zakharova,Quickstep,2
+WA,0,3,Final,Kyle McLinden,Aaliyah Magee,10,3,3, Pre-Teen Bronze Standard  (WQ),Sample,1,qfb13B,40272810,116,Jeanette Ball,Quickstep,3
+WA,0,3,Final,Kyle McLinden,Aaliyah Magee,11,3,3, Pre-Teen Bronze Standard  (WQ),Sample,1,qfb13B,40272810,116,Monique Hrouda,Quickstep,3
+WA,0,2,Final,Kyle McLinden,Aaliyah Magee,12,3,2, Pre-Teen Bronze Standard  (WQ),Sample,1,qfb13B,40272810,116,Elena Zakharova,Quickstep,3
+WA,0,1,Final,Arseniy Marshak,Anastasia Smirnova,10,1,1, Pre-Teen Newcomer Standard  (W),Sample,0,qfb13B,40272010,115,Jeanette Ball,Waltz,1
+WA,0,1,Final,Arseniy Marshak,Anastasia Smirnova,11,1,1, Pre-Teen Newcomer Standard  (W),Sample,0,qfb13B,40272010,115,Monique Hrouda,Waltz,1
+WA,0,2,Final,Arseniy Marshak,Anastasia Smirnova,12,1,2, Pre-Teen Newcomer Standard  (W),Sample,0,qfb13B,40272010,115,Elena Zakharova,Waltz,1
+WA,0,2,Final,Kyle McLinden,Kalina Botchev,10,2,2, Pre-Teen Newcomer Standard  (W),Sample,0,qfb13B,40272010,116,Jeanette Ball,Waltz,2
+WA,0,2,Final,Kyle McLinden,Kalina Botchev,11,2,2, Pre-Teen Newcomer Standard  (W),Sample,0,qfb13B,40272010,116,Monique Hrouda,Waltz,2
+WA,0,1,Final,Kyle McLinden,Kalina Botchev,12,2,1, Pre-Teen Newcomer Standard  (W),Sample,0,qfb13B,40272010,116,Elena Zakharova,Waltz,2
+WA,0,1,Final,Daniel Bernecker,Polina Dickenson,10,1,1, Junior Championship Standard  (WTVFQ),Sample,0,qfb13B,402C8710,101,Jeanette Ball,Waltz,1
+WA,0,1,Final,Daniel Bernecker,Polina Dickenson,11,1,1, Junior Championship Standard  (WTVFQ),Sample,0,qfb13B,402C8710,101,Monique Hrouda,Waltz,1
+WA,0,1,Final,Daniel Bernecker,Polina Dickenson,12,1,1, Junior Championship Standard  (WTVFQ),Sample,0,qfb13B,402C8710,101,Elena Zakharova,Waltz,1
+WA,0,1,Final,Daniel Bernecker,Polina Dickenson,10,1,1, Junior Championship Standard  (WTVFQ),Sample,1,qfb13B,402C8710,101,Jeanette Ball,Tango,1
+WA,0,1,Final,Daniel Bernecker,Polina Dickenson,11,1,1, Junior Championship Standard  (WTVFQ),Sample,1,qfb13B,402C8710,101,Monique Hrouda,Tango,1
+WA,0,1,Final,Daniel Bernecker,Polina Dickenson,12,1,1, Junior Championship Standard  (WTVFQ),Sample,1,qfb13B,402C8710,101,Elena Zakharova,Tango,1
+WA,0,1,Final,Daniel Bernecker,Polina Dickenson,10,1,1, Junior Championship Standard  (WTVFQ),Sample,2,qfb13B,402C8710,101,Jeanette Ball,Viennese Waltz,1
+WA,0,1,Final,Daniel Bernecker,Polina Dickenson,11,1,1, Junior Championship Standard  (WTVFQ),Sample,2,qfb13B,402C8710,101,Monique Hrouda,Viennese Waltz,1
+WA,0,1,Final,Daniel Bernecker,Polina Dickenson,12,1,1, Junior Championship Standard  (WTVFQ),Sample,2,qfb13B,402C8710,101,Elena Zakharova,Viennese Waltz,1
+WA,0,1,Final,Daniel Bernecker,Polina Dickenson,10,1,1, Junior Championship Standard  (WTVFQ),Sample,3,qfb13B,402C8710,101,Jeanette Ball,Foxtrot,1
+WA,0,1,Final,Daniel Bernecker,Polina Dickenson,11,1,1, Junior Championship Standard  (WTVFQ),Sample,3,qfb13B,402C8710,101,Monique Hrouda,Foxtrot,1
+WA,0,1,Final,Daniel Bernecker,Polina Dickenson,12,1,1, Junior Championship Standard  (WTVFQ),Sample,3,qfb13B,402C8710,101,Elena Zakharova,Foxtrot,1
+WA,0,1,Final,Daniel Bernecker,Polina Dickenson,10,1,1, Junior Championship Standard  (WTVFQ),Sample,4,qfb13B,402C8710,101,Jeanette Ball,Quickstep,1
+WA,0,1,Final,Daniel Bernecker,Polina Dickenson,11,1,1, Junior Championship Standard  (WTVFQ),Sample,4,qfb13B,402C8710,101,Monique Hrouda,Quickstep,1
+WA,0,1,Final,Daniel Bernecker,Polina Dickenson,12,1,1, Junior Championship Standard  (WTVFQ),Sample,4,qfb13B,402C8710,101,Elena Zakharova,Quickstep,1
+WA,0,1,Final,Zachary Ellis,Maria Bakhmetyeva,10,1,1, Junior Silver Standard  (WFQ),Sample,0,qfb13B,402C3010,107,Jeanette Ball,Waltz,1
+WA,0,1,Final,Zachary Ellis,Maria Bakhmetyeva,11,1,1, Junior Silver Standard  (WFQ),Sample,0,qfb13B,402C3010,107,Monique Hrouda,Waltz,1
+WA,0,1,Final,Zachary Ellis,Maria Bakhmetyeva,12,1,1, Junior Silver Standard  (WFQ),Sample,0,qfb13B,402C3010,107,Elena Zakharova,Waltz,1
+WA,0,2,Final,Jordan Naini,Christina Tatevosyan,10,2,2, Junior Silver Standard  (WFQ),Sample,0,qfb13B,402C3010,117,Jeanette Ball,Waltz,2
+WA,0,2,Final,Jordan Naini,Christina Tatevosyan,11,2,2, Junior Silver Standard  (WFQ),Sample,0,qfb13B,402C3010,117,Monique Hrouda,Waltz,2
+WA,0,2,Final,Jordan Naini,Christina Tatevosyan,12,2,2, Junior Silver Standard  (WFQ),Sample,0,qfb13B,402C3010,117,Elena Zakharova,Waltz,2
+WA,0,1,Final,Zachary Ellis,Maria Bakhmetyeva,10,1,1, Junior Silver Standard  (WFQ),Sample,1,qfb13B,402C3010,107,Jeanette Ball,Foxtrot,1
+WA,0,1,Final,Zachary Ellis,Maria Bakhmetyeva,11,1,1, Junior Silver Standard  (WFQ),Sample,1,qfb13B,402C3010,107,Monique Hrouda,Foxtrot,1
+WA,0,1,Final,Zachary Ellis,Maria Bakhmetyeva,12,1,1, Junior Silver Standard  (WFQ),Sample,1,qfb13B,402C3010,107,Elena Zakharova,Foxtrot,1
+WA,0,2,Final,Jordan Naini,Christina Tatevosyan,10,2,2, Junior Silver Standard  (WFQ),Sample,1,qfb13B,402C3010,117,Jeanette Ball,Foxtrot,2
+WA,0,2,Final,Jordan Naini,Christina Tatevosyan,11,2,2, Junior Silver Standard  (WFQ),Sample,1,qfb13B,402C3010,117,Monique Hrouda,Foxtrot,2
+WA,0,2,Final,Jordan Naini,Christina Tatevosyan,12,2,2, Junior Silver Standard  (WFQ),Sample,1,qfb13B,402C3010,117,Elena Zakharova,Foxtrot,2
+WA,0,1,Final,Zachary Ellis,Maria Bakhmetyeva,10,1,1, Junior Silver Standard  (WFQ),Sample,2,qfb13B,402C3010,107,Jeanette Ball,Quickstep,1
+WA,0,1,Final,Zachary Ellis,Maria Bakhmetyeva,11,1,1, Junior Silver Standard  (WFQ),Sample,2,qfb13B,402C3010,107,Monique Hrouda,Quickstep,1
+WA,0,1,Final,Zachary Ellis,Maria Bakhmetyeva,12,1,1, Junior Silver Standard  (WFQ),Sample,2,qfb13B,402C3010,107,Elena Zakharova,Quickstep,1
+WA,0,2,Final,Jordan Naini,Christina Tatevosyan,10,2,2, Junior Silver Standard  (WFQ),Sample,2,qfb13B,402C3010,117,Jeanette Ball,Quickstep,2
+WA,0,2,Final,Jordan Naini,Christina Tatevosyan,11,2,2, Junior Silver Standard  (WFQ),Sample,2,qfb13B,402C3010,117,Monique Hrouda,Quickstep,2
+WA,0,2,Final,Jordan Naini,Christina Tatevosyan,12,2,2, Junior Silver Standard  (WFQ),Sample,2,qfb13B,402C3010,117,Elena Zakharova,Quickstep,2
+WA,0,2,Final,Jordan Naini,Christina Tatevosyan,10,1,2, Pre-Teen Silver Standard  (WFQ),Sample,0,qfb13B,40273010,117,Jeanette Ball,Waltz,1
+WA,0,1,Final,Jordan Naini,Christina Tatevosyan,11,1,1, Pre-Teen Silver Standard  (WFQ),Sample,0,qfb13B,40273010,117,Monique Hrouda,Waltz,1
+WA,0,1,Final,Jordan Naini,Christina Tatevosyan,12,1,1, Pre-Teen Silver Standard  (WFQ),Sample,0,qfb13B,40273010,117,Elena Zakharova,Waltz,1
+WA,0,1,Final,Andrew Lebedinsky,Victoria Korohod,10,2,1, Pre-Teen Silver Standard  (WFQ),Sample,0,qfb13B,40273010,113,Jeanette Ball,Waltz,2
+WA,0,2,Final,Andrew Lebedinsky,Victoria Korohod,11,2,2, Pre-Teen Silver Standard  (WFQ),Sample,0,qfb13B,40273010,113,Monique Hrouda,Waltz,2
+WA,0,2,Final,Andrew Lebedinsky,Victoria Korohod,12,2,2, Pre-Teen Silver Standard  (WFQ),Sample,0,qfb13B,40273010,113,Elena Zakharova,Waltz,2
+WA,0,2,Final,Jordan Naini,Christina Tatevosyan,10,2,2, Pre-Teen Silver Standard  (WFQ),Sample,1,qfb13B,40273010,117,Jeanette Ball,Foxtrot,1
+WA,0,2,Final,Jordan Naini,Christina Tatevosyan,11,2,2, Pre-Teen Silver Standard  (WFQ),Sample,1,qfb13B,40273010,117,Monique Hrouda,Foxtrot,1
+WA,0,1,Final,Jordan Naini,Christina Tatevosyan,12,2,1, Pre-Teen Silver Standard  (WFQ),Sample,1,qfb13B,40273010,117,Elena Zakharova,Foxtrot,1
+WA,0,1,Final,Andrew Lebedinsky,Victoria Korohod,10,1,1, Pre-Teen Silver Standard  (WFQ),Sample,1,qfb13B,40273010,113,Jeanette Ball,Foxtrot,2
+WA,0,1,Final,Andrew Lebedinsky,Victoria Korohod,11,1,1, Pre-Teen Silver Standard  (WFQ),Sample,1,qfb13B,40273010,113,Monique Hrouda,Foxtrot,2
+WA,0,2,Final,Andrew Lebedinsky,Victoria Korohod,12,1,2, Pre-Teen Silver Standard  (WFQ),Sample,1,qfb13B,40273010,113,Elena Zakharova,Foxtrot,2
+WA,0,2,Final,Jordan Naini,Christina Tatevosyan,10,1,2, Pre-Teen Silver Standard  (WFQ),Sample,2,qfb13B,40273010,117,Jeanette Ball,Quickstep,1
+WA,0,1,Final,Jordan Naini,Christina Tatevosyan,11,1,1, Pre-Teen Silver Standard  (WFQ),Sample,2,qfb13B,40273010,117,Monique Hrouda,Quickstep,1
+WA,0,1,Final,Jordan Naini,Christina Tatevosyan,12,1,1, Pre-Teen Silver Standard  (WFQ),Sample,2,qfb13B,40273010,117,Elena Zakharova,Quickstep,1
+WA,0,1,Final,Andrew Lebedinsky,Victoria Korohod,10,2,1, Pre-Teen Silver Standard  (WFQ),Sample,2,qfb13B,40273010,113,Jeanette Ball,Quickstep,2
+WA,0,2,Final,Andrew Lebedinsky,Victoria Korohod,11,2,2, Pre-Teen Silver Standard  (WFQ),Sample,2,qfb13B,40273010,113,Monique Hrouda,Quickstep,2
+WA,0,2,Final,Andrew Lebedinsky,Victoria Korohod,12,2,2, Pre-Teen Silver Standard  (WFQ),Sample,2,qfb13B,40273010,113,Elena Zakharova,Quickstep,2
+WA,0,1,Final,Jordan Naini,Christina Tatevosyan,10,1,1, Junior Bronze Standard  (WQ),Sample,0,qfb13B,402C2810,117,Jeanette Ball,Waltz,1
+WA,0,1,Final,Jordan Naini,Christina Tatevosyan,11,1,1, Junior Bronze Standard  (WQ),Sample,0,qfb13B,402C2810,117,Monique Hrouda,Waltz,1
+WA,0,1,Final,Jordan Naini,Christina Tatevosyan,12,1,1, Junior Bronze Standard  (WQ),Sample,0,qfb13B,402C2810,117,Elena Zakharova,Waltz,1
+WA,0,2,Final,Arseniy Marshak,Anastasia Smirnova,10,2,2, Junior Bronze Standard  (WQ),Sample,0,qfb13B,402C2810,115,Jeanette Ball,Waltz,2
+WA,0,2,Final,Arseniy Marshak,Anastasia Smirnova,11,2,2, Junior Bronze Standard  (WQ),Sample,0,qfb13B,402C2810,115,Monique Hrouda,Waltz,2
+WA,0,3,Final,Arseniy Marshak,Anastasia Smirnova,12,2,3, Junior Bronze Standard  (WQ),Sample,0,qfb13B,402C2810,115,Elena Zakharova,Waltz,2
+WA,0,3,Final,Kyle McLinden,Kalina Botchev,10,3,3, Junior Bronze Standard  (WQ),Sample,0,qfb13B,402C2810,116,Jeanette Ball,Waltz,3
+WA,0,3,Final,Kyle McLinden,Kalina Botchev,11,3,3, Junior Bronze Standard  (WQ),Sample,0,qfb13B,402C2810,116,Monique Hrouda,Waltz,3
+WA,0,2,Final,Kyle McLinden,Kalina Botchev,12,3,2, Junior Bronze Standard  (WQ),Sample,0,qfb13B,402C2810,116,Elena Zakharova,Waltz,3
+WA,0,1,Final,Jordan Naini,Christina Tatevosyan,10,1,1, Junior Bronze Standard  (WQ),Sample,1,qfb13B,402C2810,117,Jeanette Ball,Quickstep,1
+WA,0,1,Final,Jordan Naini,Christina Tatevosyan,11,1,1, Junior Bronze Standard  (WQ),Sample,1,qfb13B,402C2810,117,Monique Hrouda,Quickstep,1
+WA,0,1,Final,Jordan Naini,Christina Tatevosyan,12,1,1, Junior Bronze Standard  (WQ),Sample,1,qfb13B,402C2810,117,Elena Zakharova,Quickstep,1
+WA,0,2,Final,Arseniy Marshak,Anastasia Smirnova,10,2,2, Junior Bronze Standard  (WQ),Sample,1,qfb13B,402C2810,115,Jeanette Ball,Quickstep,2
+WA,0,2,Final,Arseniy Marshak,Anastasia Smirnova,11,2,2, Junior Bronze Standard  (WQ),Sample,1,qfb13B,402C2810,115,Monique Hrouda,Quickstep,2
+WA,0,3,Final,Arseniy Marshak,Anastasia Smirnova,12,2,3, Junior Bronze Standard  (WQ),Sample,1,qfb13B,402C2810,115,Elena Zakharova,Quickstep,2
+WA,0,3,Final,Kyle McLinden,Kalina Botchev,10,3,3, Junior Bronze Standard  (WQ),Sample,1,qfb13B,402C2810,116,Jeanette Ball,Quickstep,3
+WA,0,3,Final,Kyle McLinden,Kalina Botchev,11,3,3, Junior Bronze Standard  (WQ),Sample,1,qfb13B,402C2810,116,Monique Hrouda,Quickstep,3
+WA,0,2,Final,Kyle McLinden,Kalina Botchev,12,3,2, Junior Bronze Standard  (WQ),Sample,1,qfb13B,402C2810,116,Elena Zakharova,Quickstep,3
+WA,0,1,Final,Daniel Bernecker,Polina Dickenson,10,1,1, Youth Championship Standard  (WTVFQ),Sample,0,qfb13B,402F8711,101,Jeanette Ball,Waltz,1
+WA,0,1,Final,Daniel Bernecker,Polina Dickenson,11,1,1, Youth Championship Standard  (WTVFQ),Sample,0,qfb13B,402F8711,101,Monique Hrouda,Waltz,1
+WA,0,1,Final,Daniel Bernecker,Polina Dickenson,12,1,1, Youth Championship Standard  (WTVFQ),Sample,0,qfb13B,402F8711,101,Elena Zakharova,Waltz,1
+WA,0,1,Final,Daniel Bernecker,Polina Dickenson,10,1,1, Youth Championship Standard  (WTVFQ),Sample,1,qfb13B,402F8711,101,Jeanette Ball,Tango,1
+WA,0,1,Final,Daniel Bernecker,Polina Dickenson,11,1,1, Youth Championship Standard  (WTVFQ),Sample,1,qfb13B,402F8711,101,Monique Hrouda,Tango,1
+WA,0,1,Final,Daniel Bernecker,Polina Dickenson,12,1,1, Youth Championship Standard  (WTVFQ),Sample,1,qfb13B,402F8711,101,Elena Zakharova,Tango,1
+WA,0,1,Final,Daniel Bernecker,Polina Dickenson,10,1,1, Youth Championship Standard  (WTVFQ),Sample,2,qfb13B,402F8711,101,Jeanette Ball,Viennese Waltz,1
+WA,0,1,Final,Daniel Bernecker,Polina Dickenson,11,1,1, Youth Championship Standard  (WTVFQ),Sample,2,qfb13B,402F8711,101,Monique Hrouda,Viennese Waltz,1
+WA,0,1,Final,Daniel Bernecker,Polina Dickenson,12,1,1, Youth Championship Standard  (WTVFQ),Sample,2,qfb13B,402F8711,101,Elena Zakharova,Viennese Waltz,1
+WA,0,1,Final,Daniel Bernecker,Polina Dickenson,10,1,1, Youth Championship Standard  (WTVFQ),Sample,3,qfb13B,402F8711,101,Jeanette Ball,Foxtrot,1
+WA,0,1,Final,Daniel Bernecker,Polina Dickenson,11,1,1, Youth Championship Standard  (WTVFQ),Sample,3,qfb13B,402F8711,101,Monique Hrouda,Foxtrot,1
+WA,0,1,Final,Daniel Bernecker,Polina Dickenson,12,1,1, Youth Championship Standard  (WTVFQ),Sample,3,qfb13B,402F8711,101,Elena Zakharova,Foxtrot,1
+WA,0,1,Final,Daniel Bernecker,Polina Dickenson,10,1,1, Youth Championship Standard  (WTVFQ),Sample,4,qfb13B,402F8711,101,Jeanette Ball,Quickstep,1
+WA,0,1,Final,Daniel Bernecker,Polina Dickenson,11,1,1, Youth Championship Standard  (WTVFQ),Sample,4,qfb13B,402F8711,101,Monique Hrouda,Quickstep,1
+WA,0,1,Final,Daniel Bernecker,Polina Dickenson,12,1,1, Youth Championship Standard  (WTVFQ),Sample,4,qfb13B,402F8711,101,Elena Zakharova,Quickstep,1
+WA,0,2,Final,Zachary Ellis,Maria Bakhmetyeva,10,1,2, Junior Gold Standard  (WTFQ),Sample,0,qfb13B,402C3810,107,Jeanette Ball,Waltz,1
+WA,0,1,Final,Zachary Ellis,Maria Bakhmetyeva,11,1,1, Junior Gold Standard  (WTFQ),Sample,0,qfb13B,402C3810,107,Monique Hrouda,Waltz,1
+WA,0,1,Final,Zachary Ellis,Maria Bakhmetyeva,12,1,1, Junior Gold Standard  (WTFQ),Sample,0,qfb13B,402C3810,107,Elena Zakharova,Waltz,1
+WA,0,1,Final,Andrew Salazar,Julia Devine,10,2,1, Junior Gold Standard  (WTFQ),Sample,0,qfb13B,402C3810,120,Jeanette Ball,Waltz,2
+WA,0,2,Final,Andrew Salazar,Julia Devine,11,2,2, Junior Gold Standard  (WTFQ),Sample,0,qfb13B,402C3810,120,Monique Hrouda,Waltz,2
+WA,0,2,Final,Andrew Salazar,Julia Devine,12,2,2, Junior Gold Standard  (WTFQ),Sample,0,qfb13B,402C3810,120,Elena Zakharova,Waltz,2
+WA,0,2,Final,Zachary Ellis,Maria Bakhmetyeva,10,2,2, Junior Gold Standard  (WTFQ),Sample,1,qfb13B,402C3810,107,Jeanette Ball,Tango,1
+WA,0,2,Final,Zachary Ellis,Maria Bakhmetyeva,11,2,2, Junior Gold Standard  (WTFQ),Sample,1,qfb13B,402C3810,107,Monique Hrouda,Tango,1
+WA,0,1,Final,Zachary Ellis,Maria Bakhmetyeva,12,2,1, Junior Gold Standard  (WTFQ),Sample,1,qfb13B,402C3810,107,Elena Zakharova,Tango,1
+WA,0,1,Final,Andrew Salazar,Julia Devine,10,1,1, Junior Gold Standard  (WTFQ),Sample,1,qfb13B,402C3810,120,Jeanette Ball,Tango,2
+WA,0,1,Final,Andrew Salazar,Julia Devine,11,1,1, Junior Gold Standard  (WTFQ),Sample,1,qfb13B,402C3810,120,Monique Hrouda,Tango,2
+WA,0,2,Final,Andrew Salazar,Julia Devine,12,1,2, Junior Gold Standard  (WTFQ),Sample,1,qfb13B,402C3810,120,Elena Zakharova,Tango,2
+WA,0,1,Final,Zachary Ellis,Maria Bakhmetyeva,10,1,1, Junior Gold Standard  (WTFQ),Sample,2,qfb13B,402C3810,107,Jeanette Ball,Foxtrot,1
+WA,0,1,Final,Zachary Ellis,Maria Bakhmetyeva,11,1,1, Junior Gold Standard  (WTFQ),Sample,2,qfb13B,402C3810,107,Monique Hrouda,Foxtrot,1
+WA,0,1,Final,Zachary Ellis,Maria Bakhmetyeva,12,1,1, Junior Gold Standard  (WTFQ),Sample,2,qfb13B,402C3810,107,Elena Zakharova,Foxtrot,1
+WA,0,2,Final,Andrew Salazar,Julia Devine,10,2,2, Junior Gold Standard  (WTFQ),Sample,2,qfb13B,402C3810,120,Jeanette Ball,Foxtrot,2
+WA,0,2,Final,Andrew Salazar,Julia Devine,11,2,2, Junior Gold Standard  (WTFQ),Sample,2,qfb13B,402C3810,120,Monique Hrouda,Foxtrot,2
+WA,0,2,Final,Andrew Salazar,Julia Devine,12,2,2, Junior Gold Standard  (WTFQ),Sample,2,qfb13B,402C3810,120,Elena Zakharova,Foxtrot,2
+WA,0,1,Final,Zachary Ellis,Maria Bakhmetyeva,10,1,1, Junior Gold Standard  (WTFQ),Sample,3,qfb13B,402C3810,107,Jeanette Ball,Quickstep,1
+WA,0,2,Final,Zachary Ellis,Maria Bakhmetyeva,11,1,2, Junior Gold Standard  (WTFQ),Sample,3,qfb13B,402C3810,107,Monique Hrouda,Quickstep,1
+WA,0,1,Final,Zachary Ellis,Maria Bakhmetyeva,12,1,1, Junior Gold Standard  (WTFQ),Sample,3,qfb13B,402C3810,107,Elena Zakharova,Quickstep,1
+WA,0,2,Final,Andrew Salazar,Julia Devine,10,2,2, Junior Gold Standard  (WTFQ),Sample,3,qfb13B,402C3810,120,Jeanette Ball,Quickstep,2
+WA,0,1,Final,Andrew Salazar,Julia Devine,11,2,1, Junior Gold Standard  (WTFQ),Sample,3,qfb13B,402C3810,120,Monique Hrouda,Quickstep,2
+WA,0,2,Final,Andrew Salazar,Julia Devine,12,2,2, Junior Gold Standard  (WTFQ),Sample,3,qfb13B,402C3810,120,Elena Zakharova,Quickstep,2
+WA,0,1,Final,Kyle McLinden,Aaliyah Magee,11,1,1, Pre-Teen Newcomer Latin  (C),Sample,0,qfb13B,40272020,116,Monique Hrouda,Cha Cha,1
+WA,0,1,Final,Kyle McLinden,Aaliyah Magee,12,1,1, Pre-Teen Newcomer Latin  (C),Sample,0,qfb13B,40272020,116,Elena Zakharova,Cha Cha,1
+WA,0,1,Final,Kyle McLinden,Aaliyah Magee,13,1,1, Pre-Teen Newcomer Latin  (C),Sample,0,qfb13B,40272020,116,Cora Lyn Uczekaj,Cha Cha,1
+WA,0,2,Final,Arseniy Marshak,Anastasia Smirnova,11,2,2, Pre-Teen Newcomer Latin  (C),Sample,0,qfb13B,40272020,115,Monique Hrouda,Cha Cha,2
+WA,0,2,Final,Arseniy Marshak,Anastasia Smirnova,12,2,2, Pre-Teen Newcomer Latin  (C),Sample,0,qfb13B,40272020,115,Elena Zakharova,Cha Cha,2
+WA,0,2,Final,Arseniy Marshak,Anastasia Smirnova,13,2,2, Pre-Teen Newcomer Latin  (C),Sample,0,qfb13B,40272020,115,Cora Lyn Uczekaj,Cha Cha,2
+WA,0,1,Final,Jordan Naini,Christina Tatevosyan,11,1,1, Pre-Teen Bronze Latin  (CR),Sample,0,qfb13B,40272820,117,Monique Hrouda,Cha Cha,1
+WA,0,1,Final,Jordan Naini,Christina Tatevosyan,12,1,1, Pre-Teen Bronze Latin  (CR),Sample,0,qfb13B,40272820,117,Elena Zakharova,Cha Cha,1
+WA,0,1,Final,Jordan Naini,Christina Tatevosyan,13,1,1, Pre-Teen Bronze Latin  (CR),Sample,0,qfb13B,40272820,117,Cora Lyn Uczekaj,Cha Cha,1
+WA,0,2,Final,Arseniy Marshak,Anastasia Smirnova,11,2,2, Pre-Teen Bronze Latin  (CR),Sample,0,qfb13B,40272820,115,Monique Hrouda,Cha Cha,2
+WA,0,3,Final,Arseniy Marshak,Anastasia Smirnova,12,2,3, Pre-Teen Bronze Latin  (CR),Sample,0,qfb13B,40272820,115,Elena Zakharova,Cha Cha,2
+WA,0,2,Final,Arseniy Marshak,Anastasia Smirnova,13,2,2, Pre-Teen Bronze Latin  (CR),Sample,0,qfb13B,40272820,115,Cora Lyn Uczekaj,Cha Cha,2
+WA,0,3,Final,Kyle McLinden,Kalina Botchev,11,3,3, Pre-Teen Bronze Latin  (CR),Sample,0,qfb13B,40272820,116,Monique Hrouda,Cha Cha,3
+WA,0,2,Final,Kyle McLinden,Kalina Botchev,12,3,2, Pre-Teen Bronze Latin  (CR),Sample,0,qfb13B,40272820,116,Elena Zakharova,Cha Cha,3
+WA,0,3,Final,Kyle McLinden,Kalina Botchev,13,3,3, Pre-Teen Bronze Latin  (CR),Sample,0,qfb13B,40272820,116,Cora Lyn Uczekaj,Cha Cha,3
+WA,0,2,Final,Jordan Naini,Christina Tatevosyan,11,1,2, Pre-Teen Bronze Latin  (CR),Sample,1,qfb13B,40272820,117,Monique Hrouda,Rumba,1
+WA,0,1,Final,Jordan Naini,Christina Tatevosyan,12,1,1, Pre-Teen Bronze Latin  (CR),Sample,1,qfb13B,40272820,117,Elena Zakharova,Rumba,1
+WA,0,1,Final,Jordan Naini,Christina Tatevosyan,13,1,1, Pre-Teen Bronze Latin  (CR),Sample,1,qfb13B,40272820,117,Cora Lyn Uczekaj,Rumba,1
+WA,0,1,Final,Arseniy Marshak,Anastasia Smirnova,11,2,1, Pre-Teen Bronze Latin  (CR),Sample,1,qfb13B,40272820,115,Monique Hrouda,Rumba,2
+WA,0,2,Final,Arseniy Marshak,Anastasia Smirnova,12,2,2, Pre-Teen Bronze Latin  (CR),Sample,1,qfb13B,40272820,115,Elena Zakharova,Rumba,2
+WA,0,2,Final,Arseniy Marshak,Anastasia Smirnova,13,2,2, Pre-Teen Bronze Latin  (CR),Sample,1,qfb13B,40272820,115,Cora Lyn Uczekaj,Rumba,2
+WA,0,3,Final,Kyle McLinden,Kalina Botchev,11,3,3, Pre-Teen Bronze Latin  (CR),Sample,1,qfb13B,40272820,116,Monique Hrouda,Rumba,3
+WA,0,3,Final,Kyle McLinden,Kalina Botchev,12,3,3, Pre-Teen Bronze Latin  (CR),Sample,1,qfb13B,40272820,116,Elena Zakharova,Rumba,3
+WA,0,3,Final,Kyle McLinden,Kalina Botchev,13,3,3, Pre-Teen Bronze Latin  (CR),Sample,1,qfb13B,40272820,116,Cora Lyn Uczekaj,Rumba,3
+WA,0,1,Final,Arseniy Marshak,Anastasia Smirnova,11,1,1, Junior Newcomer Latin  (C),Sample,0,qfb13B,402C2020,115,Monique Hrouda,Cha Cha,1
+WA,0,1,Final,Arseniy Marshak,Anastasia Smirnova,12,1,1, Junior Newcomer Latin  (C),Sample,0,qfb13B,402C2020,115,Elena Zakharova,Cha Cha,1
+WA,0,1,Final,Arseniy Marshak,Anastasia Smirnova,13,1,1, Junior Newcomer Latin  (C),Sample,0,qfb13B,402C2020,115,Cora Lyn Uczekaj,Cha Cha,1
+WA,0,2,Final,Kyle McLinden,Kalina Botchev,11,2,2, Junior Newcomer Latin  (C),Sample,0,qfb13B,402C2020,116,Monique Hrouda,Cha Cha,2
+WA,0,2,Final,Kyle McLinden,Kalina Botchev,12,2,2, Junior Newcomer Latin  (C),Sample,0,qfb13B,402C2020,116,Elena Zakharova,Cha Cha,2
+WA,0,2,Final,Kyle McLinden,Kalina Botchev,13,2,2, Junior Newcomer Latin  (C),Sample,0,qfb13B,402C2020,116,Cora Lyn Uczekaj,Cha Cha,2
+WA,0,2,Final,Zachary Ellis,Maria Bakhmetyeva,11,2,2, Junior Silver Latin  (SCR),Sample,0,qfb13B,402C3020,107,Monique Hrouda,Samba,1
+WA,0,1,Final,Zachary Ellis,Maria Bakhmetyeva,12,2,1, Junior Silver Latin  (SCR),Sample,0,qfb13B,402C3020,107,Elena Zakharova,Samba,1
+WA,0,3,Final,Zachary Ellis,Maria Bakhmetyeva,13,2,3, Junior Silver Latin  (SCR),Sample,0,qfb13B,402C3020,107,Cora Lyn Uczekaj,Samba,1
+WA,0,1,Final,Andrew Lebedinsky,Victoria Korohod,11,1,1, Junior Silver Latin  (SCR),Sample,0,qfb13B,402C3020,113,Monique Hrouda,Samba,2
+WA,0,3,Final,Andrew Lebedinsky,Victoria Korohod,12,1,3, Junior Silver Latin  (SCR),Sample,0,qfb13B,402C3020,113,Elena Zakharova,Samba,2
+WA,0,1,Final,Andrew Lebedinsky,Victoria Korohod,13,1,1, Junior Silver Latin  (SCR),Sample,0,qfb13B,402C3020,113,Cora Lyn Uczekaj,Samba,2
+WA,0,3,Final,Jordan Naini,Christina Tatevosyan,11,3,3, Junior Silver Latin  (SCR),Sample,0,qfb13B,402C3020,117,Monique Hrouda,Samba,3
+WA,0,2,Final,Jordan Naini,Christina Tatevosyan,12,3,2, Junior Silver Latin  (SCR),Sample,0,qfb13B,402C3020,117,Elena Zakharova,Samba,3
+WA,0,2,Final,Jordan Naini,Christina Tatevosyan,13,3,2, Junior Silver Latin  (SCR),Sample,0,qfb13B,402C3020,117,Cora Lyn Uczekaj,Samba,3
+WA,0,1,Final,Zachary Ellis,Maria Bakhmetyeva,11,1,1, Junior Silver Latin  (SCR),Sample,1,qfb13B,402C3020,107,Monique Hrouda,Cha Cha,1
+WA,0,1,Final,Zachary Ellis,Maria Bakhmetyeva,12,1,1, Junior Silver Latin  (SCR),Sample,1,qfb13B,402C3020,107,Elena Zakharova,Cha Cha,1
+WA,0,1,Final,Zachary Ellis,Maria Bakhmetyeva,13,1,1, Junior Silver Latin  (SCR),Sample,1,qfb13B,402C3020,107,Cora Lyn Uczekaj,Cha Cha,1
+WA,0,2,Final,Andrew Lebedinsky,Victoria Korohod,11,2,2, Junior Silver Latin  (SCR),Sample,1,qfb13B,402C3020,113,Monique Hrouda,Cha Cha,2
+WA,0,2,Final,Andrew Lebedinsky,Victoria Korohod,12,2,2, Junior Silver Latin  (SCR),Sample,1,qfb13B,402C3020,113,Elena Zakharova,Cha Cha,2
+WA,0,2,Final,Andrew Lebedinsky,Victoria Korohod,13,2,2, Junior Silver Latin  (SCR),Sample,1,qfb13B,402C3020,113,Cora Lyn Uczekaj,Cha Cha,2
+WA,0,3,Final,Jordan Naini,Christina Tatevosyan,11,3,3, Junior Silver Latin  (SCR),Sample,1,qfb13B,402C3020,117,Monique Hrouda,Cha Cha,3
+WA,0,3,Final,Jordan Naini,Christina Tatevosyan,12,3,3, Junior Silver Latin  (SCR),Sample,1,qfb13B,402C3020,117,Elena Zakharova,Cha Cha,3
+WA,0,3,Final,Jordan Naini,Christina Tatevosyan,13,3,3, Junior Silver Latin  (SCR),Sample,1,qfb13B,402C3020,117,Cora Lyn Uczekaj,Cha Cha,3
+WA,0,1,Final,Zachary Ellis,Maria Bakhmetyeva,11,1,1, Junior Silver Latin  (SCR),Sample,2,qfb13B,402C3020,107,Monique Hrouda,Rumba,1
+WA,0,1,Final,Zachary Ellis,Maria Bakhmetyeva,12,1,1, Junior Silver Latin  (SCR),Sample,2,qfb13B,402C3020,107,Elena Zakharova,Rumba,1
+WA,0,1,Final,Zachary Ellis,Maria Bakhmetyeva,13,1,1, Junior Silver Latin  (SCR),Sample,2,qfb13B,402C3020,107,Cora Lyn Uczekaj,Rumba,1
+WA,0,2,Final,Andrew Lebedinsky,Victoria Korohod,11,2,2, Junior Silver Latin  (SCR),Sample,2,qfb13B,402C3020,113,Monique Hrouda,Rumba,2
+WA,0,2,Final,Andrew Lebedinsky,Victoria Korohod,12,2,2, Junior Silver Latin  (SCR),Sample,2,qfb13B,402C3020,113,Elena Zakharova,Rumba,2
+WA,0,2,Final,Andrew Lebedinsky,Victoria Korohod,13,2,2, Junior Silver Latin  (SCR),Sample,2,qfb13B,402C3020,113,Cora Lyn Uczekaj,Rumba,2
+WA,0,3,Final,Jordan Naini,Christina Tatevosyan,11,3,3, Junior Silver Latin  (SCR),Sample,2,qfb13B,402C3020,117,Monique Hrouda,Rumba,3
+WA,0,3,Final,Jordan Naini,Christina Tatevosyan,12,3,3, Junior Silver Latin  (SCR),Sample,2,qfb13B,402C3020,117,Elena Zakharova,Rumba,3
+WA,0,3,Final,Jordan Naini,Christina Tatevosyan,13,3,3, Junior Silver Latin  (SCR),Sample,2,qfb13B,402C3020,117,Cora Lyn Uczekaj,Rumba,3
+WA,0,1,Final,Andrew Lebedinsky,Victoria Korohod,11,1,1, Pre-Teen Silver Latin  (SCR),Sample,0,qfb13B,40273020,113,Monique Hrouda,Samba,1
+WA,0,2,Final,Andrew Lebedinsky,Victoria Korohod,12,1,2, Pre-Teen Silver Latin  (SCR),Sample,0,qfb13B,40273020,113,Elena Zakharova,Samba,1
+WA,0,1,Final,Andrew Lebedinsky,Victoria Korohod,13,1,1, Pre-Teen Silver Latin  (SCR),Sample,0,qfb13B,40273020,113,Cora Lyn Uczekaj,Samba,1
+WA,0,2,Final,Jordan Naini,Christina Tatevosyan,11,2,2, Pre-Teen Silver Latin  (SCR),Sample,0,qfb13B,40273020,117,Monique Hrouda,Samba,2
+WA,0,1,Final,Jordan Naini,Christina Tatevosyan,12,2,1, Pre-Teen Silver Latin  (SCR),Sample,0,qfb13B,40273020,117,Elena Zakharova,Samba,2
+WA,0,2,Final,Jordan Naini,Christina Tatevosyan,13,2,2, Pre-Teen Silver Latin  (SCR),Sample,0,qfb13B,40273020,117,Cora Lyn Uczekaj,Samba,2
+WA,0,1,Final,Andrew Lebedinsky,Victoria Korohod,11,1,1, Pre-Teen Silver Latin  (SCR),Sample,1,qfb13B,40273020,113,Monique Hrouda,Cha Cha,1
+WA,0,1,Final,Andrew Lebedinsky,Victoria Korohod,12,1,1, Pre-Teen Silver Latin  (SCR),Sample,1,qfb13B,40273020,113,Elena Zakharova,Cha Cha,1
+WA,0,1,Final,Andrew Lebedinsky,Victoria Korohod,13,1,1, Pre-Teen Silver Latin  (SCR),Sample,1,qfb13B,40273020,113,Cora Lyn Uczekaj,Cha Cha,1
+WA,0,2,Final,Jordan Naini,Christina Tatevosyan,11,2,2, Pre-Teen Silver Latin  (SCR),Sample,1,qfb13B,40273020,117,Monique Hrouda,Cha Cha,2
+WA,0,2,Final,Jordan Naini,Christina Tatevosyan,12,2,2, Pre-Teen Silver Latin  (SCR),Sample,1,qfb13B,40273020,117,Elena Zakharova,Cha Cha,2
+WA,0,2,Final,Jordan Naini,Christina Tatevosyan,13,2,2, Pre-Teen Silver Latin  (SCR),Sample,1,qfb13B,40273020,117,Cora Lyn Uczekaj,Cha Cha,2
+WA,0,1,Final,Andrew Lebedinsky,Victoria Korohod,11,1,1, Pre-Teen Silver Latin  (SCR),Sample,2,qfb13B,40273020,113,Monique Hrouda,Rumba,1
+WA,0,2,Final,Andrew Lebedinsky,Victoria Korohod,12,1,2, Pre-Teen Silver Latin  (SCR),Sample,2,qfb13B,40273020,113,Elena Zakharova,Rumba,1
+WA,0,1,Final,Andrew Lebedinsky,Victoria Korohod,13,1,1, Pre-Teen Silver Latin  (SCR),Sample,2,qfb13B,40273020,113,Cora Lyn Uczekaj,Rumba,1
+WA,0,2,Final,Jordan Naini,Christina Tatevosyan,11,2,2, Pre-Teen Silver Latin  (SCR),Sample,2,qfb13B,40273020,117,Monique Hrouda,Rumba,2
+WA,0,1,Final,Jordan Naini,Christina Tatevosyan,12,2,1, Pre-Teen Silver Latin  (SCR),Sample,2,qfb13B,40273020,117,Elena Zakharova,Rumba,2
+WA,0,2,Final,Jordan Naini,Christina Tatevosyan,13,2,2, Pre-Teen Silver Latin  (SCR),Sample,2,qfb13B,40273020,117,Cora Lyn Uczekaj,Rumba,2
+WA,0,2,Final,Jordan Naini,Christina Tatevosyan,11,1,2, Junior Bronze Latin  (CR),Sample,0,qfb13B,402C2820,117,Monique Hrouda,Cha Cha,1
+WA,0,2,Final,Jordan Naini,Christina Tatevosyan,12,1,2, Junior Bronze Latin  (CR),Sample,0,qfb13B,402C2820,117,Elena Zakharova,Cha Cha,1
+WA,0,1,Final,Jordan Naini,Christina Tatevosyan,13,1,1, Junior Bronze Latin  (CR),Sample,0,qfb13B,402C2820,117,Cora Lyn Uczekaj,Cha Cha,1
+WA,0,3,Final,Arseniy Marshak,Anastasia Smirnova,11,2,3, Junior Bronze Latin  (CR),Sample,0,qfb13B,402C2820,115,Monique Hrouda,Cha Cha,2
+WA,0,1,Final,Arseniy Marshak,Anastasia Smirnova,12,2,1, Junior Bronze Latin  (CR),Sample,0,qfb13B,402C2820,115,Elena Zakharova,Cha Cha,2
+WA,0,2,Final,Arseniy Marshak,Anastasia Smirnova,13,2,2, Junior Bronze Latin  (CR),Sample,0,qfb13B,402C2820,115,Cora Lyn Uczekaj,Cha Cha,2
+WA,0,1,Final,Kyle McLinden,Aaliyah Magee,11,3,1, Junior Bronze Latin  (CR),Sample,0,qfb13B,402C2820,116,Monique Hrouda,Cha Cha,3
+WA,0,3,Final,Kyle McLinden,Aaliyah Magee,12,3,3, Junior Bronze Latin  (CR),Sample,0,qfb13B,402C2820,116,Elena Zakharova,Cha Cha,3
+WA,0,3,Final,Kyle McLinden,Aaliyah Magee,13,3,3, Junior Bronze Latin  (CR),Sample,0,qfb13B,402C2820,116,Cora Lyn Uczekaj,Cha Cha,3
+WA,0,1,Final,Jordan Naini,Christina Tatevosyan,11,1,1, Junior Bronze Latin  (CR),Sample,1,qfb13B,402C2820,117,Monique Hrouda,Rumba,1
+WA,0,1,Final,Jordan Naini,Christina Tatevosyan,12,1,1, Junior Bronze Latin  (CR),Sample,1,qfb13B,402C2820,117,Elena Zakharova,Rumba,1
+WA,0,1,Final,Jordan Naini,Christina Tatevosyan,13,1,1, Junior Bronze Latin  (CR),Sample,1,qfb13B,402C2820,117,Cora Lyn Uczekaj,Rumba,1
+WA,0,3,Final,Arseniy Marshak,Anastasia Smirnova,11,3,3, Junior Bronze Latin  (CR),Sample,1,qfb13B,402C2820,115,Monique Hrouda,Rumba,2
+WA,0,2,Final,Arseniy Marshak,Anastasia Smirnova,12,3,2, Junior Bronze Latin  (CR),Sample,1,qfb13B,402C2820,115,Elena Zakharova,Rumba,2
+WA,0,3,Final,Arseniy Marshak,Anastasia Smirnova,13,3,3, Junior Bronze Latin  (CR),Sample,1,qfb13B,402C2820,115,Cora Lyn Uczekaj,Rumba,2
+WA,0,2,Final,Kyle McLinden,Aaliyah Magee,11,2,2, Junior Bronze Latin  (CR),Sample,1,qfb13B,402C2820,116,Monique Hrouda,Rumba,3
+WA,0,3,Final,Kyle McLinden,Aaliyah Magee,12,2,3, Junior Bronze Latin  (CR),Sample,1,qfb13B,402C2820,116,Elena Zakharova,Rumba,3
+WA,0,2,Final,Kyle McLinden,Aaliyah Magee,13,2,2, Junior Bronze Latin  (CR),Sample,1,qfb13B,402C2820,116,Cora Lyn Uczekaj,Rumba,3
+WA,0,1,Final,Andrew Lebedinsky,Victoria Korohod,11,1,1, Pre-Teen Gold Latin  (SCRJ),Sample,0,qfb13B,40273820,113,Monique Hrouda,Samba,1
+WA,0,1,Final,Andrew Lebedinsky,Victoria Korohod,12,1,1, Pre-Teen Gold Latin  (SCRJ),Sample,0,qfb13B,40273820,113,Elena Zakharova,Samba,1
+WA,0,1,Final,Andrew Lebedinsky,Victoria Korohod,13,1,1, Pre-Teen Gold Latin  (SCRJ),Sample,0,qfb13B,40273820,113,Cora Lyn Uczekaj,Samba,1
+WA,0,1,Final,Andrew Lebedinsky,Victoria Korohod,11,1,1, Pre-Teen Gold Latin  (SCRJ),Sample,1,qfb13B,40273820,113,Monique Hrouda,Cha Cha,1
+WA,0,1,Final,Andrew Lebedinsky,Victoria Korohod,12,1,1, Pre-Teen Gold Latin  (SCRJ),Sample,1,qfb13B,40273820,113,Elena Zakharova,Cha Cha,1
+WA,0,1,Final,Andrew Lebedinsky,Victoria Korohod,13,1,1, Pre-Teen Gold Latin  (SCRJ),Sample,1,qfb13B,40273820,113,Cora Lyn Uczekaj,Cha Cha,1
+WA,0,1,Final,Andrew Lebedinsky,Victoria Korohod,11,1,1, Pre-Teen Gold Latin  (SCRJ),Sample,2,qfb13B,40273820,113,Monique Hrouda,Rumba,1
+WA,0,1,Final,Andrew Lebedinsky,Victoria Korohod,12,1,1, Pre-Teen Gold Latin  (SCRJ),Sample,2,qfb13B,40273820,113,Elena Zakharova,Rumba,1
+WA,0,1,Final,Andrew Lebedinsky,Victoria Korohod,13,1,1, Pre-Teen Gold Latin  (SCRJ),Sample,2,qfb13B,40273820,113,Cora Lyn Uczekaj,Rumba,1
+WA,0,1,Final,Andrew Lebedinsky,Victoria Korohod,11,1,1, Pre-Teen Gold Latin  (SCRJ),Sample,3,qfb13B,40273820,113,Monique Hrouda,Jive,1
+WA,0,1,Final,Andrew Lebedinsky,Victoria Korohod,12,1,1, Pre-Teen Gold Latin  (SCRJ),Sample,3,qfb13B,40273820,113,Elena Zakharova,Jive,1
+WA,0,1,Final,Andrew Lebedinsky,Victoria Korohod,13,1,1, Pre-Teen Gold Latin  (SCRJ),Sample,3,qfb13B,40273820,113,Cora Lyn Uczekaj,Jive,1
+WA,0,1,Final,Jack Wei,Sharon Wang,10,1,1, Senior II Novice Standard  (WFQ),Sample,0,qfb13B,40448110,121,Jeanette Ball,Waltz,1
+WA,0,1,Final,Jack Wei,Sharon Wang,12,1,1, Senior II Novice Standard  (WFQ),Sample,0,qfb13B,40448110,121,Elena Zakharova,Waltz,1
+WA,0,1,Final,Jack Wei,Sharon Wang,13,1,1, Senior II Novice Standard  (WFQ),Sample,0,qfb13B,40448110,121,Cora Lyn Uczekaj,Waltz,1
+WA,0,2,Final,Paul J. Rood,Susan Philbrick,10,2,2, Senior II Novice Standard  (WFQ),Sample,0,qfb13B,40448110,119,Jeanette Ball,Waltz,2
+WA,0,2,Final,Paul J. Rood,Susan Philbrick,12,2,2, Senior II Novice Standard  (WFQ),Sample,0,qfb13B,40448110,119,Elena Zakharova,Waltz,2
+WA,0,2,Final,Paul J. Rood,Susan Philbrick,13,2,2, Senior II Novice Standard  (WFQ),Sample,0,qfb13B,40448110,119,Cora Lyn Uczekaj,Waltz,2
+WA,0,1,Final,Jack Wei,Sharon Wang,10,1,1, Senior II Novice Standard  (WFQ),Sample,1,qfb13B,40448110,121,Jeanette Ball,Foxtrot,1
+WA,0,1,Final,Jack Wei,Sharon Wang,12,1,1, Senior II Novice Standard  (WFQ),Sample,1,qfb13B,40448110,121,Elena Zakharova,Foxtrot,1
+WA,0,1,Final,Jack Wei,Sharon Wang,13,1,1, Senior II Novice Standard  (WFQ),Sample,1,qfb13B,40448110,121,Cora Lyn Uczekaj,Foxtrot,1
+WA,0,2,Final,Paul J. Rood,Susan Philbrick,10,2,2, Senior II Novice Standard  (WFQ),Sample,1,qfb13B,40448110,119,Jeanette Ball,Foxtrot,2
+WA,0,2,Final,Paul J. Rood,Susan Philbrick,12,2,2, Senior II Novice Standard  (WFQ),Sample,1,qfb13B,40448110,119,Elena Zakharova,Foxtrot,2
+WA,0,2,Final,Paul J. Rood,Susan Philbrick,13,2,2, Senior II Novice Standard  (WFQ),Sample,1,qfb13B,40448110,119,Cora Lyn Uczekaj,Foxtrot,2
+WA,0,1,Final,Jack Wei,Sharon Wang,10,1,1, Senior II Novice Standard  (WFQ),Sample,2,qfb13B,40448110,121,Jeanette Ball,Quickstep,1
+WA,0,1,Final,Jack Wei,Sharon Wang,12,1,1, Senior II Novice Standard  (WFQ),Sample,2,qfb13B,40448110,121,Elena Zakharova,Quickstep,1
+WA,0,1,Final,Jack Wei,Sharon Wang,13,1,1, Senior II Novice Standard  (WFQ),Sample,2,qfb13B,40448110,121,Cora Lyn Uczekaj,Quickstep,1
+WA,0,2,Final,Paul J. Rood,Susan Philbrick,10,2,2, Senior II Novice Standard  (WFQ),Sample,2,qfb13B,40448110,119,Jeanette Ball,Quickstep,2
+WA,0,2,Final,Paul J. Rood,Susan Philbrick,12,2,2, Senior II Novice Standard  (WFQ),Sample,2,qfb13B,40448110,119,Elena Zakharova,Quickstep,2
+WA,0,2,Final,Paul J. Rood,Susan Philbrick,13,2,2, Senior II Novice Standard  (WFQ),Sample,2,qfb13B,40448110,119,Cora Lyn Uczekaj,Quickstep,2
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,10,1,1, Adult Silver Standard  (WFQ),Sample,0,qfb13B,40423010,108,Jeanette Ball,Waltz,1
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,12,1,1, Adult Silver Standard  (WFQ),Sample,0,qfb13B,40423010,108,Elena Zakharova,Waltz,1
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,13,1,1, Adult Silver Standard  (WFQ),Sample,0,qfb13B,40423010,108,Cora Lyn Uczekaj,Waltz,1
+WA,0,2,Final,Edward Brennan,Cecilia Wang,10,2,2, Adult Silver Standard  (WFQ),Sample,0,qfb13B,40423010,102,Jeanette Ball,Waltz,2
+WA,0,2,Final,Edward Brennan,Cecilia Wang,12,2,2, Adult Silver Standard  (WFQ),Sample,0,qfb13B,40423010,102,Elena Zakharova,Waltz,2
+WA,0,2,Final,Edward Brennan,Cecilia Wang,13,2,2, Adult Silver Standard  (WFQ),Sample,0,qfb13B,40423010,102,Cora Lyn Uczekaj,Waltz,2
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,10,1,1, Adult Silver Standard  (WFQ),Sample,1,qfb13B,40423010,108,Jeanette Ball,Foxtrot,1
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,12,1,1, Adult Silver Standard  (WFQ),Sample,1,qfb13B,40423010,108,Elena Zakharova,Foxtrot,1
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,13,1,1, Adult Silver Standard  (WFQ),Sample,1,qfb13B,40423010,108,Cora Lyn Uczekaj,Foxtrot,1
+WA,0,2,Final,Edward Brennan,Cecilia Wang,10,2,2, Adult Silver Standard  (WFQ),Sample,1,qfb13B,40423010,102,Jeanette Ball,Foxtrot,2
+WA,0,2,Final,Edward Brennan,Cecilia Wang,12,2,2, Adult Silver Standard  (WFQ),Sample,1,qfb13B,40423010,102,Elena Zakharova,Foxtrot,2
+WA,0,2,Final,Edward Brennan,Cecilia Wang,13,2,2, Adult Silver Standard  (WFQ),Sample,1,qfb13B,40423010,102,Cora Lyn Uczekaj,Foxtrot,2
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,10,1,1, Adult Silver Standard  (WFQ),Sample,2,qfb13B,40423010,108,Jeanette Ball,Quickstep,1
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,12,1,1, Adult Silver Standard  (WFQ),Sample,2,qfb13B,40423010,108,Elena Zakharova,Quickstep,1
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,13,1,1, Adult Silver Standard  (WFQ),Sample,2,qfb13B,40423010,108,Cora Lyn Uczekaj,Quickstep,1
+WA,0,2,Final,Edward Brennan,Cecilia Wang,10,2,2, Adult Silver Standard  (WFQ),Sample,2,qfb13B,40423010,102,Jeanette Ball,Quickstep,2
+WA,0,2,Final,Edward Brennan,Cecilia Wang,12,2,2, Adult Silver Standard  (WFQ),Sample,2,qfb13B,40423010,102,Elena Zakharova,Quickstep,2
+WA,0,2,Final,Edward Brennan,Cecilia Wang,13,2,2, Adult Silver Standard  (WFQ),Sample,2,qfb13B,40423010,102,Cora Lyn Uczekaj,Quickstep,2
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,10,1,1, Senior II Silver Standard  (WFQ),Sample,0,qfb13B,40443010,118,Jeanette Ball,Waltz,1
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,12,1,1, Senior II Silver Standard  (WFQ),Sample,0,qfb13B,40443010,118,Elena Zakharova,Waltz,1
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,13,1,1, Senior II Silver Standard  (WFQ),Sample,0,qfb13B,40443010,118,Cora Lyn Uczekaj,Waltz,1
+BC,0,4,Final,Pierre Giraud,Patricia Giraud,10,4,4, Senior II Silver Standard  (WFQ),Sample,0,qfb13B,40443010,109,Jeanette Ball,Waltz,2
+BC,0,2,Final,Pierre Giraud,Patricia Giraud,12,4,2, Senior II Silver Standard  (WFQ),Sample,0,qfb13B,40443010,109,Elena Zakharova,Waltz,2
+BC,0,4,Final,Pierre Giraud,Patricia Giraud,13,4,4, Senior II Silver Standard  (WFQ),Sample,0,qfb13B,40443010,109,Cora Lyn Uczekaj,Waltz,2
+BC,0,2,Final,Bill Hingley,Glenda Hingley,10,2,2, Senior II Silver Standard  (WFQ),Sample,0,qfb13B,40443010,110,Jeanette Ball,Waltz,3
+BC,0,3,Final,Bill Hingley,Glenda Hingley,12,2,3, Senior II Silver Standard  (WFQ),Sample,0,qfb13B,40443010,110,Elena Zakharova,Waltz,3
+BC,0,2,Final,Bill Hingley,Glenda Hingley,13,2,2, Senior II Silver Standard  (WFQ),Sample,0,qfb13B,40443010,110,Cora Lyn Uczekaj,Waltz,3
+WA,0,3,Final,Christopher Clarke,Christiane Clarke,10,3,3, Senior II Silver Standard  (WFQ),Sample,0,qfb13B,40443010,103,Jeanette Ball,Waltz,4
+WA,0,5,Final,Christopher Clarke,Christiane Clarke,12,3,5, Senior II Silver Standard  (WFQ),Sample,0,qfb13B,40443010,103,Elena Zakharova,Waltz,4
+WA,0,3,Final,Christopher Clarke,Christiane Clarke,13,3,3, Senior II Silver Standard  (WFQ),Sample,0,qfb13B,40443010,103,Cora Lyn Uczekaj,Waltz,4
+BC,0,5,Final,Ron Whitcroft,Gail Whitcroft,10,5,5, Senior II Silver Standard  (WFQ),Sample,0,qfb13B,40443010,122,Jeanette Ball,Waltz,5
+BC,0,4,Final,Ron Whitcroft,Gail Whitcroft,12,5,4, Senior II Silver Standard  (WFQ),Sample,0,qfb13B,40443010,122,Elena Zakharova,Waltz,5
+BC,0,5,Final,Ron Whitcroft,Gail Whitcroft,13,5,5, Senior II Silver Standard  (WFQ),Sample,0,qfb13B,40443010,122,Cora Lyn Uczekaj,Waltz,5
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,10,1,1, Senior II Silver Standard  (WFQ),Sample,1,qfb13B,40443010,118,Jeanette Ball,Foxtrot,1
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,12,1,1, Senior II Silver Standard  (WFQ),Sample,1,qfb13B,40443010,118,Elena Zakharova,Foxtrot,1
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,13,1,1, Senior II Silver Standard  (WFQ),Sample,1,qfb13B,40443010,118,Cora Lyn Uczekaj,Foxtrot,1
+BC,0,2,Final,Pierre Giraud,Patricia Giraud,10,2,2, Senior II Silver Standard  (WFQ),Sample,1,qfb13B,40443010,109,Jeanette Ball,Foxtrot,2
+BC,0,2,Final,Pierre Giraud,Patricia Giraud,12,2,2, Senior II Silver Standard  (WFQ),Sample,1,qfb13B,40443010,109,Elena Zakharova,Foxtrot,2
+BC,0,5,Final,Pierre Giraud,Patricia Giraud,13,2,5, Senior II Silver Standard  (WFQ),Sample,1,qfb13B,40443010,109,Cora Lyn Uczekaj,Foxtrot,2
+BC,0,5,Final,Bill Hingley,Glenda Hingley,10,3,5, Senior II Silver Standard  (WFQ),Sample,1,qfb13B,40443010,110,Jeanette Ball,Foxtrot,3
+BC,0,3,Final,Bill Hingley,Glenda Hingley,12,3,3, Senior II Silver Standard  (WFQ),Sample,1,qfb13B,40443010,110,Elena Zakharova,Foxtrot,3
+BC,0,3,Final,Bill Hingley,Glenda Hingley,13,3,3, Senior II Silver Standard  (WFQ),Sample,1,qfb13B,40443010,110,Cora Lyn Uczekaj,Foxtrot,3
+WA,0,4,Final,Christopher Clarke,Christiane Clarke,10,4,4, Senior II Silver Standard  (WFQ),Sample,1,qfb13B,40443010,103,Jeanette Ball,Foxtrot,4
+WA,0,4,Final,Christopher Clarke,Christiane Clarke,12,4,4, Senior II Silver Standard  (WFQ),Sample,1,qfb13B,40443010,103,Elena Zakharova,Foxtrot,4
+WA,0,2,Final,Christopher Clarke,Christiane Clarke,13,4,2, Senior II Silver Standard  (WFQ),Sample,1,qfb13B,40443010,103,Cora Lyn Uczekaj,Foxtrot,4
+BC,0,3,Final,Ron Whitcroft,Gail Whitcroft,10,5,3, Senior II Silver Standard  (WFQ),Sample,1,qfb13B,40443010,122,Jeanette Ball,Foxtrot,5
+BC,0,5,Final,Ron Whitcroft,Gail Whitcroft,12,5,5, Senior II Silver Standard  (WFQ),Sample,1,qfb13B,40443010,122,Elena Zakharova,Foxtrot,5
+BC,0,4,Final,Ron Whitcroft,Gail Whitcroft,13,5,4, Senior II Silver Standard  (WFQ),Sample,1,qfb13B,40443010,122,Cora Lyn Uczekaj,Foxtrot,5
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,10,1,1, Senior II Silver Standard  (WFQ),Sample,2,qfb13B,40443010,118,Jeanette Ball,Quickstep,1
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,12,1,1, Senior II Silver Standard  (WFQ),Sample,2,qfb13B,40443010,118,Elena Zakharova,Quickstep,1
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,13,1,1, Senior II Silver Standard  (WFQ),Sample,2,qfb13B,40443010,118,Cora Lyn Uczekaj,Quickstep,1
+BC,0,2,Final,Pierre Giraud,Patricia Giraud,10,2,2, Senior II Silver Standard  (WFQ),Sample,2,qfb13B,40443010,109,Jeanette Ball,Quickstep,2
+BC,0,2,Final,Pierre Giraud,Patricia Giraud,12,2,2, Senior II Silver Standard  (WFQ),Sample,2,qfb13B,40443010,109,Elena Zakharova,Quickstep,2
+BC,0,5,Final,Pierre Giraud,Patricia Giraud,13,2,5, Senior II Silver Standard  (WFQ),Sample,2,qfb13B,40443010,109,Cora Lyn Uczekaj,Quickstep,2
+BC,0,5,Final,Bill Hingley,Glenda Hingley,10,5,5, Senior II Silver Standard  (WFQ),Sample,2,qfb13B,40443010,110,Jeanette Ball,Quickstep,3
+BC,0,4,Final,Bill Hingley,Glenda Hingley,12,5,4, Senior II Silver Standard  (WFQ),Sample,2,qfb13B,40443010,110,Elena Zakharova,Quickstep,3
+BC,0,3,Final,Bill Hingley,Glenda Hingley,13,5,3, Senior II Silver Standard  (WFQ),Sample,2,qfb13B,40443010,110,Cora Lyn Uczekaj,Quickstep,3
+WA,0,4,Final,Christopher Clarke,Christiane Clarke,10,4,4, Senior II Silver Standard  (WFQ),Sample,2,qfb13B,40443010,103,Jeanette Ball,Quickstep,4
+WA,0,5,Final,Christopher Clarke,Christiane Clarke,12,4,5, Senior II Silver Standard  (WFQ),Sample,2,qfb13B,40443010,103,Elena Zakharova,Quickstep,4
+WA,0,2,Final,Christopher Clarke,Christiane Clarke,13,4,2, Senior II Silver Standard  (WFQ),Sample,2,qfb13B,40443010,103,Cora Lyn Uczekaj,Quickstep,4
+BC,0,3,Final,Ron Whitcroft,Gail Whitcroft,10,3,3, Senior II Silver Standard  (WFQ),Sample,2,qfb13B,40443010,122,Jeanette Ball,Quickstep,5
+BC,0,3,Final,Ron Whitcroft,Gail Whitcroft,12,3,3, Senior II Silver Standard  (WFQ),Sample,2,qfb13B,40443010,122,Elena Zakharova,Quickstep,5
+BC,0,4,Final,Ron Whitcroft,Gail Whitcroft,13,3,4, Senior II Silver Standard  (WFQ),Sample,2,qfb13B,40443010,122,Cora Lyn Uczekaj,Quickstep,5
+WA,0,1,Final,Jack Wei,Sharon Wang,10,1,1, Senior I Novice Standard  (WFQ),Sample,0,qfb13B,40438110,121,Jeanette Ball,Waltz,1
+WA,0,1,Final,Jack Wei,Sharon Wang,12,1,1, Senior I Novice Standard  (WFQ),Sample,0,qfb13B,40438110,121,Elena Zakharova,Waltz,1
+WA,0,1,Final,Jack Wei,Sharon Wang,13,1,1, Senior I Novice Standard  (WFQ),Sample,0,qfb13B,40438110,121,Cora Lyn Uczekaj,Waltz,1
+WA,0,2,Final,Paul J. Rood,Susan Philbrick,10,2,2, Senior I Novice Standard  (WFQ),Sample,0,qfb13B,40438110,119,Jeanette Ball,Waltz,2
+WA,0,2,Final,Paul J. Rood,Susan Philbrick,12,2,2, Senior I Novice Standard  (WFQ),Sample,0,qfb13B,40438110,119,Elena Zakharova,Waltz,2
+WA,0,2,Final,Paul J. Rood,Susan Philbrick,13,2,2, Senior I Novice Standard  (WFQ),Sample,0,qfb13B,40438110,119,Cora Lyn Uczekaj,Waltz,2
+WA,0,1,Final,Jack Wei,Sharon Wang,10,1,1, Senior I Novice Standard  (WFQ),Sample,1,qfb13B,40438110,121,Jeanette Ball,Foxtrot,1
+WA,0,1,Final,Jack Wei,Sharon Wang,12,1,1, Senior I Novice Standard  (WFQ),Sample,1,qfb13B,40438110,121,Elena Zakharova,Foxtrot,1
+WA,0,1,Final,Jack Wei,Sharon Wang,13,1,1, Senior I Novice Standard  (WFQ),Sample,1,qfb13B,40438110,121,Cora Lyn Uczekaj,Foxtrot,1
+WA,0,2,Final,Paul J. Rood,Susan Philbrick,10,2,2, Senior I Novice Standard  (WFQ),Sample,1,qfb13B,40438110,119,Jeanette Ball,Foxtrot,2
+WA,0,2,Final,Paul J. Rood,Susan Philbrick,12,2,2, Senior I Novice Standard  (WFQ),Sample,1,qfb13B,40438110,119,Elena Zakharova,Foxtrot,2
+WA,0,2,Final,Paul J. Rood,Susan Philbrick,13,2,2, Senior I Novice Standard  (WFQ),Sample,1,qfb13B,40438110,119,Cora Lyn Uczekaj,Foxtrot,2
+WA,0,1,Final,Jack Wei,Sharon Wang,10,1,1, Senior I Novice Standard  (WFQ),Sample,2,qfb13B,40438110,121,Jeanette Ball,Quickstep,1
+WA,0,2,Final,Jack Wei,Sharon Wang,12,1,2, Senior I Novice Standard  (WFQ),Sample,2,qfb13B,40438110,121,Elena Zakharova,Quickstep,1
+WA,0,1,Final,Jack Wei,Sharon Wang,13,1,1, Senior I Novice Standard  (WFQ),Sample,2,qfb13B,40438110,121,Cora Lyn Uczekaj,Quickstep,1
+WA,0,2,Final,Paul J. Rood,Susan Philbrick,10,2,2, Senior I Novice Standard  (WFQ),Sample,2,qfb13B,40438110,119,Jeanette Ball,Quickstep,2
+WA,0,1,Final,Paul J. Rood,Susan Philbrick,12,2,1, Senior I Novice Standard  (WFQ),Sample,2,qfb13B,40438110,119,Elena Zakharova,Quickstep,2
+WA,0,2,Final,Paul J. Rood,Susan Philbrick,13,2,2, Senior I Novice Standard  (WFQ),Sample,2,qfb13B,40438110,119,Cora Lyn Uczekaj,Quickstep,2
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,10,1,1, Senior I Silver Standard  (WFQ),Sample,0,qfb13B,40433010,108,Jeanette Ball,Waltz,1
+WA,0,2,Final,Norair Ghazarian,Coleen Popochock,12,1,2, Senior I Silver Standard  (WFQ),Sample,0,qfb13B,40433010,108,Elena Zakharova,Waltz,1
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,13,1,1, Senior I Silver Standard  (WFQ),Sample,0,qfb13B,40433010,108,Cora Lyn Uczekaj,Waltz,1
+OR,0,3,Final,Terrance Nicholson,Candace Nicholson,10,3,3, Senior I Silver Standard  (WFQ),Sample,0,qfb13B,40433010,118,Jeanette Ball,Waltz,2
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,12,3,1, Senior I Silver Standard  (WFQ),Sample,0,qfb13B,40433010,118,Elena Zakharova,Waltz,2
+OR,0,4,Final,Terrance Nicholson,Candace Nicholson,13,3,4, Senior I Silver Standard  (WFQ),Sample,0,qfb13B,40433010,118,Cora Lyn Uczekaj,Waltz,2
+WA,0,2,Final,Edward Brennan,Cecilia Wang,10,2,2, Senior I Silver Standard  (WFQ),Sample,0,qfb13B,40433010,102,Jeanette Ball,Waltz,3
+WA,0,3,Final,Edward Brennan,Cecilia Wang,12,2,3, Senior I Silver Standard  (WFQ),Sample,0,qfb13B,40433010,102,Elena Zakharova,Waltz,3
+WA,0,2,Final,Edward Brennan,Cecilia Wang,13,2,2, Senior I Silver Standard  (WFQ),Sample,0,qfb13B,40433010,102,Cora Lyn Uczekaj,Waltz,3
+BC,0,6,Final,Bill Hingley,Glenda Hingley,10,5,6, Senior I Silver Standard  (WFQ),Sample,0,qfb13B,40433010,110,Jeanette Ball,Waltz,4
+BC,0,5,Final,Bill Hingley,Glenda Hingley,12,5,5, Senior I Silver Standard  (WFQ),Sample,0,qfb13B,40433010,110,Elena Zakharova,Waltz,4
+BC,0,6,Final,Bill Hingley,Glenda Hingley,13,5,6, Senior I Silver Standard  (WFQ),Sample,0,qfb13B,40433010,110,Cora Lyn Uczekaj,Waltz,4
+BC,0,4,Final,Pierre Giraud,Patricia Giraud,10,4,4, Senior I Silver Standard  (WFQ),Sample,0,qfb13B,40433010,109,Jeanette Ball,Waltz,5
+BC,0,4,Final,Pierre Giraud,Patricia Giraud,12,4,4, Senior I Silver Standard  (WFQ),Sample,0,qfb13B,40433010,109,Elena Zakharova,Waltz,5
+BC,0,5,Final,Pierre Giraud,Patricia Giraud,13,4,5, Senior I Silver Standard  (WFQ),Sample,0,qfb13B,40433010,109,Cora Lyn Uczekaj,Waltz,5
+WA,0,7,Final,Christopher Clarke,Christiane Clarke,10,6,7, Senior I Silver Standard  (WFQ),Sample,0,qfb13B,40433010,103,Jeanette Ball,Waltz,6
+WA,0,6,Final,Christopher Clarke,Christiane Clarke,12,6,6, Senior I Silver Standard  (WFQ),Sample,0,qfb13B,40433010,103,Elena Zakharova,Waltz,6
+WA,0,3,Final,Christopher Clarke,Christiane Clarke,13,6,3, Senior I Silver Standard  (WFQ),Sample,0,qfb13B,40433010,103,Cora Lyn Uczekaj,Waltz,6
+BC,0,5,Final,Ron Whitcroft,Gail Whitcroft,10,7,5, Senior I Silver Standard  (WFQ),Sample,0,qfb13B,40433010,122,Jeanette Ball,Waltz,7
+BC,0,7,Final,Ron Whitcroft,Gail Whitcroft,12,7,7, Senior I Silver Standard  (WFQ),Sample,0,qfb13B,40433010,122,Elena Zakharova,Waltz,7
+BC,0,7,Final,Ron Whitcroft,Gail Whitcroft,13,7,7, Senior I Silver Standard  (WFQ),Sample,0,qfb13B,40433010,122,Cora Lyn Uczekaj,Waltz,7
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,10,1,1, Senior I Silver Standard  (WFQ),Sample,1,qfb13B,40433010,108,Jeanette Ball,Foxtrot,1
+WA,0,2,Final,Norair Ghazarian,Coleen Popochock,12,1,2, Senior I Silver Standard  (WFQ),Sample,1,qfb13B,40433010,108,Elena Zakharova,Foxtrot,1
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,13,1,1, Senior I Silver Standard  (WFQ),Sample,1,qfb13B,40433010,108,Cora Lyn Uczekaj,Foxtrot,1
+OR,0,2,Final,Terrance Nicholson,Candace Nicholson,10,2,2, Senior I Silver Standard  (WFQ),Sample,1,qfb13B,40433010,118,Jeanette Ball,Foxtrot,2
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,12,2,1, Senior I Silver Standard  (WFQ),Sample,1,qfb13B,40433010,118,Elena Zakharova,Foxtrot,2
+OR,0,3,Final,Terrance Nicholson,Candace Nicholson,13,2,3, Senior I Silver Standard  (WFQ),Sample,1,qfb13B,40433010,118,Cora Lyn Uczekaj,Foxtrot,2
+WA,0,4,Final,Edward Brennan,Cecilia Wang,10,3,4, Senior I Silver Standard  (WFQ),Sample,1,qfb13B,40433010,102,Jeanette Ball,Foxtrot,3
+WA,0,3,Final,Edward Brennan,Cecilia Wang,12,3,3, Senior I Silver Standard  (WFQ),Sample,1,qfb13B,40433010,102,Elena Zakharova,Foxtrot,3
+WA,0,2,Final,Edward Brennan,Cecilia Wang,13,3,2, Senior I Silver Standard  (WFQ),Sample,1,qfb13B,40433010,102,Cora Lyn Uczekaj,Foxtrot,3
+BC,0,6,Final,Bill Hingley,Glenda Hingley,10,4,6, Senior I Silver Standard  (WFQ),Sample,1,qfb13B,40433010,110,Jeanette Ball,Foxtrot,4
+BC,0,4,Final,Bill Hingley,Glenda Hingley,12,4,4, Senior I Silver Standard  (WFQ),Sample,1,qfb13B,40433010,110,Elena Zakharova,Foxtrot,4
+BC,0,4,Final,Bill Hingley,Glenda Hingley,13,4,4, Senior I Silver Standard  (WFQ),Sample,1,qfb13B,40433010,110,Cora Lyn Uczekaj,Foxtrot,4
+BC,0,3,Final,Pierre Giraud,Patricia Giraud,10,6,3, Senior I Silver Standard  (WFQ),Sample,1,qfb13B,40433010,109,Jeanette Ball,Foxtrot,5
+BC,0,6,Final,Pierre Giraud,Patricia Giraud,12,6,6, Senior I Silver Standard  (WFQ),Sample,1,qfb13B,40433010,109,Elena Zakharova,Foxtrot,5
+BC,0,7,Final,Pierre Giraud,Patricia Giraud,13,6,7, Senior I Silver Standard  (WFQ),Sample,1,qfb13B,40433010,109,Cora Lyn Uczekaj,Foxtrot,5
+WA,0,7,Final,Christopher Clarke,Christiane Clarke,10,5,7, Senior I Silver Standard  (WFQ),Sample,1,qfb13B,40433010,103,Jeanette Ball,Foxtrot,6
+WA,0,5,Final,Christopher Clarke,Christiane Clarke,12,5,5, Senior I Silver Standard  (WFQ),Sample,1,qfb13B,40433010,103,Elena Zakharova,Foxtrot,6
+WA,0,5,Final,Christopher Clarke,Christiane Clarke,13,5,5, Senior I Silver Standard  (WFQ),Sample,1,qfb13B,40433010,103,Cora Lyn Uczekaj,Foxtrot,6
+BC,0,5,Final,Ron Whitcroft,Gail Whitcroft,10,7,5, Senior I Silver Standard  (WFQ),Sample,1,qfb13B,40433010,122,Jeanette Ball,Foxtrot,7
+BC,0,7,Final,Ron Whitcroft,Gail Whitcroft,12,7,7, Senior I Silver Standard  (WFQ),Sample,1,qfb13B,40433010,122,Elena Zakharova,Foxtrot,7
+BC,0,6,Final,Ron Whitcroft,Gail Whitcroft,13,7,6, Senior I Silver Standard  (WFQ),Sample,1,qfb13B,40433010,122,Cora Lyn Uczekaj,Foxtrot,7
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,10,1,1, Senior I Silver Standard  (WFQ),Sample,2,qfb13B,40433010,108,Jeanette Ball,Quickstep,1
+WA,0,2,Final,Norair Ghazarian,Coleen Popochock,12,1,2, Senior I Silver Standard  (WFQ),Sample,2,qfb13B,40433010,108,Elena Zakharova,Quickstep,1
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,13,1,1, Senior I Silver Standard  (WFQ),Sample,2,qfb13B,40433010,108,Cora Lyn Uczekaj,Quickstep,1
+OR,0,3,Final,Terrance Nicholson,Candace Nicholson,10,2,3, Senior I Silver Standard  (WFQ),Sample,2,qfb13B,40433010,118,Jeanette Ball,Quickstep,2
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,12,2,1, Senior I Silver Standard  (WFQ),Sample,2,qfb13B,40433010,118,Elena Zakharova,Quickstep,2
+OR,0,3,Final,Terrance Nicholson,Candace Nicholson,13,2,3, Senior I Silver Standard  (WFQ),Sample,2,qfb13B,40433010,118,Cora Lyn Uczekaj,Quickstep,2
+WA,0,4,Final,Edward Brennan,Cecilia Wang,10,3,4, Senior I Silver Standard  (WFQ),Sample,2,qfb13B,40433010,102,Jeanette Ball,Quickstep,3
+WA,0,3,Final,Edward Brennan,Cecilia Wang,12,3,3, Senior I Silver Standard  (WFQ),Sample,2,qfb13B,40433010,102,Elena Zakharova,Quickstep,3
+WA,0,2,Final,Edward Brennan,Cecilia Wang,13,3,2, Senior I Silver Standard  (WFQ),Sample,2,qfb13B,40433010,102,Cora Lyn Uczekaj,Quickstep,3
+BC,0,6,Final,Bill Hingley,Glenda Hingley,10,4,6, Senior I Silver Standard  (WFQ),Sample,2,qfb13B,40433010,110,Jeanette Ball,Quickstep,4
+BC,0,4,Final,Bill Hingley,Glenda Hingley,12,4,4, Senior I Silver Standard  (WFQ),Sample,2,qfb13B,40433010,110,Elena Zakharova,Quickstep,4
+BC,0,4,Final,Bill Hingley,Glenda Hingley,13,4,4, Senior I Silver Standard  (WFQ),Sample,2,qfb13B,40433010,110,Cora Lyn Uczekaj,Quickstep,4
+BC,0,5,Final,Pierre Giraud,Patricia Giraud,10,5,5, Senior I Silver Standard  (WFQ),Sample,2,qfb13B,40433010,109,Jeanette Ball,Quickstep,5
+BC,0,5,Final,Pierre Giraud,Patricia Giraud,12,5,5, Senior I Silver Standard  (WFQ),Sample,2,qfb13B,40433010,109,Elena Zakharova,Quickstep,5
+BC,0,7,Final,Pierre Giraud,Patricia Giraud,13,5,7, Senior I Silver Standard  (WFQ),Sample,2,qfb13B,40433010,109,Cora Lyn Uczekaj,Quickstep,5
+WA,0,7,Final,Christopher Clarke,Christiane Clarke,10,7,7, Senior I Silver Standard  (WFQ),Sample,2,qfb13B,40433010,103,Jeanette Ball,Quickstep,6
+WA,0,6,Final,Christopher Clarke,Christiane Clarke,12,7,6, Senior I Silver Standard  (WFQ),Sample,2,qfb13B,40433010,103,Elena Zakharova,Quickstep,6
+WA,0,5,Final,Christopher Clarke,Christiane Clarke,13,7,5, Senior I Silver Standard  (WFQ),Sample,2,qfb13B,40433010,103,Cora Lyn Uczekaj,Quickstep,6
+BC,0,2,Final,Ron Whitcroft,Gail Whitcroft,10,6,2, Senior I Silver Standard  (WFQ),Sample,2,qfb13B,40433010,122,Jeanette Ball,Quickstep,7
+BC,0,7,Final,Ron Whitcroft,Gail Whitcroft,12,6,7, Senior I Silver Standard  (WFQ),Sample,2,qfb13B,40433010,122,Elena Zakharova,Quickstep,7
+BC,0,6,Final,Ron Whitcroft,Gail Whitcroft,13,6,6, Senior I Silver Standard  (WFQ),Sample,2,qfb13B,40433010,122,Cora Lyn Uczekaj,Quickstep,7
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,10,1,1, Adult Gold Standard  (WTFQ),Sample,0,qfb13B,40423810,108,Jeanette Ball,Waltz,1
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,12,1,1, Adult Gold Standard  (WTFQ),Sample,0,qfb13B,40423810,108,Elena Zakharova,Waltz,1
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,13,1,1, Adult Gold Standard  (WTFQ),Sample,0,qfb13B,40423810,108,Cora Lyn Uczekaj,Waltz,1
+WA,0,2,Final,Edward Brennan,Cecilia Wang,10,2,2, Adult Gold Standard  (WTFQ),Sample,0,qfb13B,40423810,102,Jeanette Ball,Waltz,2
+WA,0,2,Final,Edward Brennan,Cecilia Wang,12,2,2, Adult Gold Standard  (WTFQ),Sample,0,qfb13B,40423810,102,Elena Zakharova,Waltz,2
+WA,0,2,Final,Edward Brennan,Cecilia Wang,13,2,2, Adult Gold Standard  (WTFQ),Sample,0,qfb13B,40423810,102,Cora Lyn Uczekaj,Waltz,2
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,10,1,1, Adult Gold Standard  (WTFQ),Sample,1,qfb13B,40423810,108,Jeanette Ball,Tango,1
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,12,1,1, Adult Gold Standard  (WTFQ),Sample,1,qfb13B,40423810,108,Elena Zakharova,Tango,1
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,13,1,1, Adult Gold Standard  (WTFQ),Sample,1,qfb13B,40423810,108,Cora Lyn Uczekaj,Tango,1
+WA,0,2,Final,Edward Brennan,Cecilia Wang,10,2,2, Adult Gold Standard  (WTFQ),Sample,1,qfb13B,40423810,102,Jeanette Ball,Tango,2
+WA,0,2,Final,Edward Brennan,Cecilia Wang,12,2,2, Adult Gold Standard  (WTFQ),Sample,1,qfb13B,40423810,102,Elena Zakharova,Tango,2
+WA,0,2,Final,Edward Brennan,Cecilia Wang,13,2,2, Adult Gold Standard  (WTFQ),Sample,1,qfb13B,40423810,102,Cora Lyn Uczekaj,Tango,2
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,10,1,1, Adult Gold Standard  (WTFQ),Sample,2,qfb13B,40423810,108,Jeanette Ball,Foxtrot,1
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,12,1,1, Adult Gold Standard  (WTFQ),Sample,2,qfb13B,40423810,108,Elena Zakharova,Foxtrot,1
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,13,1,1, Adult Gold Standard  (WTFQ),Sample,2,qfb13B,40423810,108,Cora Lyn Uczekaj,Foxtrot,1
+WA,0,2,Final,Edward Brennan,Cecilia Wang,10,2,2, Adult Gold Standard  (WTFQ),Sample,2,qfb13B,40423810,102,Jeanette Ball,Foxtrot,2
+WA,0,2,Final,Edward Brennan,Cecilia Wang,12,2,2, Adult Gold Standard  (WTFQ),Sample,2,qfb13B,40423810,102,Elena Zakharova,Foxtrot,2
+WA,0,2,Final,Edward Brennan,Cecilia Wang,13,2,2, Adult Gold Standard  (WTFQ),Sample,2,qfb13B,40423810,102,Cora Lyn Uczekaj,Foxtrot,2
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,10,1,1, Adult Gold Standard  (WTFQ),Sample,3,qfb13B,40423810,108,Jeanette Ball,Quickstep,1
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,12,1,1, Adult Gold Standard  (WTFQ),Sample,3,qfb13B,40423810,108,Elena Zakharova,Quickstep,1
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,13,1,1, Adult Gold Standard  (WTFQ),Sample,3,qfb13B,40423810,108,Cora Lyn Uczekaj,Quickstep,1
+WA,0,2,Final,Edward Brennan,Cecilia Wang,10,2,2, Adult Gold Standard  (WTFQ),Sample,3,qfb13B,40423810,102,Jeanette Ball,Quickstep,2
+WA,0,2,Final,Edward Brennan,Cecilia Wang,12,2,2, Adult Gold Standard  (WTFQ),Sample,3,qfb13B,40423810,102,Elena Zakharova,Quickstep,2
+WA,0,2,Final,Edward Brennan,Cecilia Wang,13,2,2, Adult Gold Standard  (WTFQ),Sample,3,qfb13B,40423810,102,Cora Lyn Uczekaj,Quickstep,2
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,10,1,1, Senior II Gold Standard  (WTFQ),Sample,0,qfb13B,40443810,118,Jeanette Ball,Waltz,1
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,12,1,1, Senior II Gold Standard  (WTFQ),Sample,0,qfb13B,40443810,118,Elena Zakharova,Waltz,1
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,13,1,1, Senior II Gold Standard  (WTFQ),Sample,0,qfb13B,40443810,118,Cora Lyn Uczekaj,Waltz,1
+BC,0,2,Final,Bill Hingley,Glenda Hingley,10,2,2, Senior II Gold Standard  (WTFQ),Sample,0,qfb13B,40443810,110,Jeanette Ball,Waltz,2
+BC,0,3,Final,Bill Hingley,Glenda Hingley,12,2,3, Senior II Gold Standard  (WTFQ),Sample,0,qfb13B,40443810,110,Elena Zakharova,Waltz,2
+BC,0,2,Final,Bill Hingley,Glenda Hingley,13,2,2, Senior II Gold Standard  (WTFQ),Sample,0,qfb13B,40443810,110,Cora Lyn Uczekaj,Waltz,2
+BC,0,3,Final,Ron Whitcroft,Gail Whitcroft,10,4,3, Senior II Gold Standard  (WTFQ),Sample,0,qfb13B,40443810,122,Jeanette Ball,Waltz,3
+BC,0,4,Final,Ron Whitcroft,Gail Whitcroft,12,4,4, Senior II Gold Standard  (WTFQ),Sample,0,qfb13B,40443810,122,Elena Zakharova,Waltz,3
+BC,0,4,Final,Ron Whitcroft,Gail Whitcroft,13,4,4, Senior II Gold Standard  (WTFQ),Sample,0,qfb13B,40443810,122,Cora Lyn Uczekaj,Waltz,3
+BC,0,4,Final,Pierre Giraud,Patricia Giraud,10,3,4, Senior II Gold Standard  (WTFQ),Sample,0,qfb13B,40443810,109,Jeanette Ball,Waltz,4
+BC,0,2,Final,Pierre Giraud,Patricia Giraud,12,3,2, Senior II Gold Standard  (WTFQ),Sample,0,qfb13B,40443810,109,Elena Zakharova,Waltz,4
+BC,0,3,Final,Pierre Giraud,Patricia Giraud,13,3,3, Senior II Gold Standard  (WTFQ),Sample,0,qfb13B,40443810,109,Cora Lyn Uczekaj,Waltz,4
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,10,1,1, Senior II Gold Standard  (WTFQ),Sample,1,qfb13B,40443810,118,Jeanette Ball,Tango,1
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,12,1,1, Senior II Gold Standard  (WTFQ),Sample,1,qfb13B,40443810,118,Elena Zakharova,Tango,1
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,13,1,1, Senior II Gold Standard  (WTFQ),Sample,1,qfb13B,40443810,118,Cora Lyn Uczekaj,Tango,1
+BC,0,2,Final,Bill Hingley,Glenda Hingley,10,2,2, Senior II Gold Standard  (WTFQ),Sample,1,qfb13B,40443810,110,Jeanette Ball,Tango,2
+BC,0,2,Final,Bill Hingley,Glenda Hingley,12,2,2, Senior II Gold Standard  (WTFQ),Sample,1,qfb13B,40443810,110,Elena Zakharova,Tango,2
+BC,0,2,Final,Bill Hingley,Glenda Hingley,13,2,2, Senior II Gold Standard  (WTFQ),Sample,1,qfb13B,40443810,110,Cora Lyn Uczekaj,Tango,2
+BC,0,3,Final,Ron Whitcroft,Gail Whitcroft,10,3,3, Senior II Gold Standard  (WTFQ),Sample,1,qfb13B,40443810,122,Jeanette Ball,Tango,3
+BC,0,4,Final,Ron Whitcroft,Gail Whitcroft,12,3,4, Senior II Gold Standard  (WTFQ),Sample,1,qfb13B,40443810,122,Elena Zakharova,Tango,3
+BC,0,3,Final,Ron Whitcroft,Gail Whitcroft,13,3,3, Senior II Gold Standard  (WTFQ),Sample,1,qfb13B,40443810,122,Cora Lyn Uczekaj,Tango,3
+BC,0,4,Final,Pierre Giraud,Patricia Giraud,10,4,4, Senior II Gold Standard  (WTFQ),Sample,1,qfb13B,40443810,109,Jeanette Ball,Tango,4
+BC,0,3,Final,Pierre Giraud,Patricia Giraud,12,4,3, Senior II Gold Standard  (WTFQ),Sample,1,qfb13B,40443810,109,Elena Zakharova,Tango,4
+BC,0,4,Final,Pierre Giraud,Patricia Giraud,13,4,4, Senior II Gold Standard  (WTFQ),Sample,1,qfb13B,40443810,109,Cora Lyn Uczekaj,Tango,4
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,10,1,1, Senior II Gold Standard  (WTFQ),Sample,2,qfb13B,40443810,118,Jeanette Ball,Foxtrot,1
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,12,1,1, Senior II Gold Standard  (WTFQ),Sample,2,qfb13B,40443810,118,Elena Zakharova,Foxtrot,1
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,13,1,1, Senior II Gold Standard  (WTFQ),Sample,2,qfb13B,40443810,118,Cora Lyn Uczekaj,Foxtrot,1
+BC,0,3,Final,Bill Hingley,Glenda Hingley,10,2,3, Senior II Gold Standard  (WTFQ),Sample,2,qfb13B,40443810,110,Jeanette Ball,Foxtrot,2
+BC,0,2,Final,Bill Hingley,Glenda Hingley,12,2,2, Senior II Gold Standard  (WTFQ),Sample,2,qfb13B,40443810,110,Elena Zakharova,Foxtrot,2
+BC,0,2,Final,Bill Hingley,Glenda Hingley,13,2,2, Senior II Gold Standard  (WTFQ),Sample,2,qfb13B,40443810,110,Cora Lyn Uczekaj,Foxtrot,2
+BC,0,2,Final,Ron Whitcroft,Gail Whitcroft,10,3,2, Senior II Gold Standard  (WTFQ),Sample,2,qfb13B,40443810,122,Jeanette Ball,Foxtrot,3
+BC,0,4,Final,Ron Whitcroft,Gail Whitcroft,12,3,4, Senior II Gold Standard  (WTFQ),Sample,2,qfb13B,40443810,122,Elena Zakharova,Foxtrot,3
+BC,0,3,Final,Ron Whitcroft,Gail Whitcroft,13,3,3, Senior II Gold Standard  (WTFQ),Sample,2,qfb13B,40443810,122,Cora Lyn Uczekaj,Foxtrot,3
+BC,0,4,Final,Pierre Giraud,Patricia Giraud,10,4,4, Senior II Gold Standard  (WTFQ),Sample,2,qfb13B,40443810,109,Jeanette Ball,Foxtrot,4
+BC,0,3,Final,Pierre Giraud,Patricia Giraud,12,4,3, Senior II Gold Standard  (WTFQ),Sample,2,qfb13B,40443810,109,Elena Zakharova,Foxtrot,4
+BC,0,4,Final,Pierre Giraud,Patricia Giraud,13,4,4, Senior II Gold Standard  (WTFQ),Sample,2,qfb13B,40443810,109,Cora Lyn Uczekaj,Foxtrot,4
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,10,1,1, Senior II Gold Standard  (WTFQ),Sample,3,qfb13B,40443810,118,Jeanette Ball,Quickstep,1
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,12,1,1, Senior II Gold Standard  (WTFQ),Sample,3,qfb13B,40443810,118,Elena Zakharova,Quickstep,1
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,13,1,1, Senior II Gold Standard  (WTFQ),Sample,3,qfb13B,40443810,118,Cora Lyn Uczekaj,Quickstep,1
+BC,0,3,Final,Bill Hingley,Glenda Hingley,10,2,3, Senior II Gold Standard  (WTFQ),Sample,3,qfb13B,40443810,110,Jeanette Ball,Quickstep,2
+BC,0,3,Final,Bill Hingley,Glenda Hingley,12,2,3, Senior II Gold Standard  (WTFQ),Sample,3,qfb13B,40443810,110,Elena Zakharova,Quickstep,2
+BC,0,2,Final,Bill Hingley,Glenda Hingley,13,2,2, Senior II Gold Standard  (WTFQ),Sample,3,qfb13B,40443810,110,Cora Lyn Uczekaj,Quickstep,2
+BC,0,2,Final,Ron Whitcroft,Gail Whitcroft,10,3,2, Senior II Gold Standard  (WTFQ),Sample,3,qfb13B,40443810,122,Jeanette Ball,Quickstep,3
+BC,0,4,Final,Ron Whitcroft,Gail Whitcroft,12,3,4, Senior II Gold Standard  (WTFQ),Sample,3,qfb13B,40443810,122,Elena Zakharova,Quickstep,3
+BC,0,3,Final,Ron Whitcroft,Gail Whitcroft,13,3,3, Senior II Gold Standard  (WTFQ),Sample,3,qfb13B,40443810,122,Cora Lyn Uczekaj,Quickstep,3
+BC,0,4,Final,Pierre Giraud,Patricia Giraud,10,4,4, Senior II Gold Standard  (WTFQ),Sample,3,qfb13B,40443810,109,Jeanette Ball,Quickstep,4
+BC,0,2,Final,Pierre Giraud,Patricia Giraud,12,4,2, Senior II Gold Standard  (WTFQ),Sample,3,qfb13B,40443810,109,Elena Zakharova,Quickstep,4
+BC,0,4,Final,Pierre Giraud,Patricia Giraud,13,4,4, Senior II Gold Standard  (WTFQ),Sample,3,qfb13B,40443810,109,Cora Lyn Uczekaj,Quickstep,4
+WA,0,3,Final,Edward Brennan,Cecilia Wang,10,1,3, Senior I Gold Standard  (WTFQ),Sample,0,qfb13B,40433810,102,Jeanette Ball,Waltz,1
+WA,0,1,Final,Edward Brennan,Cecilia Wang,11,1,1, Senior I Gold Standard  (WTFQ),Sample,0,qfb13B,40433810,102,Monique Hrouda,Waltz,1
+WA,0,1,Final,Edward Brennan,Cecilia Wang,13,1,1, Senior I Gold Standard  (WTFQ),Sample,0,qfb13B,40433810,102,Cora Lyn Uczekaj,Waltz,1
+WA,0,2,Final,Norair Ghazarian,Coleen Popochock,10,2,2, Senior I Gold Standard  (WTFQ),Sample,0,qfb13B,40433810,108,Jeanette Ball,Waltz,2
+WA,0,2,Final,Norair Ghazarian,Coleen Popochock,11,2,2, Senior I Gold Standard  (WTFQ),Sample,0,qfb13B,40433810,108,Monique Hrouda,Waltz,2
+WA,0,2,Final,Norair Ghazarian,Coleen Popochock,13,2,2, Senior I Gold Standard  (WTFQ),Sample,0,qfb13B,40433810,108,Cora Lyn Uczekaj,Waltz,2
+BC,0,4,Final,Bill Hingley,Glenda Hingley,10,3,4, Senior I Gold Standard  (WTFQ),Sample,0,qfb13B,40433810,110,Jeanette Ball,Waltz,3
+BC,0,3,Final,Bill Hingley,Glenda Hingley,11,3,3, Senior I Gold Standard  (WTFQ),Sample,0,qfb13B,40433810,110,Monique Hrouda,Waltz,3
+BC,0,3,Final,Bill Hingley,Glenda Hingley,13,3,3, Senior I Gold Standard  (WTFQ),Sample,0,qfb13B,40433810,110,Cora Lyn Uczekaj,Waltz,3
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,10,4,1, Senior I Gold Standard  (WTFQ),Sample,0,qfb13B,40433810,118,Jeanette Ball,Waltz,4
+OR,0,5,Final,Terrance Nicholson,Candace Nicholson,11,4,5, Senior I Gold Standard  (WTFQ),Sample,0,qfb13B,40433810,118,Monique Hrouda,Waltz,4
+OR,0,4,Final,Terrance Nicholson,Candace Nicholson,13,4,4, Senior I Gold Standard  (WTFQ),Sample,0,qfb13B,40433810,118,Cora Lyn Uczekaj,Waltz,4
+BC,0,6,Final,Ron Whitcroft,Gail Whitcroft,10,6,6, Senior I Gold Standard  (WTFQ),Sample,0,qfb13B,40433810,122,Jeanette Ball,Waltz,5
+BC,0,6,Final,Ron Whitcroft,Gail Whitcroft,11,6,6, Senior I Gold Standard  (WTFQ),Sample,0,qfb13B,40433810,122,Monique Hrouda,Waltz,5
+BC,0,5,Final,Ron Whitcroft,Gail Whitcroft,13,6,5, Senior I Gold Standard  (WTFQ),Sample,0,qfb13B,40433810,122,Cora Lyn Uczekaj,Waltz,5
+BC,0,5,Final,Pierre Giraud,Patricia Giraud,10,5,5, Senior I Gold Standard  (WTFQ),Sample,0,qfb13B,40433810,109,Jeanette Ball,Waltz,6
+BC,0,4,Final,Pierre Giraud,Patricia Giraud,11,5,4, Senior I Gold Standard  (WTFQ),Sample,0,qfb13B,40433810,109,Monique Hrouda,Waltz,6
+BC,0,6,Final,Pierre Giraud,Patricia Giraud,13,5,6, Senior I Gold Standard  (WTFQ),Sample,0,qfb13B,40433810,109,Cora Lyn Uczekaj,Waltz,6
+WA,0,4,Final,Edward Brennan,Cecilia Wang,10,1,4, Senior I Gold Standard  (WTFQ),Sample,1,qfb13B,40433810,102,Jeanette Ball,Tango,1
+WA,0,1,Final,Edward Brennan,Cecilia Wang,11,1,1, Senior I Gold Standard  (WTFQ),Sample,1,qfb13B,40433810,102,Monique Hrouda,Tango,1
+WA,0,1,Final,Edward Brennan,Cecilia Wang,13,1,1, Senior I Gold Standard  (WTFQ),Sample,1,qfb13B,40433810,102,Cora Lyn Uczekaj,Tango,1
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,10,2,1, Senior I Gold Standard  (WTFQ),Sample,1,qfb13B,40433810,108,Jeanette Ball,Tango,2
+WA,0,2,Final,Norair Ghazarian,Coleen Popochock,11,2,2, Senior I Gold Standard  (WTFQ),Sample,1,qfb13B,40433810,108,Monique Hrouda,Tango,2
+WA,0,2,Final,Norair Ghazarian,Coleen Popochock,13,2,2, Senior I Gold Standard  (WTFQ),Sample,1,qfb13B,40433810,108,Cora Lyn Uczekaj,Tango,2
+BC,0,3,Final,Bill Hingley,Glenda Hingley,10,3,3, Senior I Gold Standard  (WTFQ),Sample,1,qfb13B,40433810,110,Jeanette Ball,Tango,3
+BC,0,3,Final,Bill Hingley,Glenda Hingley,11,3,3, Senior I Gold Standard  (WTFQ),Sample,1,qfb13B,40433810,110,Monique Hrouda,Tango,3
+BC,0,3,Final,Bill Hingley,Glenda Hingley,13,3,3, Senior I Gold Standard  (WTFQ),Sample,1,qfb13B,40433810,110,Cora Lyn Uczekaj,Tango,3
+OR,0,2,Final,Terrance Nicholson,Candace Nicholson,10,4,2, Senior I Gold Standard  (WTFQ),Sample,1,qfb13B,40433810,118,Jeanette Ball,Tango,4
+OR,0,4,Final,Terrance Nicholson,Candace Nicholson,11,4,4, Senior I Gold Standard  (WTFQ),Sample,1,qfb13B,40433810,118,Monique Hrouda,Tango,4
+OR,0,4,Final,Terrance Nicholson,Candace Nicholson,13,4,4, Senior I Gold Standard  (WTFQ),Sample,1,qfb13B,40433810,118,Cora Lyn Uczekaj,Tango,4
+BC,0,5,Final,Ron Whitcroft,Gail Whitcroft,10,5,5, Senior I Gold Standard  (WTFQ),Sample,1,qfb13B,40433810,122,Jeanette Ball,Tango,5
+BC,0,5,Final,Ron Whitcroft,Gail Whitcroft,11,5,5, Senior I Gold Standard  (WTFQ),Sample,1,qfb13B,40433810,122,Monique Hrouda,Tango,5
+BC,0,5,Final,Ron Whitcroft,Gail Whitcroft,13,5,5, Senior I Gold Standard  (WTFQ),Sample,1,qfb13B,40433810,122,Cora Lyn Uczekaj,Tango,5
+BC,0,6,Final,Pierre Giraud,Patricia Giraud,10,6,6, Senior I Gold Standard  (WTFQ),Sample,1,qfb13B,40433810,109,Jeanette Ball,Tango,6
+BC,0,6,Final,Pierre Giraud,Patricia Giraud,11,6,6, Senior I Gold Standard  (WTFQ),Sample,1,qfb13B,40433810,109,Monique Hrouda,Tango,6
+BC,0,6,Final,Pierre Giraud,Patricia Giraud,13,6,6, Senior I Gold Standard  (WTFQ),Sample,1,qfb13B,40433810,109,Cora Lyn Uczekaj,Tango,6
+WA,0,4,Final,Edward Brennan,Cecilia Wang,10,3,4, Senior I Gold Standard  (WTFQ),Sample,2,qfb13B,40433810,102,Jeanette Ball,Foxtrot,1
+WA,0,3,Final,Edward Brennan,Cecilia Wang,11,3,3, Senior I Gold Standard  (WTFQ),Sample,2,qfb13B,40433810,102,Monique Hrouda,Foxtrot,1
+WA,0,2,Final,Edward Brennan,Cecilia Wang,13,3,2, Senior I Gold Standard  (WTFQ),Sample,2,qfb13B,40433810,102,Cora Lyn Uczekaj,Foxtrot,1
+WA,0,2,Final,Norair Ghazarian,Coleen Popochock,10,1,2, Senior I Gold Standard  (WTFQ),Sample,2,qfb13B,40433810,108,Jeanette Ball,Foxtrot,2
+WA,0,2,Final,Norair Ghazarian,Coleen Popochock,11,1,2, Senior I Gold Standard  (WTFQ),Sample,2,qfb13B,40433810,108,Monique Hrouda,Foxtrot,2
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,13,1,1, Senior I Gold Standard  (WTFQ),Sample,2,qfb13B,40433810,108,Cora Lyn Uczekaj,Foxtrot,2
+BC,0,5,Final,Bill Hingley,Glenda Hingley,10,2,5, Senior I Gold Standard  (WTFQ),Sample,2,qfb13B,40433810,110,Jeanette Ball,Foxtrot,3
+BC,0,1,Final,Bill Hingley,Glenda Hingley,11,2,1, Senior I Gold Standard  (WTFQ),Sample,2,qfb13B,40433810,110,Monique Hrouda,Foxtrot,3
+BC,0,3,Final,Bill Hingley,Glenda Hingley,13,2,3, Senior I Gold Standard  (WTFQ),Sample,2,qfb13B,40433810,110,Cora Lyn Uczekaj,Foxtrot,3
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,10,4,1, Senior I Gold Standard  (WTFQ),Sample,2,qfb13B,40433810,118,Jeanette Ball,Foxtrot,4
+OR,0,4,Final,Terrance Nicholson,Candace Nicholson,11,4,4, Senior I Gold Standard  (WTFQ),Sample,2,qfb13B,40433810,118,Monique Hrouda,Foxtrot,4
+OR,0,4,Final,Terrance Nicholson,Candace Nicholson,13,4,4, Senior I Gold Standard  (WTFQ),Sample,2,qfb13B,40433810,118,Cora Lyn Uczekaj,Foxtrot,4
+BC,0,3,Final,Ron Whitcroft,Gail Whitcroft,10,5,3, Senior I Gold Standard  (WTFQ),Sample,2,qfb13B,40433810,122,Jeanette Ball,Foxtrot,5
+BC,0,6,Final,Ron Whitcroft,Gail Whitcroft,11,5,6, Senior I Gold Standard  (WTFQ),Sample,2,qfb13B,40433810,122,Monique Hrouda,Foxtrot,5
+BC,0,5,Final,Ron Whitcroft,Gail Whitcroft,13,5,5, Senior I Gold Standard  (WTFQ),Sample,2,qfb13B,40433810,122,Cora Lyn Uczekaj,Foxtrot,5
+BC,0,6,Final,Pierre Giraud,Patricia Giraud,10,6,6, Senior I Gold Standard  (WTFQ),Sample,2,qfb13B,40433810,109,Jeanette Ball,Foxtrot,6
+BC,0,5,Final,Pierre Giraud,Patricia Giraud,11,6,5, Senior I Gold Standard  (WTFQ),Sample,2,qfb13B,40433810,109,Monique Hrouda,Foxtrot,6
+BC,0,6,Final,Pierre Giraud,Patricia Giraud,13,6,6, Senior I Gold Standard  (WTFQ),Sample,2,qfb13B,40433810,109,Cora Lyn Uczekaj,Foxtrot,6
+WA,0,4,Final,Edward Brennan,Cecilia Wang,10,1,4, Senior I Gold Standard  (WTFQ),Sample,3,qfb13B,40433810,102,Jeanette Ball,Quickstep,1
+WA,0,1,Final,Edward Brennan,Cecilia Wang,11,1,1, Senior I Gold Standard  (WTFQ),Sample,3,qfb13B,40433810,102,Monique Hrouda,Quickstep,1
+WA,0,1,Final,Edward Brennan,Cecilia Wang,13,1,1, Senior I Gold Standard  (WTFQ),Sample,3,qfb13B,40433810,102,Cora Lyn Uczekaj,Quickstep,1
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,10,2,1, Senior I Gold Standard  (WTFQ),Sample,3,qfb13B,40433810,108,Jeanette Ball,Quickstep,2
+WA,0,2,Final,Norair Ghazarian,Coleen Popochock,11,2,2, Senior I Gold Standard  (WTFQ),Sample,3,qfb13B,40433810,108,Monique Hrouda,Quickstep,2
+WA,0,2,Final,Norair Ghazarian,Coleen Popochock,13,2,2, Senior I Gold Standard  (WTFQ),Sample,3,qfb13B,40433810,108,Cora Lyn Uczekaj,Quickstep,2
+BC,0,5,Final,Bill Hingley,Glenda Hingley,10,3,5, Senior I Gold Standard  (WTFQ),Sample,3,qfb13B,40433810,110,Jeanette Ball,Quickstep,3
+BC,0,3,Final,Bill Hingley,Glenda Hingley,11,3,3, Senior I Gold Standard  (WTFQ),Sample,3,qfb13B,40433810,110,Monique Hrouda,Quickstep,3
+BC,0,3,Final,Bill Hingley,Glenda Hingley,13,3,3, Senior I Gold Standard  (WTFQ),Sample,3,qfb13B,40433810,110,Cora Lyn Uczekaj,Quickstep,3
+OR,0,2,Final,Terrance Nicholson,Candace Nicholson,10,4,2, Senior I Gold Standard  (WTFQ),Sample,3,qfb13B,40433810,118,Jeanette Ball,Quickstep,4
+OR,0,4,Final,Terrance Nicholson,Candace Nicholson,11,4,4, Senior I Gold Standard  (WTFQ),Sample,3,qfb13B,40433810,118,Monique Hrouda,Quickstep,4
+OR,0,4,Final,Terrance Nicholson,Candace Nicholson,13,4,4, Senior I Gold Standard  (WTFQ),Sample,3,qfb13B,40433810,118,Cora Lyn Uczekaj,Quickstep,4
+BC,0,3,Final,Ron Whitcroft,Gail Whitcroft,10,5,3, Senior I Gold Standard  (WTFQ),Sample,3,qfb13B,40433810,122,Jeanette Ball,Quickstep,5
+BC,0,6,Final,Ron Whitcroft,Gail Whitcroft,11,5,6, Senior I Gold Standard  (WTFQ),Sample,3,qfb13B,40433810,122,Monique Hrouda,Quickstep,5
+BC,0,5,Final,Ron Whitcroft,Gail Whitcroft,13,5,5, Senior I Gold Standard  (WTFQ),Sample,3,qfb13B,40433810,122,Cora Lyn Uczekaj,Quickstep,5
+BC,0,6,Final,Pierre Giraud,Patricia Giraud,10,6,6, Senior I Gold Standard  (WTFQ),Sample,3,qfb13B,40433810,109,Jeanette Ball,Quickstep,6
+BC,0,5,Final,Pierre Giraud,Patricia Giraud,11,6,5, Senior I Gold Standard  (WTFQ),Sample,3,qfb13B,40433810,109,Monique Hrouda,Quickstep,6
+BC,0,6,Final,Pierre Giraud,Patricia Giraud,13,6,6, Senior I Gold Standard  (WTFQ),Sample,3,qfb13B,40433810,109,Cora Lyn Uczekaj,Quickstep,6
+WA,0,1,Final,Mikhail Vorobiev,Sonya Tsekanovsky,10,1,1, Adult Championship Standard  (WTVFQ),Sample,0,qfb13B,40428710,123,Jeanette Ball,Waltz,1
+WA,0,1,Final,Mikhail Vorobiev,Sonya Tsekanovsky,11,1,1, Adult Championship Standard  (WTVFQ),Sample,0,qfb13B,40428710,123,Monique Hrouda,Waltz,1
+WA,0,1,Final,Mikhail Vorobiev,Sonya Tsekanovsky,13,1,1, Adult Championship Standard  (WTVFQ),Sample,0,qfb13B,40428710,123,Cora Lyn Uczekaj,Waltz,1
+WA,0,1,Final,Mikhail Vorobiev,Sonya Tsekanovsky,10,1,1, Adult Championship Standard  (WTVFQ),Sample,1,qfb13B,40428710,123,Jeanette Ball,Tango,1
+WA,0,1,Final,Mikhail Vorobiev,Sonya Tsekanovsky,11,1,1, Adult Championship Standard  (WTVFQ),Sample,1,qfb13B,40428710,123,Monique Hrouda,Tango,1
+WA,0,1,Final,Mikhail Vorobiev,Sonya Tsekanovsky,13,1,1, Adult Championship Standard  (WTVFQ),Sample,1,qfb13B,40428710,123,Cora Lyn Uczekaj,Tango,1
+WA,0,1,Final,Mikhail Vorobiev,Sonya Tsekanovsky,10,1,1, Adult Championship Standard  (WTVFQ),Sample,2,qfb13B,40428710,123,Jeanette Ball,Viennese Waltz,1
+WA,0,1,Final,Mikhail Vorobiev,Sonya Tsekanovsky,11,1,1, Adult Championship Standard  (WTVFQ),Sample,2,qfb13B,40428710,123,Monique Hrouda,Viennese Waltz,1
+WA,0,1,Final,Mikhail Vorobiev,Sonya Tsekanovsky,13,1,1, Adult Championship Standard  (WTVFQ),Sample,2,qfb13B,40428710,123,Cora Lyn Uczekaj,Viennese Waltz,1
+WA,0,1,Final,Mikhail Vorobiev,Sonya Tsekanovsky,10,1,1, Adult Championship Standard  (WTVFQ),Sample,3,qfb13B,40428710,123,Jeanette Ball,Foxtrot,1
+WA,0,1,Final,Mikhail Vorobiev,Sonya Tsekanovsky,11,1,1, Adult Championship Standard  (WTVFQ),Sample,3,qfb13B,40428710,123,Monique Hrouda,Foxtrot,1
+WA,0,1,Final,Mikhail Vorobiev,Sonya Tsekanovsky,13,1,1, Adult Championship Standard  (WTVFQ),Sample,3,qfb13B,40428710,123,Cora Lyn Uczekaj,Foxtrot,1
+WA,0,1,Final,Mikhail Vorobiev,Sonya Tsekanovsky,10,1,1, Adult Championship Standard  (WTVFQ),Sample,4,qfb13B,40428710,123,Jeanette Ball,Quickstep,1
+WA,0,1,Final,Mikhail Vorobiev,Sonya Tsekanovsky,11,1,1, Adult Championship Standard  (WTVFQ),Sample,4,qfb13B,40428710,123,Monique Hrouda,Quickstep,1
+WA,0,1,Final,Mikhail Vorobiev,Sonya Tsekanovsky,13,1,1, Adult Championship Standard  (WTVFQ),Sample,4,qfb13B,40428710,123,Cora Lyn Uczekaj,Quickstep,1
+WA,0,1,Final,Jonathan Huggett,Carolyn Huggett,10,1,1, Senior I Championship Standard  (WTVFQ),Sample,0,qfb13B,40438710,111,Jeanette Ball,Waltz,1
+WA,0,1,Final,Jonathan Huggett,Carolyn Huggett,11,1,1, Senior I Championship Standard  (WTVFQ),Sample,0,qfb13B,40438710,111,Monique Hrouda,Waltz,1
+WA,0,1,Final,Jonathan Huggett,Carolyn Huggett,13,1,1, Senior I Championship Standard  (WTVFQ),Sample,0,qfb13B,40438710,111,Cora Lyn Uczekaj,Waltz,1
+WA,0,1,Final,Jonathan Huggett,Carolyn Huggett,10,1,1, Senior I Championship Standard  (WTVFQ),Sample,1,qfb13B,40438710,111,Jeanette Ball,Tango,1
+WA,0,1,Final,Jonathan Huggett,Carolyn Huggett,11,1,1, Senior I Championship Standard  (WTVFQ),Sample,1,qfb13B,40438710,111,Monique Hrouda,Tango,1
+WA,0,1,Final,Jonathan Huggett,Carolyn Huggett,13,1,1, Senior I Championship Standard  (WTVFQ),Sample,1,qfb13B,40438710,111,Cora Lyn Uczekaj,Tango,1
+WA,0,1,Final,Jonathan Huggett,Carolyn Huggett,10,1,1, Senior I Championship Standard  (WTVFQ),Sample,2,qfb13B,40438710,111,Jeanette Ball,Viennese Waltz,1
+WA,0,1,Final,Jonathan Huggett,Carolyn Huggett,11,1,1, Senior I Championship Standard  (WTVFQ),Sample,2,qfb13B,40438710,111,Monique Hrouda,Viennese Waltz,1
+WA,0,1,Final,Jonathan Huggett,Carolyn Huggett,13,1,1, Senior I Championship Standard  (WTVFQ),Sample,2,qfb13B,40438710,111,Cora Lyn Uczekaj,Viennese Waltz,1
+WA,0,1,Final,Jonathan Huggett,Carolyn Huggett,10,1,1, Senior I Championship Standard  (WTVFQ),Sample,3,qfb13B,40438710,111,Jeanette Ball,Foxtrot,1
+WA,0,1,Final,Jonathan Huggett,Carolyn Huggett,11,1,1, Senior I Championship Standard  (WTVFQ),Sample,3,qfb13B,40438710,111,Monique Hrouda,Foxtrot,1
+WA,0,1,Final,Jonathan Huggett,Carolyn Huggett,13,1,1, Senior I Championship Standard  (WTVFQ),Sample,3,qfb13B,40438710,111,Cora Lyn Uczekaj,Foxtrot,1
+WA,0,1,Final,Jonathan Huggett,Carolyn Huggett,10,1,1, Senior I Championship Standard  (WTVFQ),Sample,4,qfb13B,40438710,111,Jeanette Ball,Quickstep,1
+WA,0,1,Final,Jonathan Huggett,Carolyn Huggett,11,1,1, Senior I Championship Standard  (WTVFQ),Sample,4,qfb13B,40438710,111,Monique Hrouda,Quickstep,1
+WA,0,1,Final,Jonathan Huggett,Carolyn Huggett,13,1,1, Senior I Championship Standard  (WTVFQ),Sample,4,qfb13B,40438710,111,Cora Lyn Uczekaj,Quickstep,1
+WA,0,1,Final,Michael Dewitt,Kinsey Huffman,10,1,1, Adult Newcomer Latin  (C),Sample,0,qfb13B,40422020,105,Jeanette Ball,Cha Cha,1
+WA,0,1,Final,Michael Dewitt,Kinsey Huffman,11,1,1, Adult Newcomer Latin  (C),Sample,0,qfb13B,40422020,105,Monique Hrouda,Cha Cha,1
+WA,0,1,Final,Michael Dewitt,Kinsey Huffman,13,1,1, Adult Newcomer Latin  (C),Sample,0,qfb13B,40422020,105,Cora Lyn Uczekaj,Cha Cha,1
+WA,0,1,Final,Edward Brennan,Cecilia Wang,10,1,1, Senior II Gold Latin  (SCRJ),Sample,0,qfb13B,40443820,102,Jeanette Ball,Samba,1
+WA,0,1,Final,Edward Brennan,Cecilia Wang,11,1,1, Senior II Gold Latin  (SCRJ),Sample,0,qfb13B,40443820,102,Monique Hrouda,Samba,1
+WA,0,1,Final,Edward Brennan,Cecilia Wang,13,1,1, Senior II Gold Latin  (SCRJ),Sample,0,qfb13B,40443820,102,Cora Lyn Uczekaj,Samba,1
+BC,0,2,Final,Ron Whitcroft,Gail Whitcroft,10,2,2, Senior II Gold Latin  (SCRJ),Sample,0,qfb13B,40443820,122,Jeanette Ball,Samba,2
+BC,0,2,Final,Ron Whitcroft,Gail Whitcroft,11,2,2, Senior II Gold Latin  (SCRJ),Sample,0,qfb13B,40443820,122,Monique Hrouda,Samba,2
+BC,0,2,Final,Ron Whitcroft,Gail Whitcroft,13,2,2, Senior II Gold Latin  (SCRJ),Sample,0,qfb13B,40443820,122,Cora Lyn Uczekaj,Samba,2
+WA,0,1,Final,Edward Brennan,Cecilia Wang,10,1,1, Senior II Gold Latin  (SCRJ),Sample,1,qfb13B,40443820,102,Jeanette Ball,Cha Cha,1
+WA,0,1,Final,Edward Brennan,Cecilia Wang,11,1,1, Senior II Gold Latin  (SCRJ),Sample,1,qfb13B,40443820,102,Monique Hrouda,Cha Cha,1
+WA,0,1,Final,Edward Brennan,Cecilia Wang,13,1,1, Senior II Gold Latin  (SCRJ),Sample,1,qfb13B,40443820,102,Cora Lyn Uczekaj,Cha Cha,1
+BC,0,2,Final,Ron Whitcroft,Gail Whitcroft,10,2,2, Senior II Gold Latin  (SCRJ),Sample,1,qfb13B,40443820,122,Jeanette Ball,Cha Cha,2
+BC,0,2,Final,Ron Whitcroft,Gail Whitcroft,11,2,2, Senior II Gold Latin  (SCRJ),Sample,1,qfb13B,40443820,122,Monique Hrouda,Cha Cha,2
+BC,0,2,Final,Ron Whitcroft,Gail Whitcroft,13,2,2, Senior II Gold Latin  (SCRJ),Sample,1,qfb13B,40443820,122,Cora Lyn Uczekaj,Cha Cha,2
+WA,0,1,Final,Edward Brennan,Cecilia Wang,10,1,1, Senior II Gold Latin  (SCRJ),Sample,2,qfb13B,40443820,102,Jeanette Ball,Rumba,1
+WA,0,1,Final,Edward Brennan,Cecilia Wang,11,1,1, Senior II Gold Latin  (SCRJ),Sample,2,qfb13B,40443820,102,Monique Hrouda,Rumba,1
+WA,0,1,Final,Edward Brennan,Cecilia Wang,13,1,1, Senior II Gold Latin  (SCRJ),Sample,2,qfb13B,40443820,102,Cora Lyn Uczekaj,Rumba,1
+BC,0,2,Final,Ron Whitcroft,Gail Whitcroft,10,2,2, Senior II Gold Latin  (SCRJ),Sample,2,qfb13B,40443820,122,Jeanette Ball,Rumba,2
+BC,0,2,Final,Ron Whitcroft,Gail Whitcroft,11,2,2, Senior II Gold Latin  (SCRJ),Sample,2,qfb13B,40443820,122,Monique Hrouda,Rumba,2
+BC,0,2,Final,Ron Whitcroft,Gail Whitcroft,13,2,2, Senior II Gold Latin  (SCRJ),Sample,2,qfb13B,40443820,122,Cora Lyn Uczekaj,Rumba,2
+WA,0,1,Final,Edward Brennan,Cecilia Wang,10,1,1, Senior II Gold Latin  (SCRJ),Sample,3,qfb13B,40443820,102,Jeanette Ball,Jive,1
+WA,0,1,Final,Edward Brennan,Cecilia Wang,11,1,1, Senior II Gold Latin  (SCRJ),Sample,3,qfb13B,40443820,102,Monique Hrouda,Jive,1
+WA,0,1,Final,Edward Brennan,Cecilia Wang,13,1,1, Senior II Gold Latin  (SCRJ),Sample,3,qfb13B,40443820,102,Cora Lyn Uczekaj,Jive,1
+BC,0,2,Final,Ron Whitcroft,Gail Whitcroft,10,2,2, Senior II Gold Latin  (SCRJ),Sample,3,qfb13B,40443820,122,Jeanette Ball,Jive,2
+BC,0,2,Final,Ron Whitcroft,Gail Whitcroft,11,2,2, Senior II Gold Latin  (SCRJ),Sample,3,qfb13B,40443820,122,Monique Hrouda,Jive,2
+BC,0,2,Final,Ron Whitcroft,Gail Whitcroft,13,2,2, Senior II Gold Latin  (SCRJ),Sample,3,qfb13B,40443820,122,Cora Lyn Uczekaj,Jive,2
+WA,0,1,Final,Edward Brennan,Cecilia Wang,10,1,1, Senior I Gold Latin  (SCRJ),Sample,0,qfb13B,40433820,102,Jeanette Ball,Samba,1
+WA,0,1,Final,Edward Brennan,Cecilia Wang,11,1,1, Senior I Gold Latin  (SCRJ),Sample,0,qfb13B,40433820,102,Monique Hrouda,Samba,1
+WA,0,1,Final,Edward Brennan,Cecilia Wang,13,1,1, Senior I Gold Latin  (SCRJ),Sample,0,qfb13B,40433820,102,Cora Lyn Uczekaj,Samba,1
+BC,0,2,Final,Ron Whitcroft,Gail Whitcroft,10,2,2, Senior I Gold Latin  (SCRJ),Sample,0,qfb13B,40433820,122,Jeanette Ball,Samba,2
+BC,0,2,Final,Ron Whitcroft,Gail Whitcroft,11,2,2, Senior I Gold Latin  (SCRJ),Sample,0,qfb13B,40433820,122,Monique Hrouda,Samba,2
+BC,0,2,Final,Ron Whitcroft,Gail Whitcroft,13,2,2, Senior I Gold Latin  (SCRJ),Sample,0,qfb13B,40433820,122,Cora Lyn Uczekaj,Samba,2
+WA,0,1,Final,Edward Brennan,Cecilia Wang,10,1,1, Senior I Gold Latin  (SCRJ),Sample,1,qfb13B,40433820,102,Jeanette Ball,Cha Cha,1
+WA,0,1,Final,Edward Brennan,Cecilia Wang,11,1,1, Senior I Gold Latin  (SCRJ),Sample,1,qfb13B,40433820,102,Monique Hrouda,Cha Cha,1
+WA,0,2,Final,Edward Brennan,Cecilia Wang,13,1,2, Senior I Gold Latin  (SCRJ),Sample,1,qfb13B,40433820,102,Cora Lyn Uczekaj,Cha Cha,1
+BC,0,2,Final,Ron Whitcroft,Gail Whitcroft,10,2,2, Senior I Gold Latin  (SCRJ),Sample,1,qfb13B,40433820,122,Jeanette Ball,Cha Cha,2
+BC,0,2,Final,Ron Whitcroft,Gail Whitcroft,11,2,2, Senior I Gold Latin  (SCRJ),Sample,1,qfb13B,40433820,122,Monique Hrouda,Cha Cha,2
+BC,0,1,Final,Ron Whitcroft,Gail Whitcroft,13,2,1, Senior I Gold Latin  (SCRJ),Sample,1,qfb13B,40433820,122,Cora Lyn Uczekaj,Cha Cha,2
+WA,0,1,Final,Edward Brennan,Cecilia Wang,10,1,1, Senior I Gold Latin  (SCRJ),Sample,2,qfb13B,40433820,102,Jeanette Ball,Rumba,1
+WA,0,1,Final,Edward Brennan,Cecilia Wang,11,1,1, Senior I Gold Latin  (SCRJ),Sample,2,qfb13B,40433820,102,Monique Hrouda,Rumba,1
+WA,0,2,Final,Edward Brennan,Cecilia Wang,13,1,2, Senior I Gold Latin  (SCRJ),Sample,2,qfb13B,40433820,102,Cora Lyn Uczekaj,Rumba,1
+BC,0,2,Final,Ron Whitcroft,Gail Whitcroft,10,2,2, Senior I Gold Latin  (SCRJ),Sample,2,qfb13B,40433820,122,Jeanette Ball,Rumba,2
+BC,0,2,Final,Ron Whitcroft,Gail Whitcroft,11,2,2, Senior I Gold Latin  (SCRJ),Sample,2,qfb13B,40433820,122,Monique Hrouda,Rumba,2
+BC,0,1,Final,Ron Whitcroft,Gail Whitcroft,13,2,1, Senior I Gold Latin  (SCRJ),Sample,2,qfb13B,40433820,122,Cora Lyn Uczekaj,Rumba,2
+WA,0,1,Final,Edward Brennan,Cecilia Wang,10,1,1, Senior I Gold Latin  (SCRJ),Sample,3,qfb13B,40433820,102,Jeanette Ball,Jive,1
+WA,0,1,Final,Edward Brennan,Cecilia Wang,11,1,1, Senior I Gold Latin  (SCRJ),Sample,3,qfb13B,40433820,102,Monique Hrouda,Jive,1
+WA,0,1,Final,Edward Brennan,Cecilia Wang,13,1,1, Senior I Gold Latin  (SCRJ),Sample,3,qfb13B,40433820,102,Cora Lyn Uczekaj,Jive,1
+BC,0,2,Final,Ron Whitcroft,Gail Whitcroft,10,2,2, Senior I Gold Latin  (SCRJ),Sample,3,qfb13B,40433820,122,Jeanette Ball,Jive,2
+BC,0,2,Final,Ron Whitcroft,Gail Whitcroft,11,2,2, Senior I Gold Latin  (SCRJ),Sample,3,qfb13B,40433820,122,Monique Hrouda,Jive,2
+BC,0,2,Final,Ron Whitcroft,Gail Whitcroft,13,2,2, Senior I Gold Latin  (SCRJ),Sample,3,qfb13B,40433820,122,Cora Lyn Uczekaj,Jive,2
+BC,0,2,Final,Ron Whitcroft,Gail Whitcroft,10,1,2, Senior I Silver Latin  (SCR),Sample,0,qfb13B,40433020,122,Jeanette Ball,Samba,1
+BC,0,1,Final,Ron Whitcroft,Gail Whitcroft,11,1,1, Senior I Silver Latin  (SCR),Sample,0,qfb13B,40433020,122,Monique Hrouda,Samba,1
+BC,0,1,Final,Ron Whitcroft,Gail Whitcroft,12,1,1, Senior I Silver Latin  (SCR),Sample,0,qfb13B,40433020,122,Elena Zakharova,Samba,1
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,10,2,1, Senior I Silver Latin  (SCR),Sample,0,qfb13B,40433020,118,Jeanette Ball,Samba,2
+OR,0,2,Final,Terrance Nicholson,Candace Nicholson,11,2,2, Senior I Silver Latin  (SCR),Sample,0,qfb13B,40433020,118,Monique Hrouda,Samba,2
+OR,0,2,Final,Terrance Nicholson,Candace Nicholson,12,2,2, Senior I Silver Latin  (SCR),Sample,0,qfb13B,40433020,118,Elena Zakharova,Samba,2
+BC,0,2,Final,Ron Whitcroft,Gail Whitcroft,10,2,2, Senior I Silver Latin  (SCR),Sample,1,qfb13B,40433020,122,Jeanette Ball,Cha Cha,1
+BC,0,1,Final,Ron Whitcroft,Gail Whitcroft,11,2,1, Senior I Silver Latin  (SCR),Sample,1,qfb13B,40433020,122,Monique Hrouda,Cha Cha,1
+BC,0,2,Final,Ron Whitcroft,Gail Whitcroft,12,2,2, Senior I Silver Latin  (SCR),Sample,1,qfb13B,40433020,122,Elena Zakharova,Cha Cha,1
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,10,1,1, Senior I Silver Latin  (SCR),Sample,1,qfb13B,40433020,118,Jeanette Ball,Cha Cha,2
+OR,0,2,Final,Terrance Nicholson,Candace Nicholson,11,1,2, Senior I Silver Latin  (SCR),Sample,1,qfb13B,40433020,118,Monique Hrouda,Cha Cha,2
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,12,1,1, Senior I Silver Latin  (SCR),Sample,1,qfb13B,40433020,118,Elena Zakharova,Cha Cha,2
+BC,0,1,Final,Ron Whitcroft,Gail Whitcroft,10,1,1, Senior I Silver Latin  (SCR),Sample,2,qfb13B,40433020,122,Jeanette Ball,Rumba,1
+BC,0,1,Final,Ron Whitcroft,Gail Whitcroft,11,1,1, Senior I Silver Latin  (SCR),Sample,2,qfb13B,40433020,122,Monique Hrouda,Rumba,1
+BC,0,2,Final,Ron Whitcroft,Gail Whitcroft,12,1,2, Senior I Silver Latin  (SCR),Sample,2,qfb13B,40433020,122,Elena Zakharova,Rumba,1
+OR,0,2,Final,Terrance Nicholson,Candace Nicholson,10,2,2, Senior I Silver Latin  (SCR),Sample,2,qfb13B,40433020,118,Jeanette Ball,Rumba,2
+OR,0,2,Final,Terrance Nicholson,Candace Nicholson,11,2,2, Senior I Silver Latin  (SCR),Sample,2,qfb13B,40433020,118,Monique Hrouda,Rumba,2
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,12,2,1, Senior I Silver Latin  (SCR),Sample,2,qfb13B,40433020,118,Elena Zakharova,Rumba,2
+OR,0,1,Final,Vyacheslav Andrejev,Masha Demyashkevich,10,1,1, Adult Gold Latin  (SCRJ),Sample,0,qfb13B,40423820,100,Jeanette Ball,Samba,1
+OR,0,1,Final,Vyacheslav Andrejev,Masha Demyashkevich,11,1,1, Adult Gold Latin  (SCRJ),Sample,0,qfb13B,40423820,100,Monique Hrouda,Samba,1
+OR,0,1,Final,Vyacheslav Andrejev,Masha Demyashkevich,12,1,1, Adult Gold Latin  (SCRJ),Sample,0,qfb13B,40423820,100,Elena Zakharova,Samba,1
+OR,0,1,Final,Vyacheslav Andrejev,Masha Demyashkevich,10,1,1, Adult Gold Latin  (SCRJ),Sample,1,qfb13B,40423820,100,Jeanette Ball,Cha Cha,1
+OR,0,1,Final,Vyacheslav Andrejev,Masha Demyashkevich,11,1,1, Adult Gold Latin  (SCRJ),Sample,1,qfb13B,40423820,100,Monique Hrouda,Cha Cha,1
+OR,0,1,Final,Vyacheslav Andrejev,Masha Demyashkevich,12,1,1, Adult Gold Latin  (SCRJ),Sample,1,qfb13B,40423820,100,Elena Zakharova,Cha Cha,1
+OR,0,1,Final,Vyacheslav Andrejev,Masha Demyashkevich,10,1,1, Adult Gold Latin  (SCRJ),Sample,2,qfb13B,40423820,100,Jeanette Ball,Rumba,1
+OR,0,1,Final,Vyacheslav Andrejev,Masha Demyashkevich,11,1,1, Adult Gold Latin  (SCRJ),Sample,2,qfb13B,40423820,100,Monique Hrouda,Rumba,1
+OR,0,1,Final,Vyacheslav Andrejev,Masha Demyashkevich,12,1,1, Adult Gold Latin  (SCRJ),Sample,2,qfb13B,40423820,100,Elena Zakharova,Rumba,1
+OR,0,1,Final,Vyacheslav Andrejev,Masha Demyashkevich,10,1,1, Adult Gold Latin  (SCRJ),Sample,3,qfb13B,40423820,100,Jeanette Ball,Jive,1
+OR,0,1,Final,Vyacheslav Andrejev,Masha Demyashkevich,11,1,1, Adult Gold Latin  (SCRJ),Sample,3,qfb13B,40423820,100,Monique Hrouda,Jive,1
+OR,0,1,Final,Vyacheslav Andrejev,Masha Demyashkevich,12,1,1, Adult Gold Latin  (SCRJ),Sample,3,qfb13B,40423820,100,Elena Zakharova,Jive,1
+BC,0,2,Final,Ron Whitcroft,Gail Whitcroft,10,1,2, Senior II Silver Latin  (SCR),Sample,0,qfb13B,40443020,122,Jeanette Ball,Samba,1
+BC,0,1,Final,Ron Whitcroft,Gail Whitcroft,11,1,1, Senior II Silver Latin  (SCR),Sample,0,qfb13B,40443020,122,Monique Hrouda,Samba,1
+BC,0,1,Final,Ron Whitcroft,Gail Whitcroft,12,1,1, Senior II Silver Latin  (SCR),Sample,0,qfb13B,40443020,122,Elena Zakharova,Samba,1
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,10,2,1, Senior II Silver Latin  (SCR),Sample,0,qfb13B,40443020,118,Jeanette Ball,Samba,2
+OR,0,2,Final,Terrance Nicholson,Candace Nicholson,11,2,2, Senior II Silver Latin  (SCR),Sample,0,qfb13B,40443020,118,Monique Hrouda,Samba,2
+OR,0,2,Final,Terrance Nicholson,Candace Nicholson,12,2,2, Senior II Silver Latin  (SCR),Sample,0,qfb13B,40443020,118,Elena Zakharova,Samba,2
+BC,0,1,Final,Ron Whitcroft,Gail Whitcroft,10,1,1, Senior II Silver Latin  (SCR),Sample,1,qfb13B,40443020,122,Jeanette Ball,Cha Cha,1
+BC,0,1,Final,Ron Whitcroft,Gail Whitcroft,11,1,1, Senior II Silver Latin  (SCR),Sample,1,qfb13B,40443020,122,Monique Hrouda,Cha Cha,1
+BC,0,1,Final,Ron Whitcroft,Gail Whitcroft,12,1,1, Senior II Silver Latin  (SCR),Sample,1,qfb13B,40443020,122,Elena Zakharova,Cha Cha,1
+OR,0,2,Final,Terrance Nicholson,Candace Nicholson,10,2,2, Senior II Silver Latin  (SCR),Sample,1,qfb13B,40443020,118,Jeanette Ball,Cha Cha,2
+OR,0,2,Final,Terrance Nicholson,Candace Nicholson,11,2,2, Senior II Silver Latin  (SCR),Sample,1,qfb13B,40443020,118,Monique Hrouda,Cha Cha,2
+OR,0,2,Final,Terrance Nicholson,Candace Nicholson,12,2,2, Senior II Silver Latin  (SCR),Sample,1,qfb13B,40443020,118,Elena Zakharova,Cha Cha,2
+BC,0,1,Final,Ron Whitcroft,Gail Whitcroft,10,1,1, Senior II Silver Latin  (SCR),Sample,2,qfb13B,40443020,122,Jeanette Ball,Rumba,1
+BC,0,1,Final,Ron Whitcroft,Gail Whitcroft,11,1,1, Senior II Silver Latin  (SCR),Sample,2,qfb13B,40443020,122,Monique Hrouda,Rumba,1
+BC,0,2,Final,Ron Whitcroft,Gail Whitcroft,12,1,2, Senior II Silver Latin  (SCR),Sample,2,qfb13B,40443020,122,Elena Zakharova,Rumba,1
+OR,0,2,Final,Terrance Nicholson,Candace Nicholson,10,2,2, Senior II Silver Latin  (SCR),Sample,2,qfb13B,40443020,118,Jeanette Ball,Rumba,2
+OR,0,2,Final,Terrance Nicholson,Candace Nicholson,11,2,2, Senior II Silver Latin  (SCR),Sample,2,qfb13B,40443020,118,Monique Hrouda,Rumba,2
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,12,2,1, Senior II Silver Latin  (SCR),Sample,2,qfb13B,40443020,118,Elena Zakharova,Rumba,2
+WA,0,2,Final,Mikhail Vorobiev,Sonya Tsekanovsky,10,2,2, Adult Championship Latin  (SCRPJ),Sample,0,qfb13B,40428720,123,Jeanette Ball,Samba,1
+WA,0,2,Final,Mikhail Vorobiev,Sonya Tsekanovsky,11,2,2, Adult Championship Latin  (SCRPJ),Sample,0,qfb13B,40428720,123,Monique Hrouda,Samba,1
+WA,0,2,Final,Mikhail Vorobiev,Sonya Tsekanovsky,12,2,2, Adult Championship Latin  (SCRPJ),Sample,0,qfb13B,40428720,123,Elena Zakharova,Samba,1
+WA,0,1,Final,Umario Diallo,Natasha Zrazhevskaya,10,1,1, Adult Championship Latin  (SCRPJ),Sample,0,qfb13B,40428720,106,Jeanette Ball,Samba,2
+WA,0,1,Final,Umario Diallo,Natasha Zrazhevskaya,11,1,1, Adult Championship Latin  (SCRPJ),Sample,0,qfb13B,40428720,106,Monique Hrouda,Samba,2
+WA,0,1,Final,Umario Diallo,Natasha Zrazhevskaya,12,1,1, Adult Championship Latin  (SCRPJ),Sample,0,qfb13B,40428720,106,Elena Zakharova,Samba,2
+WA,0,1,Final,Mikhail Vorobiev,Sonya Tsekanovsky,10,1,1, Adult Championship Latin  (SCRPJ),Sample,1,qfb13B,40428720,123,Jeanette Ball,Cha Cha,1
+WA,0,1,Final,Mikhail Vorobiev,Sonya Tsekanovsky,11,1,1, Adult Championship Latin  (SCRPJ),Sample,1,qfb13B,40428720,123,Monique Hrouda,Cha Cha,1
+WA,0,2,Final,Mikhail Vorobiev,Sonya Tsekanovsky,12,1,2, Adult Championship Latin  (SCRPJ),Sample,1,qfb13B,40428720,123,Elena Zakharova,Cha Cha,1
+WA,0,2,Final,Umario Diallo,Natasha Zrazhevskaya,10,2,2, Adult Championship Latin  (SCRPJ),Sample,1,qfb13B,40428720,106,Jeanette Ball,Cha Cha,2
+WA,0,2,Final,Umario Diallo,Natasha Zrazhevskaya,11,2,2, Adult Championship Latin  (SCRPJ),Sample,1,qfb13B,40428720,106,Monique Hrouda,Cha Cha,2
+WA,0,1,Final,Umario Diallo,Natasha Zrazhevskaya,12,2,1, Adult Championship Latin  (SCRPJ),Sample,1,qfb13B,40428720,106,Elena Zakharova,Cha Cha,2
+WA,0,1,Final,Mikhail Vorobiev,Sonya Tsekanovsky,10,1,1, Adult Championship Latin  (SCRPJ),Sample,2,qfb13B,40428720,123,Jeanette Ball,Rumba,1
+WA,0,1,Final,Mikhail Vorobiev,Sonya Tsekanovsky,11,1,1, Adult Championship Latin  (SCRPJ),Sample,2,qfb13B,40428720,123,Monique Hrouda,Rumba,1
+WA,0,2,Final,Mikhail Vorobiev,Sonya Tsekanovsky,12,1,2, Adult Championship Latin  (SCRPJ),Sample,2,qfb13B,40428720,123,Elena Zakharova,Rumba,1
+WA,0,2,Final,Umario Diallo,Natasha Zrazhevskaya,10,2,2, Adult Championship Latin  (SCRPJ),Sample,2,qfb13B,40428720,106,Jeanette Ball,Rumba,2
+WA,0,2,Final,Umario Diallo,Natasha Zrazhevskaya,11,2,2, Adult Championship Latin  (SCRPJ),Sample,2,qfb13B,40428720,106,Monique Hrouda,Rumba,2
+WA,0,1,Final,Umario Diallo,Natasha Zrazhevskaya,12,2,1, Adult Championship Latin  (SCRPJ),Sample,2,qfb13B,40428720,106,Elena Zakharova,Rumba,2
+WA,0,1,Final,Mikhail Vorobiev,Sonya Tsekanovsky,10,1,1, Adult Championship Latin  (SCRPJ),Sample,3,qfb13B,40428720,123,Jeanette Ball,Paso Doble,1
+WA,0,1,Final,Mikhail Vorobiev,Sonya Tsekanovsky,11,1,1, Adult Championship Latin  (SCRPJ),Sample,3,qfb13B,40428720,123,Monique Hrouda,Paso Doble,1
+WA,0,2,Final,Mikhail Vorobiev,Sonya Tsekanovsky,12,1,2, Adult Championship Latin  (SCRPJ),Sample,3,qfb13B,40428720,123,Elena Zakharova,Paso Doble,1
+WA,0,2,Final,Umario Diallo,Natasha Zrazhevskaya,10,2,2, Adult Championship Latin  (SCRPJ),Sample,3,qfb13B,40428720,106,Jeanette Ball,Paso Doble,2
+WA,0,2,Final,Umario Diallo,Natasha Zrazhevskaya,11,2,2, Adult Championship Latin  (SCRPJ),Sample,3,qfb13B,40428720,106,Monique Hrouda,Paso Doble,2
+WA,0,1,Final,Umario Diallo,Natasha Zrazhevskaya,12,2,1, Adult Championship Latin  (SCRPJ),Sample,3,qfb13B,40428720,106,Elena Zakharova,Paso Doble,2
+WA,0,1,Final,Mikhail Vorobiev,Sonya Tsekanovsky,10,2,1, Adult Championship Latin  (SCRPJ),Sample,4,qfb13B,40428720,123,Jeanette Ball,Jive,1
+WA,0,2,Final,Mikhail Vorobiev,Sonya Tsekanovsky,11,2,2, Adult Championship Latin  (SCRPJ),Sample,4,qfb13B,40428720,123,Monique Hrouda,Jive,1
+WA,0,2,Final,Mikhail Vorobiev,Sonya Tsekanovsky,12,2,2, Adult Championship Latin  (SCRPJ),Sample,4,qfb13B,40428720,123,Elena Zakharova,Jive,1
+WA,0,2,Final,Umario Diallo,Natasha Zrazhevskaya,10,1,2, Adult Championship Latin  (SCRPJ),Sample,4,qfb13B,40428720,106,Jeanette Ball,Jive,2
+WA,0,1,Final,Umario Diallo,Natasha Zrazhevskaya,11,1,1, Adult Championship Latin  (SCRPJ),Sample,4,qfb13B,40428720,106,Monique Hrouda,Jive,2
+WA,0,1,Final,Umario Diallo,Natasha Zrazhevskaya,12,1,1, Adult Championship Latin  (SCRPJ),Sample,4,qfb13B,40428720,106,Elena Zakharova,Jive,2
+OR,0,1,Final,Vyacheslav Andrejev,Masha Demyashkevich,10,1,1, Adult Novice Latin  (SCR),Sample,0,qfb13B,40428120,100,Jeanette Ball,Samba,1
+OR,0,1,Final,Vyacheslav Andrejev,Masha Demyashkevich,11,1,1, Adult Novice Latin  (SCR),Sample,0,qfb13B,40428120,100,Monique Hrouda,Samba,1
+OR,0,1,Final,Vyacheslav Andrejev,Masha Demyashkevich,12,1,1, Adult Novice Latin  (SCR),Sample,0,qfb13B,40428120,100,Elena Zakharova,Samba,1
+OR,0,1,Final,Vyacheslav Andrejev,Masha Demyashkevich,10,1,1, Adult Novice Latin  (SCR),Sample,1,qfb13B,40428120,100,Jeanette Ball,Cha Cha,1
+OR,0,1,Final,Vyacheslav Andrejev,Masha Demyashkevich,11,1,1, Adult Novice Latin  (SCR),Sample,1,qfb13B,40428120,100,Monique Hrouda,Cha Cha,1
+OR,0,1,Final,Vyacheslav Andrejev,Masha Demyashkevich,12,1,1, Adult Novice Latin  (SCR),Sample,1,qfb13B,40428120,100,Elena Zakharova,Cha Cha,1
+OR,0,1,Final,Vyacheslav Andrejev,Masha Demyashkevich,10,1,1, Adult Novice Latin  (SCR),Sample,2,qfb13B,40428120,100,Jeanette Ball,Rumba,1
+OR,0,1,Final,Vyacheslav Andrejev,Masha Demyashkevich,11,1,1, Adult Novice Latin  (SCR),Sample,2,qfb13B,40428120,100,Monique Hrouda,Rumba,1
+OR,0,1,Final,Vyacheslav Andrejev,Masha Demyashkevich,12,1,1, Adult Novice Latin  (SCR),Sample,2,qfb13B,40428120,100,Elena Zakharova,Rumba,1
