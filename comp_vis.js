@@ -9,26 +9,22 @@ var margin = {
     left: 20
 };
 
-//var pane = [[0,0],[0,0]];
-var pane = [[0,0]];
-var svg = [];
-pane.forEach(function(d){
-    svg.push([]);
-})
+var pane;
+var svg;
 
-var width = Math.max(400,1200 / pane[0].length) - margin.left - margin.right;
-var height = Math.max(350,600 / pane.length) - margin.bottom - margin.top;
+var width;
+var height;
+var graph;
 
-var graph = {
-    height: height,
-    width: width*1
+var hl_first = true;
+
+function lh(d) {
+    return d[1][0];
 }
 
-var tab = {
-    height: height,
-    width: width*0
+function marks(d,h_id) {
+    return d[1][1][h_id];
 }
-
 
 ////////////////////////////////////////////////////////////////////////////////
 // highlighting methods
@@ -42,7 +38,7 @@ function hl_lead(d,x) {
 }
 function hl_follow(d,x) {
     if (!(d[0][2]==="TBA TBA" || d[0][2]==="unknown unknown"))
-        leads[d[0][2]] += x;
+        follows[d[0][2]] += x;
 }
 
 function hl_populate(d) {
@@ -86,8 +82,55 @@ function hl_toggle(d) {
 function is_hl(d) {
     return (leads[d[0][1]] > 0 || follows[d[0][2]] > 0);
 }
+function is_stuck(d) {
+    return (leads[d[0][1]] > 1 || follows[d[0][2]] > 1);
+}
 function is_hover(d) {
     return ((leads[d[0][1]]%2) == 1 || (follows[d[0][2]]%2) == 1);
+}
+
+function clear_hl() {
+    leads = {};
+    follows = {};
+    d3.selectAll("path").style("stroke-width",function(){return d3.select(this).attr("d_width")});
+    d3.selectAll("path").style("opacity",1);
+    d3.selectAll("circle").attr("r",function(){return d3.select(this).attr("d_r")});
+}
+
+function set_hl() {
+    var hl_mode = false;
+    d3.selectAll("text.note").style("opacity",0);
+    
+    d3.selectAll("path")
+        .each(function(d){
+            if (is_hover(d))
+                front(d3.select(this));
+            d3.select(this).style("stroke-width",function(d) {return is_hover(d) ? Math.max(MIN_TEXT+TEXT_MARGIN*2,d3.select(this).attr("d_width")) : d3.select(this).attr("d_width")});
+            d3.select(this).style("opacity",function(d){return is_hl(d) ? 1 : 0.3});
+        });
+    
+    d3.selectAll("circle")
+        .attr("r",function(d){
+            if (is_hl(d)) {
+                hl_mode = true;
+                front(d3.select(this));
+            }
+            if (is_hover(d)) {
+                var circ = d3.select(this);
+                svg[circ.attr("py")][circ.attr("px")].selectAll("text.note")
+                    .text(function(e){return marks(d,d3.select(this).attr("heat_id"))+"/"+d3.select(this).attr("j_base")})
+                    .attr("y",d3.select(this).attr("cy"))
+                    .style("opacity", function(e) {return d3.select(this).attr("heat_id") >= lh(d) ? 0.9 :  0;})
+                    .each(function(){front(d3.select(this));});
+                
+                return Math.max(MIN_TEXT/2+TEXT_MARGIN,d3.select(this).attr("d_r"));
+            }
+            else
+                return d3.select(this).attr("d_r");
+        });
+    
+    if (!hl_mode)
+        clear_hl();
 }
 ////////////////////////////////////////////////////////////////////////////////
 
@@ -97,21 +140,10 @@ var front = function(sel) {
         this.parentNode.appendChild(this);
     });
 };
-    
-var tip = d3.select("body").append("div")
-    .attr("class","tooltip")
-    .text("(competitor)");
-pane.forEach(function(d,ii) {
-    var tr = d3.select("table").append("tr");
-    d.forEach(function(e,jj){
-        make_pane(ii,jj,tr);
-    })
-});
 
 function make_pane(py,px,tr) {
     
     pane[py][px] = tr.append("td");
-    console.log(pane[py][px]);
     
     pane[py][px].html("<form><select id = \"comp\" name=\"comp\"></select><select id = \"round\" name=\"round\"></select></form>");
     
@@ -127,13 +159,11 @@ function make_pane(py,px,tr) {
         }).append("g").attr({
             transform: "translate(" + margin.left + "," + margin.top + ")"
         });
-    
+        
     // set up competition selector
     d3.json("comps.json",function(error,comp_data) {
-        
         var DATE_FORMAT = d3.time.format("%b %Y");
         var sel = pane[py][px].select("select#comp");
-        console.log(pane[py][px]);
         for (id in comp_data) {
             time = Date.parse(comp_data[id][1]);
             sel.append("option")
@@ -151,15 +181,17 @@ function make_pane(py,px,tr) {
             });
     });
     
-    load_comp("scc14");
+    load_comp("mit14");
     
     data = [];
     function load_comp(comp) {
         d3.json("data/"+comp+"/res_data.json", function(error,data){
-            //var sel_html = ''
-            var sel = pane[py][px].select("select#round")
+            console.log(data);
+            
+            var sel = pane[py][px].select("select#round");
+            sel.html('');
             data.forEach(function(heat,ii) {
-                if (heat[0][".name"][1] !== "-" && ii>0) {
+                if (true) {
                     sel.append("option")
                         .attr({
                             value:ii.toString()
@@ -176,17 +208,8 @@ function make_pane(py,px,tr) {
                     draw_rnd(data,this.options[this.selectedIndex].value);
                 });
             
-            
             draw_rnd(data,0);
         });
-    }
-    
-    function lh(d) {
-        return d[1][0];
-    }
-    
-    function marks(d,h_id) {
-        return d[1][1][h_id];
     }
     
     function result(d,rnd) {
@@ -203,6 +226,13 @@ function make_pane(py,px,tr) {
         //console.log(rnd);
         
         rnd[1].sort(function(a,b) {
+            if (hl_first) {
+                if (is_stuck(a) && !is_stuck(b))
+                    return -1;
+                if (is_stuck(b) && !is_stuck(a))
+                    return 1;
+            }
+            
             var diff = result(a,rnd) - result(b,rnd);
             if (diff !== 0)
                 return diff;
@@ -225,37 +255,7 @@ function make_pane(py,px,tr) {
             .range([0,graph.height]);
         var y_gap = yy(1)-yy(0);
         var circle_radius = y_gap/2-BAR_MARGIN;
-        var bar_width = y_gap-2*BAR_MARGIN
-        
-        function set_hl() {
-            var hl_mode = false;
-            d3.selectAll("path")
-                .each(function(d){
-                    if (is_hover(d))
-                        front(d3.select(this));
-                    d3.select(this).style("stroke-width",function(d) {return is_hover(d) ? Math.max(MIN_TEXT+TEXT_MARGIN*2,d3.select(this).attr("d_width")) : d3.select(this).attr("d_width")});
-                    d3.select(this).style("opacity",function(d){return is_hl(d) ? 1 : 0.4});
-                });
-            d3.selectAll("circle")
-                .attr("r",function(d){
-                    if (is_hl(d)) {
-                        hl_mode = true;
-                        front(d3.select(this));
-                    }
-                    if (is_hover(d))
-                        return Math.max(MIN_TEXT/2+TEXT_MARGIN,d3.select(this).attr("d_r"));
-                    else
-                        return d3.select(this).attr("d_r");
-                });
-            
-            if (!hl_mode) {
-                svg[py][px].selectAll("path").style({
-                    "stroke-width":d3.select(this).attr("d_width"),
-                    "opacity":1
-                });
-                svg[py][px].selectAll("circle").attr("r",d3.select(this).attr("d_r"));
-            }
-        }
+        var bar_width = y_gap-2*BAR_MARGIN;
         
         var color = [d3.scale.linear().domain([0,1]).range(["white","white"])];
         for (var ii=1; ii<=n_heats; ii+=1) {
@@ -273,15 +273,15 @@ function make_pane(py,px,tr) {
                 r:circle_radius,
                 d_r:circle_radius
             })
-            .style("fill",function(d) {return color[lh(d)](marks(d,lh(d)))})
-            .attr("cx",function(d) {
-                return xx(result(d,rnd));
-            })
+            .style("fill",function(d) {return color[lh(d)](marks(d,lh(d)));})
             .style("opacity",function(d) {if (lh(d)===0) return 0; else return 1;})
-            .attr("cy",function(d,ii) {
-                return yy(ii);
+            .attr("cx",function(d) {return xx(result(d,rnd));})
+            .attr("cy",function(d,ii) {return yy(ii);})
+            .attr("y",function(d) {return d3.select(this).attr("cy");})
+            .attr({
+                px:px,
+                py:py
             })
-            .attr("y",function(d) {return d3.select(this).attr("cy")})
             
             .each(function(d,ii) {
                 for (var jj=n_heats; jj>=d[1][0] && jj>0; jj-=1) {
@@ -319,7 +319,7 @@ function make_pane(py,px,tr) {
                 tip.html(d[0][0]+"<br/>"+d[0][1]+"<br/>"+d[0][2])
                     .style("opacity", 0.9);
                 
-                svg[py][px].selectAll("text.note")
+                /*svg[py][px].selectAll("text.note")
                     .attr("y",bar.attr("y"))
                     .text(function(e){return marks(d,d3.select(this).attr("heat_id"))+"/"+d3.select(this).attr("j_base")})
                     .style("opacity", function(e) {
@@ -328,7 +328,7 @@ function make_pane(py,px,tr) {
                         else
                             return 0;
                     });
-                
+                */
                 
                 hl_bump(d);
                 set_hl();
@@ -348,6 +348,9 @@ function make_pane(py,px,tr) {
             })
             .on("click", function(d) {
                 hl_toggle(d);
+                if (hl_first) {
+                    draw_rnd(data,rnd_id);
+                }
                 set_hl();
                 front(svg[py][px].selectAll("text.note"));
             });
@@ -361,6 +364,65 @@ function make_pane(py,px,tr) {
                 "text-anchor":"end"
             })
             .text(rnd[0][".name"])
+        
+        set_hl();
     }
-
 }
+
+function make_full_table(xcols,yrows) {
+    pane = [];
+    for (ii=0; ii<yrows; ii+=1) {
+        pane.push([]);
+        for (jj=0; jj<xcols; jj+=1) {
+            pane[ii].push(0);
+        }
+    }
+    svg = [];
+    pane.forEach(function(d){
+        svg.push([]);
+    });
+    
+    console.log(pane);
+    
+    width = Math.max(400,1200 / pane[0].length) - margin.left - margin.right;
+    height = Math.max(350,600 / pane.length) - margin.bottom - margin.top;
+    graph = {
+        height: height,
+        width: width*1
+    }
+    
+    
+    var table = d3.select("table");
+    table.html("");
+    pane.forEach(function(d,ii) {
+        var tr = table.append("tr");
+        d.forEach(function(e,jj){
+            make_pane(ii,jj,tr);
+        })
+    });
+}
+
+var tip = d3.select("body").append("div")
+    .attr("class","tooltip")
+    .text("(competitor)");
+    
+d3.selectAll("button.panes")
+    .on("click",function() {
+        console.log(d3.select(this).attr("xp"));
+        make_full_table(d3.select(this).attr("xp"),d3.select(this).attr("yp"));
+    });
+d3.select("button#clear_sel")
+    .on("click",clear_hl);
+d3.select("button#hbdt")
+    .on("click",function(){
+        d3.json("selections/hbdt.json",function(error,hbdt){
+            clear_hl();
+            hbdt.forEach(function(d) {
+                hl_toggle([['',d,d]]);
+            });
+            console.log(leads);
+            set_hl();
+        })
+    })
+
+make_full_table(1,1);

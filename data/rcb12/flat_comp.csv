@@ -1,0 +1,1366 @@
+couple_location,round_id,mark,round_name,lead_name,follow_name,judge,result,value,heat_name,comp_name,dance_id,comp_id,heat_id,couple,judge_name,dance_name,final_result
+OR,0,2,Final,Scott Nicholson,Emilia Wolf,10,2,2, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,0,rcb12,402F3061,103,Dave Watson,Waltz,1
+OR,0,1,Final,Scott Nicholson,Emilia Wolf,11,2,1, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,0,rcb12,402F3061,103,Elizabeth C Knoll,Waltz,1
+OR,0,2,Final,Scott Nicholson,Emilia Wolf,12,2,2, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,0,rcb12,402F3061,103,Peter Mant,Waltz,1
+OR,0,1,Final,Chad Crader,Samantha Sun,10,1,1, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,0,rcb12,402F3061,126,Dave Watson,Waltz,2
+OR,0,2,Final,Chad Crader,Samantha Sun,11,1,2, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,0,rcb12,402F3061,126,Elizabeth C Knoll,Waltz,2
+OR,0,1,Final,Chad Crader,Samantha Sun,12,1,1, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,0,rcb12,402F3061,126,Peter Mant,Waltz,2
+OR,0,4,Final,Griffin Cooney,Diana Telengator,10,3,4, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,0,rcb12,402F3061,119,Dave Watson,Waltz,3
+OR,0,3,Final,Griffin Cooney,Diana Telengator,11,3,3, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,0,rcb12,402F3061,119,Elizabeth C Knoll,Waltz,3
+OR,0,3,Final,Griffin Cooney,Diana Telengator,12,3,3, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,0,rcb12,402F3061,119,Peter Mant,Waltz,3
+OR,0,3,Final,Anthony Yatskov,Esther Nor-Ashkarian,10,4,3, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,0,rcb12,402F3061,113,Dave Watson,Waltz,4
+OR,0,4,Final,Anthony Yatskov,Esther Nor-Ashkarian,11,4,4, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,0,rcb12,402F3061,113,Elizabeth C Knoll,Waltz,4
+OR,0,4,Final,Anthony Yatskov,Esther Nor-Ashkarian,12,4,4, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,0,rcb12,402F3061,113,Peter Mant,Waltz,4
+OR,0,2,Final,Scott Nicholson,Emilia Wolf,10,2,2, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,1,rcb12,402F3061,103,Dave Watson,Tango,1
+OR,0,2,Final,Scott Nicholson,Emilia Wolf,11,2,2, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,1,rcb12,402F3061,103,Elizabeth C Knoll,Tango,1
+OR,0,2,Final,Scott Nicholson,Emilia Wolf,12,2,2, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,1,rcb12,402F3061,103,Peter Mant,Tango,1
+OR,0,1,Final,Chad Crader,Samantha Sun,10,1,1, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,1,rcb12,402F3061,126,Dave Watson,Tango,2
+OR,0,1,Final,Chad Crader,Samantha Sun,11,1,1, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,1,rcb12,402F3061,126,Elizabeth C Knoll,Tango,2
+OR,0,1,Final,Chad Crader,Samantha Sun,12,1,1, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,1,rcb12,402F3061,126,Peter Mant,Tango,2
+OR,0,3,Final,Griffin Cooney,Diana Telengator,10,3,3, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,1,rcb12,402F3061,119,Dave Watson,Tango,3
+OR,0,4,Final,Griffin Cooney,Diana Telengator,11,3,4, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,1,rcb12,402F3061,119,Elizabeth C Knoll,Tango,3
+OR,0,3,Final,Griffin Cooney,Diana Telengator,12,3,3, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,1,rcb12,402F3061,119,Peter Mant,Tango,3
+OR,0,4,Final,Anthony Yatskov,Esther Nor-Ashkarian,10,4,4, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,1,rcb12,402F3061,113,Dave Watson,Tango,4
+OR,0,3,Final,Anthony Yatskov,Esther Nor-Ashkarian,11,4,3, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,1,rcb12,402F3061,113,Elizabeth C Knoll,Tango,4
+OR,0,4,Final,Anthony Yatskov,Esther Nor-Ashkarian,12,4,4, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,1,rcb12,402F3061,113,Peter Mant,Tango,4
+OR,0,2,Final,Scott Nicholson,Emilia Wolf,10,2,2, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,2,rcb12,402F3061,103,Dave Watson,Foxtrot,1
+OR,0,1,Final,Scott Nicholson,Emilia Wolf,11,2,1, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,2,rcb12,402F3061,103,Elizabeth C Knoll,Foxtrot,1
+OR,0,2,Final,Scott Nicholson,Emilia Wolf,12,2,2, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,2,rcb12,402F3061,103,Peter Mant,Foxtrot,1
+OR,0,1,Final,Chad Crader,Samantha Sun,10,1,1, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,2,rcb12,402F3061,126,Dave Watson,Foxtrot,2
+OR,0,2,Final,Chad Crader,Samantha Sun,11,1,2, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,2,rcb12,402F3061,126,Elizabeth C Knoll,Foxtrot,2
+OR,0,1,Final,Chad Crader,Samantha Sun,12,1,1, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,2,rcb12,402F3061,126,Peter Mant,Foxtrot,2
+OR,0,3,Final,Griffin Cooney,Diana Telengator,10,3,3, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,2,rcb12,402F3061,119,Dave Watson,Foxtrot,3
+OR,0,3,Final,Griffin Cooney,Diana Telengator,11,3,3, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,2,rcb12,402F3061,119,Elizabeth C Knoll,Foxtrot,3
+OR,0,3,Final,Griffin Cooney,Diana Telengator,12,3,3, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,2,rcb12,402F3061,119,Peter Mant,Foxtrot,3
+OR,0,4,Final,Anthony Yatskov,Esther Nor-Ashkarian,10,4,4, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,2,rcb12,402F3061,113,Dave Watson,Foxtrot,4
+OR,0,4,Final,Anthony Yatskov,Esther Nor-Ashkarian,11,4,4, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,2,rcb12,402F3061,113,Elizabeth C Knoll,Foxtrot,4
+OR,0,4,Final,Anthony Yatskov,Esther Nor-Ashkarian,12,4,4, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,2,rcb12,402F3061,113,Peter Mant,Foxtrot,4
+OR,0,2,Final,Scott Nicholson,Emilia Wolf,10,1,2, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,3,rcb12,402F3061,103,Dave Watson,Quickstep,1
+OR,0,1,Final,Scott Nicholson,Emilia Wolf,11,1,1, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,3,rcb12,402F3061,103,Elizabeth C Knoll,Quickstep,1
+OR,0,1,Final,Scott Nicholson,Emilia Wolf,12,1,1, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,3,rcb12,402F3061,103,Peter Mant,Quickstep,1
+OR,0,1,Final,Chad Crader,Samantha Sun,10,2,1, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,3,rcb12,402F3061,126,Dave Watson,Quickstep,2
+OR,0,2,Final,Chad Crader,Samantha Sun,11,2,2, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,3,rcb12,402F3061,126,Elizabeth C Knoll,Quickstep,2
+OR,0,2,Final,Chad Crader,Samantha Sun,12,2,2, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,3,rcb12,402F3061,126,Peter Mant,Quickstep,2
+OR,0,4,Final,Griffin Cooney,Diana Telengator,10,3,4, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,3,rcb12,402F3061,119,Dave Watson,Quickstep,3
+OR,0,3,Final,Griffin Cooney,Diana Telengator,11,3,3, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,3,rcb12,402F3061,119,Elizabeth C Knoll,Quickstep,3
+OR,0,3,Final,Griffin Cooney,Diana Telengator,12,3,3, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,3,rcb12,402F3061,119,Peter Mant,Quickstep,3
+OR,0,3,Final,Anthony Yatskov,Esther Nor-Ashkarian,10,4,3, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,3,rcb12,402F3061,113,Dave Watson,Quickstep,4
+OR,0,4,Final,Anthony Yatskov,Esther Nor-Ashkarian,11,4,4, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,3,rcb12,402F3061,113,Elizabeth C Knoll,Quickstep,4
+OR,0,4,Final,Anthony Yatskov,Esther Nor-Ashkarian,12,4,4, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,3,rcb12,402F3061,113,Peter Mant,Quickstep,4
+OR,0,1,Final,Scott Nicholson,Emilia Wolf,10,1,1, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,4,rcb12,402F3061,103,Dave Watson,Samba,1
+OR,0,1,Final,Scott Nicholson,Emilia Wolf,11,1,1, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,4,rcb12,402F3061,103,Elizabeth C Knoll,Samba,1
+OR,0,2,Final,Scott Nicholson,Emilia Wolf,12,1,2, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,4,rcb12,402F3061,103,Peter Mant,Samba,1
+OR,0,2,Final,Chad Crader,Samantha Sun,10,2,2, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,4,rcb12,402F3061,126,Dave Watson,Samba,2
+OR,0,2,Final,Chad Crader,Samantha Sun,11,2,2, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,4,rcb12,402F3061,126,Elizabeth C Knoll,Samba,2
+OR,0,1,Final,Chad Crader,Samantha Sun,12,2,1, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,4,rcb12,402F3061,126,Peter Mant,Samba,2
+OR,0,4,Final,Griffin Cooney,Diana Telengator,10,4,4, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,4,rcb12,402F3061,119,Dave Watson,Samba,3
+OR,0,4,Final,Griffin Cooney,Diana Telengator,11,4,4, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,4,rcb12,402F3061,119,Elizabeth C Knoll,Samba,3
+OR,0,3,Final,Griffin Cooney,Diana Telengator,12,4,3, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,4,rcb12,402F3061,119,Peter Mant,Samba,3
+OR,0,3,Final,Anthony Yatskov,Esther Nor-Ashkarian,10,3,3, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,4,rcb12,402F3061,113,Dave Watson,Samba,4
+OR,0,3,Final,Anthony Yatskov,Esther Nor-Ashkarian,11,3,3, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,4,rcb12,402F3061,113,Elizabeth C Knoll,Samba,4
+OR,0,4,Final,Anthony Yatskov,Esther Nor-Ashkarian,12,3,4, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,4,rcb12,402F3061,113,Peter Mant,Samba,4
+OR,0,1,Final,Scott Nicholson,Emilia Wolf,10,1,1, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,5,rcb12,402F3061,103,Dave Watson,Cha Cha,1
+OR,0,1,Final,Scott Nicholson,Emilia Wolf,11,1,1, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,5,rcb12,402F3061,103,Elizabeth C Knoll,Cha Cha,1
+OR,0,1,Final,Scott Nicholson,Emilia Wolf,12,1,1, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,5,rcb12,402F3061,103,Peter Mant,Cha Cha,1
+OR,0,2,Final,Chad Crader,Samantha Sun,10,2,2, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,5,rcb12,402F3061,126,Dave Watson,Cha Cha,2
+OR,0,2,Final,Chad Crader,Samantha Sun,11,2,2, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,5,rcb12,402F3061,126,Elizabeth C Knoll,Cha Cha,2
+OR,0,2,Final,Chad Crader,Samantha Sun,12,2,2, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,5,rcb12,402F3061,126,Peter Mant,Cha Cha,2
+OR,0,3,Final,Griffin Cooney,Diana Telengator,10,3,3, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,5,rcb12,402F3061,119,Dave Watson,Cha Cha,3
+OR,0,4,Final,Griffin Cooney,Diana Telengator,11,3,4, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,5,rcb12,402F3061,119,Elizabeth C Knoll,Cha Cha,3
+OR,0,3,Final,Griffin Cooney,Diana Telengator,12,3,3, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,5,rcb12,402F3061,119,Peter Mant,Cha Cha,3
+OR,0,4,Final,Anthony Yatskov,Esther Nor-Ashkarian,10,4,4, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,5,rcb12,402F3061,113,Dave Watson,Cha Cha,4
+OR,0,3,Final,Anthony Yatskov,Esther Nor-Ashkarian,11,4,3, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,5,rcb12,402F3061,113,Elizabeth C Knoll,Cha Cha,4
+OR,0,4,Final,Anthony Yatskov,Esther Nor-Ashkarian,12,4,4, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,5,rcb12,402F3061,113,Peter Mant,Cha Cha,4
+OR,0,1,Final,Scott Nicholson,Emilia Wolf,10,1,1, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,6,rcb12,402F3061,103,Dave Watson,Rumba,1
+OR,0,1,Final,Scott Nicholson,Emilia Wolf,11,1,1, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,6,rcb12,402F3061,103,Elizabeth C Knoll,Rumba,1
+OR,0,1,Final,Scott Nicholson,Emilia Wolf,12,1,1, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,6,rcb12,402F3061,103,Peter Mant,Rumba,1
+OR,0,2,Final,Chad Crader,Samantha Sun,10,2,2, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,6,rcb12,402F3061,126,Dave Watson,Rumba,2
+OR,0,2,Final,Chad Crader,Samantha Sun,11,2,2, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,6,rcb12,402F3061,126,Elizabeth C Knoll,Rumba,2
+OR,0,2,Final,Chad Crader,Samantha Sun,12,2,2, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,6,rcb12,402F3061,126,Peter Mant,Rumba,2
+OR,0,4,Final,Griffin Cooney,Diana Telengator,10,4,4, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,6,rcb12,402F3061,119,Dave Watson,Rumba,3
+OR,0,4,Final,Griffin Cooney,Diana Telengator,11,4,4, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,6,rcb12,402F3061,119,Elizabeth C Knoll,Rumba,3
+OR,0,3,Final,Griffin Cooney,Diana Telengator,12,4,3, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,6,rcb12,402F3061,119,Peter Mant,Rumba,3
+OR,0,3,Final,Anthony Yatskov,Esther Nor-Ashkarian,10,3,3, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,6,rcb12,402F3061,113,Dave Watson,Rumba,4
+OR,0,3,Final,Anthony Yatskov,Esther Nor-Ashkarian,11,3,3, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,6,rcb12,402F3061,113,Elizabeth C Knoll,Rumba,4
+OR,0,4,Final,Anthony Yatskov,Esther Nor-Ashkarian,12,3,4, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,6,rcb12,402F3061,113,Peter Mant,Rumba,4
+OR,0,1,Final,Scott Nicholson,Emilia Wolf,10,1,1, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,7,rcb12,402F3061,103,Dave Watson,Jive,1
+OR,0,1,Final,Scott Nicholson,Emilia Wolf,11,1,1, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,7,rcb12,402F3061,103,Elizabeth C Knoll,Jive,1
+OR,0,1,Final,Scott Nicholson,Emilia Wolf,12,1,1, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,7,rcb12,402F3061,103,Peter Mant,Jive,1
+OR,0,4,Final,Chad Crader,Samantha Sun,10,2,4, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,7,rcb12,402F3061,126,Dave Watson,Jive,2
+OR,0,2,Final,Chad Crader,Samantha Sun,11,2,2, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,7,rcb12,402F3061,126,Elizabeth C Knoll,Jive,2
+OR,0,2,Final,Chad Crader,Samantha Sun,12,2,2, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,7,rcb12,402F3061,126,Peter Mant,Jive,2
+OR,0,3,Final,Griffin Cooney,Diana Telengator,10,4,3, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,7,rcb12,402F3061,119,Dave Watson,Jive,3
+OR,0,4,Final,Griffin Cooney,Diana Telengator,11,4,4, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,7,rcb12,402F3061,119,Elizabeth C Knoll,Jive,3
+OR,0,3,Final,Griffin Cooney,Diana Telengator,12,4,3, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,7,rcb12,402F3061,119,Peter Mant,Jive,3
+OR,0,2,Final,Anthony Yatskov,Esther Nor-Ashkarian,10,3,2, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,7,rcb12,402F3061,113,Dave Watson,Jive,4
+OR,0,3,Final,Anthony Yatskov,Esther Nor-Ashkarian,11,3,3, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,7,rcb12,402F3061,113,Elizabeth C Knoll,Jive,4
+OR,0,4,Final,Anthony Yatskov,Esther Nor-Ashkarian,12,3,4, Youth Silver Intl. Multi-Dance  (WTFQSCRJ),Sample,7,rcb12,402F3061,113,Peter Mant,Jive,4
+OR,0,1,Final,Lucien Lasocki,Freya Morel-Seytoux,10,1,1, Pre-Teen Newcomer Standard  (W),Sample,0,rcb12,40272010,104,Dave Watson,Waltz,1
+OR,0,1,Final,Lucien Lasocki,Freya Morel-Seytoux,11,1,1, Pre-Teen Newcomer Standard  (W),Sample,0,rcb12,40272010,104,Elizabeth C Knoll,Waltz,1
+OR,0,1,Final,Lucien Lasocki,Freya Morel-Seytoux,12,1,1, Pre-Teen Newcomer Standard  (W),Sample,0,rcb12,40272010,104,Peter Mant,Waltz,1
+OR,0,1,Final,Griffin Cooney,Diana Telengator,10,1,1, Pre-Teen Silver Standard  (WFQ),Sample,0,rcb12,40273010,119,Dave Watson,Waltz,1
+OR,0,1,Final,Griffin Cooney,Diana Telengator,11,1,1, Pre-Teen Silver Standard  (WFQ),Sample,0,rcb12,40273010,119,Elizabeth C Knoll,Waltz,1
+OR,0,2,Final,Griffin Cooney,Diana Telengator,12,1,2, Pre-Teen Silver Standard  (WFQ),Sample,0,rcb12,40273010,119,Peter Mant,Waltz,1
+OR,0,2,Final,Anthony Yatskov,Esther Nor-Ashkarian,10,2,2, Pre-Teen Silver Standard  (WFQ),Sample,0,rcb12,40273010,113,Dave Watson,Waltz,2
+OR,0,3,Final,Anthony Yatskov,Esther Nor-Ashkarian,11,2,3, Pre-Teen Silver Standard  (WFQ),Sample,0,rcb12,40273010,113,Elizabeth C Knoll,Waltz,2
+OR,0,1,Final,Anthony Yatskov,Esther Nor-Ashkarian,12,2,1, Pre-Teen Silver Standard  (WFQ),Sample,0,rcb12,40273010,113,Peter Mant,Waltz,2
+OR,0,3,Final,Lazar Isakharov,Alena Budko,10,3,3, Pre-Teen Silver Standard  (WFQ),Sample,0,rcb12,40273010,120,Dave Watson,Waltz,3
+OR,0,2,Final,Lazar Isakharov,Alena Budko,11,3,2, Pre-Teen Silver Standard  (WFQ),Sample,0,rcb12,40273010,120,Elizabeth C Knoll,Waltz,3
+OR,0,3,Final,Lazar Isakharov,Alena Budko,12,3,3, Pre-Teen Silver Standard  (WFQ),Sample,0,rcb12,40273010,120,Peter Mant,Waltz,3
+OR,0,1,Final,Griffin Cooney,Diana Telengator,10,1,1, Pre-Teen Silver Standard  (WFQ),Sample,1,rcb12,40273010,119,Dave Watson,Foxtrot,1
+OR,0,1,Final,Griffin Cooney,Diana Telengator,11,1,1, Pre-Teen Silver Standard  (WFQ),Sample,1,rcb12,40273010,119,Elizabeth C Knoll,Foxtrot,1
+OR,0,2,Final,Griffin Cooney,Diana Telengator,12,1,2, Pre-Teen Silver Standard  (WFQ),Sample,1,rcb12,40273010,119,Peter Mant,Foxtrot,1
+OR,0,2,Final,Anthony Yatskov,Esther Nor-Ashkarian,10,2,2, Pre-Teen Silver Standard  (WFQ),Sample,1,rcb12,40273010,113,Dave Watson,Foxtrot,2
+OR,0,2,Final,Anthony Yatskov,Esther Nor-Ashkarian,11,2,2, Pre-Teen Silver Standard  (WFQ),Sample,1,rcb12,40273010,113,Elizabeth C Knoll,Foxtrot,2
+OR,0,1,Final,Anthony Yatskov,Esther Nor-Ashkarian,12,2,1, Pre-Teen Silver Standard  (WFQ),Sample,1,rcb12,40273010,113,Peter Mant,Foxtrot,2
+OR,0,3,Final,Lazar Isakharov,Alena Budko,10,3,3, Pre-Teen Silver Standard  (WFQ),Sample,1,rcb12,40273010,120,Dave Watson,Foxtrot,3
+OR,0,3,Final,Lazar Isakharov,Alena Budko,11,3,3, Pre-Teen Silver Standard  (WFQ),Sample,1,rcb12,40273010,120,Elizabeth C Knoll,Foxtrot,3
+OR,0,3,Final,Lazar Isakharov,Alena Budko,12,3,3, Pre-Teen Silver Standard  (WFQ),Sample,1,rcb12,40273010,120,Peter Mant,Foxtrot,3
+OR,0,2,Final,Griffin Cooney,Diana Telengator,10,1,2, Pre-Teen Silver Standard  (WFQ),Sample,2,rcb12,40273010,119,Dave Watson,Quickstep,1
+OR,0,2,Final,Griffin Cooney,Diana Telengator,11,1,2, Pre-Teen Silver Standard  (WFQ),Sample,2,rcb12,40273010,119,Elizabeth C Knoll,Quickstep,1
+OR,0,1,Final,Griffin Cooney,Diana Telengator,12,1,1, Pre-Teen Silver Standard  (WFQ),Sample,2,rcb12,40273010,119,Peter Mant,Quickstep,1
+OR,0,1,Final,Anthony Yatskov,Esther Nor-Ashkarian,10,3,1, Pre-Teen Silver Standard  (WFQ),Sample,2,rcb12,40273010,113,Dave Watson,Quickstep,2
+OR,0,3,Final,Anthony Yatskov,Esther Nor-Ashkarian,11,3,3, Pre-Teen Silver Standard  (WFQ),Sample,2,rcb12,40273010,113,Elizabeth C Knoll,Quickstep,2
+OR,0,3,Final,Anthony Yatskov,Esther Nor-Ashkarian,12,3,3, Pre-Teen Silver Standard  (WFQ),Sample,2,rcb12,40273010,113,Peter Mant,Quickstep,2
+OR,0,3,Final,Lazar Isakharov,Alena Budko,10,2,3, Pre-Teen Silver Standard  (WFQ),Sample,2,rcb12,40273010,120,Dave Watson,Quickstep,3
+OR,0,1,Final,Lazar Isakharov,Alena Budko,11,2,1, Pre-Teen Silver Standard  (WFQ),Sample,2,rcb12,40273010,120,Elizabeth C Knoll,Quickstep,3
+OR,0,2,Final,Lazar Isakharov,Alena Budko,12,2,2, Pre-Teen Silver Standard  (WFQ),Sample,2,rcb12,40273010,120,Peter Mant,Quickstep,3
+WA,0,1,Final,Jared McKell,Allison Sawyer,10,1,1, Youth Bronze Standard  (WQ),Sample,0,rcb12,402F2810,127,Dave Watson,Waltz,1
+WA,0,1,Final,Jared McKell,Allison Sawyer,11,1,1, Youth Bronze Standard  (WQ),Sample,0,rcb12,402F2810,127,Elizabeth C Knoll,Waltz,1
+WA,0,1,Final,Jared McKell,Allison Sawyer,12,1,1, Youth Bronze Standard  (WQ),Sample,0,rcb12,402F2810,127,Peter Mant,Waltz,1
+OR,0,2,Final,Andres Cortez,Jin Mei McMahon,10,2,2, Youth Bronze Standard  (WQ),Sample,0,rcb12,402F2810,122,Dave Watson,Waltz,2
+OR,0,2,Final,Andres Cortez,Jin Mei McMahon,11,2,2, Youth Bronze Standard  (WQ),Sample,0,rcb12,402F2810,122,Elizabeth C Knoll,Waltz,2
+OR,0,2,Final,Andres Cortez,Jin Mei McMahon,12,2,2, Youth Bronze Standard  (WQ),Sample,0,rcb12,402F2810,122,Peter Mant,Waltz,2
+WA,0,1,Final,Jared McKell,Allison Sawyer,10,1,1, Youth Bronze Standard  (WQ),Sample,1,rcb12,402F2810,127,Dave Watson,Quickstep,1
+WA,0,1,Final,Jared McKell,Allison Sawyer,11,1,1, Youth Bronze Standard  (WQ),Sample,1,rcb12,402F2810,127,Elizabeth C Knoll,Quickstep,1
+WA,0,1,Final,Jared McKell,Allison Sawyer,12,1,1, Youth Bronze Standard  (WQ),Sample,1,rcb12,402F2810,127,Peter Mant,Quickstep,1
+OR,0,2,Final,Andres Cortez,Jin Mei McMahon,10,2,2, Youth Bronze Standard  (WQ),Sample,1,rcb12,402F2810,122,Dave Watson,Quickstep,2
+OR,0,2,Final,Andres Cortez,Jin Mei McMahon,11,2,2, Youth Bronze Standard  (WQ),Sample,1,rcb12,402F2810,122,Elizabeth C Knoll,Quickstep,2
+OR,0,2,Final,Andres Cortez,Jin Mei McMahon,12,2,2, Youth Bronze Standard  (WQ),Sample,1,rcb12,402F2810,122,Peter Mant,Quickstep,2
+OR,0,1,Final,Lucien Lasocki,Freya Morel-Seytoux,10,1,1, Junior Newcomer Standard  (W),Sample,0,rcb12,402C2010,104,Dave Watson,Waltz,1
+OR,0,1,Final,Lucien Lasocki,Freya Morel-Seytoux,11,1,1, Junior Newcomer Standard  (W),Sample,0,rcb12,402C2010,104,Elizabeth C Knoll,Waltz,1
+OR,0,1,Final,Lucien Lasocki,Freya Morel-Seytoux,12,1,1, Junior Newcomer Standard  (W),Sample,0,rcb12,402C2010,104,Peter Mant,Waltz,1
+OR,0,2,Final,Anthony Yatskov,Esther Nor-Ashkarian,10,1,2, Pre-Teen Bronze Standard  (WQ),Sample,0,rcb12,40272810,113,Dave Watson,Waltz,1
+OR,0,1,Final,Anthony Yatskov,Esther Nor-Ashkarian,11,1,1, Pre-Teen Bronze Standard  (WQ),Sample,0,rcb12,40272810,113,Elizabeth C Knoll,Waltz,1
+OR,0,1,Final,Anthony Yatskov,Esther Nor-Ashkarian,12,1,1, Pre-Teen Bronze Standard  (WQ),Sample,0,rcb12,40272810,113,Peter Mant,Waltz,1
+OR,0,1,Final,Etan Khlevnoy,Rachel Modlin,10,2,1, Pre-Teen Bronze Standard  (WQ),Sample,0,rcb12,40272810,101,Dave Watson,Waltz,2
+OR,0,2,Final,Etan Khlevnoy,Rachel Modlin,11,2,2, Pre-Teen Bronze Standard  (WQ),Sample,0,rcb12,40272810,101,Elizabeth C Knoll,Waltz,2
+OR,0,2,Final,Etan Khlevnoy,Rachel Modlin,12,2,2, Pre-Teen Bronze Standard  (WQ),Sample,0,rcb12,40272810,101,Peter Mant,Waltz,2
+OR,0,3,Final,Lucien Lasocki,Freya Morel-Seytoux,10,3,3, Pre-Teen Bronze Standard  (WQ),Sample,0,rcb12,40272810,104,Dave Watson,Waltz,3
+OR,0,3,Final,Lucien Lasocki,Freya Morel-Seytoux,11,3,3, Pre-Teen Bronze Standard  (WQ),Sample,0,rcb12,40272810,104,Elizabeth C Knoll,Waltz,3
+OR,0,3,Final,Lucien Lasocki,Freya Morel-Seytoux,12,3,3, Pre-Teen Bronze Standard  (WQ),Sample,0,rcb12,40272810,104,Peter Mant,Waltz,3
+OR,0,4,Final,Lazar Isakharov,Alena Budko,10,4,4, Pre-Teen Bronze Standard  (WQ),Sample,0,rcb12,40272810,120,Dave Watson,Waltz,4
+OR,0,4,Final,Lazar Isakharov,Alena Budko,11,4,4, Pre-Teen Bronze Standard  (WQ),Sample,0,rcb12,40272810,120,Elizabeth C Knoll,Waltz,4
+OR,0,4,Final,Lazar Isakharov,Alena Budko,12,4,4, Pre-Teen Bronze Standard  (WQ),Sample,0,rcb12,40272810,120,Peter Mant,Waltz,4
+OR,0,1,Final,Anthony Yatskov,Esther Nor-Ashkarian,10,1,1, Pre-Teen Bronze Standard  (WQ),Sample,1,rcb12,40272810,113,Dave Watson,Quickstep,1
+OR,0,2,Final,Anthony Yatskov,Esther Nor-Ashkarian,11,1,2, Pre-Teen Bronze Standard  (WQ),Sample,1,rcb12,40272810,113,Elizabeth C Knoll,Quickstep,1
+OR,0,1,Final,Anthony Yatskov,Esther Nor-Ashkarian,12,1,1, Pre-Teen Bronze Standard  (WQ),Sample,1,rcb12,40272810,113,Peter Mant,Quickstep,1
+OR,0,2,Final,Etan Khlevnoy,Rachel Modlin,10,3,2, Pre-Teen Bronze Standard  (WQ),Sample,1,rcb12,40272810,101,Dave Watson,Quickstep,2
+OR,0,4,Final,Etan Khlevnoy,Rachel Modlin,11,3,4, Pre-Teen Bronze Standard  (WQ),Sample,1,rcb12,40272810,101,Elizabeth C Knoll,Quickstep,2
+OR,0,3,Final,Etan Khlevnoy,Rachel Modlin,12,3,3, Pre-Teen Bronze Standard  (WQ),Sample,1,rcb12,40272810,101,Peter Mant,Quickstep,2
+OR,0,3,Final,Lucien Lasocki,Freya Morel-Seytoux,10,2,3, Pre-Teen Bronze Standard  (WQ),Sample,1,rcb12,40272810,104,Dave Watson,Quickstep,3
+OR,0,1,Final,Lucien Lasocki,Freya Morel-Seytoux,11,2,1, Pre-Teen Bronze Standard  (WQ),Sample,1,rcb12,40272810,104,Elizabeth C Knoll,Quickstep,3
+OR,0,2,Final,Lucien Lasocki,Freya Morel-Seytoux,12,2,2, Pre-Teen Bronze Standard  (WQ),Sample,1,rcb12,40272810,104,Peter Mant,Quickstep,3
+OR,0,4,Final,Lazar Isakharov,Alena Budko,10,4,4, Pre-Teen Bronze Standard  (WQ),Sample,1,rcb12,40272810,120,Dave Watson,Quickstep,4
+OR,0,3,Final,Lazar Isakharov,Alena Budko,11,4,3, Pre-Teen Bronze Standard  (WQ),Sample,1,rcb12,40272810,120,Elizabeth C Knoll,Quickstep,4
+OR,0,4,Final,Lazar Isakharov,Alena Budko,12,4,4, Pre-Teen Bronze Standard  (WQ),Sample,1,rcb12,40272810,120,Peter Mant,Quickstep,4
+OR,0,1,Final,Scott Nicholson,Emilia Wolf,10,1,1, Youth Silver Standard  (WFQ),Sample,0,rcb12,402F3010,103,Dave Watson,Waltz,1
+OR,0,1,Final,Scott Nicholson,Emilia Wolf,11,1,1, Youth Silver Standard  (WFQ),Sample,0,rcb12,402F3010,103,Elizabeth C Knoll,Waltz,1
+OR,0,3,Final,Scott Nicholson,Emilia Wolf,12,1,3, Youth Silver Standard  (WFQ),Sample,0,rcb12,402F3010,103,Peter Mant,Waltz,1
+WA,0,2,Final,Riley Hayes,Elise Kuechle,10,2,2, Youth Silver Standard  (WFQ),Sample,0,rcb12,402F3010,129,Dave Watson,Waltz,2
+WA,0,2,Final,Riley Hayes,Elise Kuechle,11,2,2, Youth Silver Standard  (WFQ),Sample,0,rcb12,402F3010,129,Elizabeth C Knoll,Waltz,2
+WA,0,1,Final,Riley Hayes,Elise Kuechle,12,2,1, Youth Silver Standard  (WFQ),Sample,0,rcb12,402F3010,129,Peter Mant,Waltz,2
+WA,0,3,Final,Jared McKell,Allison Sawyer,10,3,3, Youth Silver Standard  (WFQ),Sample,0,rcb12,402F3010,127,Dave Watson,Waltz,3
+WA,0,3,Final,Jared McKell,Allison Sawyer,11,3,3, Youth Silver Standard  (WFQ),Sample,0,rcb12,402F3010,127,Elizabeth C Knoll,Waltz,3
+WA,0,2,Final,Jared McKell,Allison Sawyer,12,3,2, Youth Silver Standard  (WFQ),Sample,0,rcb12,402F3010,127,Peter Mant,Waltz,3
+OR,0,1,Final,Scott Nicholson,Emilia Wolf,10,1,1, Youth Silver Standard  (WFQ),Sample,1,rcb12,402F3010,103,Dave Watson,Foxtrot,1
+OR,0,1,Final,Scott Nicholson,Emilia Wolf,11,1,1, Youth Silver Standard  (WFQ),Sample,1,rcb12,402F3010,103,Elizabeth C Knoll,Foxtrot,1
+OR,0,3,Final,Scott Nicholson,Emilia Wolf,12,1,3, Youth Silver Standard  (WFQ),Sample,1,rcb12,402F3010,103,Peter Mant,Foxtrot,1
+WA,0,2,Final,Riley Hayes,Elise Kuechle,10,2,2, Youth Silver Standard  (WFQ),Sample,1,rcb12,402F3010,129,Dave Watson,Foxtrot,2
+WA,0,2,Final,Riley Hayes,Elise Kuechle,11,2,2, Youth Silver Standard  (WFQ),Sample,1,rcb12,402F3010,129,Elizabeth C Knoll,Foxtrot,2
+WA,0,1,Final,Riley Hayes,Elise Kuechle,12,2,1, Youth Silver Standard  (WFQ),Sample,1,rcb12,402F3010,129,Peter Mant,Foxtrot,2
+WA,0,3,Final,Jared McKell,Allison Sawyer,10,3,3, Youth Silver Standard  (WFQ),Sample,1,rcb12,402F3010,127,Dave Watson,Foxtrot,3
+WA,0,3,Final,Jared McKell,Allison Sawyer,11,3,3, Youth Silver Standard  (WFQ),Sample,1,rcb12,402F3010,127,Elizabeth C Knoll,Foxtrot,3
+WA,0,2,Final,Jared McKell,Allison Sawyer,12,3,2, Youth Silver Standard  (WFQ),Sample,1,rcb12,402F3010,127,Peter Mant,Foxtrot,3
+OR,0,2,Final,Scott Nicholson,Emilia Wolf,10,2,2, Youth Silver Standard  (WFQ),Sample,2,rcb12,402F3010,103,Dave Watson,Quickstep,1
+OR,0,1,Final,Scott Nicholson,Emilia Wolf,11,2,1, Youth Silver Standard  (WFQ),Sample,2,rcb12,402F3010,103,Elizabeth C Knoll,Quickstep,1
+OR,0,2,Final,Scott Nicholson,Emilia Wolf,12,2,2, Youth Silver Standard  (WFQ),Sample,2,rcb12,402F3010,103,Peter Mant,Quickstep,1
+WA,0,1,Final,Riley Hayes,Elise Kuechle,10,1,1, Youth Silver Standard  (WFQ),Sample,2,rcb12,402F3010,129,Dave Watson,Quickstep,2
+WA,0,2,Final,Riley Hayes,Elise Kuechle,11,1,2, Youth Silver Standard  (WFQ),Sample,2,rcb12,402F3010,129,Elizabeth C Knoll,Quickstep,2
+WA,0,1,Final,Riley Hayes,Elise Kuechle,12,1,1, Youth Silver Standard  (WFQ),Sample,2,rcb12,402F3010,129,Peter Mant,Quickstep,2
+WA,0,3,Final,Jared McKell,Allison Sawyer,10,3,3, Youth Silver Standard  (WFQ),Sample,2,rcb12,402F3010,127,Dave Watson,Quickstep,3
+WA,0,3,Final,Jared McKell,Allison Sawyer,11,3,3, Youth Silver Standard  (WFQ),Sample,2,rcb12,402F3010,127,Elizabeth C Knoll,Quickstep,3
+WA,0,3,Final,Jared McKell,Allison Sawyer,12,3,3, Youth Silver Standard  (WFQ),Sample,2,rcb12,402F3010,127,Peter Mant,Quickstep,3
+OR,0,2,Final,Anthony Yatskov,Esther Nor-Ashkarian,10,1,2, Junior Bronze Standard  (WQ),Sample,0,rcb12,402C2810,113,Dave Watson,Waltz,1
+OR,0,1,Final,Anthony Yatskov,Esther Nor-Ashkarian,11,1,1, Junior Bronze Standard  (WQ),Sample,0,rcb12,402C2810,113,Elizabeth C Knoll,Waltz,1
+OR,0,1,Final,Anthony Yatskov,Esther Nor-Ashkarian,12,1,1, Junior Bronze Standard  (WQ),Sample,0,rcb12,402C2810,113,Peter Mant,Waltz,1
+OR,0,3,Final,Lucien Lasocki,Freya Morel-Seytoux,10,3,3, Junior Bronze Standard  (WQ),Sample,0,rcb12,402C2810,104,Dave Watson,Waltz,2
+OR,0,2,Final,Lucien Lasocki,Freya Morel-Seytoux,11,3,2, Junior Bronze Standard  (WQ),Sample,0,rcb12,402C2810,104,Elizabeth C Knoll,Waltz,2
+OR,0,3,Final,Lucien Lasocki,Freya Morel-Seytoux,12,3,3, Junior Bronze Standard  (WQ),Sample,0,rcb12,402C2810,104,Peter Mant,Waltz,2
+OR,0,1,Final,Etan Khlevnoy,Rachel Modlin,10,2,1, Junior Bronze Standard  (WQ),Sample,0,rcb12,402C2810,101,Dave Watson,Waltz,3
+OR,0,4,Final,Etan Khlevnoy,Rachel Modlin,11,2,4, Junior Bronze Standard  (WQ),Sample,0,rcb12,402C2810,101,Elizabeth C Knoll,Waltz,3
+OR,0,2,Final,Etan Khlevnoy,Rachel Modlin,12,2,2, Junior Bronze Standard  (WQ),Sample,0,rcb12,402C2810,101,Peter Mant,Waltz,3
+OR,0,4,Final,William Liu,Natalie Hayes,10,5,4, Junior Bronze Standard  (WQ),Sample,0,rcb12,402C2810,130,Dave Watson,Waltz,4
+OR,0,5,Final,William Liu,Natalie Hayes,11,5,5, Junior Bronze Standard  (WQ),Sample,0,rcb12,402C2810,130,Elizabeth C Knoll,Waltz,4
+OR,0,5,Final,William Liu,Natalie Hayes,12,5,5, Junior Bronze Standard  (WQ),Sample,0,rcb12,402C2810,130,Peter Mant,Waltz,4
+OR,0,5,Final,Lazar Isakharov,Alena Budko,10,4,5, Junior Bronze Standard  (WQ),Sample,0,rcb12,402C2810,120,Dave Watson,Waltz,5
+OR,0,3,Final,Lazar Isakharov,Alena Budko,11,4,3, Junior Bronze Standard  (WQ),Sample,0,rcb12,402C2810,120,Elizabeth C Knoll,Waltz,5
+OR,0,4,Final,Lazar Isakharov,Alena Budko,12,4,4, Junior Bronze Standard  (WQ),Sample,0,rcb12,402C2810,120,Peter Mant,Waltz,5
+OR,0,1,Final,Anthony Yatskov,Esther Nor-Ashkarian,10,1,1, Junior Bronze Standard  (WQ),Sample,1,rcb12,402C2810,113,Dave Watson,Quickstep,1
+OR,0,2,Final,Anthony Yatskov,Esther Nor-Ashkarian,11,1,2, Junior Bronze Standard  (WQ),Sample,1,rcb12,402C2810,113,Elizabeth C Knoll,Quickstep,1
+OR,0,1,Final,Anthony Yatskov,Esther Nor-Ashkarian,12,1,1, Junior Bronze Standard  (WQ),Sample,1,rcb12,402C2810,113,Peter Mant,Quickstep,1
+OR,0,3,Final,Lucien Lasocki,Freya Morel-Seytoux,10,2,3, Junior Bronze Standard  (WQ),Sample,1,rcb12,402C2810,104,Dave Watson,Quickstep,2
+OR,0,1,Final,Lucien Lasocki,Freya Morel-Seytoux,11,2,1, Junior Bronze Standard  (WQ),Sample,1,rcb12,402C2810,104,Elizabeth C Knoll,Quickstep,2
+OR,0,2,Final,Lucien Lasocki,Freya Morel-Seytoux,12,2,2, Junior Bronze Standard  (WQ),Sample,1,rcb12,402C2810,104,Peter Mant,Quickstep,2
+OR,0,2,Final,Etan Khlevnoy,Rachel Modlin,10,3,2, Junior Bronze Standard  (WQ),Sample,1,rcb12,402C2810,101,Dave Watson,Quickstep,3
+OR,0,5,Final,Etan Khlevnoy,Rachel Modlin,11,3,5, Junior Bronze Standard  (WQ),Sample,1,rcb12,402C2810,101,Elizabeth C Knoll,Quickstep,3
+OR,0,3,Final,Etan Khlevnoy,Rachel Modlin,12,3,3, Junior Bronze Standard  (WQ),Sample,1,rcb12,402C2810,101,Peter Mant,Quickstep,3
+OR,0,4,Final,William Liu,Natalie Hayes,10,4,4, Junior Bronze Standard  (WQ),Sample,1,rcb12,402C2810,130,Dave Watson,Quickstep,4
+OR,0,4,Final,William Liu,Natalie Hayes,11,4,4, Junior Bronze Standard  (WQ),Sample,1,rcb12,402C2810,130,Elizabeth C Knoll,Quickstep,4
+OR,0,4,Final,William Liu,Natalie Hayes,12,4,4, Junior Bronze Standard  (WQ),Sample,1,rcb12,402C2810,130,Peter Mant,Quickstep,4
+OR,0,5,Final,Lazar Isakharov,Alena Budko,10,5,5, Junior Bronze Standard  (WQ),Sample,1,rcb12,402C2810,120,Dave Watson,Quickstep,5
+OR,0,3,Final,Lazar Isakharov,Alena Budko,11,5,3, Junior Bronze Standard  (WQ),Sample,1,rcb12,402C2810,120,Elizabeth C Knoll,Quickstep,5
+OR,0,5,Final,Lazar Isakharov,Alena Budko,12,5,5, Junior Bronze Standard  (WQ),Sample,1,rcb12,402C2810,120,Peter Mant,Quickstep,5
+OR,0,1,Final,Scott Nicholson,Emilia Wolf,10,1,1, Junior Silver Standard  (WFQ),Sample,0,rcb12,402C3010,103,Dave Watson,Waltz,1
+OR,0,1,Final,Scott Nicholson,Emilia Wolf,11,1,1, Junior Silver Standard  (WFQ),Sample,0,rcb12,402C3010,103,Elizabeth C Knoll,Waltz,1
+OR,0,3,Final,Scott Nicholson,Emilia Wolf,12,1,3, Junior Silver Standard  (WFQ),Sample,0,rcb12,402C3010,103,Peter Mant,Waltz,1
+WA,0,2,Final,Riley Hayes,Elise Kuechle,10,2,2, Junior Silver Standard  (WFQ),Sample,0,rcb12,402C3010,129,Dave Watson,Waltz,2
+WA,0,2,Final,Riley Hayes,Elise Kuechle,11,2,2, Junior Silver Standard  (WFQ),Sample,0,rcb12,402C3010,129,Elizabeth C Knoll,Waltz,2
+WA,0,1,Final,Riley Hayes,Elise Kuechle,12,2,1, Junior Silver Standard  (WFQ),Sample,0,rcb12,402C3010,129,Peter Mant,Waltz,2
+OR,0,4,Final,Griffin Cooney,Diana Telengator,10,3,4, Junior Silver Standard  (WFQ),Sample,0,rcb12,402C3010,119,Dave Watson,Waltz,3
+OR,0,3,Final,Griffin Cooney,Diana Telengator,11,3,3, Junior Silver Standard  (WFQ),Sample,0,rcb12,402C3010,119,Elizabeth C Knoll,Waltz,3
+OR,0,2,Final,Griffin Cooney,Diana Telengator,12,3,2, Junior Silver Standard  (WFQ),Sample,0,rcb12,402C3010,119,Peter Mant,Waltz,3
+OR,0,3,Final,Anthony Yatskov,Esther Nor-Ashkarian,10,4,3, Junior Silver Standard  (WFQ),Sample,0,rcb12,402C3010,113,Dave Watson,Waltz,4
+OR,0,4,Final,Anthony Yatskov,Esther Nor-Ashkarian,11,4,4, Junior Silver Standard  (WFQ),Sample,0,rcb12,402C3010,113,Elizabeth C Knoll,Waltz,4
+OR,0,4,Final,Anthony Yatskov,Esther Nor-Ashkarian,12,4,4, Junior Silver Standard  (WFQ),Sample,0,rcb12,402C3010,113,Peter Mant,Waltz,4
+OR,0,2,Final,Scott Nicholson,Emilia Wolf,10,2,2, Junior Silver Standard  (WFQ),Sample,1,rcb12,402C3010,103,Dave Watson,Foxtrot,1
+OR,0,1,Final,Scott Nicholson,Emilia Wolf,11,2,1, Junior Silver Standard  (WFQ),Sample,1,rcb12,402C3010,103,Elizabeth C Knoll,Foxtrot,1
+OR,0,2,Final,Scott Nicholson,Emilia Wolf,12,2,2, Junior Silver Standard  (WFQ),Sample,1,rcb12,402C3010,103,Peter Mant,Foxtrot,1
+WA,0,1,Final,Riley Hayes,Elise Kuechle,10,1,1, Junior Silver Standard  (WFQ),Sample,1,rcb12,402C3010,129,Dave Watson,Foxtrot,2
+WA,0,2,Final,Riley Hayes,Elise Kuechle,11,1,2, Junior Silver Standard  (WFQ),Sample,1,rcb12,402C3010,129,Elizabeth C Knoll,Foxtrot,2
+WA,0,1,Final,Riley Hayes,Elise Kuechle,12,1,1, Junior Silver Standard  (WFQ),Sample,1,rcb12,402C3010,129,Peter Mant,Foxtrot,2
+OR,0,4,Final,Griffin Cooney,Diana Telengator,10,3,4, Junior Silver Standard  (WFQ),Sample,1,rcb12,402C3010,119,Dave Watson,Foxtrot,3
+OR,0,3,Final,Griffin Cooney,Diana Telengator,11,3,3, Junior Silver Standard  (WFQ),Sample,1,rcb12,402C3010,119,Elizabeth C Knoll,Foxtrot,3
+OR,0,3,Final,Griffin Cooney,Diana Telengator,12,3,3, Junior Silver Standard  (WFQ),Sample,1,rcb12,402C3010,119,Peter Mant,Foxtrot,3
+OR,0,3,Final,Anthony Yatskov,Esther Nor-Ashkarian,10,4,3, Junior Silver Standard  (WFQ),Sample,1,rcb12,402C3010,113,Dave Watson,Foxtrot,4
+OR,0,4,Final,Anthony Yatskov,Esther Nor-Ashkarian,11,4,4, Junior Silver Standard  (WFQ),Sample,1,rcb12,402C3010,113,Elizabeth C Knoll,Foxtrot,4
+OR,0,4,Final,Anthony Yatskov,Esther Nor-Ashkarian,12,4,4, Junior Silver Standard  (WFQ),Sample,1,rcb12,402C3010,113,Peter Mant,Foxtrot,4
+OR,0,1,Final,Scott Nicholson,Emilia Wolf,10,1,1, Junior Silver Standard  (WFQ),Sample,2,rcb12,402C3010,103,Dave Watson,Quickstep,1
+OR,0,1,Final,Scott Nicholson,Emilia Wolf,11,1,1, Junior Silver Standard  (WFQ),Sample,2,rcb12,402C3010,103,Elizabeth C Knoll,Quickstep,1
+OR,0,1,Final,Scott Nicholson,Emilia Wolf,12,1,1, Junior Silver Standard  (WFQ),Sample,2,rcb12,402C3010,103,Peter Mant,Quickstep,1
+WA,0,2,Final,Riley Hayes,Elise Kuechle,10,2,2, Junior Silver Standard  (WFQ),Sample,2,rcb12,402C3010,129,Dave Watson,Quickstep,2
+WA,0,2,Final,Riley Hayes,Elise Kuechle,11,2,2, Junior Silver Standard  (WFQ),Sample,2,rcb12,402C3010,129,Elizabeth C Knoll,Quickstep,2
+WA,0,2,Final,Riley Hayes,Elise Kuechle,12,2,2, Junior Silver Standard  (WFQ),Sample,2,rcb12,402C3010,129,Peter Mant,Quickstep,2
+OR,0,4,Final,Griffin Cooney,Diana Telengator,10,4,4, Junior Silver Standard  (WFQ),Sample,2,rcb12,402C3010,119,Dave Watson,Quickstep,3
+OR,0,4,Final,Griffin Cooney,Diana Telengator,11,4,4, Junior Silver Standard  (WFQ),Sample,2,rcb12,402C3010,119,Elizabeth C Knoll,Quickstep,3
+OR,0,3,Final,Griffin Cooney,Diana Telengator,12,4,3, Junior Silver Standard  (WFQ),Sample,2,rcb12,402C3010,119,Peter Mant,Quickstep,3
+OR,0,3,Final,Anthony Yatskov,Esther Nor-Ashkarian,10,3,3, Junior Silver Standard  (WFQ),Sample,2,rcb12,402C3010,113,Dave Watson,Quickstep,4
+OR,0,3,Final,Anthony Yatskov,Esther Nor-Ashkarian,11,3,3, Junior Silver Standard  (WFQ),Sample,2,rcb12,402C3010,113,Elizabeth C Knoll,Quickstep,4
+OR,0,4,Final,Anthony Yatskov,Esther Nor-Ashkarian,12,3,4, Junior Silver Standard  (WFQ),Sample,2,rcb12,402C3010,113,Peter Mant,Quickstep,4
+OR,0,1,Final,Chad Crader,Samantha Sun,10,1,1, Youth Gold Standard  (WTFQ),Sample,0,rcb12,402F3810,126,Dave Watson,Waltz,1
+OR,0,1,Final,Chad Crader,Samantha Sun,11,1,1, Youth Gold Standard  (WTFQ),Sample,0,rcb12,402F3810,126,Elizabeth C Knoll,Waltz,1
+OR,0,1,Final,Chad Crader,Samantha Sun,12,1,1, Youth Gold Standard  (WTFQ),Sample,0,rcb12,402F3810,126,Peter Mant,Waltz,1
+WA,0,2,Final,Riley Hayes,Elise Kuechle,10,2,2, Youth Gold Standard  (WTFQ),Sample,0,rcb12,402F3810,129,Dave Watson,Waltz,2
+WA,0,2,Final,Riley Hayes,Elise Kuechle,11,2,2, Youth Gold Standard  (WTFQ),Sample,0,rcb12,402F3810,129,Elizabeth C Knoll,Waltz,2
+WA,0,2,Final,Riley Hayes,Elise Kuechle,12,2,2, Youth Gold Standard  (WTFQ),Sample,0,rcb12,402F3810,129,Peter Mant,Waltz,2
+OR,0,1,Final,Chad Crader,Samantha Sun,10,1,1, Youth Gold Standard  (WTFQ),Sample,1,rcb12,402F3810,126,Dave Watson,Tango,1
+OR,0,1,Final,Chad Crader,Samantha Sun,11,1,1, Youth Gold Standard  (WTFQ),Sample,1,rcb12,402F3810,126,Elizabeth C Knoll,Tango,1
+OR,0,1,Final,Chad Crader,Samantha Sun,12,1,1, Youth Gold Standard  (WTFQ),Sample,1,rcb12,402F3810,126,Peter Mant,Tango,1
+WA,0,2,Final,Riley Hayes,Elise Kuechle,10,2,2, Youth Gold Standard  (WTFQ),Sample,1,rcb12,402F3810,129,Dave Watson,Tango,2
+WA,0,2,Final,Riley Hayes,Elise Kuechle,11,2,2, Youth Gold Standard  (WTFQ),Sample,1,rcb12,402F3810,129,Elizabeth C Knoll,Tango,2
+WA,0,2,Final,Riley Hayes,Elise Kuechle,12,2,2, Youth Gold Standard  (WTFQ),Sample,1,rcb12,402F3810,129,Peter Mant,Tango,2
+OR,0,2,Final,Chad Crader,Samantha Sun,10,1,2, Youth Gold Standard  (WTFQ),Sample,2,rcb12,402F3810,126,Dave Watson,Foxtrot,1
+OR,0,1,Final,Chad Crader,Samantha Sun,11,1,1, Youth Gold Standard  (WTFQ),Sample,2,rcb12,402F3810,126,Elizabeth C Knoll,Foxtrot,1
+OR,0,1,Final,Chad Crader,Samantha Sun,12,1,1, Youth Gold Standard  (WTFQ),Sample,2,rcb12,402F3810,126,Peter Mant,Foxtrot,1
+WA,0,1,Final,Riley Hayes,Elise Kuechle,10,2,1, Youth Gold Standard  (WTFQ),Sample,2,rcb12,402F3810,129,Dave Watson,Foxtrot,2
+WA,0,2,Final,Riley Hayes,Elise Kuechle,11,2,2, Youth Gold Standard  (WTFQ),Sample,2,rcb12,402F3810,129,Elizabeth C Knoll,Foxtrot,2
+WA,0,2,Final,Riley Hayes,Elise Kuechle,12,2,2, Youth Gold Standard  (WTFQ),Sample,2,rcb12,402F3810,129,Peter Mant,Foxtrot,2
+OR,0,2,Final,Chad Crader,Samantha Sun,10,1,2, Youth Gold Standard  (WTFQ),Sample,3,rcb12,402F3810,126,Dave Watson,Quickstep,1
+OR,0,1,Final,Chad Crader,Samantha Sun,11,1,1, Youth Gold Standard  (WTFQ),Sample,3,rcb12,402F3810,126,Elizabeth C Knoll,Quickstep,1
+OR,0,1,Final,Chad Crader,Samantha Sun,12,1,1, Youth Gold Standard  (WTFQ),Sample,3,rcb12,402F3810,126,Peter Mant,Quickstep,1
+WA,0,1,Final,Riley Hayes,Elise Kuechle,10,2,1, Youth Gold Standard  (WTFQ),Sample,3,rcb12,402F3810,129,Dave Watson,Quickstep,2
+WA,0,2,Final,Riley Hayes,Elise Kuechle,11,2,2, Youth Gold Standard  (WTFQ),Sample,3,rcb12,402F3810,129,Elizabeth C Knoll,Quickstep,2
+WA,0,2,Final,Riley Hayes,Elise Kuechle,12,2,2, Youth Gold Standard  (WTFQ),Sample,3,rcb12,402F3810,129,Peter Mant,Quickstep,2
+WA,0,1,Final,Erik Linder,Rickie Taylor,10,1,1, Junior Pre-Champ Standard  (WTFQ),Sample,0,rcb12,402C8310,108,Dave Watson,Waltz,1
+WA,0,1,Final,Erik Linder,Rickie Taylor,11,1,1, Junior Pre-Champ Standard  (WTFQ),Sample,0,rcb12,402C8310,108,Elizabeth C Knoll,Waltz,1
+WA,0,1,Final,Erik Linder,Rickie Taylor,12,1,1, Junior Pre-Champ Standard  (WTFQ),Sample,0,rcb12,402C8310,108,Peter Mant,Waltz,1
+WA,0,1,Final,Erik Linder,Rickie Taylor,10,1,1, Junior Pre-Champ Standard  (WTFQ),Sample,1,rcb12,402C8310,108,Dave Watson,Tango,1
+WA,0,1,Final,Erik Linder,Rickie Taylor,11,1,1, Junior Pre-Champ Standard  (WTFQ),Sample,1,rcb12,402C8310,108,Elizabeth C Knoll,Tango,1
+WA,0,1,Final,Erik Linder,Rickie Taylor,12,1,1, Junior Pre-Champ Standard  (WTFQ),Sample,1,rcb12,402C8310,108,Peter Mant,Tango,1
+WA,0,1,Final,Erik Linder,Rickie Taylor,10,1,1, Junior Pre-Champ Standard  (WTFQ),Sample,2,rcb12,402C8310,108,Dave Watson,Foxtrot,1
+WA,0,1,Final,Erik Linder,Rickie Taylor,11,1,1, Junior Pre-Champ Standard  (WTFQ),Sample,2,rcb12,402C8310,108,Elizabeth C Knoll,Foxtrot,1
+WA,0,1,Final,Erik Linder,Rickie Taylor,12,1,1, Junior Pre-Champ Standard  (WTFQ),Sample,2,rcb12,402C8310,108,Peter Mant,Foxtrot,1
+WA,0,1,Final,Erik Linder,Rickie Taylor,10,1,1, Junior Pre-Champ Standard  (WTFQ),Sample,3,rcb12,402C8310,108,Dave Watson,Quickstep,1
+WA,0,1,Final,Erik Linder,Rickie Taylor,11,1,1, Junior Pre-Champ Standard  (WTFQ),Sample,3,rcb12,402C8310,108,Elizabeth C Knoll,Quickstep,1
+WA,0,1,Final,Erik Linder,Rickie Taylor,12,1,1, Junior Pre-Champ Standard  (WTFQ),Sample,3,rcb12,402C8310,108,Peter Mant,Quickstep,1
+WA,0,1,Final,James Itaya,Maxine Taylor,10,1,1, Youth Pre-Champ Standard  (WTFQ),Sample,0,rcb12,402F8310,133,Dave Watson,Waltz,1
+WA,0,1,Final,James Itaya,Maxine Taylor,11,1,1, Youth Pre-Champ Standard  (WTFQ),Sample,0,rcb12,402F8310,133,Elizabeth C Knoll,Waltz,1
+WA,0,1,Final,James Itaya,Maxine Taylor,12,1,1, Youth Pre-Champ Standard  (WTFQ),Sample,0,rcb12,402F8310,133,Peter Mant,Waltz,1
+WA,0,1,Final,James Itaya,Maxine Taylor,10,1,1, Youth Pre-Champ Standard  (WTFQ),Sample,1,rcb12,402F8310,133,Dave Watson,Tango,1
+WA,0,1,Final,James Itaya,Maxine Taylor,11,1,1, Youth Pre-Champ Standard  (WTFQ),Sample,1,rcb12,402F8310,133,Elizabeth C Knoll,Tango,1
+WA,0,1,Final,James Itaya,Maxine Taylor,12,1,1, Youth Pre-Champ Standard  (WTFQ),Sample,1,rcb12,402F8310,133,Peter Mant,Tango,1
+WA,0,1,Final,James Itaya,Maxine Taylor,10,1,1, Youth Pre-Champ Standard  (WTFQ),Sample,2,rcb12,402F8310,133,Dave Watson,Foxtrot,1
+WA,0,1,Final,James Itaya,Maxine Taylor,11,1,1, Youth Pre-Champ Standard  (WTFQ),Sample,2,rcb12,402F8310,133,Elizabeth C Knoll,Foxtrot,1
+WA,0,1,Final,James Itaya,Maxine Taylor,12,1,1, Youth Pre-Champ Standard  (WTFQ),Sample,2,rcb12,402F8310,133,Peter Mant,Foxtrot,1
+WA,0,1,Final,James Itaya,Maxine Taylor,10,1,1, Youth Pre-Champ Standard  (WTFQ),Sample,3,rcb12,402F8310,133,Dave Watson,Quickstep,1
+WA,0,1,Final,James Itaya,Maxine Taylor,11,1,1, Youth Pre-Champ Standard  (WTFQ),Sample,3,rcb12,402F8310,133,Elizabeth C Knoll,Quickstep,1
+WA,0,1,Final,James Itaya,Maxine Taylor,12,1,1, Youth Pre-Champ Standard  (WTFQ),Sample,3,rcb12,402F8310,133,Peter Mant,Quickstep,1
+WA,0,1,Final,James Itaya,Maxine Taylor,10,1,1, Youth Novice Standard  (WFQ),Sample,0,rcb12,402F8110,133,Dave Watson,Waltz,1
+WA,0,1,Final,James Itaya,Maxine Taylor,11,1,1, Youth Novice Standard  (WFQ),Sample,0,rcb12,402F8110,133,Elizabeth C Knoll,Waltz,1
+WA,0,1,Final,James Itaya,Maxine Taylor,12,1,1, Youth Novice Standard  (WFQ),Sample,0,rcb12,402F8110,133,Peter Mant,Waltz,1
+OR,0,2,Final,Chad Crader,Samantha Sun,10,2,2, Youth Novice Standard  (WFQ),Sample,0,rcb12,402F8110,126,Dave Watson,Waltz,2
+OR,0,2,Final,Chad Crader,Samantha Sun,11,2,2, Youth Novice Standard  (WFQ),Sample,0,rcb12,402F8110,126,Elizabeth C Knoll,Waltz,2
+OR,0,2,Final,Chad Crader,Samantha Sun,12,2,2, Youth Novice Standard  (WFQ),Sample,0,rcb12,402F8110,126,Peter Mant,Waltz,2
+WA,0,1,Final,James Itaya,Maxine Taylor,10,1,1, Youth Novice Standard  (WFQ),Sample,1,rcb12,402F8110,133,Dave Watson,Foxtrot,1
+WA,0,1,Final,James Itaya,Maxine Taylor,11,1,1, Youth Novice Standard  (WFQ),Sample,1,rcb12,402F8110,133,Elizabeth C Knoll,Foxtrot,1
+WA,0,1,Final,James Itaya,Maxine Taylor,12,1,1, Youth Novice Standard  (WFQ),Sample,1,rcb12,402F8110,133,Peter Mant,Foxtrot,1
+OR,0,2,Final,Chad Crader,Samantha Sun,10,2,2, Youth Novice Standard  (WFQ),Sample,1,rcb12,402F8110,126,Dave Watson,Foxtrot,2
+OR,0,2,Final,Chad Crader,Samantha Sun,11,2,2, Youth Novice Standard  (WFQ),Sample,1,rcb12,402F8110,126,Elizabeth C Knoll,Foxtrot,2
+OR,0,2,Final,Chad Crader,Samantha Sun,12,2,2, Youth Novice Standard  (WFQ),Sample,1,rcb12,402F8110,126,Peter Mant,Foxtrot,2
+WA,0,1,Final,James Itaya,Maxine Taylor,10,1,1, Youth Novice Standard  (WFQ),Sample,2,rcb12,402F8110,133,Dave Watson,Quickstep,1
+WA,0,1,Final,James Itaya,Maxine Taylor,11,1,1, Youth Novice Standard  (WFQ),Sample,2,rcb12,402F8110,133,Elizabeth C Knoll,Quickstep,1
+WA,0,1,Final,James Itaya,Maxine Taylor,12,1,1, Youth Novice Standard  (WFQ),Sample,2,rcb12,402F8110,133,Peter Mant,Quickstep,1
+OR,0,2,Final,Chad Crader,Samantha Sun,10,2,2, Youth Novice Standard  (WFQ),Sample,2,rcb12,402F8110,126,Dave Watson,Quickstep,2
+OR,0,2,Final,Chad Crader,Samantha Sun,11,2,2, Youth Novice Standard  (WFQ),Sample,2,rcb12,402F8110,126,Elizabeth C Knoll,Quickstep,2
+OR,0,2,Final,Chad Crader,Samantha Sun,12,2,2, Youth Novice Standard  (WFQ),Sample,2,rcb12,402F8110,126,Peter Mant,Quickstep,2
+WA,0,1,Final,Riley Hayes,Elise Kuechle,10,1,1, Junior Gold Standard  (WTFQ),Sample,0,rcb12,402C3810,129,Dave Watson,Waltz,1
+WA,0,1,Final,Riley Hayes,Elise Kuechle,11,1,1, Junior Gold Standard  (WTFQ),Sample,0,rcb12,402C3810,129,Elizabeth C Knoll,Waltz,1
+WA,0,1,Final,Riley Hayes,Elise Kuechle,12,1,1, Junior Gold Standard  (WTFQ),Sample,0,rcb12,402C3810,129,Peter Mant,Waltz,1
+WA,0,1,Final,Riley Hayes,Elise Kuechle,10,1,1, Junior Gold Standard  (WTFQ),Sample,1,rcb12,402C3810,129,Dave Watson,Tango,1
+WA,0,1,Final,Riley Hayes,Elise Kuechle,11,1,1, Junior Gold Standard  (WTFQ),Sample,1,rcb12,402C3810,129,Elizabeth C Knoll,Tango,1
+WA,0,1,Final,Riley Hayes,Elise Kuechle,12,1,1, Junior Gold Standard  (WTFQ),Sample,1,rcb12,402C3810,129,Peter Mant,Tango,1
+WA,0,1,Final,Riley Hayes,Elise Kuechle,10,1,1, Junior Gold Standard  (WTFQ),Sample,2,rcb12,402C3810,129,Dave Watson,Foxtrot,1
+WA,0,1,Final,Riley Hayes,Elise Kuechle,11,1,1, Junior Gold Standard  (WTFQ),Sample,2,rcb12,402C3810,129,Elizabeth C Knoll,Foxtrot,1
+WA,0,1,Final,Riley Hayes,Elise Kuechle,12,1,1, Junior Gold Standard  (WTFQ),Sample,2,rcb12,402C3810,129,Peter Mant,Foxtrot,1
+WA,0,1,Final,Riley Hayes,Elise Kuechle,10,1,1, Junior Gold Standard  (WTFQ),Sample,3,rcb12,402C3810,129,Dave Watson,Quickstep,1
+WA,0,1,Final,Riley Hayes,Elise Kuechle,11,1,1, Junior Gold Standard  (WTFQ),Sample,3,rcb12,402C3810,129,Elizabeth C Knoll,Quickstep,1
+WA,0,1,Final,Riley Hayes,Elise Kuechle,12,1,1, Junior Gold Standard  (WTFQ),Sample,3,rcb12,402C3810,129,Peter Mant,Quickstep,1
+WA,0,1,Final,Erik Linder,Rickie Taylor,10,1,1, Junior Championship Standard  (WTVFQ),Sample,0,rcb12,402C8710,108,Dave Watson,Waltz,1
+WA,0,1,Final,Erik Linder,Rickie Taylor,11,1,1, Junior Championship Standard  (WTVFQ),Sample,0,rcb12,402C8710,108,Elizabeth C Knoll,Waltz,1
+WA,0,1,Final,Erik Linder,Rickie Taylor,12,1,1, Junior Championship Standard  (WTVFQ),Sample,0,rcb12,402C8710,108,Peter Mant,Waltz,1
+WA,0,1,Final,Erik Linder,Rickie Taylor,10,1,1, Junior Championship Standard  (WTVFQ),Sample,1,rcb12,402C8710,108,Dave Watson,Tango,1
+WA,0,1,Final,Erik Linder,Rickie Taylor,11,1,1, Junior Championship Standard  (WTVFQ),Sample,1,rcb12,402C8710,108,Elizabeth C Knoll,Tango,1
+WA,0,1,Final,Erik Linder,Rickie Taylor,12,1,1, Junior Championship Standard  (WTVFQ),Sample,1,rcb12,402C8710,108,Peter Mant,Tango,1
+WA,0,2,Final,Erik Linder,Rickie Taylor,10,1,2, Junior Championship Standard  (WTVFQ),Sample,2,rcb12,402C8710,108,Dave Watson,Viennese Waltz,1
+WA,0,1,Final,Erik Linder,Rickie Taylor,11,1,1, Junior Championship Standard  (WTVFQ),Sample,2,rcb12,402C8710,108,Elizabeth C Knoll,Viennese Waltz,1
+WA,0,1,Final,Erik Linder,Rickie Taylor,12,1,1, Junior Championship Standard  (WTVFQ),Sample,2,rcb12,402C8710,108,Peter Mant,Viennese Waltz,1
+WA,0,2,Final,Erik Linder,Rickie Taylor,10,1,2, Junior Championship Standard  (WTVFQ),Sample,3,rcb12,402C8710,108,Dave Watson,Foxtrot,1
+WA,0,1,Final,Erik Linder,Rickie Taylor,11,1,1, Junior Championship Standard  (WTVFQ),Sample,3,rcb12,402C8710,108,Elizabeth C Knoll,Foxtrot,1
+WA,0,1,Final,Erik Linder,Rickie Taylor,12,1,1, Junior Championship Standard  (WTVFQ),Sample,3,rcb12,402C8710,108,Peter Mant,Foxtrot,1
+WA,0,1,Final,Erik Linder,Rickie Taylor,10,1,1, Junior Championship Standard  (WTVFQ),Sample,4,rcb12,402C8710,108,Dave Watson,Quickstep,1
+WA,0,1,Final,Erik Linder,Rickie Taylor,11,1,1, Junior Championship Standard  (WTVFQ),Sample,4,rcb12,402C8710,108,Elizabeth C Knoll,Quickstep,1
+WA,0,1,Final,Erik Linder,Rickie Taylor,12,1,1, Junior Championship Standard  (WTVFQ),Sample,4,rcb12,402C8710,108,Peter Mant,Quickstep,1
+OR,0,1,Final,Lucien Lasocki,Freya Morel-Seytoux,10,1,1, Pre-Teen Newcomer Latin  (C),Sample,0,rcb12,40272020,104,Dave Watson,Cha Cha,1
+OR,0,1,Final,Lucien Lasocki,Freya Morel-Seytoux,11,1,1, Pre-Teen Newcomer Latin  (C),Sample,0,rcb12,40272020,104,Elizabeth C Knoll,Cha Cha,1
+OR,0,1,Final,Lucien Lasocki,Freya Morel-Seytoux,12,1,1, Pre-Teen Newcomer Latin  (C),Sample,0,rcb12,40272020,104,Peter Mant,Cha Cha,1
+WA,0,2,Final,Jared McKell,Allison Sawyer,10,1,2, Youth Bronze Latin  (CR),Sample,0,rcb12,402F2820,127,Dave Watson,Cha Cha,1
+WA,0,1,Final,Jared McKell,Allison Sawyer,11,1,1, Youth Bronze Latin  (CR),Sample,0,rcb12,402F2820,127,Elizabeth C Knoll,Cha Cha,1
+WA,0,1,Final,Jared McKell,Allison Sawyer,12,1,1, Youth Bronze Latin  (CR),Sample,0,rcb12,402F2820,127,Peter Mant,Cha Cha,1
+OR,0,1,Final,Andres Cortez,Jin Mei McMahon,10,2,1, Youth Bronze Latin  (CR),Sample,0,rcb12,402F2820,122,Dave Watson,Cha Cha,2
+OR,0,2,Final,Andres Cortez,Jin Mei McMahon,11,2,2, Youth Bronze Latin  (CR),Sample,0,rcb12,402F2820,122,Elizabeth C Knoll,Cha Cha,2
+OR,0,2,Final,Andres Cortez,Jin Mei McMahon,12,2,2, Youth Bronze Latin  (CR),Sample,0,rcb12,402F2820,122,Peter Mant,Cha Cha,2
+WA,0,2,Final,Jared McKell,Allison Sawyer,10,1,2, Youth Bronze Latin  (CR),Sample,1,rcb12,402F2820,127,Dave Watson,Rumba,1
+WA,0,1,Final,Jared McKell,Allison Sawyer,11,1,1, Youth Bronze Latin  (CR),Sample,1,rcb12,402F2820,127,Elizabeth C Knoll,Rumba,1
+WA,0,1,Final,Jared McKell,Allison Sawyer,12,1,1, Youth Bronze Latin  (CR),Sample,1,rcb12,402F2820,127,Peter Mant,Rumba,1
+OR,0,1,Final,Andres Cortez,Jin Mei McMahon,10,2,1, Youth Bronze Latin  (CR),Sample,1,rcb12,402F2820,122,Dave Watson,Rumba,2
+OR,0,2,Final,Andres Cortez,Jin Mei McMahon,11,2,2, Youth Bronze Latin  (CR),Sample,1,rcb12,402F2820,122,Elizabeth C Knoll,Rumba,2
+OR,0,2,Final,Andres Cortez,Jin Mei McMahon,12,2,2, Youth Bronze Latin  (CR),Sample,1,rcb12,402F2820,122,Peter Mant,Rumba,2
+OR,0,1,Final,Lucien Lasocki,Freya Morel-Seytoux,10,1,1, Junior Newcomer Latin  (C),Sample,0,rcb12,402C2020,104,Dave Watson,Cha Cha,1
+OR,0,1,Final,Lucien Lasocki,Freya Morel-Seytoux,11,1,1, Junior Newcomer Latin  (C),Sample,0,rcb12,402C2020,104,Elizabeth C Knoll,Cha Cha,1
+OR,0,1,Final,Lucien Lasocki,Freya Morel-Seytoux,12,1,1, Junior Newcomer Latin  (C),Sample,0,rcb12,402C2020,104,Peter Mant,Cha Cha,1
+OR,0,2,Final,Etan Khlevnoy,Rachel Modlin,10,2,2, Pre-Teen Bronze Latin  (CR),Sample,0,rcb12,40272820,101,Dave Watson,Cha Cha,1
+OR,0,2,Final,Etan Khlevnoy,Rachel Modlin,11,2,2, Pre-Teen Bronze Latin  (CR),Sample,0,rcb12,40272820,101,Elizabeth C Knoll,Cha Cha,1
+OR,0,1,Final,Etan Khlevnoy,Rachel Modlin,12,2,1, Pre-Teen Bronze Latin  (CR),Sample,0,rcb12,40272820,101,Peter Mant,Cha Cha,1
+OR,0,1,Final,Anthony Yatskov,Esther Nor-Ashkarian,10,1,1, Pre-Teen Bronze Latin  (CR),Sample,0,rcb12,40272820,113,Dave Watson,Cha Cha,2
+OR,0,1,Final,Anthony Yatskov,Esther Nor-Ashkarian,11,1,1, Pre-Teen Bronze Latin  (CR),Sample,0,rcb12,40272820,113,Elizabeth C Knoll,Cha Cha,2
+OR,0,2,Final,Anthony Yatskov,Esther Nor-Ashkarian,12,1,2, Pre-Teen Bronze Latin  (CR),Sample,0,rcb12,40272820,113,Peter Mant,Cha Cha,2
+OR,0,4,Final,Lazar Isakharov,Alena Budko,10,3,4, Pre-Teen Bronze Latin  (CR),Sample,0,rcb12,40272820,120,Dave Watson,Cha Cha,3
+OR,0,3,Final,Lazar Isakharov,Alena Budko,11,3,3, Pre-Teen Bronze Latin  (CR),Sample,0,rcb12,40272820,120,Elizabeth C Knoll,Cha Cha,3
+OR,0,3,Final,Lazar Isakharov,Alena Budko,12,3,3, Pre-Teen Bronze Latin  (CR),Sample,0,rcb12,40272820,120,Peter Mant,Cha Cha,3
+OR,0,3,Final,Lucien Lasocki,Freya Morel-Seytoux,10,4,3, Pre-Teen Bronze Latin  (CR),Sample,0,rcb12,40272820,104,Dave Watson,Cha Cha,4
+OR,0,4,Final,Lucien Lasocki,Freya Morel-Seytoux,11,4,4, Pre-Teen Bronze Latin  (CR),Sample,0,rcb12,40272820,104,Elizabeth C Knoll,Cha Cha,4
+OR,0,4,Final,Lucien Lasocki,Freya Morel-Seytoux,12,4,4, Pre-Teen Bronze Latin  (CR),Sample,0,rcb12,40272820,104,Peter Mant,Cha Cha,4
+OR,0,1,Final,Etan Khlevnoy,Rachel Modlin,10,1,1, Pre-Teen Bronze Latin  (CR),Sample,1,rcb12,40272820,101,Dave Watson,Rumba,1
+OR,0,2,Final,Etan Khlevnoy,Rachel Modlin,11,1,2, Pre-Teen Bronze Latin  (CR),Sample,1,rcb12,40272820,101,Elizabeth C Knoll,Rumba,1
+OR,0,2,Final,Etan Khlevnoy,Rachel Modlin,12,1,2, Pre-Teen Bronze Latin  (CR),Sample,1,rcb12,40272820,101,Peter Mant,Rumba,1
+OR,0,2,Final,Anthony Yatskov,Esther Nor-Ashkarian,10,2,2, Pre-Teen Bronze Latin  (CR),Sample,1,rcb12,40272820,113,Dave Watson,Rumba,2
+OR,0,1,Final,Anthony Yatskov,Esther Nor-Ashkarian,11,2,1, Pre-Teen Bronze Latin  (CR),Sample,1,rcb12,40272820,113,Elizabeth C Knoll,Rumba,2
+OR,0,3,Final,Anthony Yatskov,Esther Nor-Ashkarian,12,2,3, Pre-Teen Bronze Latin  (CR),Sample,1,rcb12,40272820,113,Peter Mant,Rumba,2
+OR,0,4,Final,Lazar Isakharov,Alena Budko,10,3,4, Pre-Teen Bronze Latin  (CR),Sample,1,rcb12,40272820,120,Dave Watson,Rumba,3
+OR,0,3,Final,Lazar Isakharov,Alena Budko,11,3,3, Pre-Teen Bronze Latin  (CR),Sample,1,rcb12,40272820,120,Elizabeth C Knoll,Rumba,3
+OR,0,1,Final,Lazar Isakharov,Alena Budko,12,3,1, Pre-Teen Bronze Latin  (CR),Sample,1,rcb12,40272820,120,Peter Mant,Rumba,3
+OR,0,3,Final,Lucien Lasocki,Freya Morel-Seytoux,10,4,3, Pre-Teen Bronze Latin  (CR),Sample,1,rcb12,40272820,104,Dave Watson,Rumba,4
+OR,0,4,Final,Lucien Lasocki,Freya Morel-Seytoux,11,4,4, Pre-Teen Bronze Latin  (CR),Sample,1,rcb12,40272820,104,Elizabeth C Knoll,Rumba,4
+OR,0,4,Final,Lucien Lasocki,Freya Morel-Seytoux,12,4,4, Pre-Teen Bronze Latin  (CR),Sample,1,rcb12,40272820,104,Peter Mant,Rumba,4
+WA,0,1,Final,James Itaya,Maxine Taylor,10,1,1, Youth Novice Latin  (SCR),Sample,0,rcb12,402F8120,133,Dave Watson,Samba,1
+WA,0,1,Final,James Itaya,Maxine Taylor,11,1,1, Youth Novice Latin  (SCR),Sample,0,rcb12,402F8120,133,Elizabeth C Knoll,Samba,1
+WA,0,1,Final,James Itaya,Maxine Taylor,12,1,1, Youth Novice Latin  (SCR),Sample,0,rcb12,402F8120,133,Peter Mant,Samba,1
+OR,0,2,Final,Chad Crader,Samantha Sun,10,2,2, Youth Novice Latin  (SCR),Sample,0,rcb12,402F8120,126,Dave Watson,Samba,2
+OR,0,2,Final,Chad Crader,Samantha Sun,11,2,2, Youth Novice Latin  (SCR),Sample,0,rcb12,402F8120,126,Elizabeth C Knoll,Samba,2
+OR,0,2,Final,Chad Crader,Samantha Sun,12,2,2, Youth Novice Latin  (SCR),Sample,0,rcb12,402F8120,126,Peter Mant,Samba,2
+WA,0,1,Final,James Itaya,Maxine Taylor,10,1,1, Youth Novice Latin  (SCR),Sample,1,rcb12,402F8120,133,Dave Watson,Cha Cha,1
+WA,0,1,Final,James Itaya,Maxine Taylor,11,1,1, Youth Novice Latin  (SCR),Sample,1,rcb12,402F8120,133,Elizabeth C Knoll,Cha Cha,1
+WA,0,1,Final,James Itaya,Maxine Taylor,12,1,1, Youth Novice Latin  (SCR),Sample,1,rcb12,402F8120,133,Peter Mant,Cha Cha,1
+OR,0,2,Final,Chad Crader,Samantha Sun,10,2,2, Youth Novice Latin  (SCR),Sample,1,rcb12,402F8120,126,Dave Watson,Cha Cha,2
+OR,0,2,Final,Chad Crader,Samantha Sun,11,2,2, Youth Novice Latin  (SCR),Sample,1,rcb12,402F8120,126,Elizabeth C Knoll,Cha Cha,2
+OR,0,2,Final,Chad Crader,Samantha Sun,12,2,2, Youth Novice Latin  (SCR),Sample,1,rcb12,402F8120,126,Peter Mant,Cha Cha,2
+WA,0,1,Final,James Itaya,Maxine Taylor,10,1,1, Youth Novice Latin  (SCR),Sample,2,rcb12,402F8120,133,Dave Watson,Rumba,1
+WA,0,1,Final,James Itaya,Maxine Taylor,11,1,1, Youth Novice Latin  (SCR),Sample,2,rcb12,402F8120,133,Elizabeth C Knoll,Rumba,1
+WA,0,1,Final,James Itaya,Maxine Taylor,12,1,1, Youth Novice Latin  (SCR),Sample,2,rcb12,402F8120,133,Peter Mant,Rumba,1
+OR,0,2,Final,Chad Crader,Samantha Sun,10,2,2, Youth Novice Latin  (SCR),Sample,2,rcb12,402F8120,126,Dave Watson,Rumba,2
+OR,0,2,Final,Chad Crader,Samantha Sun,11,2,2, Youth Novice Latin  (SCR),Sample,2,rcb12,402F8120,126,Elizabeth C Knoll,Rumba,2
+OR,0,2,Final,Chad Crader,Samantha Sun,12,2,2, Youth Novice Latin  (SCR),Sample,2,rcb12,402F8120,126,Peter Mant,Rumba,2
+OR,0,2,Final,Anthony Yatskov,Esther Nor-Ashkarian,10,1,2, Junior Bronze Latin  (CR),Sample,0,rcb12,402C2820,113,Dave Watson,Cha Cha,1
+OR,0,1,Final,Anthony Yatskov,Esther Nor-Ashkarian,11,1,1, Junior Bronze Latin  (CR),Sample,0,rcb12,402C2820,113,Elizabeth C Knoll,Cha Cha,1
+OR,0,1,Final,Anthony Yatskov,Esther Nor-Ashkarian,12,1,1, Junior Bronze Latin  (CR),Sample,0,rcb12,402C2820,113,Peter Mant,Cha Cha,1
+OR,0,1,Final,Etan Khlevnoy,Rachel Modlin,10,2,1, Junior Bronze Latin  (CR),Sample,0,rcb12,402C2820,101,Dave Watson,Cha Cha,2
+OR,0,2,Final,Etan Khlevnoy,Rachel Modlin,11,2,2, Junior Bronze Latin  (CR),Sample,0,rcb12,402C2820,101,Elizabeth C Knoll,Cha Cha,2
+OR,0,2,Final,Etan Khlevnoy,Rachel Modlin,12,2,2, Junior Bronze Latin  (CR),Sample,0,rcb12,402C2820,101,Peter Mant,Cha Cha,2
+OR,0,3,Final,Lazar Isakharov,Alena Budko,10,3,3, Junior Bronze Latin  (CR),Sample,0,rcb12,402C2820,120,Dave Watson,Cha Cha,3
+OR,0,3,Final,Lazar Isakharov,Alena Budko,11,3,3, Junior Bronze Latin  (CR),Sample,0,rcb12,402C2820,120,Elizabeth C Knoll,Cha Cha,3
+OR,0,3,Final,Lazar Isakharov,Alena Budko,12,3,3, Junior Bronze Latin  (CR),Sample,0,rcb12,402C2820,120,Peter Mant,Cha Cha,3
+OR,0,4,Final,Lucien Lasocki,Freya Morel-Seytoux,10,4,4, Junior Bronze Latin  (CR),Sample,0,rcb12,402C2820,104,Dave Watson,Cha Cha,4
+OR,0,4,Final,Lucien Lasocki,Freya Morel-Seytoux,11,4,4, Junior Bronze Latin  (CR),Sample,0,rcb12,402C2820,104,Elizabeth C Knoll,Cha Cha,4
+OR,0,4,Final,Lucien Lasocki,Freya Morel-Seytoux,12,4,4, Junior Bronze Latin  (CR),Sample,0,rcb12,402C2820,104,Peter Mant,Cha Cha,4
+OR,0,5,Final,William Liu,Natalie Hayes,10,5,5, Junior Bronze Latin  (CR),Sample,0,rcb12,402C2820,130,Dave Watson,Cha Cha,5
+OR,0,5,Final,William Liu,Natalie Hayes,11,5,5, Junior Bronze Latin  (CR),Sample,0,rcb12,402C2820,130,Elizabeth C Knoll,Cha Cha,5
+OR,0,5,Final,William Liu,Natalie Hayes,12,5,5, Junior Bronze Latin  (CR),Sample,0,rcb12,402C2820,130,Peter Mant,Cha Cha,5
+OR,0,1,Final,Anthony Yatskov,Esther Nor-Ashkarian,10,1,1, Junior Bronze Latin  (CR),Sample,1,rcb12,402C2820,113,Dave Watson,Rumba,1
+OR,0,1,Final,Anthony Yatskov,Esther Nor-Ashkarian,11,1,1, Junior Bronze Latin  (CR),Sample,1,rcb12,402C2820,113,Elizabeth C Knoll,Rumba,1
+OR,0,1,Final,Anthony Yatskov,Esther Nor-Ashkarian,12,1,1, Junior Bronze Latin  (CR),Sample,1,rcb12,402C2820,113,Peter Mant,Rumba,1
+OR,0,2,Final,Etan Khlevnoy,Rachel Modlin,10,2,2, Junior Bronze Latin  (CR),Sample,1,rcb12,402C2820,101,Dave Watson,Rumba,2
+OR,0,5,Final,Etan Khlevnoy,Rachel Modlin,11,2,5, Junior Bronze Latin  (CR),Sample,1,rcb12,402C2820,101,Elizabeth C Knoll,Rumba,2
+OR,0,2,Final,Etan Khlevnoy,Rachel Modlin,12,2,2, Junior Bronze Latin  (CR),Sample,1,rcb12,402C2820,101,Peter Mant,Rumba,2
+OR,0,3,Final,Lazar Isakharov,Alena Budko,10,3,3, Junior Bronze Latin  (CR),Sample,1,rcb12,402C2820,120,Dave Watson,Rumba,3
+OR,0,2,Final,Lazar Isakharov,Alena Budko,11,3,2, Junior Bronze Latin  (CR),Sample,1,rcb12,402C2820,120,Elizabeth C Knoll,Rumba,3
+OR,0,3,Final,Lazar Isakharov,Alena Budko,12,3,3, Junior Bronze Latin  (CR),Sample,1,rcb12,402C2820,120,Peter Mant,Rumba,3
+OR,0,5,Final,Lucien Lasocki,Freya Morel-Seytoux,10,4,5, Junior Bronze Latin  (CR),Sample,1,rcb12,402C2820,104,Dave Watson,Rumba,4
+OR,0,3,Final,Lucien Lasocki,Freya Morel-Seytoux,11,4,3, Junior Bronze Latin  (CR),Sample,1,rcb12,402C2820,104,Elizabeth C Knoll,Rumba,4
+OR,0,4,Final,Lucien Lasocki,Freya Morel-Seytoux,12,4,4, Junior Bronze Latin  (CR),Sample,1,rcb12,402C2820,104,Peter Mant,Rumba,4
+OR,0,4,Final,William Liu,Natalie Hayes,10,5,4, Junior Bronze Latin  (CR),Sample,1,rcb12,402C2820,130,Dave Watson,Rumba,5
+OR,0,4,Final,William Liu,Natalie Hayes,11,5,4, Junior Bronze Latin  (CR),Sample,1,rcb12,402C2820,130,Elizabeth C Knoll,Rumba,5
+OR,0,5,Final,William Liu,Natalie Hayes,12,5,5, Junior Bronze Latin  (CR),Sample,1,rcb12,402C2820,130,Peter Mant,Rumba,5
+OR,0,1,Final,Anthony Yatskov,Esther Nor-Ashkarian,10,1,1, Pre-Teen Silver Latin  (SCR),Sample,0,rcb12,40273020,113,Dave Watson,Samba,1
+OR,0,1,Final,Anthony Yatskov,Esther Nor-Ashkarian,11,1,1, Pre-Teen Silver Latin  (SCR),Sample,0,rcb12,40273020,113,Elizabeth C Knoll,Samba,1
+OR,0,2,Final,Anthony Yatskov,Esther Nor-Ashkarian,12,1,2, Pre-Teen Silver Latin  (SCR),Sample,0,rcb12,40273020,113,Peter Mant,Samba,1
+OR,0,3,Final,Griffin Cooney,Diana Telengator,10,2,3, Pre-Teen Silver Latin  (SCR),Sample,0,rcb12,40273020,119,Dave Watson,Samba,2
+OR,0,2,Final,Griffin Cooney,Diana Telengator,11,2,2, Pre-Teen Silver Latin  (SCR),Sample,0,rcb12,40273020,119,Elizabeth C Knoll,Samba,2
+OR,0,1,Final,Griffin Cooney,Diana Telengator,12,2,1, Pre-Teen Silver Latin  (SCR),Sample,0,rcb12,40273020,119,Peter Mant,Samba,2
+OR,0,2,Final,Lazar Isakharov,Alena Budko,10,3,2, Pre-Teen Silver Latin  (SCR),Sample,0,rcb12,40273020,120,Dave Watson,Samba,3
+OR,0,3,Final,Lazar Isakharov,Alena Budko,11,3,3, Pre-Teen Silver Latin  (SCR),Sample,0,rcb12,40273020,120,Elizabeth C Knoll,Samba,3
+OR,0,3,Final,Lazar Isakharov,Alena Budko,12,3,3, Pre-Teen Silver Latin  (SCR),Sample,0,rcb12,40273020,120,Peter Mant,Samba,3
+OR,0,3,Final,Anthony Yatskov,Esther Nor-Ashkarian,10,3,3, Pre-Teen Silver Latin  (SCR),Sample,1,rcb12,40273020,113,Dave Watson,Cha Cha,1
+OR,0,1,Final,Anthony Yatskov,Esther Nor-Ashkarian,11,3,1, Pre-Teen Silver Latin  (SCR),Sample,1,rcb12,40273020,113,Elizabeth C Knoll,Cha Cha,1
+OR,0,3,Final,Anthony Yatskov,Esther Nor-Ashkarian,12,3,3, Pre-Teen Silver Latin  (SCR),Sample,1,rcb12,40273020,113,Peter Mant,Cha Cha,1
+OR,0,1,Final,Griffin Cooney,Diana Telengator,10,1,1, Pre-Teen Silver Latin  (SCR),Sample,1,rcb12,40273020,119,Dave Watson,Cha Cha,2
+OR,0,3,Final,Griffin Cooney,Diana Telengator,11,1,3, Pre-Teen Silver Latin  (SCR),Sample,1,rcb12,40273020,119,Elizabeth C Knoll,Cha Cha,2
+OR,0,1,Final,Griffin Cooney,Diana Telengator,12,1,1, Pre-Teen Silver Latin  (SCR),Sample,1,rcb12,40273020,119,Peter Mant,Cha Cha,2
+OR,0,2,Final,Lazar Isakharov,Alena Budko,10,2,2, Pre-Teen Silver Latin  (SCR),Sample,1,rcb12,40273020,120,Dave Watson,Cha Cha,3
+OR,0,2,Final,Lazar Isakharov,Alena Budko,11,2,2, Pre-Teen Silver Latin  (SCR),Sample,1,rcb12,40273020,120,Elizabeth C Knoll,Cha Cha,3
+OR,0,2,Final,Lazar Isakharov,Alena Budko,12,2,2, Pre-Teen Silver Latin  (SCR),Sample,1,rcb12,40273020,120,Peter Mant,Cha Cha,3
+OR,0,1,Final,Anthony Yatskov,Esther Nor-Ashkarian,10,1,1, Pre-Teen Silver Latin  (SCR),Sample,2,rcb12,40273020,113,Dave Watson,Rumba,1
+OR,0,1,Final,Anthony Yatskov,Esther Nor-Ashkarian,11,1,1, Pre-Teen Silver Latin  (SCR),Sample,2,rcb12,40273020,113,Elizabeth C Knoll,Rumba,1
+OR,0,2,Final,Anthony Yatskov,Esther Nor-Ashkarian,12,1,2, Pre-Teen Silver Latin  (SCR),Sample,2,rcb12,40273020,113,Peter Mant,Rumba,1
+OR,0,2,Final,Griffin Cooney,Diana Telengator,10,2,2, Pre-Teen Silver Latin  (SCR),Sample,2,rcb12,40273020,119,Dave Watson,Rumba,2
+OR,0,2,Final,Griffin Cooney,Diana Telengator,11,2,2, Pre-Teen Silver Latin  (SCR),Sample,2,rcb12,40273020,119,Elizabeth C Knoll,Rumba,2
+OR,0,1,Final,Griffin Cooney,Diana Telengator,12,2,1, Pre-Teen Silver Latin  (SCR),Sample,2,rcb12,40273020,119,Peter Mant,Rumba,2
+OR,0,3,Final,Lazar Isakharov,Alena Budko,10,3,3, Pre-Teen Silver Latin  (SCR),Sample,2,rcb12,40273020,120,Dave Watson,Rumba,3
+OR,0,3,Final,Lazar Isakharov,Alena Budko,11,3,3, Pre-Teen Silver Latin  (SCR),Sample,2,rcb12,40273020,120,Elizabeth C Knoll,Rumba,3
+OR,0,3,Final,Lazar Isakharov,Alena Budko,12,3,3, Pre-Teen Silver Latin  (SCR),Sample,2,rcb12,40273020,120,Peter Mant,Rumba,3
+OR,0,1,Final,Scott Nicholson,Emilia Wolf,10,1,1, Junior Silver Latin  (SCR),Sample,0,rcb12,402C3020,103,Dave Watson,Samba,1
+OR,0,1,Final,Scott Nicholson,Emilia Wolf,11,1,1, Junior Silver Latin  (SCR),Sample,0,rcb12,402C3020,103,Elizabeth C Knoll,Samba,1
+OR,0,1,Final,Scott Nicholson,Emilia Wolf,12,1,1, Junior Silver Latin  (SCR),Sample,0,rcb12,402C3020,103,Peter Mant,Samba,1
+OR,0,3,Final,Griffin Cooney,Carly Cooney,10,2,3, Junior Silver Latin  (SCR),Sample,0,rcb12,402C3020,119,Dave Watson,Samba,2
+OR,0,2,Final,Griffin Cooney,Carly Cooney,11,2,2, Junior Silver Latin  (SCR),Sample,0,rcb12,402C3020,119,Elizabeth C Knoll,Samba,2
+OR,0,2,Final,Griffin Cooney,Carly Cooney,12,2,2, Junior Silver Latin  (SCR),Sample,0,rcb12,402C3020,119,Peter Mant,Samba,2
+OR,0,2,Final,Anthony Yatskov,Esther Nor-Ashkarian,10,3,2, Junior Silver Latin  (SCR),Sample,0,rcb12,402C3020,113,Dave Watson,Samba,3
+OR,0,3,Final,Anthony Yatskov,Esther Nor-Ashkarian,11,3,3, Junior Silver Latin  (SCR),Sample,0,rcb12,402C3020,113,Elizabeth C Knoll,Samba,3
+OR,0,3,Final,Anthony Yatskov,Esther Nor-Ashkarian,12,3,3, Junior Silver Latin  (SCR),Sample,0,rcb12,402C3020,113,Peter Mant,Samba,3
+OR,0,1,Final,Scott Nicholson,Emilia Wolf,10,1,1, Junior Silver Latin  (SCR),Sample,1,rcb12,402C3020,103,Dave Watson,Cha Cha,1
+OR,0,1,Final,Scott Nicholson,Emilia Wolf,11,1,1, Junior Silver Latin  (SCR),Sample,1,rcb12,402C3020,103,Elizabeth C Knoll,Cha Cha,1
+OR,0,2,Final,Scott Nicholson,Emilia Wolf,12,1,2, Junior Silver Latin  (SCR),Sample,1,rcb12,402C3020,103,Peter Mant,Cha Cha,1
+OR,0,2,Final,Griffin Cooney,Carly Cooney,10,2,2, Junior Silver Latin  (SCR),Sample,1,rcb12,402C3020,119,Dave Watson,Cha Cha,2
+OR,0,2,Final,Griffin Cooney,Carly Cooney,11,2,2, Junior Silver Latin  (SCR),Sample,1,rcb12,402C3020,119,Elizabeth C Knoll,Cha Cha,2
+OR,0,1,Final,Griffin Cooney,Carly Cooney,12,2,1, Junior Silver Latin  (SCR),Sample,1,rcb12,402C3020,119,Peter Mant,Cha Cha,2
+OR,0,3,Final,Anthony Yatskov,Esther Nor-Ashkarian,10,3,3, Junior Silver Latin  (SCR),Sample,1,rcb12,402C3020,113,Dave Watson,Cha Cha,3
+OR,0,3,Final,Anthony Yatskov,Esther Nor-Ashkarian,11,3,3, Junior Silver Latin  (SCR),Sample,1,rcb12,402C3020,113,Elizabeth C Knoll,Cha Cha,3
+OR,0,3,Final,Anthony Yatskov,Esther Nor-Ashkarian,12,3,3, Junior Silver Latin  (SCR),Sample,1,rcb12,402C3020,113,Peter Mant,Cha Cha,3
+OR,0,1,Final,Scott Nicholson,Emilia Wolf,10,1,1, Junior Silver Latin  (SCR),Sample,2,rcb12,402C3020,103,Dave Watson,Rumba,1
+OR,0,1,Final,Scott Nicholson,Emilia Wolf,11,1,1, Junior Silver Latin  (SCR),Sample,2,rcb12,402C3020,103,Elizabeth C Knoll,Rumba,1
+OR,0,2,Final,Scott Nicholson,Emilia Wolf,12,1,2, Junior Silver Latin  (SCR),Sample,2,rcb12,402C3020,103,Peter Mant,Rumba,1
+OR,0,2,Final,Griffin Cooney,Carly Cooney,10,2,2, Junior Silver Latin  (SCR),Sample,2,rcb12,402C3020,119,Dave Watson,Rumba,2
+OR,0,2,Final,Griffin Cooney,Carly Cooney,11,2,2, Junior Silver Latin  (SCR),Sample,2,rcb12,402C3020,119,Elizabeth C Knoll,Rumba,2
+OR,0,1,Final,Griffin Cooney,Carly Cooney,12,2,1, Junior Silver Latin  (SCR),Sample,2,rcb12,402C3020,119,Peter Mant,Rumba,2
+OR,0,3,Final,Anthony Yatskov,Esther Nor-Ashkarian,10,3,3, Junior Silver Latin  (SCR),Sample,2,rcb12,402C3020,113,Dave Watson,Rumba,3
+OR,0,3,Final,Anthony Yatskov,Esther Nor-Ashkarian,11,3,3, Junior Silver Latin  (SCR),Sample,2,rcb12,402C3020,113,Elizabeth C Knoll,Rumba,3
+OR,0,3,Final,Anthony Yatskov,Esther Nor-Ashkarian,12,3,3, Junior Silver Latin  (SCR),Sample,2,rcb12,402C3020,113,Peter Mant,Rumba,3
+OR,0,1,Final,Chad Crader,Samantha Sun,10,1,1, Youth Gold Latin  (SCRJ),Sample,0,rcb12,402F3820,126,Dave Watson,Samba,1
+OR,0,1,Final,Chad Crader,Samantha Sun,11,1,1, Youth Gold Latin  (SCRJ),Sample,0,rcb12,402F3820,126,Elizabeth C Knoll,Samba,1
+OR,0,1,Final,Chad Crader,Samantha Sun,12,1,1, Youth Gold Latin  (SCRJ),Sample,0,rcb12,402F3820,126,Peter Mant,Samba,1
+OR,0,1,Final,Chad Crader,Samantha Sun,10,1,1, Youth Gold Latin  (SCRJ),Sample,1,rcb12,402F3820,126,Dave Watson,Cha Cha,1
+OR,0,1,Final,Chad Crader,Samantha Sun,11,1,1, Youth Gold Latin  (SCRJ),Sample,1,rcb12,402F3820,126,Elizabeth C Knoll,Cha Cha,1
+OR,0,1,Final,Chad Crader,Samantha Sun,12,1,1, Youth Gold Latin  (SCRJ),Sample,1,rcb12,402F3820,126,Peter Mant,Cha Cha,1
+OR,0,1,Final,Chad Crader,Samantha Sun,10,1,1, Youth Gold Latin  (SCRJ),Sample,2,rcb12,402F3820,126,Dave Watson,Rumba,1
+OR,0,1,Final,Chad Crader,Samantha Sun,11,1,1, Youth Gold Latin  (SCRJ),Sample,2,rcb12,402F3820,126,Elizabeth C Knoll,Rumba,1
+OR,0,1,Final,Chad Crader,Samantha Sun,12,1,1, Youth Gold Latin  (SCRJ),Sample,2,rcb12,402F3820,126,Peter Mant,Rumba,1
+OR,0,1,Final,Chad Crader,Samantha Sun,10,1,1, Youth Gold Latin  (SCRJ),Sample,3,rcb12,402F3820,126,Dave Watson,Jive,1
+OR,0,1,Final,Chad Crader,Samantha Sun,11,1,1, Youth Gold Latin  (SCRJ),Sample,3,rcb12,402F3820,126,Elizabeth C Knoll,Jive,1
+OR,0,1,Final,Chad Crader,Samantha Sun,12,1,1, Youth Gold Latin  (SCRJ),Sample,3,rcb12,402F3820,126,Peter Mant,Jive,1
+OR,0,1,Final,Scott Nicholson,Emilia Wolf,10,1,1, Youth Silver Latin  (SCR),Sample,0,rcb12,402F3020,103,Dave Watson,Samba,1
+OR,0,1,Final,Scott Nicholson,Emilia Wolf,11,1,1, Youth Silver Latin  (SCR),Sample,0,rcb12,402F3020,103,Elizabeth C Knoll,Samba,1
+OR,0,1,Final,Scott Nicholson,Emilia Wolf,12,1,1, Youth Silver Latin  (SCR),Sample,0,rcb12,402F3020,103,Peter Mant,Samba,1
+WA,0,2,Final,Jared McKell,Allison Sawyer,10,2,2, Youth Silver Latin  (SCR),Sample,0,rcb12,402F3020,127,Dave Watson,Samba,2
+WA,0,2,Final,Jared McKell,Allison Sawyer,11,2,2, Youth Silver Latin  (SCR),Sample,0,rcb12,402F3020,127,Elizabeth C Knoll,Samba,2
+WA,0,2,Final,Jared McKell,Allison Sawyer,12,2,2, Youth Silver Latin  (SCR),Sample,0,rcb12,402F3020,127,Peter Mant,Samba,2
+OR,0,1,Final,Scott Nicholson,Emilia Wolf,10,1,1, Youth Silver Latin  (SCR),Sample,1,rcb12,402F3020,103,Dave Watson,Cha Cha,1
+OR,0,1,Final,Scott Nicholson,Emilia Wolf,11,1,1, Youth Silver Latin  (SCR),Sample,1,rcb12,402F3020,103,Elizabeth C Knoll,Cha Cha,1
+OR,0,1,Final,Scott Nicholson,Emilia Wolf,12,1,1, Youth Silver Latin  (SCR),Sample,1,rcb12,402F3020,103,Peter Mant,Cha Cha,1
+WA,0,2,Final,Jared McKell,Allison Sawyer,10,2,2, Youth Silver Latin  (SCR),Sample,1,rcb12,402F3020,127,Dave Watson,Cha Cha,2
+WA,0,2,Final,Jared McKell,Allison Sawyer,11,2,2, Youth Silver Latin  (SCR),Sample,1,rcb12,402F3020,127,Elizabeth C Knoll,Cha Cha,2
+WA,0,2,Final,Jared McKell,Allison Sawyer,12,2,2, Youth Silver Latin  (SCR),Sample,1,rcb12,402F3020,127,Peter Mant,Cha Cha,2
+OR,0,1,Final,Scott Nicholson,Emilia Wolf,10,1,1, Youth Silver Latin  (SCR),Sample,2,rcb12,402F3020,103,Dave Watson,Rumba,1
+OR,0,1,Final,Scott Nicholson,Emilia Wolf,11,1,1, Youth Silver Latin  (SCR),Sample,2,rcb12,402F3020,103,Elizabeth C Knoll,Rumba,1
+OR,0,1,Final,Scott Nicholson,Emilia Wolf,12,1,1, Youth Silver Latin  (SCR),Sample,2,rcb12,402F3020,103,Peter Mant,Rumba,1
+WA,0,2,Final,Jared McKell,Allison Sawyer,10,2,2, Youth Silver Latin  (SCR),Sample,2,rcb12,402F3020,127,Dave Watson,Rumba,2
+WA,0,2,Final,Jared McKell,Allison Sawyer,11,2,2, Youth Silver Latin  (SCR),Sample,2,rcb12,402F3020,127,Elizabeth C Knoll,Rumba,2
+WA,0,2,Final,Jared McKell,Allison Sawyer,12,2,2, Youth Silver Latin  (SCR),Sample,2,rcb12,402F3020,127,Peter Mant,Rumba,2
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,10,1,1, Adult Bronze Standard  (WQ),Sample,0,rcb12,40422810,115,Dave Watson,Waltz,1
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,11,1,1, Adult Bronze Standard  (WQ),Sample,0,rcb12,40422810,115,Elizabeth C Knoll,Waltz,1
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,12,1,1, Adult Bronze Standard  (WQ),Sample,0,rcb12,40422810,115,Peter Mant,Waltz,1
+WA,0,2,Final,Jared McKell,Allison Sawyer,10,2,2, Adult Bronze Standard  (WQ),Sample,0,rcb12,40422810,127,Dave Watson,Waltz,2
+WA,0,2,Final,Jared McKell,Allison Sawyer,11,2,2, Adult Bronze Standard  (WQ),Sample,0,rcb12,40422810,127,Elizabeth C Knoll,Waltz,2
+WA,0,2,Final,Jared McKell,Allison Sawyer,12,2,2, Adult Bronze Standard  (WQ),Sample,0,rcb12,40422810,127,Peter Mant,Waltz,2
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,10,1,1, Adult Bronze Standard  (WQ),Sample,1,rcb12,40422810,115,Dave Watson,Quickstep,1
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,11,1,1, Adult Bronze Standard  (WQ),Sample,1,rcb12,40422810,115,Elizabeth C Knoll,Quickstep,1
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,12,1,1, Adult Bronze Standard  (WQ),Sample,1,rcb12,40422810,115,Peter Mant,Quickstep,1
+WA,0,2,Final,Jared McKell,Allison Sawyer,10,2,2, Adult Bronze Standard  (WQ),Sample,1,rcb12,40422810,127,Dave Watson,Quickstep,2
+WA,0,2,Final,Jared McKell,Allison Sawyer,11,2,2, Adult Bronze Standard  (WQ),Sample,1,rcb12,40422810,127,Elizabeth C Knoll,Quickstep,2
+WA,0,2,Final,Jared McKell,Allison Sawyer,12,2,2, Adult Bronze Standard  (WQ),Sample,1,rcb12,40422810,127,Peter Mant,Quickstep,2
+OR,0,1,Final,John Smith-Hill,Diane Smith-Hill,10,1,1, Senior III Bronze Standard  (WQ),Sample,0,rcb12,40452810,112,Dave Watson,Waltz,1
+OR,0,1,Final,John Smith-Hill,Diane Smith-Hill,11,1,1, Senior III Bronze Standard  (WQ),Sample,0,rcb12,40452810,112,Elizabeth C Knoll,Waltz,1
+OR,0,1,Final,John Smith-Hill,Diane Smith-Hill,12,1,1, Senior III Bronze Standard  (WQ),Sample,0,rcb12,40452810,112,Peter Mant,Waltz,1
+OR,0,2,Final,Les Whitworth,Ellen Wong,10,2,2, Senior III Bronze Standard  (WQ),Sample,0,rcb12,40452810,121,Dave Watson,Waltz,2
+OR,0,3,Final,Les Whitworth,Ellen Wong,11,2,3, Senior III Bronze Standard  (WQ),Sample,0,rcb12,40452810,121,Elizabeth C Knoll,Waltz,2
+OR,0,2,Final,Les Whitworth,Ellen Wong,12,2,2, Senior III Bronze Standard  (WQ),Sample,0,rcb12,40452810,121,Peter Mant,Waltz,2
+OR,0,3,Final,Gary Gitner,Karen Rash-Gitner,10,3,3, Senior III Bronze Standard  (WQ),Sample,0,rcb12,40452810,106,Dave Watson,Waltz,3
+OR,0,2,Final,Gary Gitner,Karen Rash-Gitner,11,3,2, Senior III Bronze Standard  (WQ),Sample,0,rcb12,40452810,106,Elizabeth C Knoll,Waltz,3
+OR,0,3,Final,Gary Gitner,Karen Rash-Gitner,12,3,3, Senior III Bronze Standard  (WQ),Sample,0,rcb12,40452810,106,Peter Mant,Waltz,3
+OR,0,1,Final,John Smith-Hill,Diane Smith-Hill,10,1,1, Senior III Bronze Standard  (WQ),Sample,1,rcb12,40452810,112,Dave Watson,Quickstep,1
+OR,0,1,Final,John Smith-Hill,Diane Smith-Hill,11,1,1, Senior III Bronze Standard  (WQ),Sample,1,rcb12,40452810,112,Elizabeth C Knoll,Quickstep,1
+OR,0,2,Final,John Smith-Hill,Diane Smith-Hill,12,1,2, Senior III Bronze Standard  (WQ),Sample,1,rcb12,40452810,112,Peter Mant,Quickstep,1
+OR,0,2,Final,Les Whitworth,Ellen Wong,10,2,2, Senior III Bronze Standard  (WQ),Sample,1,rcb12,40452810,121,Dave Watson,Quickstep,2
+OR,0,3,Final,Les Whitworth,Ellen Wong,11,2,3, Senior III Bronze Standard  (WQ),Sample,1,rcb12,40452810,121,Elizabeth C Knoll,Quickstep,2
+OR,0,1,Final,Les Whitworth,Ellen Wong,12,2,1, Senior III Bronze Standard  (WQ),Sample,1,rcb12,40452810,121,Peter Mant,Quickstep,2
+OR,0,3,Final,Gary Gitner,Karen Rash-Gitner,10,3,3, Senior III Bronze Standard  (WQ),Sample,1,rcb12,40452810,106,Dave Watson,Quickstep,3
+OR,0,2,Final,Gary Gitner,Karen Rash-Gitner,11,3,2, Senior III Bronze Standard  (WQ),Sample,1,rcb12,40452810,106,Elizabeth C Knoll,Quickstep,3
+OR,0,3,Final,Gary Gitner,Karen Rash-Gitner,12,3,3, Senior III Bronze Standard  (WQ),Sample,1,rcb12,40452810,106,Peter Mant,Quickstep,3
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,10,1,1, Senior I Bronze Standard  (WQ),Sample,0,rcb12,40432810,115,Dave Watson,Waltz,1
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,11,1,1, Senior I Bronze Standard  (WQ),Sample,0,rcb12,40432810,115,Elizabeth C Knoll,Waltz,1
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,12,1,1, Senior I Bronze Standard  (WQ),Sample,0,rcb12,40432810,115,Peter Mant,Waltz,1
+OR,0,2,Final,Douglas Daniels,Li Zhang,10,2,2, Senior I Bronze Standard  (WQ),Sample,0,rcb12,40432810,118,Dave Watson,Waltz,2
+OR,0,2,Final,Douglas Daniels,Li Zhang,11,2,2, Senior I Bronze Standard  (WQ),Sample,0,rcb12,40432810,118,Elizabeth C Knoll,Waltz,2
+OR,0,2,Final,Douglas Daniels,Li Zhang,12,2,2, Senior I Bronze Standard  (WQ),Sample,0,rcb12,40432810,118,Peter Mant,Waltz,2
+WA,0,2,Final,Norair Ghazarian,Coleen Popochock,10,2,2, Senior I Bronze Standard  (WQ),Sample,1,rcb12,40432810,115,Dave Watson,Quickstep,1
+WA,0,2,Final,Norair Ghazarian,Coleen Popochock,11,2,2, Senior I Bronze Standard  (WQ),Sample,1,rcb12,40432810,115,Elizabeth C Knoll,Quickstep,1
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,12,2,1, Senior I Bronze Standard  (WQ),Sample,1,rcb12,40432810,115,Peter Mant,Quickstep,1
+OR,0,1,Final,Douglas Daniels,Li Zhang,10,1,1, Senior I Bronze Standard  (WQ),Sample,1,rcb12,40432810,118,Dave Watson,Quickstep,2
+OR,0,1,Final,Douglas Daniels,Li Zhang,11,1,1, Senior I Bronze Standard  (WQ),Sample,1,rcb12,40432810,118,Elizabeth C Knoll,Quickstep,2
+OR,0,2,Final,Douglas Daniels,Li Zhang,12,1,2, Senior I Bronze Standard  (WQ),Sample,1,rcb12,40432810,118,Peter Mant,Quickstep,2
+OR,0,1,Final,Grant Wilson,Lora Geisler,10,1,1, Senior II Novice Smooth  (WTF),Sample,0,rcb12,40448130,128,Dave Watson,Waltz,1
+OR,0,1,Final,Grant Wilson,Lora Geisler,11,1,1, Senior II Novice Smooth  (WTF),Sample,0,rcb12,40448130,128,Elizabeth C Knoll,Waltz,1
+OR,0,1,Final,Grant Wilson,Lora Geisler,12,1,1, Senior II Novice Smooth  (WTF),Sample,0,rcb12,40448130,128,Peter Mant,Waltz,1
+OR,0,1,Final,Grant Wilson,Lora Geisler,10,1,1, Senior II Novice Smooth  (WTF),Sample,1,rcb12,40448130,128,Dave Watson,Tango,1
+OR,0,1,Final,Grant Wilson,Lora Geisler,11,1,1, Senior II Novice Smooth  (WTF),Sample,1,rcb12,40448130,128,Elizabeth C Knoll,Tango,1
+OR,0,1,Final,Grant Wilson,Lora Geisler,12,1,1, Senior II Novice Smooth  (WTF),Sample,1,rcb12,40448130,128,Peter Mant,Tango,1
+OR,0,1,Final,Grant Wilson,Lora Geisler,10,1,1, Senior II Novice Smooth  (WTF),Sample,2,rcb12,40448130,128,Dave Watson,Foxtrot,1
+OR,0,1,Final,Grant Wilson,Lora Geisler,11,1,1, Senior II Novice Smooth  (WTF),Sample,2,rcb12,40448130,128,Elizabeth C Knoll,Foxtrot,1
+OR,0,1,Final,Grant Wilson,Lora Geisler,12,1,1, Senior II Novice Smooth  (WTF),Sample,2,rcb12,40448130,128,Peter Mant,Foxtrot,1
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,10,1,1, Adult Silver Standard  (WFQ),Sample,0,rcb12,40423010,115,Dave Watson,Waltz,1
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,11,1,1, Adult Silver Standard  (WFQ),Sample,0,rcb12,40423010,115,Elizabeth C Knoll,Waltz,1
+WA,0,2,Final,Norair Ghazarian,Coleen Popochock,12,1,2, Adult Silver Standard  (WFQ),Sample,0,rcb12,40423010,115,Peter Mant,Waltz,1
+OR,0,3,Final,Norbert Teston,Jessica Lindsey,10,2,3, Adult Silver Standard  (WFQ),Sample,0,rcb12,40423010,124,Dave Watson,Waltz,2
+OR,0,2,Final,Norbert Teston,Jessica Lindsey,11,2,2, Adult Silver Standard  (WFQ),Sample,0,rcb12,40423010,124,Elizabeth C Knoll,Waltz,2
+OR,0,1,Final,Norbert Teston,Jessica Lindsey,12,2,1, Adult Silver Standard  (WFQ),Sample,0,rcb12,40423010,124,Peter Mant,Waltz,2
+WA,0,2,Final,Jared McKell,Jamie Carr,10,3,2, Adult Silver Standard  (WFQ),Sample,0,rcb12,40423010,127,Dave Watson,Waltz,3
+WA,0,3,Final,Jared McKell,Jamie Carr,11,3,3, Adult Silver Standard  (WFQ),Sample,0,rcb12,40423010,127,Elizabeth C Knoll,Waltz,3
+WA,0,3,Final,Jared McKell,Jamie Carr,12,3,3, Adult Silver Standard  (WFQ),Sample,0,rcb12,40423010,127,Peter Mant,Waltz,3
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,10,1,1, Adult Silver Standard  (WFQ),Sample,1,rcb12,40423010,115,Dave Watson,Foxtrot,1
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,11,1,1, Adult Silver Standard  (WFQ),Sample,1,rcb12,40423010,115,Elizabeth C Knoll,Foxtrot,1
+WA,0,2,Final,Norair Ghazarian,Coleen Popochock,12,1,2, Adult Silver Standard  (WFQ),Sample,1,rcb12,40423010,115,Peter Mant,Foxtrot,1
+OR,0,2,Final,Norbert Teston,Jessica Lindsey,10,2,2, Adult Silver Standard  (WFQ),Sample,1,rcb12,40423010,124,Dave Watson,Foxtrot,2
+OR,0,3,Final,Norbert Teston,Jessica Lindsey,11,2,3, Adult Silver Standard  (WFQ),Sample,1,rcb12,40423010,124,Elizabeth C Knoll,Foxtrot,2
+OR,0,1,Final,Norbert Teston,Jessica Lindsey,12,2,1, Adult Silver Standard  (WFQ),Sample,1,rcb12,40423010,124,Peter Mant,Foxtrot,2
+WA,0,3,Final,Jared McKell,Jamie Carr,10,3,3, Adult Silver Standard  (WFQ),Sample,1,rcb12,40423010,127,Dave Watson,Foxtrot,3
+WA,0,2,Final,Jared McKell,Jamie Carr,11,3,2, Adult Silver Standard  (WFQ),Sample,1,rcb12,40423010,127,Elizabeth C Knoll,Foxtrot,3
+WA,0,3,Final,Jared McKell,Jamie Carr,12,3,3, Adult Silver Standard  (WFQ),Sample,1,rcb12,40423010,127,Peter Mant,Foxtrot,3
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,10,1,1, Adult Silver Standard  (WFQ),Sample,2,rcb12,40423010,115,Dave Watson,Quickstep,1
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,11,1,1, Adult Silver Standard  (WFQ),Sample,2,rcb12,40423010,115,Elizabeth C Knoll,Quickstep,1
+WA,0,2,Final,Norair Ghazarian,Coleen Popochock,12,1,2, Adult Silver Standard  (WFQ),Sample,2,rcb12,40423010,115,Peter Mant,Quickstep,1
+OR,0,3,Final,Norbert Teston,Jessica Lindsey,10,3,3, Adult Silver Standard  (WFQ),Sample,2,rcb12,40423010,124,Dave Watson,Quickstep,2
+OR,0,3,Final,Norbert Teston,Jessica Lindsey,11,3,3, Adult Silver Standard  (WFQ),Sample,2,rcb12,40423010,124,Elizabeth C Knoll,Quickstep,2
+OR,0,1,Final,Norbert Teston,Jessica Lindsey,12,3,1, Adult Silver Standard  (WFQ),Sample,2,rcb12,40423010,124,Peter Mant,Quickstep,2
+WA,0,2,Final,Jared McKell,Jamie Carr,10,2,2, Adult Silver Standard  (WFQ),Sample,2,rcb12,40423010,127,Dave Watson,Quickstep,3
+WA,0,2,Final,Jared McKell,Jamie Carr,11,2,2, Adult Silver Standard  (WFQ),Sample,2,rcb12,40423010,127,Elizabeth C Knoll,Quickstep,3
+WA,0,3,Final,Jared McKell,Jamie Carr,12,2,3, Adult Silver Standard  (WFQ),Sample,2,rcb12,40423010,127,Peter Mant,Quickstep,3
+BC,0,1,Final,Bill Hingley,Glenda Hingley,10,1,1, Senior III Silver Standard  (WFQ),Sample,0,rcb12,40453010,109,Dave Watson,Waltz,1
+BC,0,1,Final,Bill Hingley,Glenda Hingley,11,1,1, Senior III Silver Standard  (WFQ),Sample,0,rcb12,40453010,109,Elizabeth C Knoll,Waltz,1
+BC,0,4,Final,Bill Hingley,Glenda Hingley,12,1,4, Senior III Silver Standard  (WFQ),Sample,0,rcb12,40453010,109,Peter Mant,Waltz,1
+WA,0,2,Final,Edward Brennan,Cecilia Wang,10,2,2, Senior III Silver Standard  (WFQ),Sample,0,rcb12,40453010,117,Dave Watson,Waltz,2
+WA,0,2,Final,Edward Brennan,Cecilia Wang,11,2,2, Senior III Silver Standard  (WFQ),Sample,0,rcb12,40453010,117,Elizabeth C Knoll,Waltz,2
+WA,0,3,Final,Edward Brennan,Cecilia Wang,12,2,3, Senior III Silver Standard  (WFQ),Sample,0,rcb12,40453010,117,Peter Mant,Waltz,2
+WA,0,4,Final,William Minniear,Irita Minniear,10,3,4, Senior III Silver Standard  (WFQ),Sample,0,rcb12,40453010,131,Dave Watson,Waltz,3
+WA,0,3,Final,William Minniear,Irita Minniear,11,3,3, Senior III Silver Standard  (WFQ),Sample,0,rcb12,40453010,131,Elizabeth C Knoll,Waltz,3
+WA,0,1,Final,William Minniear,Irita Minniear,12,3,1, Senior III Silver Standard  (WFQ),Sample,0,rcb12,40453010,131,Peter Mant,Waltz,3
+OR,0,3,Final,Vidar Moen,Cindy Ogden,10,4,3, Senior III Silver Standard  (WFQ),Sample,0,rcb12,40453010,111,Dave Watson,Waltz,4
+OR,0,5,Final,Vidar Moen,Cindy Ogden,11,4,5, Senior III Silver Standard  (WFQ),Sample,0,rcb12,40453010,111,Elizabeth C Knoll,Waltz,4
+OR,0,2,Final,Vidar Moen,Cindy Ogden,12,4,2, Senior III Silver Standard  (WFQ),Sample,0,rcb12,40453010,111,Peter Mant,Waltz,4
+OR,0,5,Final,Joseph Leitch,Pamela Leitch,10,5,5, Senior III Silver Standard  (WFQ),Sample,0,rcb12,40453010,125,Dave Watson,Waltz,5
+OR,0,4,Final,Joseph Leitch,Pamela Leitch,11,5,4, Senior III Silver Standard  (WFQ),Sample,0,rcb12,40453010,125,Elizabeth C Knoll,Waltz,5
+OR,0,5,Final,Joseph Leitch,Pamela Leitch,12,5,5, Senior III Silver Standard  (WFQ),Sample,0,rcb12,40453010,125,Peter Mant,Waltz,5
+OR,0,7,Final,John Smith-Hill,Diane Smith-Hill,10,6,7, Senior III Silver Standard  (WFQ),Sample,0,rcb12,40453010,112,Dave Watson,Waltz,6
+OR,0,6,Final,John Smith-Hill,Diane Smith-Hill,11,6,6, Senior III Silver Standard  (WFQ),Sample,0,rcb12,40453010,112,Elizabeth C Knoll,Waltz,6
+OR,0,6,Final,John Smith-Hill,Diane Smith-Hill,12,6,6, Senior III Silver Standard  (WFQ),Sample,0,rcb12,40453010,112,Peter Mant,Waltz,6
+OR,0,6,Final,Les Whitworth,Ellen Wong,10,7,6, Senior III Silver Standard  (WFQ),Sample,0,rcb12,40453010,121,Dave Watson,Waltz,7
+OR,0,7,Final,Les Whitworth,Ellen Wong,11,7,7, Senior III Silver Standard  (WFQ),Sample,0,rcb12,40453010,121,Elizabeth C Knoll,Waltz,7
+OR,0,7,Final,Les Whitworth,Ellen Wong,12,7,7, Senior III Silver Standard  (WFQ),Sample,0,rcb12,40453010,121,Peter Mant,Waltz,7
+BC,0,1,Final,Bill Hingley,Glenda Hingley,10,1,1, Senior III Silver Standard  (WFQ),Sample,1,rcb12,40453010,109,Dave Watson,Foxtrot,1
+BC,0,1,Final,Bill Hingley,Glenda Hingley,11,1,1, Senior III Silver Standard  (WFQ),Sample,1,rcb12,40453010,109,Elizabeth C Knoll,Foxtrot,1
+BC,0,2,Final,Bill Hingley,Glenda Hingley,12,1,2, Senior III Silver Standard  (WFQ),Sample,1,rcb12,40453010,109,Peter Mant,Foxtrot,1
+WA,0,2,Final,Edward Brennan,Cecilia Wang,10,2,2, Senior III Silver Standard  (WFQ),Sample,1,rcb12,40453010,117,Dave Watson,Foxtrot,2
+WA,0,2,Final,Edward Brennan,Cecilia Wang,11,2,2, Senior III Silver Standard  (WFQ),Sample,1,rcb12,40453010,117,Elizabeth C Knoll,Foxtrot,2
+WA,0,1,Final,Edward Brennan,Cecilia Wang,12,2,1, Senior III Silver Standard  (WFQ),Sample,1,rcb12,40453010,117,Peter Mant,Foxtrot,2
+WA,0,3,Final,William Minniear,Irita Minniear,10,3,3, Senior III Silver Standard  (WFQ),Sample,1,rcb12,40453010,131,Dave Watson,Foxtrot,3
+WA,0,3,Final,William Minniear,Irita Minniear,11,3,3, Senior III Silver Standard  (WFQ),Sample,1,rcb12,40453010,131,Elizabeth C Knoll,Foxtrot,3
+WA,0,5,Final,William Minniear,Irita Minniear,12,3,5, Senior III Silver Standard  (WFQ),Sample,1,rcb12,40453010,131,Peter Mant,Foxtrot,3
+OR,0,5,Final,Vidar Moen,Cindy Ogden,10,5,5, Senior III Silver Standard  (WFQ),Sample,1,rcb12,40453010,111,Dave Watson,Foxtrot,4
+OR,0,6,Final,Vidar Moen,Cindy Ogden,11,5,6, Senior III Silver Standard  (WFQ),Sample,1,rcb12,40453010,111,Elizabeth C Knoll,Foxtrot,4
+OR,0,3,Final,Vidar Moen,Cindy Ogden,12,5,3, Senior III Silver Standard  (WFQ),Sample,1,rcb12,40453010,111,Peter Mant,Foxtrot,4
+OR,0,4,Final,Joseph Leitch,Pamela Leitch,10,4,4, Senior III Silver Standard  (WFQ),Sample,1,rcb12,40453010,125,Dave Watson,Foxtrot,5
+OR,0,4,Final,Joseph Leitch,Pamela Leitch,11,4,4, Senior III Silver Standard  (WFQ),Sample,1,rcb12,40453010,125,Elizabeth C Knoll,Foxtrot,5
+OR,0,4,Final,Joseph Leitch,Pamela Leitch,12,4,4, Senior III Silver Standard  (WFQ),Sample,1,rcb12,40453010,125,Peter Mant,Foxtrot,5
+OR,0,6,Final,John Smith-Hill,Diane Smith-Hill,10,6,6, Senior III Silver Standard  (WFQ),Sample,1,rcb12,40453010,112,Dave Watson,Foxtrot,6
+OR,0,5,Final,John Smith-Hill,Diane Smith-Hill,11,6,5, Senior III Silver Standard  (WFQ),Sample,1,rcb12,40453010,112,Elizabeth C Knoll,Foxtrot,6
+OR,0,6,Final,John Smith-Hill,Diane Smith-Hill,12,6,6, Senior III Silver Standard  (WFQ),Sample,1,rcb12,40453010,112,Peter Mant,Foxtrot,6
+OR,0,7,Final,Les Whitworth,Ellen Wong,10,7,7, Senior III Silver Standard  (WFQ),Sample,1,rcb12,40453010,121,Dave Watson,Foxtrot,7
+OR,0,7,Final,Les Whitworth,Ellen Wong,11,7,7, Senior III Silver Standard  (WFQ),Sample,1,rcb12,40453010,121,Elizabeth C Knoll,Foxtrot,7
+OR,0,7,Final,Les Whitworth,Ellen Wong,12,7,7, Senior III Silver Standard  (WFQ),Sample,1,rcb12,40453010,121,Peter Mant,Foxtrot,7
+BC,0,1,Final,Bill Hingley,Glenda Hingley,10,1,1, Senior III Silver Standard  (WFQ),Sample,2,rcb12,40453010,109,Dave Watson,Quickstep,1
+BC,0,1,Final,Bill Hingley,Glenda Hingley,11,1,1, Senior III Silver Standard  (WFQ),Sample,2,rcb12,40453010,109,Elizabeth C Knoll,Quickstep,1
+BC,0,1,Final,Bill Hingley,Glenda Hingley,12,1,1, Senior III Silver Standard  (WFQ),Sample,2,rcb12,40453010,109,Peter Mant,Quickstep,1
+WA,0,3,Final,Edward Brennan,Cecilia Wang,10,2,3, Senior III Silver Standard  (WFQ),Sample,2,rcb12,40453010,117,Dave Watson,Quickstep,2
+WA,0,2,Final,Edward Brennan,Cecilia Wang,11,2,2, Senior III Silver Standard  (WFQ),Sample,2,rcb12,40453010,117,Elizabeth C Knoll,Quickstep,2
+WA,0,2,Final,Edward Brennan,Cecilia Wang,12,2,2, Senior III Silver Standard  (WFQ),Sample,2,rcb12,40453010,117,Peter Mant,Quickstep,2
+WA,0,2,Final,William Minniear,Irita Minniear,10,4,2, Senior III Silver Standard  (WFQ),Sample,2,rcb12,40453010,131,Dave Watson,Quickstep,3
+WA,0,5,Final,William Minniear,Irita Minniear,11,4,5, Senior III Silver Standard  (WFQ),Sample,2,rcb12,40453010,131,Elizabeth C Knoll,Quickstep,3
+WA,0,5,Final,William Minniear,Irita Minniear,12,4,5, Senior III Silver Standard  (WFQ),Sample,2,rcb12,40453010,131,Peter Mant,Quickstep,3
+OR,0,4,Final,Vidar Moen,Cindy Ogden,10,3,4, Senior III Silver Standard  (WFQ),Sample,2,rcb12,40453010,111,Dave Watson,Quickstep,4
+OR,0,3,Final,Vidar Moen,Cindy Ogden,11,3,3, Senior III Silver Standard  (WFQ),Sample,2,rcb12,40453010,111,Elizabeth C Knoll,Quickstep,4
+OR,0,3,Final,Vidar Moen,Cindy Ogden,12,3,3, Senior III Silver Standard  (WFQ),Sample,2,rcb12,40453010,111,Peter Mant,Quickstep,4
+OR,0,5,Final,Joseph Leitch,Pamela Leitch,10,5,5, Senior III Silver Standard  (WFQ),Sample,2,rcb12,40453010,125,Dave Watson,Quickstep,5
+OR,0,4,Final,Joseph Leitch,Pamela Leitch,11,5,4, Senior III Silver Standard  (WFQ),Sample,2,rcb12,40453010,125,Elizabeth C Knoll,Quickstep,5
+OR,0,6,Final,Joseph Leitch,Pamela Leitch,12,5,6, Senior III Silver Standard  (WFQ),Sample,2,rcb12,40453010,125,Peter Mant,Quickstep,5
+OR,0,6,Final,John Smith-Hill,Diane Smith-Hill,10,6,6, Senior III Silver Standard  (WFQ),Sample,2,rcb12,40453010,112,Dave Watson,Quickstep,6
+OR,0,6,Final,John Smith-Hill,Diane Smith-Hill,11,6,6, Senior III Silver Standard  (WFQ),Sample,2,rcb12,40453010,112,Elizabeth C Knoll,Quickstep,6
+OR,0,4,Final,John Smith-Hill,Diane Smith-Hill,12,6,4, Senior III Silver Standard  (WFQ),Sample,2,rcb12,40453010,112,Peter Mant,Quickstep,6
+OR,0,7,Final,Les Whitworth,Ellen Wong,10,7,7, Senior III Silver Standard  (WFQ),Sample,2,rcb12,40453010,121,Dave Watson,Quickstep,7
+OR,0,7,Final,Les Whitworth,Ellen Wong,11,7,7, Senior III Silver Standard  (WFQ),Sample,2,rcb12,40453010,121,Elizabeth C Knoll,Quickstep,7
+OR,0,7,Final,Les Whitworth,Ellen Wong,12,7,7, Senior III Silver Standard  (WFQ),Sample,2,rcb12,40453010,121,Peter Mant,Quickstep,7
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,10,1,1, Senior I Silver Standard  (WFQ),Sample,0,rcb12,40433010,115,Dave Watson,Waltz,1
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,11,1,1, Senior I Silver Standard  (WFQ),Sample,0,rcb12,40433010,115,Elizabeth C Knoll,Waltz,1
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,12,1,1, Senior I Silver Standard  (WFQ),Sample,0,rcb12,40433010,115,Peter Mant,Waltz,1
+OR,0,2,Final,Douglas Daniels,Li Zhang,10,2,2, Senior I Silver Standard  (WFQ),Sample,0,rcb12,40433010,118,Dave Watson,Waltz,2
+OR,0,2,Final,Douglas Daniels,Li Zhang,11,2,2, Senior I Silver Standard  (WFQ),Sample,0,rcb12,40433010,118,Elizabeth C Knoll,Waltz,2
+OR,0,2,Final,Douglas Daniels,Li Zhang,12,2,2, Senior I Silver Standard  (WFQ),Sample,0,rcb12,40433010,118,Peter Mant,Waltz,2
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,10,1,1, Senior I Silver Standard  (WFQ),Sample,1,rcb12,40433010,115,Dave Watson,Foxtrot,1
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,11,1,1, Senior I Silver Standard  (WFQ),Sample,1,rcb12,40433010,115,Elizabeth C Knoll,Foxtrot,1
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,12,1,1, Senior I Silver Standard  (WFQ),Sample,1,rcb12,40433010,115,Peter Mant,Foxtrot,1
+OR,0,2,Final,Douglas Daniels,Li Zhang,10,2,2, Senior I Silver Standard  (WFQ),Sample,1,rcb12,40433010,118,Dave Watson,Foxtrot,2
+OR,0,2,Final,Douglas Daniels,Li Zhang,11,2,2, Senior I Silver Standard  (WFQ),Sample,1,rcb12,40433010,118,Elizabeth C Knoll,Foxtrot,2
+OR,0,2,Final,Douglas Daniels,Li Zhang,12,2,2, Senior I Silver Standard  (WFQ),Sample,1,rcb12,40433010,118,Peter Mant,Foxtrot,2
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,10,1,1, Senior I Silver Standard  (WFQ),Sample,2,rcb12,40433010,115,Dave Watson,Quickstep,1
+WA,0,2,Final,Norair Ghazarian,Coleen Popochock,11,1,2, Senior I Silver Standard  (WFQ),Sample,2,rcb12,40433010,115,Elizabeth C Knoll,Quickstep,1
+WA,0,1,Final,Norair Ghazarian,Coleen Popochock,12,1,1, Senior I Silver Standard  (WFQ),Sample,2,rcb12,40433010,115,Peter Mant,Quickstep,1
+OR,0,2,Final,Douglas Daniels,Li Zhang,10,2,2, Senior I Silver Standard  (WFQ),Sample,2,rcb12,40433010,118,Dave Watson,Quickstep,2
+OR,0,1,Final,Douglas Daniels,Li Zhang,11,2,1, Senior I Silver Standard  (WFQ),Sample,2,rcb12,40433010,118,Elizabeth C Knoll,Quickstep,2
+OR,0,2,Final,Douglas Daniels,Li Zhang,12,2,2, Senior I Silver Standard  (WFQ),Sample,2,rcb12,40433010,118,Peter Mant,Quickstep,2
+OR,0,1,Final,Grant Wilson,Lora Geisler,10,1,1, Senior II Pre-Champ Smooth  (WTFV),Sample,0,rcb12,40448330,128,Dave Watson,Waltz,1
+OR,0,1,Final,Grant Wilson,Lora Geisler,11,1,1, Senior II Pre-Champ Smooth  (WTFV),Sample,0,rcb12,40448330,128,Elizabeth C Knoll,Waltz,1
+OR,0,1,Final,Grant Wilson,Lora Geisler,12,1,1, Senior II Pre-Champ Smooth  (WTFV),Sample,0,rcb12,40448330,128,Peter Mant,Waltz,1
+OR,0,1,Final,Grant Wilson,Lora Geisler,10,1,1, Senior II Pre-Champ Smooth  (WTFV),Sample,1,rcb12,40448330,128,Dave Watson,Tango,1
+OR,0,1,Final,Grant Wilson,Lora Geisler,11,1,1, Senior II Pre-Champ Smooth  (WTFV),Sample,1,rcb12,40448330,128,Elizabeth C Knoll,Tango,1
+OR,0,1,Final,Grant Wilson,Lora Geisler,12,1,1, Senior II Pre-Champ Smooth  (WTFV),Sample,1,rcb12,40448330,128,Peter Mant,Tango,1
+OR,0,1,Final,Grant Wilson,Lora Geisler,10,1,1, Senior II Pre-Champ Smooth  (WTFV),Sample,2,rcb12,40448330,128,Dave Watson,Foxtrot,1
+OR,0,1,Final,Grant Wilson,Lora Geisler,11,1,1, Senior II Pre-Champ Smooth  (WTFV),Sample,2,rcb12,40448330,128,Elizabeth C Knoll,Foxtrot,1
+OR,0,1,Final,Grant Wilson,Lora Geisler,12,1,1, Senior II Pre-Champ Smooth  (WTFV),Sample,2,rcb12,40448330,128,Peter Mant,Foxtrot,1
+OR,0,1,Final,Grant Wilson,Lora Geisler,10,1,1, Senior II Pre-Champ Smooth  (WTFV),Sample,3,rcb12,40448330,128,Dave Watson,Viennese Waltz,1
+OR,0,1,Final,Grant Wilson,Lora Geisler,11,1,1, Senior II Pre-Champ Smooth  (WTFV),Sample,3,rcb12,40448330,128,Elizabeth C Knoll,Viennese Waltz,1
+OR,0,1,Final,Grant Wilson,Lora Geisler,12,1,1, Senior II Pre-Champ Smooth  (WTFV),Sample,3,rcb12,40448330,128,Peter Mant,Viennese Waltz,1
+BC,0,1,Final,Bill Hingley,Glenda Hingley,10,1,1, Senior II Silver Standard  (WFQ),Sample,0,rcb12,40443010,109,Dave Watson,Waltz,1
+BC,0,1,Final,Bill Hingley,Glenda Hingley,11,1,1, Senior II Silver Standard  (WFQ),Sample,0,rcb12,40443010,109,Elizabeth C Knoll,Waltz,1
+BC,0,1,Final,Bill Hingley,Glenda Hingley,12,1,1, Senior II Silver Standard  (WFQ),Sample,0,rcb12,40443010,109,Peter Mant,Waltz,1
+WA,0,3,Final,Edward Brennan,Cecilia Wang,10,3,3, Senior II Silver Standard  (WFQ),Sample,0,rcb12,40443010,117,Dave Watson,Waltz,2
+WA,0,2,Final,Edward Brennan,Cecilia Wang,11,3,2, Senior II Silver Standard  (WFQ),Sample,0,rcb12,40443010,117,Elizabeth C Knoll,Waltz,2
+WA,0,5,Final,Edward Brennan,Cecilia Wang,12,3,5, Senior II Silver Standard  (WFQ),Sample,0,rcb12,40443010,117,Peter Mant,Waltz,2
+OR,0,2,Final,Vidar Moen,Cindy Ogden,10,2,2, Senior II Silver Standard  (WFQ),Sample,0,rcb12,40443010,111,Dave Watson,Waltz,3
+OR,0,4,Final,Vidar Moen,Cindy Ogden,11,2,4, Senior II Silver Standard  (WFQ),Sample,0,rcb12,40443010,111,Elizabeth C Knoll,Waltz,3
+OR,0,3,Final,Vidar Moen,Cindy Ogden,12,2,3, Senior II Silver Standard  (WFQ),Sample,0,rcb12,40443010,111,Peter Mant,Waltz,3
+WA,0,5,Final,William Minniear,Irita Minniear,10,5,5, Senior II Silver Standard  (WFQ),Sample,0,rcb12,40443010,131,Dave Watson,Waltz,4
+WA,0,3,Final,William Minniear,Irita Minniear,11,5,3, Senior II Silver Standard  (WFQ),Sample,0,rcb12,40443010,131,Elizabeth C Knoll,Waltz,4
+WA,0,4,Final,William Minniear,Irita Minniear,12,5,4, Senior II Silver Standard  (WFQ),Sample,0,rcb12,40443010,131,Peter Mant,Waltz,4
+OR,0,6,Final,Douglas Daniels,Li Zhang,10,6,6, Senior II Silver Standard  (WFQ),Sample,0,rcb12,40443010,118,Dave Watson,Waltz,5
+OR,0,5,Final,Douglas Daniels,Li Zhang,11,6,5, Senior II Silver Standard  (WFQ),Sample,0,rcb12,40443010,118,Elizabeth C Knoll,Waltz,5
+OR,0,6,Final,Douglas Daniels,Li Zhang,12,6,6, Senior II Silver Standard  (WFQ),Sample,0,rcb12,40443010,118,Peter Mant,Waltz,5
+OR,0,4,Final,Joseph Leitch,Pamela Leitch,10,4,4, Senior II Silver Standard  (WFQ),Sample,0,rcb12,40443010,125,Dave Watson,Waltz,6
+OR,0,6,Final,Joseph Leitch,Pamela Leitch,11,4,6, Senior II Silver Standard  (WFQ),Sample,0,rcb12,40443010,125,Elizabeth C Knoll,Waltz,6
+OR,0,2,Final,Joseph Leitch,Pamela Leitch,12,4,2, Senior II Silver Standard  (WFQ),Sample,0,rcb12,40443010,125,Peter Mant,Waltz,6
+OR,0,7,Final,John Smith-Hill,Diane Smith-Hill,10,7,7, Senior II Silver Standard  (WFQ),Sample,0,rcb12,40443010,112,Dave Watson,Waltz,7
+OR,0,7,Final,John Smith-Hill,Diane Smith-Hill,11,7,7, Senior II Silver Standard  (WFQ),Sample,0,rcb12,40443010,112,Elizabeth C Knoll,Waltz,7
+OR,0,7,Final,John Smith-Hill,Diane Smith-Hill,12,7,7, Senior II Silver Standard  (WFQ),Sample,0,rcb12,40443010,112,Peter Mant,Waltz,7
+BC,0,1,Final,Bill Hingley,Glenda Hingley,10,1,1, Senior II Silver Standard  (WFQ),Sample,1,rcb12,40443010,109,Dave Watson,Foxtrot,1
+BC,0,1,Final,Bill Hingley,Glenda Hingley,11,1,1, Senior II Silver Standard  (WFQ),Sample,1,rcb12,40443010,109,Elizabeth C Knoll,Foxtrot,1
+BC,0,1,Final,Bill Hingley,Glenda Hingley,12,1,1, Senior II Silver Standard  (WFQ),Sample,1,rcb12,40443010,109,Peter Mant,Foxtrot,1
+WA,0,2,Final,Edward Brennan,Cecilia Wang,10,2,2, Senior II Silver Standard  (WFQ),Sample,1,rcb12,40443010,117,Dave Watson,Foxtrot,2
+WA,0,2,Final,Edward Brennan,Cecilia Wang,11,2,2, Senior II Silver Standard  (WFQ),Sample,1,rcb12,40443010,117,Elizabeth C Knoll,Foxtrot,2
+WA,0,2,Final,Edward Brennan,Cecilia Wang,12,2,2, Senior II Silver Standard  (WFQ),Sample,1,rcb12,40443010,117,Peter Mant,Foxtrot,2
+OR,0,4,Final,Vidar Moen,Cindy Ogden,10,4,4, Senior II Silver Standard  (WFQ),Sample,1,rcb12,40443010,111,Dave Watson,Foxtrot,3
+OR,0,4,Final,Vidar Moen,Cindy Ogden,11,4,4, Senior II Silver Standard  (WFQ),Sample,1,rcb12,40443010,111,Elizabeth C Knoll,Foxtrot,3
+OR,0,3,Final,Vidar Moen,Cindy Ogden,12,4,3, Senior II Silver Standard  (WFQ),Sample,1,rcb12,40443010,111,Peter Mant,Foxtrot,3
+WA,0,3,Final,William Minniear,Irita Minniear,10,3,3, Senior II Silver Standard  (WFQ),Sample,1,rcb12,40443010,131,Dave Watson,Foxtrot,4
+WA,0,3,Final,William Minniear,Irita Minniear,11,3,3, Senior II Silver Standard  (WFQ),Sample,1,rcb12,40443010,131,Elizabeth C Knoll,Foxtrot,4
+WA,0,4,Final,William Minniear,Irita Minniear,12,3,4, Senior II Silver Standard  (WFQ),Sample,1,rcb12,40443010,131,Peter Mant,Foxtrot,4
+OR,0,5,Final,Douglas Daniels,Li Zhang,10,5,5, Senior II Silver Standard  (WFQ),Sample,1,rcb12,40443010,118,Dave Watson,Foxtrot,5
+OR,0,5,Final,Douglas Daniels,Li Zhang,11,5,5, Senior II Silver Standard  (WFQ),Sample,1,rcb12,40443010,118,Elizabeth C Knoll,Foxtrot,5
+OR,0,7,Final,Douglas Daniels,Li Zhang,12,5,7, Senior II Silver Standard  (WFQ),Sample,1,rcb12,40443010,118,Peter Mant,Foxtrot,5
+OR,0,6,Final,Joseph Leitch,Pamela Leitch,10,6,6, Senior II Silver Standard  (WFQ),Sample,1,rcb12,40443010,125,Dave Watson,Foxtrot,6
+OR,0,6,Final,Joseph Leitch,Pamela Leitch,11,6,6, Senior II Silver Standard  (WFQ),Sample,1,rcb12,40443010,125,Elizabeth C Knoll,Foxtrot,6
+OR,0,5,Final,Joseph Leitch,Pamela Leitch,12,6,5, Senior II Silver Standard  (WFQ),Sample,1,rcb12,40443010,125,Peter Mant,Foxtrot,6
+OR,0,7,Final,John Smith-Hill,Diane Smith-Hill,10,7,7, Senior II Silver Standard  (WFQ),Sample,1,rcb12,40443010,112,Dave Watson,Foxtrot,7
+OR,0,7,Final,John Smith-Hill,Diane Smith-Hill,11,7,7, Senior II Silver Standard  (WFQ),Sample,1,rcb12,40443010,112,Elizabeth C Knoll,Foxtrot,7
+OR,0,6,Final,John Smith-Hill,Diane Smith-Hill,12,7,6, Senior II Silver Standard  (WFQ),Sample,1,rcb12,40443010,112,Peter Mant,Foxtrot,7
+BC,0,1,Final,Bill Hingley,Glenda Hingley,10,1,1, Senior II Silver Standard  (WFQ),Sample,2,rcb12,40443010,109,Dave Watson,Quickstep,1
+BC,0,2,Final,Bill Hingley,Glenda Hingley,11,1,2, Senior II Silver Standard  (WFQ),Sample,2,rcb12,40443010,109,Elizabeth C Knoll,Quickstep,1
+BC,0,1,Final,Bill Hingley,Glenda Hingley,12,1,1, Senior II Silver Standard  (WFQ),Sample,2,rcb12,40443010,109,Peter Mant,Quickstep,1
+WA,0,3,Final,Edward Brennan,Cecilia Wang,10,2,3, Senior II Silver Standard  (WFQ),Sample,2,rcb12,40443010,117,Dave Watson,Quickstep,2
+WA,0,1,Final,Edward Brennan,Cecilia Wang,11,2,1, Senior II Silver Standard  (WFQ),Sample,2,rcb12,40443010,117,Elizabeth C Knoll,Quickstep,2
+WA,0,2,Final,Edward Brennan,Cecilia Wang,12,2,2, Senior II Silver Standard  (WFQ),Sample,2,rcb12,40443010,117,Peter Mant,Quickstep,2
+OR,0,2,Final,Vidar Moen,Cindy Ogden,10,3,2, Senior II Silver Standard  (WFQ),Sample,2,rcb12,40443010,111,Dave Watson,Quickstep,3
+OR,0,5,Final,Vidar Moen,Cindy Ogden,11,3,5, Senior II Silver Standard  (WFQ),Sample,2,rcb12,40443010,111,Elizabeth C Knoll,Quickstep,3
+OR,0,3,Final,Vidar Moen,Cindy Ogden,12,3,3, Senior II Silver Standard  (WFQ),Sample,2,rcb12,40443010,111,Peter Mant,Quickstep,3
+WA,0,4,Final,William Minniear,Irita Minniear,10,4,4, Senior II Silver Standard  (WFQ),Sample,2,rcb12,40443010,131,Dave Watson,Quickstep,4
+WA,0,3,Final,William Minniear,Irita Minniear,11,4,3, Senior II Silver Standard  (WFQ),Sample,2,rcb12,40443010,131,Elizabeth C Knoll,Quickstep,4
+WA,0,4,Final,William Minniear,Irita Minniear,12,4,4, Senior II Silver Standard  (WFQ),Sample,2,rcb12,40443010,131,Peter Mant,Quickstep,4
+OR,0,7,Final,Douglas Daniels,Li Zhang,10,5,7, Senior II Silver Standard  (WFQ),Sample,2,rcb12,40443010,118,Dave Watson,Quickstep,5
+OR,0,4,Final,Douglas Daniels,Li Zhang,11,5,4, Senior II Silver Standard  (WFQ),Sample,2,rcb12,40443010,118,Elizabeth C Knoll,Quickstep,5
+OR,0,5,Final,Douglas Daniels,Li Zhang,12,5,5, Senior II Silver Standard  (WFQ),Sample,2,rcb12,40443010,118,Peter Mant,Quickstep,5
+OR,0,5,Final,Joseph Leitch,Pamela Leitch,10,6,5, Senior II Silver Standard  (WFQ),Sample,2,rcb12,40443010,125,Dave Watson,Quickstep,6
+OR,0,6,Final,Joseph Leitch,Pamela Leitch,11,6,6, Senior II Silver Standard  (WFQ),Sample,2,rcb12,40443010,125,Elizabeth C Knoll,Quickstep,6
+OR,0,6,Final,Joseph Leitch,Pamela Leitch,12,6,6, Senior II Silver Standard  (WFQ),Sample,2,rcb12,40443010,125,Peter Mant,Quickstep,6
+OR,0,6,Final,John Smith-Hill,Diane Smith-Hill,10,7,6, Senior II Silver Standard  (WFQ),Sample,2,rcb12,40443010,112,Dave Watson,Quickstep,7
+OR,0,7,Final,John Smith-Hill,Diane Smith-Hill,11,7,7, Senior II Silver Standard  (WFQ),Sample,2,rcb12,40443010,112,Elizabeth C Knoll,Quickstep,7
+OR,0,7,Final,John Smith-Hill,Diane Smith-Hill,12,7,7, Senior II Silver Standard  (WFQ),Sample,2,rcb12,40443010,112,Peter Mant,Quickstep,7
+OR,0,1,Final,Patrick McDonough,Corbett Niedfeldt,10,1,1, Adult Gold Standard  (WTFQ),Sample,0,rcb12,40423810,102,Dave Watson,Waltz,1
+OR,0,1,Final,Patrick McDonough,Corbett Niedfeldt,11,1,1, Adult Gold Standard  (WTFQ),Sample,0,rcb12,40423810,102,Elizabeth C Knoll,Waltz,1
+OR,0,1,Final,Patrick McDonough,Corbett Niedfeldt,12,1,1, Adult Gold Standard  (WTFQ),Sample,0,rcb12,40423810,102,Peter Mant,Waltz,1
+OR,0,2,Final,Chad Crader,Samantha Sun,10,2,2, Adult Gold Standard  (WTFQ),Sample,0,rcb12,40423810,126,Dave Watson,Waltz,2
+OR,0,2,Final,Chad Crader,Samantha Sun,11,2,2, Adult Gold Standard  (WTFQ),Sample,0,rcb12,40423810,126,Elizabeth C Knoll,Waltz,2
+OR,0,3,Final,Chad Crader,Samantha Sun,12,2,3, Adult Gold Standard  (WTFQ),Sample,0,rcb12,40423810,126,Peter Mant,Waltz,2
+OR,0,3,Final,Norbert Teston,Jessica Lindsey,10,3,3, Adult Gold Standard  (WTFQ),Sample,0,rcb12,40423810,124,Dave Watson,Waltz,3
+OR,0,3,Final,Norbert Teston,Jessica Lindsey,11,3,3, Adult Gold Standard  (WTFQ),Sample,0,rcb12,40423810,124,Elizabeth C Knoll,Waltz,3
+OR,0,2,Final,Norbert Teston,Jessica Lindsey,12,3,2, Adult Gold Standard  (WTFQ),Sample,0,rcb12,40423810,124,Peter Mant,Waltz,3
+OR,0,1,Final,Patrick McDonough,Corbett Niedfeldt,10,1,1, Adult Gold Standard  (WTFQ),Sample,1,rcb12,40423810,102,Dave Watson,Tango,1
+OR,0,1,Final,Patrick McDonough,Corbett Niedfeldt,11,1,1, Adult Gold Standard  (WTFQ),Sample,1,rcb12,40423810,102,Elizabeth C Knoll,Tango,1
+OR,0,2,Final,Patrick McDonough,Corbett Niedfeldt,12,1,2, Adult Gold Standard  (WTFQ),Sample,1,rcb12,40423810,102,Peter Mant,Tango,1
+OR,0,3,Final,Chad Crader,Samantha Sun,10,2,3, Adult Gold Standard  (WTFQ),Sample,1,rcb12,40423810,126,Dave Watson,Tango,2
+OR,0,2,Final,Chad Crader,Samantha Sun,11,2,2, Adult Gold Standard  (WTFQ),Sample,1,rcb12,40423810,126,Elizabeth C Knoll,Tango,2
+OR,0,1,Final,Chad Crader,Samantha Sun,12,2,1, Adult Gold Standard  (WTFQ),Sample,1,rcb12,40423810,126,Peter Mant,Tango,2
+OR,0,2,Final,Norbert Teston,Jessica Lindsey,10,3,2, Adult Gold Standard  (WTFQ),Sample,1,rcb12,40423810,124,Dave Watson,Tango,3
+OR,0,3,Final,Norbert Teston,Jessica Lindsey,11,3,3, Adult Gold Standard  (WTFQ),Sample,1,rcb12,40423810,124,Elizabeth C Knoll,Tango,3
+OR,0,3,Final,Norbert Teston,Jessica Lindsey,12,3,3, Adult Gold Standard  (WTFQ),Sample,1,rcb12,40423810,124,Peter Mant,Tango,3
+OR,0,1,Final,Patrick McDonough,Corbett Niedfeldt,10,1,1, Adult Gold Standard  (WTFQ),Sample,2,rcb12,40423810,102,Dave Watson,Foxtrot,1
+OR,0,1,Final,Patrick McDonough,Corbett Niedfeldt,11,1,1, Adult Gold Standard  (WTFQ),Sample,2,rcb12,40423810,102,Elizabeth C Knoll,Foxtrot,1
+OR,0,1,Final,Patrick McDonough,Corbett Niedfeldt,12,1,1, Adult Gold Standard  (WTFQ),Sample,2,rcb12,40423810,102,Peter Mant,Foxtrot,1
+OR,0,2,Final,Chad Crader,Samantha Sun,10,2,2, Adult Gold Standard  (WTFQ),Sample,2,rcb12,40423810,126,Dave Watson,Foxtrot,2
+OR,0,2,Final,Chad Crader,Samantha Sun,11,2,2, Adult Gold Standard  (WTFQ),Sample,2,rcb12,40423810,126,Elizabeth C Knoll,Foxtrot,2
+OR,0,3,Final,Chad Crader,Samantha Sun,12,2,3, Adult Gold Standard  (WTFQ),Sample,2,rcb12,40423810,126,Peter Mant,Foxtrot,2
+OR,0,3,Final,Norbert Teston,Jessica Lindsey,10,3,3, Adult Gold Standard  (WTFQ),Sample,2,rcb12,40423810,124,Dave Watson,Foxtrot,3
+OR,0,3,Final,Norbert Teston,Jessica Lindsey,11,3,3, Adult Gold Standard  (WTFQ),Sample,2,rcb12,40423810,124,Elizabeth C Knoll,Foxtrot,3
+OR,0,2,Final,Norbert Teston,Jessica Lindsey,12,3,2, Adult Gold Standard  (WTFQ),Sample,2,rcb12,40423810,124,Peter Mant,Foxtrot,3
+OR,0,2,Final,Patrick McDonough,Corbett Niedfeldt,10,2,2, Adult Gold Standard  (WTFQ),Sample,3,rcb12,40423810,102,Dave Watson,Quickstep,1
+OR,0,1,Final,Patrick McDonough,Corbett Niedfeldt,11,2,1, Adult Gold Standard  (WTFQ),Sample,3,rcb12,40423810,102,Elizabeth C Knoll,Quickstep,1
+OR,0,2,Final,Patrick McDonough,Corbett Niedfeldt,12,2,2, Adult Gold Standard  (WTFQ),Sample,3,rcb12,40423810,102,Peter Mant,Quickstep,1
+OR,0,1,Final,Chad Crader,Samantha Sun,10,1,1, Adult Gold Standard  (WTFQ),Sample,3,rcb12,40423810,126,Dave Watson,Quickstep,2
+OR,0,2,Final,Chad Crader,Samantha Sun,11,1,2, Adult Gold Standard  (WTFQ),Sample,3,rcb12,40423810,126,Elizabeth C Knoll,Quickstep,2
+OR,0,1,Final,Chad Crader,Samantha Sun,12,1,1, Adult Gold Standard  (WTFQ),Sample,3,rcb12,40423810,126,Peter Mant,Quickstep,2
+OR,0,3,Final,Norbert Teston,Jessica Lindsey,10,3,3, Adult Gold Standard  (WTFQ),Sample,3,rcb12,40423810,124,Dave Watson,Quickstep,3
+OR,0,3,Final,Norbert Teston,Jessica Lindsey,11,3,3, Adult Gold Standard  (WTFQ),Sample,3,rcb12,40423810,124,Elizabeth C Knoll,Quickstep,3
+OR,0,3,Final,Norbert Teston,Jessica Lindsey,12,3,3, Adult Gold Standard  (WTFQ),Sample,3,rcb12,40423810,124,Peter Mant,Quickstep,3
+B C,0,2,Final,Neil Fleischmann,Carmen Galang,10,1,2, Senior II Gold Standard  (WTFQ),Sample,0,rcb12,40443810,114,Dave Watson,Waltz,1
+B C,0,1,Final,Neil Fleischmann,Carmen Galang,11,1,1, Senior II Gold Standard  (WTFQ),Sample,0,rcb12,40443810,114,Elizabeth C Knoll,Waltz,1
+B C,0,2,Final,Neil Fleischmann,Carmen Galang,12,1,2, Senior II Gold Standard  (WTFQ),Sample,0,rcb12,40443810,114,Peter Mant,Waltz,1
+BC,0,1,Final,Bill Hingley,Glenda Hingley,10,2.5,1, Senior II Gold Standard  (WTFQ),Sample,0,rcb12,40443810,109,Dave Watson,Waltz,2
+BC,0,4,Final,Bill Hingley,Glenda Hingley,11,2.5,4, Senior II Gold Standard  (WTFQ),Sample,0,rcb12,40443810,109,Elizabeth C Knoll,Waltz,2
+BC,0,3,Final,Bill Hingley,Glenda Hingley,12,2.5,3, Senior II Gold Standard  (WTFQ),Sample,0,rcb12,40443810,109,Peter Mant,Waltz,2
+OR,0,4,Final,Terrance Nicholson,Candace Nicholson,10,2.5,4, Senior II Gold Standard  (WTFQ),Sample,0,rcb12,40443810,110,Dave Watson,Waltz,3
+OR,0,3,Final,Terrance Nicholson,Candace Nicholson,11,2.5,3, Senior II Gold Standard  (WTFQ),Sample,0,rcb12,40443810,110,Elizabeth C Knoll,Waltz,3
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,12,2.5,1, Senior II Gold Standard  (WTFQ),Sample,0,rcb12,40443810,110,Peter Mant,Waltz,3
+WA,0,3,Final,Edward Brennan,Cecilia Wang,10,4,3, Senior II Gold Standard  (WTFQ),Sample,0,rcb12,40443810,117,Dave Watson,Waltz,4
+WA,0,2,Final,Edward Brennan,Cecilia Wang,11,4,2, Senior II Gold Standard  (WTFQ),Sample,0,rcb12,40443810,117,Elizabeth C Knoll,Waltz,4
+WA,0,5,Final,Edward Brennan,Cecilia Wang,12,4,5, Senior II Gold Standard  (WTFQ),Sample,0,rcb12,40443810,117,Peter Mant,Waltz,4
+OR,0,5,Final,Vidar Moen,Cindy Ogden,10,5,5, Senior II Gold Standard  (WTFQ),Sample,0,rcb12,40443810,111,Dave Watson,Waltz,5
+OR,0,5,Final,Vidar Moen,Cindy Ogden,11,5,5, Senior II Gold Standard  (WTFQ),Sample,0,rcb12,40443810,111,Elizabeth C Knoll,Waltz,5
+OR,0,4,Final,Vidar Moen,Cindy Ogden,12,5,4, Senior II Gold Standard  (WTFQ),Sample,0,rcb12,40443810,111,Peter Mant,Waltz,5
+B C,0,2,Final,Neil Fleischmann,Carmen Galang,10,1,2, Senior II Gold Standard  (WTFQ),Sample,1,rcb12,40443810,114,Dave Watson,Tango,1
+B C,0,2,Final,Neil Fleischmann,Carmen Galang,11,1,2, Senior II Gold Standard  (WTFQ),Sample,1,rcb12,40443810,114,Elizabeth C Knoll,Tango,1
+B C,0,2,Final,Neil Fleischmann,Carmen Galang,12,1,2, Senior II Gold Standard  (WTFQ),Sample,1,rcb12,40443810,114,Peter Mant,Tango,1
+BC,0,1,Final,Bill Hingley,Glenda Hingley,10,2,1, Senior II Gold Standard  (WTFQ),Sample,1,rcb12,40443810,109,Dave Watson,Tango,2
+BC,0,3,Final,Bill Hingley,Glenda Hingley,11,2,3, Senior II Gold Standard  (WTFQ),Sample,1,rcb12,40443810,109,Elizabeth C Knoll,Tango,2
+BC,0,3,Final,Bill Hingley,Glenda Hingley,12,2,3, Senior II Gold Standard  (WTFQ),Sample,1,rcb12,40443810,109,Peter Mant,Tango,2
+OR,0,3,Final,Terrance Nicholson,Candace Nicholson,10,3,3, Senior II Gold Standard  (WTFQ),Sample,1,rcb12,40443810,110,Dave Watson,Tango,3
+OR,0,4,Final,Terrance Nicholson,Candace Nicholson,11,3,4, Senior II Gold Standard  (WTFQ),Sample,1,rcb12,40443810,110,Elizabeth C Knoll,Tango,3
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,12,3,1, Senior II Gold Standard  (WTFQ),Sample,1,rcb12,40443810,110,Peter Mant,Tango,3
+WA,0,4,Final,Edward Brennan,Cecilia Wang,10,4,4, Senior II Gold Standard  (WTFQ),Sample,1,rcb12,40443810,117,Dave Watson,Tango,4
+WA,0,1,Final,Edward Brennan,Cecilia Wang,11,4,1, Senior II Gold Standard  (WTFQ),Sample,1,rcb12,40443810,117,Elizabeth C Knoll,Tango,4
+WA,0,5,Final,Edward Brennan,Cecilia Wang,12,4,5, Senior II Gold Standard  (WTFQ),Sample,1,rcb12,40443810,117,Peter Mant,Tango,4
+OR,0,5,Final,Vidar Moen,Cindy Ogden,10,5,5, Senior II Gold Standard  (WTFQ),Sample,1,rcb12,40443810,111,Dave Watson,Tango,5
+OR,0,5,Final,Vidar Moen,Cindy Ogden,11,5,5, Senior II Gold Standard  (WTFQ),Sample,1,rcb12,40443810,111,Elizabeth C Knoll,Tango,5
+OR,0,4,Final,Vidar Moen,Cindy Ogden,12,5,4, Senior II Gold Standard  (WTFQ),Sample,1,rcb12,40443810,111,Peter Mant,Tango,5
+B C,0,1,Final,Neil Fleischmann,Carmen Galang,10,1,1, Senior II Gold Standard  (WTFQ),Sample,2,rcb12,40443810,114,Dave Watson,Foxtrot,1
+B C,0,1,Final,Neil Fleischmann,Carmen Galang,11,1,1, Senior II Gold Standard  (WTFQ),Sample,2,rcb12,40443810,114,Elizabeth C Knoll,Foxtrot,1
+B C,0,2,Final,Neil Fleischmann,Carmen Galang,12,1,2, Senior II Gold Standard  (WTFQ),Sample,2,rcb12,40443810,114,Peter Mant,Foxtrot,1
+BC,0,2,Final,Bill Hingley,Glenda Hingley,10,3,2, Senior II Gold Standard  (WTFQ),Sample,2,rcb12,40443810,109,Dave Watson,Foxtrot,2
+BC,0,3,Final,Bill Hingley,Glenda Hingley,11,3,3, Senior II Gold Standard  (WTFQ),Sample,2,rcb12,40443810,109,Elizabeth C Knoll,Foxtrot,2
+BC,0,3,Final,Bill Hingley,Glenda Hingley,12,3,3, Senior II Gold Standard  (WTFQ),Sample,2,rcb12,40443810,109,Peter Mant,Foxtrot,2
+OR,0,3,Final,Terrance Nicholson,Candace Nicholson,10,2,3, Senior II Gold Standard  (WTFQ),Sample,2,rcb12,40443810,110,Dave Watson,Foxtrot,3
+OR,0,2,Final,Terrance Nicholson,Candace Nicholson,11,2,2, Senior II Gold Standard  (WTFQ),Sample,2,rcb12,40443810,110,Elizabeth C Knoll,Foxtrot,3
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,12,2,1, Senior II Gold Standard  (WTFQ),Sample,2,rcb12,40443810,110,Peter Mant,Foxtrot,3
+WA,0,4,Final,Edward Brennan,Cecilia Wang,10,4,4, Senior II Gold Standard  (WTFQ),Sample,2,rcb12,40443810,117,Dave Watson,Foxtrot,4
+WA,0,4,Final,Edward Brennan,Cecilia Wang,11,4,4, Senior II Gold Standard  (WTFQ),Sample,2,rcb12,40443810,117,Elizabeth C Knoll,Foxtrot,4
+WA,0,5,Final,Edward Brennan,Cecilia Wang,12,4,5, Senior II Gold Standard  (WTFQ),Sample,2,rcb12,40443810,117,Peter Mant,Foxtrot,4
+OR,0,5,Final,Vidar Moen,Cindy Ogden,10,5,5, Senior II Gold Standard  (WTFQ),Sample,2,rcb12,40443810,111,Dave Watson,Foxtrot,5
+OR,0,5,Final,Vidar Moen,Cindy Ogden,11,5,5, Senior II Gold Standard  (WTFQ),Sample,2,rcb12,40443810,111,Elizabeth C Knoll,Foxtrot,5
+OR,0,4,Final,Vidar Moen,Cindy Ogden,12,5,4, Senior II Gold Standard  (WTFQ),Sample,2,rcb12,40443810,111,Peter Mant,Foxtrot,5
+B C,0,1,Final,Neil Fleischmann,Carmen Galang,10,1,1, Senior II Gold Standard  (WTFQ),Sample,3,rcb12,40443810,114,Dave Watson,Quickstep,1
+B C,0,1,Final,Neil Fleischmann,Carmen Galang,11,1,1, Senior II Gold Standard  (WTFQ),Sample,3,rcb12,40443810,114,Elizabeth C Knoll,Quickstep,1
+B C,0,2,Final,Neil Fleischmann,Carmen Galang,12,1,2, Senior II Gold Standard  (WTFQ),Sample,3,rcb12,40443810,114,Peter Mant,Quickstep,1
+BC,0,2,Final,Bill Hingley,Glenda Hingley,10,2,2, Senior II Gold Standard  (WTFQ),Sample,3,rcb12,40443810,109,Dave Watson,Quickstep,2
+BC,0,3,Final,Bill Hingley,Glenda Hingley,11,2,3, Senior II Gold Standard  (WTFQ),Sample,3,rcb12,40443810,109,Elizabeth C Knoll,Quickstep,2
+BC,0,3,Final,Bill Hingley,Glenda Hingley,12,2,3, Senior II Gold Standard  (WTFQ),Sample,3,rcb12,40443810,109,Peter Mant,Quickstep,2
+OR,0,4,Final,Terrance Nicholson,Candace Nicholson,10,4,4, Senior II Gold Standard  (WTFQ),Sample,3,rcb12,40443810,110,Dave Watson,Quickstep,3
+OR,0,4,Final,Terrance Nicholson,Candace Nicholson,11,4,4, Senior II Gold Standard  (WTFQ),Sample,3,rcb12,40443810,110,Elizabeth C Knoll,Quickstep,3
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,12,4,1, Senior II Gold Standard  (WTFQ),Sample,3,rcb12,40443810,110,Peter Mant,Quickstep,3
+WA,0,3,Final,Edward Brennan,Cecilia Wang,10,3,3, Senior II Gold Standard  (WTFQ),Sample,3,rcb12,40443810,117,Dave Watson,Quickstep,4
+WA,0,2,Final,Edward Brennan,Cecilia Wang,11,3,2, Senior II Gold Standard  (WTFQ),Sample,3,rcb12,40443810,117,Elizabeth C Knoll,Quickstep,4
+WA,0,4,Final,Edward Brennan,Cecilia Wang,12,3,4, Senior II Gold Standard  (WTFQ),Sample,3,rcb12,40443810,117,Peter Mant,Quickstep,4
+OR,0,5,Final,Vidar Moen,Cindy Ogden,10,5,5, Senior II Gold Standard  (WTFQ),Sample,3,rcb12,40443810,111,Dave Watson,Quickstep,5
+OR,0,5,Final,Vidar Moen,Cindy Ogden,11,5,5, Senior II Gold Standard  (WTFQ),Sample,3,rcb12,40443810,111,Elizabeth C Knoll,Quickstep,5
+OR,0,5,Final,Vidar Moen,Cindy Ogden,12,5,5, Senior II Gold Standard  (WTFQ),Sample,3,rcb12,40443810,111,Peter Mant,Quickstep,5
+OR,0,1,Final,Matthew Watkins,Leilani Nakagawa,10,1,1, Adult Novice Standard  (WFQ),Sample,0,rcb12,40428110,116,Dave Watson,Waltz,1
+OR,0,2,Final,Matthew Watkins,Leilani Nakagawa,11,1,2, Adult Novice Standard  (WFQ),Sample,0,rcb12,40428110,116,Elizabeth C Knoll,Waltz,1
+OR,0,1,Final,Matthew Watkins,Leilani Nakagawa,12,1,1, Adult Novice Standard  (WFQ),Sample,0,rcb12,40428110,116,Peter Mant,Waltz,1
+WA,0,2,Final,David Crawford,Fang (Fawn) Zhang,10,2,2, Adult Novice Standard  (WFQ),Sample,0,rcb12,40428110,123,Dave Watson,Waltz,2
+WA,0,1,Final,David Crawford,Fang (Fawn) Zhang,11,2,1, Adult Novice Standard  (WFQ),Sample,0,rcb12,40428110,123,Elizabeth C Knoll,Waltz,2
+WA,0,2,Final,David Crawford,Fang (Fawn) Zhang,12,2,2, Adult Novice Standard  (WFQ),Sample,0,rcb12,40428110,123,Peter Mant,Waltz,2
+OR,0,3,Final,Patrick McDonough,Corbett Niedfeldt,10,3,3, Adult Novice Standard  (WFQ),Sample,0,rcb12,40428110,102,Dave Watson,Waltz,3
+OR,0,3,Final,Patrick McDonough,Corbett Niedfeldt,11,3,3, Adult Novice Standard  (WFQ),Sample,0,rcb12,40428110,102,Elizabeth C Knoll,Waltz,3
+OR,0,3,Final,Patrick McDonough,Corbett Niedfeldt,12,3,3, Adult Novice Standard  (WFQ),Sample,0,rcb12,40428110,102,Peter Mant,Waltz,3
+OR,0,4,Final,Chad Crader,Samantha Sun,10,4,4, Adult Novice Standard  (WFQ),Sample,0,rcb12,40428110,126,Dave Watson,Waltz,4
+OR,0,4,Final,Chad Crader,Samantha Sun,11,4,4, Adult Novice Standard  (WFQ),Sample,0,rcb12,40428110,126,Elizabeth C Knoll,Waltz,4
+OR,0,4,Final,Chad Crader,Samantha Sun,12,4,4, Adult Novice Standard  (WFQ),Sample,0,rcb12,40428110,126,Peter Mant,Waltz,4
+OR,0,2,Final,Matthew Watkins,Leilani Nakagawa,10,2,2, Adult Novice Standard  (WFQ),Sample,1,rcb12,40428110,116,Dave Watson,Foxtrot,1
+OR,0,2,Final,Matthew Watkins,Leilani Nakagawa,11,2,2, Adult Novice Standard  (WFQ),Sample,1,rcb12,40428110,116,Elizabeth C Knoll,Foxtrot,1
+OR,0,1,Final,Matthew Watkins,Leilani Nakagawa,12,2,1, Adult Novice Standard  (WFQ),Sample,1,rcb12,40428110,116,Peter Mant,Foxtrot,1
+WA,0,1,Final,David Crawford,Fang (Fawn) Zhang,10,1,1, Adult Novice Standard  (WFQ),Sample,1,rcb12,40428110,123,Dave Watson,Foxtrot,2
+WA,0,1,Final,David Crawford,Fang (Fawn) Zhang,11,1,1, Adult Novice Standard  (WFQ),Sample,1,rcb12,40428110,123,Elizabeth C Knoll,Foxtrot,2
+WA,0,2,Final,David Crawford,Fang (Fawn) Zhang,12,1,2, Adult Novice Standard  (WFQ),Sample,1,rcb12,40428110,123,Peter Mant,Foxtrot,2
+OR,0,3,Final,Patrick McDonough,Corbett Niedfeldt,10,3,3, Adult Novice Standard  (WFQ),Sample,1,rcb12,40428110,102,Dave Watson,Foxtrot,3
+OR,0,3,Final,Patrick McDonough,Corbett Niedfeldt,11,3,3, Adult Novice Standard  (WFQ),Sample,1,rcb12,40428110,102,Elizabeth C Knoll,Foxtrot,3
+OR,0,3,Final,Patrick McDonough,Corbett Niedfeldt,12,3,3, Adult Novice Standard  (WFQ),Sample,1,rcb12,40428110,102,Peter Mant,Foxtrot,3
+OR,0,4,Final,Chad Crader,Samantha Sun,10,4,4, Adult Novice Standard  (WFQ),Sample,1,rcb12,40428110,126,Dave Watson,Foxtrot,4
+OR,0,4,Final,Chad Crader,Samantha Sun,11,4,4, Adult Novice Standard  (WFQ),Sample,1,rcb12,40428110,126,Elizabeth C Knoll,Foxtrot,4
+OR,0,4,Final,Chad Crader,Samantha Sun,12,4,4, Adult Novice Standard  (WFQ),Sample,1,rcb12,40428110,126,Peter Mant,Foxtrot,4
+OR,0,1,Final,Matthew Watkins,Leilani Nakagawa,10,1,1, Adult Novice Standard  (WFQ),Sample,2,rcb12,40428110,116,Dave Watson,Quickstep,1
+OR,0,2,Final,Matthew Watkins,Leilani Nakagawa,11,1,2, Adult Novice Standard  (WFQ),Sample,2,rcb12,40428110,116,Elizabeth C Knoll,Quickstep,1
+OR,0,1,Final,Matthew Watkins,Leilani Nakagawa,12,1,1, Adult Novice Standard  (WFQ),Sample,2,rcb12,40428110,116,Peter Mant,Quickstep,1
+WA,0,2,Final,David Crawford,Fang (Fawn) Zhang,10,2,2, Adult Novice Standard  (WFQ),Sample,2,rcb12,40428110,123,Dave Watson,Quickstep,2
+WA,0,1,Final,David Crawford,Fang (Fawn) Zhang,11,2,1, Adult Novice Standard  (WFQ),Sample,2,rcb12,40428110,123,Elizabeth C Knoll,Quickstep,2
+WA,0,2,Final,David Crawford,Fang (Fawn) Zhang,12,2,2, Adult Novice Standard  (WFQ),Sample,2,rcb12,40428110,123,Peter Mant,Quickstep,2
+OR,0,3,Final,Patrick McDonough,Corbett Niedfeldt,10,3,3, Adult Novice Standard  (WFQ),Sample,2,rcb12,40428110,102,Dave Watson,Quickstep,3
+OR,0,3,Final,Patrick McDonough,Corbett Niedfeldt,11,3,3, Adult Novice Standard  (WFQ),Sample,2,rcb12,40428110,102,Elizabeth C Knoll,Quickstep,3
+OR,0,4,Final,Patrick McDonough,Corbett Niedfeldt,12,3,4, Adult Novice Standard  (WFQ),Sample,2,rcb12,40428110,102,Peter Mant,Quickstep,3
+OR,0,4,Final,Chad Crader,Samantha Sun,10,4,4, Adult Novice Standard  (WFQ),Sample,2,rcb12,40428110,126,Dave Watson,Quickstep,4
+OR,0,4,Final,Chad Crader,Samantha Sun,11,4,4, Adult Novice Standard  (WFQ),Sample,2,rcb12,40428110,126,Elizabeth C Knoll,Quickstep,4
+OR,0,3,Final,Chad Crader,Samantha Sun,12,4,3, Adult Novice Standard  (WFQ),Sample,2,rcb12,40428110,126,Peter Mant,Quickstep,4
+B C,0,1,Final,Neil Fleischmann,Carmen Galang,10,1,1, Senior III Gold Standard  (WTFQ),Sample,0,rcb12,40453810,114,Dave Watson,Waltz,1
+B C,0,1,Final,Neil Fleischmann,Carmen Galang,11,1,1, Senior III Gold Standard  (WTFQ),Sample,0,rcb12,40453810,114,Elizabeth C Knoll,Waltz,1
+B C,0,2,Final,Neil Fleischmann,Carmen Galang,12,1,2, Senior III Gold Standard  (WTFQ),Sample,0,rcb12,40453810,114,Peter Mant,Waltz,1
+OR,0,3,Final,Terrance Nicholson,Candace Nicholson,10,2,3, Senior III Gold Standard  (WTFQ),Sample,0,rcb12,40453810,110,Dave Watson,Waltz,2
+OR,0,2,Final,Terrance Nicholson,Candace Nicholson,11,2,2, Senior III Gold Standard  (WTFQ),Sample,0,rcb12,40453810,110,Elizabeth C Knoll,Waltz,2
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,12,2,1, Senior III Gold Standard  (WTFQ),Sample,0,rcb12,40453810,110,Peter Mant,Waltz,2
+BC,0,2,Final,Bill Hingley,Glenda Hingley,10,3,2, Senior III Gold Standard  (WTFQ),Sample,0,rcb12,40453810,109,Dave Watson,Waltz,3
+BC,0,4,Final,Bill Hingley,Glenda Hingley,11,3,4, Senior III Gold Standard  (WTFQ),Sample,0,rcb12,40453810,109,Elizabeth C Knoll,Waltz,3
+BC,0,3,Final,Bill Hingley,Glenda Hingley,12,3,3, Senior III Gold Standard  (WTFQ),Sample,0,rcb12,40453810,109,Peter Mant,Waltz,3
+WA,0,4,Final,Edward Brennan,Cecilia Wang,10,4,4, Senior III Gold Standard  (WTFQ),Sample,0,rcb12,40453810,117,Dave Watson,Waltz,4
+WA,0,3,Final,Edward Brennan,Cecilia Wang,11,4,3, Senior III Gold Standard  (WTFQ),Sample,0,rcb12,40453810,117,Elizabeth C Knoll,Waltz,4
+WA,0,5,Final,Edward Brennan,Cecilia Wang,12,4,5, Senior III Gold Standard  (WTFQ),Sample,0,rcb12,40453810,117,Peter Mant,Waltz,4
+OR,0,5,Final,Vidar Moen,Cindy Ogden,10,5,5, Senior III Gold Standard  (WTFQ),Sample,0,rcb12,40453810,111,Dave Watson,Waltz,5
+OR,0,5,Final,Vidar Moen,Cindy Ogden,11,5,5, Senior III Gold Standard  (WTFQ),Sample,0,rcb12,40453810,111,Elizabeth C Knoll,Waltz,5
+OR,0,4,Final,Vidar Moen,Cindy Ogden,12,5,4, Senior III Gold Standard  (WTFQ),Sample,0,rcb12,40453810,111,Peter Mant,Waltz,5
+B C,0,3,Final,Neil Fleischmann,Carmen Galang,10,2,3, Senior III Gold Standard  (WTFQ),Sample,1,rcb12,40453810,114,Dave Watson,Tango,1
+B C,0,2,Final,Neil Fleischmann,Carmen Galang,11,2,2, Senior III Gold Standard  (WTFQ),Sample,1,rcb12,40453810,114,Elizabeth C Knoll,Tango,1
+B C,0,2,Final,Neil Fleischmann,Carmen Galang,12,2,2, Senior III Gold Standard  (WTFQ),Sample,1,rcb12,40453810,114,Peter Mant,Tango,1
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,10,1,1, Senior III Gold Standard  (WTFQ),Sample,1,rcb12,40453810,110,Dave Watson,Tango,2
+OR,0,4,Final,Terrance Nicholson,Candace Nicholson,11,1,4, Senior III Gold Standard  (WTFQ),Sample,1,rcb12,40453810,110,Elizabeth C Knoll,Tango,2
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,12,1,1, Senior III Gold Standard  (WTFQ),Sample,1,rcb12,40453810,110,Peter Mant,Tango,2
+BC,0,2,Final,Bill Hingley,Glenda Hingley,10,3,2, Senior III Gold Standard  (WTFQ),Sample,1,rcb12,40453810,109,Dave Watson,Tango,3
+BC,0,3,Final,Bill Hingley,Glenda Hingley,11,3,3, Senior III Gold Standard  (WTFQ),Sample,1,rcb12,40453810,109,Elizabeth C Knoll,Tango,3
+BC,0,3,Final,Bill Hingley,Glenda Hingley,12,3,3, Senior III Gold Standard  (WTFQ),Sample,1,rcb12,40453810,109,Peter Mant,Tango,3
+WA,0,4,Final,Edward Brennan,Cecilia Wang,10,4,4, Senior III Gold Standard  (WTFQ),Sample,1,rcb12,40453810,117,Dave Watson,Tango,4
+WA,0,1,Final,Edward Brennan,Cecilia Wang,11,4,1, Senior III Gold Standard  (WTFQ),Sample,1,rcb12,40453810,117,Elizabeth C Knoll,Tango,4
+WA,0,5,Final,Edward Brennan,Cecilia Wang,12,4,5, Senior III Gold Standard  (WTFQ),Sample,1,rcb12,40453810,117,Peter Mant,Tango,4
+OR,0,5,Final,Vidar Moen,Cindy Ogden,10,5,5, Senior III Gold Standard  (WTFQ),Sample,1,rcb12,40453810,111,Dave Watson,Tango,5
+OR,0,5,Final,Vidar Moen,Cindy Ogden,11,5,5, Senior III Gold Standard  (WTFQ),Sample,1,rcb12,40453810,111,Elizabeth C Knoll,Tango,5
+OR,0,4,Final,Vidar Moen,Cindy Ogden,12,5,4, Senior III Gold Standard  (WTFQ),Sample,1,rcb12,40453810,111,Peter Mant,Tango,5
+B C,0,1,Final,Neil Fleischmann,Carmen Galang,10,1,1, Senior III Gold Standard  (WTFQ),Sample,2,rcb12,40453810,114,Dave Watson,Foxtrot,1
+B C,0,1,Final,Neil Fleischmann,Carmen Galang,11,1,1, Senior III Gold Standard  (WTFQ),Sample,2,rcb12,40453810,114,Elizabeth C Knoll,Foxtrot,1
+B C,0,2,Final,Neil Fleischmann,Carmen Galang,12,1,2, Senior III Gold Standard  (WTFQ),Sample,2,rcb12,40453810,114,Peter Mant,Foxtrot,1
+OR,0,3,Final,Terrance Nicholson,Candace Nicholson,10,2,3, Senior III Gold Standard  (WTFQ),Sample,2,rcb12,40453810,110,Dave Watson,Foxtrot,2
+OR,0,2,Final,Terrance Nicholson,Candace Nicholson,11,2,2, Senior III Gold Standard  (WTFQ),Sample,2,rcb12,40453810,110,Elizabeth C Knoll,Foxtrot,2
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,12,2,1, Senior III Gold Standard  (WTFQ),Sample,2,rcb12,40453810,110,Peter Mant,Foxtrot,2
+BC,0,2,Final,Bill Hingley,Glenda Hingley,10,3,2, Senior III Gold Standard  (WTFQ),Sample,2,rcb12,40453810,109,Dave Watson,Foxtrot,3
+BC,0,3,Final,Bill Hingley,Glenda Hingley,11,3,3, Senior III Gold Standard  (WTFQ),Sample,2,rcb12,40453810,109,Elizabeth C Knoll,Foxtrot,3
+BC,0,3,Final,Bill Hingley,Glenda Hingley,12,3,3, Senior III Gold Standard  (WTFQ),Sample,2,rcb12,40453810,109,Peter Mant,Foxtrot,3
+WA,0,4,Final,Edward Brennan,Cecilia Wang,10,4,4, Senior III Gold Standard  (WTFQ),Sample,2,rcb12,40453810,117,Dave Watson,Foxtrot,4
+WA,0,4,Final,Edward Brennan,Cecilia Wang,11,4,4, Senior III Gold Standard  (WTFQ),Sample,2,rcb12,40453810,117,Elizabeth C Knoll,Foxtrot,4
+WA,0,4,Final,Edward Brennan,Cecilia Wang,12,4,4, Senior III Gold Standard  (WTFQ),Sample,2,rcb12,40453810,117,Peter Mant,Foxtrot,4
+OR,0,5,Final,Vidar Moen,Cindy Ogden,10,5,5, Senior III Gold Standard  (WTFQ),Sample,2,rcb12,40453810,111,Dave Watson,Foxtrot,5
+OR,0,5,Final,Vidar Moen,Cindy Ogden,11,5,5, Senior III Gold Standard  (WTFQ),Sample,2,rcb12,40453810,111,Elizabeth C Knoll,Foxtrot,5
+OR,0,5,Final,Vidar Moen,Cindy Ogden,12,5,5, Senior III Gold Standard  (WTFQ),Sample,2,rcb12,40453810,111,Peter Mant,Foxtrot,5
+B C,0,1,Final,Neil Fleischmann,Carmen Galang,10,2,1, Senior III Gold Standard  (WTFQ),Sample,3,rcb12,40453810,114,Dave Watson,Quickstep,1
+B C,0,3,Final,Neil Fleischmann,Carmen Galang,11,2,3, Senior III Gold Standard  (WTFQ),Sample,3,rcb12,40453810,114,Elizabeth C Knoll,Quickstep,1
+B C,0,2,Final,Neil Fleischmann,Carmen Galang,12,2,2, Senior III Gold Standard  (WTFQ),Sample,3,rcb12,40453810,114,Peter Mant,Quickstep,1
+OR,0,2,Final,Terrance Nicholson,Candace Nicholson,10,1,2, Senior III Gold Standard  (WTFQ),Sample,3,rcb12,40453810,110,Dave Watson,Quickstep,2
+OR,0,2,Final,Terrance Nicholson,Candace Nicholson,11,1,2, Senior III Gold Standard  (WTFQ),Sample,3,rcb12,40453810,110,Elizabeth C Knoll,Quickstep,2
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,12,1,1, Senior III Gold Standard  (WTFQ),Sample,3,rcb12,40453810,110,Peter Mant,Quickstep,2
+BC,0,4,Final,Bill Hingley,Glenda Hingley,10,4,4, Senior III Gold Standard  (WTFQ),Sample,3,rcb12,40453810,109,Dave Watson,Quickstep,3
+BC,0,4,Final,Bill Hingley,Glenda Hingley,11,4,4, Senior III Gold Standard  (WTFQ),Sample,3,rcb12,40453810,109,Elizabeth C Knoll,Quickstep,3
+BC,0,3,Final,Bill Hingley,Glenda Hingley,12,4,3, Senior III Gold Standard  (WTFQ),Sample,3,rcb12,40453810,109,Peter Mant,Quickstep,3
+WA,0,3,Final,Edward Brennan,Cecilia Wang,10,3,3, Senior III Gold Standard  (WTFQ),Sample,3,rcb12,40453810,117,Dave Watson,Quickstep,4
+WA,0,1,Final,Edward Brennan,Cecilia Wang,11,3,1, Senior III Gold Standard  (WTFQ),Sample,3,rcb12,40453810,117,Elizabeth C Knoll,Quickstep,4
+WA,0,4,Final,Edward Brennan,Cecilia Wang,12,3,4, Senior III Gold Standard  (WTFQ),Sample,3,rcb12,40453810,117,Peter Mant,Quickstep,4
+OR,0,5,Final,Vidar Moen,Cindy Ogden,10,5,5, Senior III Gold Standard  (WTFQ),Sample,3,rcb12,40453810,111,Dave Watson,Quickstep,5
+OR,0,5,Final,Vidar Moen,Cindy Ogden,11,5,5, Senior III Gold Standard  (WTFQ),Sample,3,rcb12,40453810,111,Elizabeth C Knoll,Quickstep,5
+OR,0,5,Final,Vidar Moen,Cindy Ogden,12,5,5, Senior III Gold Standard  (WTFQ),Sample,3,rcb12,40453810,111,Peter Mant,Quickstep,5
+WA,0,2,Final,Jared McKell,Jamie Carr,10,2,2, Adult Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,0,rcb12,40423F61,127,Dave Watson,Waltz,1
+WA,0,1,Final,Jared McKell,Jamie Carr,11,2,1, Adult Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,0,rcb12,40423F61,127,Elizabeth C Knoll,Waltz,1
+WA,0,2,Final,Jared McKell,Jamie Carr,12,2,2, Adult Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,0,rcb12,40423F61,127,Peter Mant,Waltz,1
+OR,0,1,Final,Chad Crader,Samantha Sun,10,1,1, Adult Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,0,rcb12,40423F61,126,Dave Watson,Waltz,2
+OR,0,2,Final,Chad Crader,Samantha Sun,11,1,2, Adult Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,0,rcb12,40423F61,126,Elizabeth C Knoll,Waltz,2
+OR,0,1,Final,Chad Crader,Samantha Sun,12,1,1, Adult Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,0,rcb12,40423F61,126,Peter Mant,Waltz,2
+WA,0,1,Final,Jared McKell,Jamie Carr,10,2,1, Adult Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,1,rcb12,40423F61,127,Dave Watson,Quickstep,1
+WA,0,2,Final,Jared McKell,Jamie Carr,11,2,2, Adult Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,1,rcb12,40423F61,127,Elizabeth C Knoll,Quickstep,1
+WA,0,2,Final,Jared McKell,Jamie Carr,12,2,2, Adult Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,1,rcb12,40423F61,127,Peter Mant,Quickstep,1
+OR,0,2,Final,Chad Crader,Samantha Sun,10,1,2, Adult Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,1,rcb12,40423F61,126,Dave Watson,Quickstep,2
+OR,0,1,Final,Chad Crader,Samantha Sun,11,1,1, Adult Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,1,rcb12,40423F61,126,Elizabeth C Knoll,Quickstep,2
+OR,0,1,Final,Chad Crader,Samantha Sun,12,1,1, Adult Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,1,rcb12,40423F61,126,Peter Mant,Quickstep,2
+WA,0,1,Final,Jared McKell,Jamie Carr,10,1,1, Adult Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,2,rcb12,40423F61,127,Dave Watson,Cha Cha,1
+WA,0,1,Final,Jared McKell,Jamie Carr,11,1,1, Adult Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,2,rcb12,40423F61,127,Elizabeth C Knoll,Cha Cha,1
+WA,0,1,Final,Jared McKell,Jamie Carr,12,1,1, Adult Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,2,rcb12,40423F61,127,Peter Mant,Cha Cha,1
+OR,0,2,Final,Chad Crader,Samantha Sun,10,2,2, Adult Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,2,rcb12,40423F61,126,Dave Watson,Cha Cha,2
+OR,0,2,Final,Chad Crader,Samantha Sun,11,2,2, Adult Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,2,rcb12,40423F61,126,Elizabeth C Knoll,Cha Cha,2
+OR,0,2,Final,Chad Crader,Samantha Sun,12,2,2, Adult Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,2,rcb12,40423F61,126,Peter Mant,Cha Cha,2
+WA,0,2,Final,Jared McKell,Jamie Carr,10,1,2, Adult Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,3,rcb12,40423F61,127,Dave Watson,Rumba,1
+WA,0,1,Final,Jared McKell,Jamie Carr,11,1,1, Adult Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,3,rcb12,40423F61,127,Elizabeth C Knoll,Rumba,1
+WA,0,1,Final,Jared McKell,Jamie Carr,12,1,1, Adult Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,3,rcb12,40423F61,127,Peter Mant,Rumba,1
+OR,0,1,Final,Chad Crader,Samantha Sun,10,2,1, Adult Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,3,rcb12,40423F61,126,Dave Watson,Rumba,2
+OR,0,2,Final,Chad Crader,Samantha Sun,11,2,2, Adult Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,3,rcb12,40423F61,126,Elizabeth C Knoll,Rumba,2
+OR,0,2,Final,Chad Crader,Samantha Sun,12,2,2, Adult Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,3,rcb12,40423F61,126,Peter Mant,Rumba,2
+B C,0,2,Final,Neil Fleischmann,Carmen Galang,10,2,2, Senior II Novice Standard  (WFQ),Sample,0,rcb12,40448110,114,Dave Watson,Waltz,1
+B C,0,1,Final,Neil Fleischmann,Carmen Galang,11,2,1, Senior II Novice Standard  (WFQ),Sample,0,rcb12,40448110,114,Elizabeth C Knoll,Waltz,1
+B C,0,2,Final,Neil Fleischmann,Carmen Galang,12,2,2, Senior II Novice Standard  (WFQ),Sample,0,rcb12,40448110,114,Peter Mant,Waltz,1
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,10,1,1, Senior II Novice Standard  (WFQ),Sample,0,rcb12,40448110,110,Dave Watson,Waltz,2
+OR,0,2,Final,Terrance Nicholson,Candace Nicholson,11,1,2, Senior II Novice Standard  (WFQ),Sample,0,rcb12,40448110,110,Elizabeth C Knoll,Waltz,2
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,12,1,1, Senior II Novice Standard  (WFQ),Sample,0,rcb12,40448110,110,Peter Mant,Waltz,2
+B C,0,1,Final,Neil Fleischmann,Carmen Galang,10,1,1, Senior II Novice Standard  (WFQ),Sample,1,rcb12,40448110,114,Dave Watson,Foxtrot,1
+B C,0,1,Final,Neil Fleischmann,Carmen Galang,11,1,1, Senior II Novice Standard  (WFQ),Sample,1,rcb12,40448110,114,Elizabeth C Knoll,Foxtrot,1
+B C,0,2,Final,Neil Fleischmann,Carmen Galang,12,1,2, Senior II Novice Standard  (WFQ),Sample,1,rcb12,40448110,114,Peter Mant,Foxtrot,1
+OR,0,2,Final,Terrance Nicholson,Candace Nicholson,10,2,2, Senior II Novice Standard  (WFQ),Sample,1,rcb12,40448110,110,Dave Watson,Foxtrot,2
+OR,0,2,Final,Terrance Nicholson,Candace Nicholson,11,2,2, Senior II Novice Standard  (WFQ),Sample,1,rcb12,40448110,110,Elizabeth C Knoll,Foxtrot,2
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,12,2,1, Senior II Novice Standard  (WFQ),Sample,1,rcb12,40448110,110,Peter Mant,Foxtrot,2
+B C,0,1,Final,Neil Fleischmann,Carmen Galang,10,1,1, Senior II Novice Standard  (WFQ),Sample,2,rcb12,40448110,114,Dave Watson,Quickstep,1
+B C,0,1,Final,Neil Fleischmann,Carmen Galang,11,1,1, Senior II Novice Standard  (WFQ),Sample,2,rcb12,40448110,114,Elizabeth C Knoll,Quickstep,1
+B C,0,2,Final,Neil Fleischmann,Carmen Galang,12,1,2, Senior II Novice Standard  (WFQ),Sample,2,rcb12,40448110,114,Peter Mant,Quickstep,1
+OR,0,2,Final,Terrance Nicholson,Candace Nicholson,10,2,2, Senior II Novice Standard  (WFQ),Sample,2,rcb12,40448110,110,Dave Watson,Quickstep,2
+OR,0,2,Final,Terrance Nicholson,Candace Nicholson,11,2,2, Senior II Novice Standard  (WFQ),Sample,2,rcb12,40448110,110,Elizabeth C Knoll,Quickstep,2
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,12,2,1, Senior II Novice Standard  (WFQ),Sample,2,rcb12,40448110,110,Peter Mant,Quickstep,2
+OR,0,1,Final,Douglas Daniels,Li Zhang,10,1,1, Senior II Bronze Standard  (WQ),Sample,0,rcb12,40442810,118,Dave Watson,Waltz,1
+OR,0,1,Final,Douglas Daniels,Li Zhang,11,1,1, Senior II Bronze Standard  (WQ),Sample,0,rcb12,40442810,118,Elizabeth C Knoll,Waltz,1
+OR,0,1,Final,Douglas Daniels,Li Zhang,12,1,1, Senior II Bronze Standard  (WQ),Sample,0,rcb12,40442810,118,Peter Mant,Waltz,1
+OR,0,2,Final,John Smith-Hill,Diane Smith-Hill,10,2,2, Senior II Bronze Standard  (WQ),Sample,0,rcb12,40442810,112,Dave Watson,Waltz,2
+OR,0,3,Final,John Smith-Hill,Diane Smith-Hill,11,2,3, Senior II Bronze Standard  (WQ),Sample,0,rcb12,40442810,112,Elizabeth C Knoll,Waltz,2
+OR,0,2,Final,John Smith-Hill,Diane Smith-Hill,12,2,2, Senior II Bronze Standard  (WQ),Sample,0,rcb12,40442810,112,Peter Mant,Waltz,2
+OR,0,3,Final,Les Whitworth,Ellen Wong,10,3,3, Senior II Bronze Standard  (WQ),Sample,0,rcb12,40442810,121,Dave Watson,Waltz,3
+OR,0,4,Final,Les Whitworth,Ellen Wong,11,3,4, Senior II Bronze Standard  (WQ),Sample,0,rcb12,40442810,121,Elizabeth C Knoll,Waltz,3
+OR,0,3,Final,Les Whitworth,Ellen Wong,12,3,3, Senior II Bronze Standard  (WQ),Sample,0,rcb12,40442810,121,Peter Mant,Waltz,3
+OR,0,4,Final,Gary Gitner,Karen Rash-Gitner,10,4,4, Senior II Bronze Standard  (WQ),Sample,0,rcb12,40442810,106,Dave Watson,Waltz,4
+OR,0,2,Final,Gary Gitner,Karen Rash-Gitner,11,4,2, Senior II Bronze Standard  (WQ),Sample,0,rcb12,40442810,106,Elizabeth C Knoll,Waltz,4
+OR,0,4,Final,Gary Gitner,Karen Rash-Gitner,12,4,4, Senior II Bronze Standard  (WQ),Sample,0,rcb12,40442810,106,Peter Mant,Waltz,4
+OR,0,1,Final,Douglas Daniels,Li Zhang,10,1,1, Senior II Bronze Standard  (WQ),Sample,1,rcb12,40442810,118,Dave Watson,Quickstep,1
+OR,0,1,Final,Douglas Daniels,Li Zhang,11,1,1, Senior II Bronze Standard  (WQ),Sample,1,rcb12,40442810,118,Elizabeth C Knoll,Quickstep,1
+OR,0,1,Final,Douglas Daniels,Li Zhang,12,1,1, Senior II Bronze Standard  (WQ),Sample,1,rcb12,40442810,118,Peter Mant,Quickstep,1
+OR,0,2,Final,John Smith-Hill,Diane Smith-Hill,10,2,2, Senior II Bronze Standard  (WQ),Sample,1,rcb12,40442810,112,Dave Watson,Quickstep,2
+OR,0,2,Final,John Smith-Hill,Diane Smith-Hill,11,2,2, Senior II Bronze Standard  (WQ),Sample,1,rcb12,40442810,112,Elizabeth C Knoll,Quickstep,2
+OR,0,2,Final,John Smith-Hill,Diane Smith-Hill,12,2,2, Senior II Bronze Standard  (WQ),Sample,1,rcb12,40442810,112,Peter Mant,Quickstep,2
+OR,0,3,Final,Les Whitworth,Ellen Wong,10,3,3, Senior II Bronze Standard  (WQ),Sample,1,rcb12,40442810,121,Dave Watson,Quickstep,3
+OR,0,4,Final,Les Whitworth,Ellen Wong,11,3,4, Senior II Bronze Standard  (WQ),Sample,1,rcb12,40442810,121,Elizabeth C Knoll,Quickstep,3
+OR,0,3,Final,Les Whitworth,Ellen Wong,12,3,3, Senior II Bronze Standard  (WQ),Sample,1,rcb12,40442810,121,Peter Mant,Quickstep,3
+OR,0,4,Final,Gary Gitner,Karen Rash-Gitner,10,4,4, Senior II Bronze Standard  (WQ),Sample,1,rcb12,40442810,106,Dave Watson,Quickstep,4
+OR,0,3,Final,Gary Gitner,Karen Rash-Gitner,11,4,3, Senior II Bronze Standard  (WQ),Sample,1,rcb12,40442810,106,Elizabeth C Knoll,Quickstep,4
+OR,0,4,Final,Gary Gitner,Karen Rash-Gitner,12,4,4, Senior II Bronze Standard  (WQ),Sample,1,rcb12,40442810,106,Peter Mant,Quickstep,4
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,10,1,1, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,0,rcb12,40443F61,110,Dave Watson,Waltz,1
+OR,0,3,Final,Terrance Nicholson,Candace Nicholson,11,1,3, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,0,rcb12,40443F61,110,Elizabeth C Knoll,Waltz,1
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,12,1,1, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,0,rcb12,40443F61,110,Peter Mant,Waltz,1
+B C,0,2,Final,Neil Fleischmann,Carmen Galang,10,2,2, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,0,rcb12,40443F61,114,Dave Watson,Waltz,2
+B C,0,1,Final,Neil Fleischmann,Carmen Galang,11,2,1, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,0,rcb12,40443F61,114,Elizabeth C Knoll,Waltz,2
+B C,0,2,Final,Neil Fleischmann,Carmen Galang,12,2,2, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,0,rcb12,40443F61,114,Peter Mant,Waltz,2
+OR,0,5,Final,Douglas Daniels,Li Zhang,10,5,5, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,0,rcb12,40443F61,118,Dave Watson,Waltz,3
+OR,0,5,Final,Douglas Daniels,Li Zhang,11,5,5, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,0,rcb12,40443F61,118,Elizabeth C Knoll,Waltz,3
+OR,0,5,Final,Douglas Daniels,Li Zhang,12,5,5, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,0,rcb12,40443F61,118,Peter Mant,Waltz,3
+WA,0,3,Final,Edward Brennan,Cecilia Wang,10,3,3, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,0,rcb12,40443F61,117,Dave Watson,Waltz,4
+WA,0,2,Final,Edward Brennan,Cecilia Wang,11,3,2, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,0,rcb12,40443F61,117,Elizabeth C Knoll,Waltz,4
+WA,0,4,Final,Edward Brennan,Cecilia Wang,12,3,4, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,0,rcb12,40443F61,117,Peter Mant,Waltz,4
+WA,0,4,Final,William Minniear,Irita Minniear,10,4,4, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,0,rcb12,40443F61,131,Dave Watson,Waltz,5
+WA,0,4,Final,William Minniear,Irita Minniear,11,4,4, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,0,rcb12,40443F61,131,Elizabeth C Knoll,Waltz,5
+WA,0,3,Final,William Minniear,Irita Minniear,12,4,3, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,0,rcb12,40443F61,131,Peter Mant,Waltz,5
+OR,0,2,Final,Terrance Nicholson,Candace Nicholson,10,2,2, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,1,rcb12,40443F61,110,Dave Watson,Quickstep,1
+OR,0,3,Final,Terrance Nicholson,Candace Nicholson,11,2,3, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,1,rcb12,40443F61,110,Elizabeth C Knoll,Quickstep,1
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,12,2,1, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,1,rcb12,40443F61,110,Peter Mant,Quickstep,1
+B C,0,1,Final,Neil Fleischmann,Carmen Galang,10,1,1, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,1,rcb12,40443F61,114,Dave Watson,Quickstep,2
+B C,0,1,Final,Neil Fleischmann,Carmen Galang,11,1,1, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,1,rcb12,40443F61,114,Elizabeth C Knoll,Quickstep,2
+B C,0,2,Final,Neil Fleischmann,Carmen Galang,12,1,2, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,1,rcb12,40443F61,114,Peter Mant,Quickstep,2
+OR,0,5,Final,Douglas Daniels,Li Zhang,10,5,5, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,1,rcb12,40443F61,118,Dave Watson,Quickstep,3
+OR,0,4,Final,Douglas Daniels,Li Zhang,11,5,4, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,1,rcb12,40443F61,118,Elizabeth C Knoll,Quickstep,3
+OR,0,5,Final,Douglas Daniels,Li Zhang,12,5,5, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,1,rcb12,40443F61,118,Peter Mant,Quickstep,3
+WA,0,3,Final,Edward Brennan,Cecilia Wang,10,3,3, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,1,rcb12,40443F61,117,Dave Watson,Quickstep,4
+WA,0,2,Final,Edward Brennan,Cecilia Wang,11,3,2, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,1,rcb12,40443F61,117,Elizabeth C Knoll,Quickstep,4
+WA,0,4,Final,Edward Brennan,Cecilia Wang,12,3,4, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,1,rcb12,40443F61,117,Peter Mant,Quickstep,4
+WA,0,4,Final,William Minniear,Irita Minniear,10,4,4, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,1,rcb12,40443F61,131,Dave Watson,Quickstep,5
+WA,0,5,Final,William Minniear,Irita Minniear,11,4,5, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,1,rcb12,40443F61,131,Elizabeth C Knoll,Quickstep,5
+WA,0,3,Final,William Minniear,Irita Minniear,12,4,3, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,1,rcb12,40443F61,131,Peter Mant,Quickstep,5
+OR,0,2,Final,Terrance Nicholson,Candace Nicholson,10,2,2, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,2,rcb12,40443F61,110,Dave Watson,Cha Cha,1
+OR,0,2,Final,Terrance Nicholson,Candace Nicholson,11,2,2, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,2,rcb12,40443F61,110,Elizabeth C Knoll,Cha Cha,1
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,12,2,1, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,2,rcb12,40443F61,110,Peter Mant,Cha Cha,1
+B C,0,4,Final,Neil Fleischmann,Carmen Galang,10,3,4, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,2,rcb12,40443F61,114,Dave Watson,Cha Cha,2
+B C,0,3,Final,Neil Fleischmann,Carmen Galang,11,3,3, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,2,rcb12,40443F61,114,Elizabeth C Knoll,Cha Cha,2
+B C,0,4,Final,Neil Fleischmann,Carmen Galang,12,3,4, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,2,rcb12,40443F61,114,Peter Mant,Cha Cha,2
+OR,0,1,Final,Douglas Daniels,Li Zhang,10,1,1, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,2,rcb12,40443F61,118,Dave Watson,Cha Cha,3
+OR,0,1,Final,Douglas Daniels,Li Zhang,11,1,1, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,2,rcb12,40443F61,118,Elizabeth C Knoll,Cha Cha,3
+OR,0,3,Final,Douglas Daniels,Li Zhang,12,1,3, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,2,rcb12,40443F61,118,Peter Mant,Cha Cha,3
+WA,0,5,Final,Edward Brennan,Cecilia Wang,10,5,5, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,2,rcb12,40443F61,117,Dave Watson,Cha Cha,4
+WA,0,5,Final,Edward Brennan,Cecilia Wang,11,5,5, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,2,rcb12,40443F61,117,Elizabeth C Knoll,Cha Cha,4
+WA,0,2,Final,Edward Brennan,Cecilia Wang,12,5,2, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,2,rcb12,40443F61,117,Peter Mant,Cha Cha,4
+WA,0,3,Final,William Minniear,Irita Minniear,10,4,3, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,2,rcb12,40443F61,131,Dave Watson,Cha Cha,5
+WA,0,4,Final,William Minniear,Irita Minniear,11,4,4, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,2,rcb12,40443F61,131,Elizabeth C Knoll,Cha Cha,5
+WA,0,5,Final,William Minniear,Irita Minniear,12,4,5, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,2,rcb12,40443F61,131,Peter Mant,Cha Cha,5
+OR,0,3,Final,Terrance Nicholson,Candace Nicholson,10,3,3, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,3,rcb12,40443F61,110,Dave Watson,Rumba,1
+OR,0,3,Final,Terrance Nicholson,Candace Nicholson,11,3,3, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,3,rcb12,40443F61,110,Elizabeth C Knoll,Rumba,1
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,12,3,1, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,3,rcb12,40443F61,110,Peter Mant,Rumba,1
+B C,0,5,Final,Neil Fleischmann,Carmen Galang,10,4,5, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,3,rcb12,40443F61,114,Dave Watson,Rumba,2
+B C,0,4,Final,Neil Fleischmann,Carmen Galang,11,4,4, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,3,rcb12,40443F61,114,Elizabeth C Knoll,Rumba,2
+B C,0,2,Final,Neil Fleischmann,Carmen Galang,12,4,2, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,3,rcb12,40443F61,114,Peter Mant,Rumba,2
+OR,0,1,Final,Douglas Daniels,Li Zhang,10,1,1, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,3,rcb12,40443F61,118,Dave Watson,Rumba,3
+OR,0,2,Final,Douglas Daniels,Li Zhang,11,1,2, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,3,rcb12,40443F61,118,Elizabeth C Knoll,Rumba,3
+OR,0,3,Final,Douglas Daniels,Li Zhang,12,1,3, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,3,rcb12,40443F61,118,Peter Mant,Rumba,3
+WA,0,2,Final,Edward Brennan,Cecilia Wang,10,2,2, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,3,rcb12,40443F61,117,Dave Watson,Rumba,4
+WA,0,1,Final,Edward Brennan,Cecilia Wang,11,2,1, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,3,rcb12,40443F61,117,Elizabeth C Knoll,Rumba,4
+WA,0,5,Final,Edward Brennan,Cecilia Wang,12,2,5, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,3,rcb12,40443F61,117,Peter Mant,Rumba,4
+WA,0,4,Final,William Minniear,Irita Minniear,10,5,4, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,3,rcb12,40443F61,131,Dave Watson,Rumba,5
+WA,0,5,Final,William Minniear,Irita Minniear,11,5,5, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,3,rcb12,40443F61,131,Elizabeth C Knoll,Rumba,5
+WA,0,4,Final,William Minniear,Irita Minniear,12,5,4, Senior II Syllabus (1) Intl. Multi-Dance  (WQCR),Sample,3,rcb12,40443F61,131,Peter Mant,Rumba,5
+B C,0,2,Final,Neil Fleischmann,Carmen Galang,10,2,2, Senior III Novice Standard  (WFQ),Sample,0,rcb12,40458110,114,Dave Watson,Waltz,1
+B C,0,1,Final,Neil Fleischmann,Carmen Galang,11,2,1, Senior III Novice Standard  (WFQ),Sample,0,rcb12,40458110,114,Elizabeth C Knoll,Waltz,1
+B C,0,2,Final,Neil Fleischmann,Carmen Galang,12,2,2, Senior III Novice Standard  (WFQ),Sample,0,rcb12,40458110,114,Peter Mant,Waltz,1
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,10,1,1, Senior III Novice Standard  (WFQ),Sample,0,rcb12,40458110,110,Dave Watson,Waltz,2
+OR,0,2,Final,Terrance Nicholson,Candace Nicholson,11,1,2, Senior III Novice Standard  (WFQ),Sample,0,rcb12,40458110,110,Elizabeth C Knoll,Waltz,2
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,12,1,1, Senior III Novice Standard  (WFQ),Sample,0,rcb12,40458110,110,Peter Mant,Waltz,2
+B C,0,1,Final,Neil Fleischmann,Carmen Galang,10,1,1, Senior III Novice Standard  (WFQ),Sample,1,rcb12,40458110,114,Dave Watson,Foxtrot,1
+B C,0,1,Final,Neil Fleischmann,Carmen Galang,11,1,1, Senior III Novice Standard  (WFQ),Sample,1,rcb12,40458110,114,Elizabeth C Knoll,Foxtrot,1
+B C,0,1,Final,Neil Fleischmann,Carmen Galang,12,1,1, Senior III Novice Standard  (WFQ),Sample,1,rcb12,40458110,114,Peter Mant,Foxtrot,1
+OR,0,2,Final,Terrance Nicholson,Candace Nicholson,10,2,2, Senior III Novice Standard  (WFQ),Sample,1,rcb12,40458110,110,Dave Watson,Foxtrot,2
+OR,0,2,Final,Terrance Nicholson,Candace Nicholson,11,2,2, Senior III Novice Standard  (WFQ),Sample,1,rcb12,40458110,110,Elizabeth C Knoll,Foxtrot,2
+OR,0,2,Final,Terrance Nicholson,Candace Nicholson,12,2,2, Senior III Novice Standard  (WFQ),Sample,1,rcb12,40458110,110,Peter Mant,Foxtrot,2
+B C,0,1,Final,Neil Fleischmann,Carmen Galang,10,1,1, Senior III Novice Standard  (WFQ),Sample,2,rcb12,40458110,114,Dave Watson,Quickstep,1
+B C,0,1,Final,Neil Fleischmann,Carmen Galang,11,1,1, Senior III Novice Standard  (WFQ),Sample,2,rcb12,40458110,114,Elizabeth C Knoll,Quickstep,1
+B C,0,2,Final,Neil Fleischmann,Carmen Galang,12,1,2, Senior III Novice Standard  (WFQ),Sample,2,rcb12,40458110,114,Peter Mant,Quickstep,1
+OR,0,2,Final,Terrance Nicholson,Candace Nicholson,10,2,2, Senior III Novice Standard  (WFQ),Sample,2,rcb12,40458110,110,Dave Watson,Quickstep,2
+OR,0,2,Final,Terrance Nicholson,Candace Nicholson,11,2,2, Senior III Novice Standard  (WFQ),Sample,2,rcb12,40458110,110,Elizabeth C Knoll,Quickstep,2
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,12,2,1, Senior III Novice Standard  (WFQ),Sample,2,rcb12,40458110,110,Peter Mant,Quickstep,2
+WA,0,1,Final,David Crawford,Fang (Fawn) Zhang,10,1,1, Adult Pre-Champ Standard  (WTFQ),Sample,0,rcb12,40428310,123,Dave Watson,Waltz,1
+WA,0,1,Final,David Crawford,Fang (Fawn) Zhang,11,1,1, Adult Pre-Champ Standard  (WTFQ),Sample,0,rcb12,40428310,123,Elizabeth C Knoll,Waltz,1
+WA,0,2,Final,David Crawford,Fang (Fawn) Zhang,12,1,2, Adult Pre-Champ Standard  (WTFQ),Sample,0,rcb12,40428310,123,Peter Mant,Waltz,1
+OR,0,2,Final,Matthew Watkins,Leilani Nakagawa,10,2,2, Adult Pre-Champ Standard  (WTFQ),Sample,0,rcb12,40428310,116,Dave Watson,Waltz,2
+OR,0,2,Final,Matthew Watkins,Leilani Nakagawa,11,2,2, Adult Pre-Champ Standard  (WTFQ),Sample,0,rcb12,40428310,116,Elizabeth C Knoll,Waltz,2
+OR,0,1,Final,Matthew Watkins,Leilani Nakagawa,12,2,1, Adult Pre-Champ Standard  (WTFQ),Sample,0,rcb12,40428310,116,Peter Mant,Waltz,2
+WA,0,1,Final,David Crawford,Fang (Fawn) Zhang,10,1,1, Adult Pre-Champ Standard  (WTFQ),Sample,1,rcb12,40428310,123,Dave Watson,Tango,1
+WA,0,1,Final,David Crawford,Fang (Fawn) Zhang,11,1,1, Adult Pre-Champ Standard  (WTFQ),Sample,1,rcb12,40428310,123,Elizabeth C Knoll,Tango,1
+WA,0,1,Final,David Crawford,Fang (Fawn) Zhang,12,1,1, Adult Pre-Champ Standard  (WTFQ),Sample,1,rcb12,40428310,123,Peter Mant,Tango,1
+OR,0,2,Final,Matthew Watkins,Leilani Nakagawa,10,2,2, Adult Pre-Champ Standard  (WTFQ),Sample,1,rcb12,40428310,116,Dave Watson,Tango,2
+OR,0,2,Final,Matthew Watkins,Leilani Nakagawa,11,2,2, Adult Pre-Champ Standard  (WTFQ),Sample,1,rcb12,40428310,116,Elizabeth C Knoll,Tango,2
+OR,0,2,Final,Matthew Watkins,Leilani Nakagawa,12,2,2, Adult Pre-Champ Standard  (WTFQ),Sample,1,rcb12,40428310,116,Peter Mant,Tango,2
+WA,0,2,Final,David Crawford,Fang (Fawn) Zhang,10,1,2, Adult Pre-Champ Standard  (WTFQ),Sample,2,rcb12,40428310,123,Dave Watson,Foxtrot,1
+WA,0,1,Final,David Crawford,Fang (Fawn) Zhang,11,1,1, Adult Pre-Champ Standard  (WTFQ),Sample,2,rcb12,40428310,123,Elizabeth C Knoll,Foxtrot,1
+WA,0,1,Final,David Crawford,Fang (Fawn) Zhang,12,1,1, Adult Pre-Champ Standard  (WTFQ),Sample,2,rcb12,40428310,123,Peter Mant,Foxtrot,1
+OR,0,1,Final,Matthew Watkins,Leilani Nakagawa,10,2,1, Adult Pre-Champ Standard  (WTFQ),Sample,2,rcb12,40428310,116,Dave Watson,Foxtrot,2
+OR,0,2,Final,Matthew Watkins,Leilani Nakagawa,11,2,2, Adult Pre-Champ Standard  (WTFQ),Sample,2,rcb12,40428310,116,Elizabeth C Knoll,Foxtrot,2
+OR,0,2,Final,Matthew Watkins,Leilani Nakagawa,12,2,2, Adult Pre-Champ Standard  (WTFQ),Sample,2,rcb12,40428310,116,Peter Mant,Foxtrot,2
+WA,0,2,Final,David Crawford,Fang (Fawn) Zhang,10,2,2, Adult Pre-Champ Standard  (WTFQ),Sample,3,rcb12,40428310,123,Dave Watson,Quickstep,1
+WA,0,1,Final,David Crawford,Fang (Fawn) Zhang,11,2,1, Adult Pre-Champ Standard  (WTFQ),Sample,3,rcb12,40428310,123,Elizabeth C Knoll,Quickstep,1
+WA,0,2,Final,David Crawford,Fang (Fawn) Zhang,12,2,2, Adult Pre-Champ Standard  (WTFQ),Sample,3,rcb12,40428310,123,Peter Mant,Quickstep,1
+OR,0,1,Final,Matthew Watkins,Leilani Nakagawa,10,1,1, Adult Pre-Champ Standard  (WTFQ),Sample,3,rcb12,40428310,116,Dave Watson,Quickstep,2
+OR,0,2,Final,Matthew Watkins,Leilani Nakagawa,11,1,2, Adult Pre-Champ Standard  (WTFQ),Sample,3,rcb12,40428310,116,Elizabeth C Knoll,Quickstep,2
+OR,0,1,Final,Matthew Watkins,Leilani Nakagawa,12,1,1, Adult Pre-Champ Standard  (WTFQ),Sample,3,rcb12,40428310,116,Peter Mant,Quickstep,2
+WA,0,1,Final,Jared McKell,Allison Sawyer,10,1,1, Adult Bronze Latin  (CR),Sample,0,rcb12,40422820,127,Dave Watson,Cha Cha,1
+WA,0,1,Final,Jared McKell,Allison Sawyer,11,1,1, Adult Bronze Latin  (CR),Sample,0,rcb12,40422820,127,Elizabeth C Knoll,Cha Cha,1
+WA,0,1,Final,Jared McKell,Allison Sawyer,12,1,1, Adult Bronze Latin  (CR),Sample,0,rcb12,40422820,127,Peter Mant,Cha Cha,1
+WA,0,1,Final,Jared McKell,Allison Sawyer,10,1,1, Adult Bronze Latin  (CR),Sample,1,rcb12,40422820,127,Dave Watson,Rumba,1
+WA,0,1,Final,Jared McKell,Allison Sawyer,11,1,1, Adult Bronze Latin  (CR),Sample,1,rcb12,40422820,127,Elizabeth C Knoll,Rumba,1
+WA,0,1,Final,Jared McKell,Allison Sawyer,12,1,1, Adult Bronze Latin  (CR),Sample,1,rcb12,40422820,127,Peter Mant,Rumba,1
+OR,0,1,Final,Douglas Daniels,Li Zhang,10,1,1, Senior I Bronze Latin  (CR),Sample,0,rcb12,40432820,118,Dave Watson,Cha Cha,1
+OR,0,1,Final,Douglas Daniels,Li Zhang,11,1,1, Senior I Bronze Latin  (CR),Sample,0,rcb12,40432820,118,Elizabeth C Knoll,Cha Cha,1
+OR,0,1,Final,Douglas Daniels,Li Zhang,12,1,1, Senior I Bronze Latin  (CR),Sample,0,rcb12,40432820,118,Peter Mant,Cha Cha,1
+OR,0,1,Final,Douglas Daniels,Li Zhang,10,1,1, Senior I Bronze Latin  (CR),Sample,1,rcb12,40432820,118,Dave Watson,Rumba,1
+OR,0,1,Final,Douglas Daniels,Li Zhang,11,1,1, Senior I Bronze Latin  (CR),Sample,1,rcb12,40432820,118,Elizabeth C Knoll,Rumba,1
+OR,0,1,Final,Douglas Daniels,Li Zhang,12,1,1, Senior I Bronze Latin  (CR),Sample,1,rcb12,40432820,118,Peter Mant,Rumba,1
+WA,0,2,Final,Edward Brennan,Cecilia Wang,10,1,2, Senior III Silver Latin  (SCR),Sample,0,rcb12,40453020,117,Dave Watson,Samba,1
+WA,0,1,Final,Edward Brennan,Cecilia Wang,11,1,1, Senior III Silver Latin  (SCR),Sample,0,rcb12,40453020,117,Elizabeth C Knoll,Samba,1
+WA,0,1,Final,Edward Brennan,Cecilia Wang,12,1,1, Senior III Silver Latin  (SCR),Sample,0,rcb12,40453020,117,Peter Mant,Samba,1
+OR,0,3,Final,Terrance Nicholson,Candace Nicholson,10,2,3, Senior III Silver Latin  (SCR),Sample,0,rcb12,40453020,110,Dave Watson,Samba,2
+OR,0,2,Final,Terrance Nicholson,Candace Nicholson,11,2,2, Senior III Silver Latin  (SCR),Sample,0,rcb12,40453020,110,Elizabeth C Knoll,Samba,2
+OR,0,3,Final,Terrance Nicholson,Candace Nicholson,12,2,3, Senior III Silver Latin  (SCR),Sample,0,rcb12,40453020,110,Peter Mant,Samba,2
+WA,0,1,Final,William Minniear,Irita Minniear,10,4,1, Senior III Silver Latin  (SCR),Sample,0,rcb12,40453020,131,Dave Watson,Samba,3
+WA,0,4,Final,William Minniear,Irita Minniear,11,4,4, Senior III Silver Latin  (SCR),Sample,0,rcb12,40453020,131,Elizabeth C Knoll,Samba,3
+WA,0,4,Final,William Minniear,Irita Minniear,12,4,4, Senior III Silver Latin  (SCR),Sample,0,rcb12,40453020,131,Peter Mant,Samba,3
+WA,0,4,Final,Greg Musgrave,Nancy Musgrave,10,3,4, Senior III Silver Latin  (SCR),Sample,0,rcb12,40453020,107,Dave Watson,Samba,4
+WA,0,3,Final,Greg Musgrave,Nancy Musgrave,11,3,3, Senior III Silver Latin  (SCR),Sample,0,rcb12,40453020,107,Elizabeth C Knoll,Samba,4
+WA,0,2,Final,Greg Musgrave,Nancy Musgrave,12,3,2, Senior III Silver Latin  (SCR),Sample,0,rcb12,40453020,107,Peter Mant,Samba,4
+WA,0,3,Final,Edward Brennan,Cecilia Wang,10,1,3, Senior III Silver Latin  (SCR),Sample,1,rcb12,40453020,117,Dave Watson,Cha Cha,1
+WA,0,1,Final,Edward Brennan,Cecilia Wang,11,1,1, Senior III Silver Latin  (SCR),Sample,1,rcb12,40453020,117,Elizabeth C Knoll,Cha Cha,1
+WA,0,1,Final,Edward Brennan,Cecilia Wang,12,1,1, Senior III Silver Latin  (SCR),Sample,1,rcb12,40453020,117,Peter Mant,Cha Cha,1
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,10,2,1, Senior III Silver Latin  (SCR),Sample,1,rcb12,40453020,110,Dave Watson,Cha Cha,2
+OR,0,2,Final,Terrance Nicholson,Candace Nicholson,11,2,2, Senior III Silver Latin  (SCR),Sample,1,rcb12,40453020,110,Elizabeth C Knoll,Cha Cha,2
+OR,0,2,Final,Terrance Nicholson,Candace Nicholson,12,2,2, Senior III Silver Latin  (SCR),Sample,1,rcb12,40453020,110,Peter Mant,Cha Cha,2
+WA,0,2,Final,William Minniear,Irita Minniear,10,3,2, Senior III Silver Latin  (SCR),Sample,1,rcb12,40453020,131,Dave Watson,Cha Cha,3
+WA,0,4,Final,William Minniear,Irita Minniear,11,3,4, Senior III Silver Latin  (SCR),Sample,1,rcb12,40453020,131,Elizabeth C Knoll,Cha Cha,3
+WA,0,3,Final,William Minniear,Irita Minniear,12,3,3, Senior III Silver Latin  (SCR),Sample,1,rcb12,40453020,131,Peter Mant,Cha Cha,3
+WA,0,4,Final,Greg Musgrave,Nancy Musgrave,10,4,4, Senior III Silver Latin  (SCR),Sample,1,rcb12,40453020,107,Dave Watson,Cha Cha,4
+WA,0,3,Final,Greg Musgrave,Nancy Musgrave,11,4,3, Senior III Silver Latin  (SCR),Sample,1,rcb12,40453020,107,Elizabeth C Knoll,Cha Cha,4
+WA,0,4,Final,Greg Musgrave,Nancy Musgrave,12,4,4, Senior III Silver Latin  (SCR),Sample,1,rcb12,40453020,107,Peter Mant,Cha Cha,4
+WA,0,1,Final,Edward Brennan,Cecilia Wang,10,1,1, Senior III Silver Latin  (SCR),Sample,2,rcb12,40453020,117,Dave Watson,Rumba,1
+WA,0,1,Final,Edward Brennan,Cecilia Wang,11,1,1, Senior III Silver Latin  (SCR),Sample,2,rcb12,40453020,117,Elizabeth C Knoll,Rumba,1
+WA,0,1,Final,Edward Brennan,Cecilia Wang,12,1,1, Senior III Silver Latin  (SCR),Sample,2,rcb12,40453020,117,Peter Mant,Rumba,1
+OR,0,4,Final,Terrance Nicholson,Candace Nicholson,10,3,4, Senior III Silver Latin  (SCR),Sample,2,rcb12,40453020,110,Dave Watson,Rumba,2
+OR,0,2,Final,Terrance Nicholson,Candace Nicholson,11,3,2, Senior III Silver Latin  (SCR),Sample,2,rcb12,40453020,110,Elizabeth C Knoll,Rumba,2
+OR,0,3,Final,Terrance Nicholson,Candace Nicholson,12,3,3, Senior III Silver Latin  (SCR),Sample,2,rcb12,40453020,110,Peter Mant,Rumba,2
+WA,0,2,Final,William Minniear,Irita Minniear,10,3,2, Senior III Silver Latin  (SCR),Sample,2,rcb12,40453020,131,Dave Watson,Rumba,3
+WA,0,3,Final,William Minniear,Irita Minniear,11,3,3, Senior III Silver Latin  (SCR),Sample,2,rcb12,40453020,131,Elizabeth C Knoll,Rumba,3
+WA,0,4,Final,William Minniear,Irita Minniear,12,3,4, Senior III Silver Latin  (SCR),Sample,2,rcb12,40453020,131,Peter Mant,Rumba,3
+WA,0,3,Final,Greg Musgrave,Nancy Musgrave,10,3,3, Senior III Silver Latin  (SCR),Sample,2,rcb12,40453020,107,Dave Watson,Rumba,4
+WA,0,4,Final,Greg Musgrave,Nancy Musgrave,11,3,4, Senior III Silver Latin  (SCR),Sample,2,rcb12,40453020,107,Elizabeth C Knoll,Rumba,4
+WA,0,2,Final,Greg Musgrave,Nancy Musgrave,12,3,2, Senior III Silver Latin  (SCR),Sample,2,rcb12,40453020,107,Peter Mant,Rumba,4
+OR,0,2,Final,Terrance Nicholson,Candace Nicholson,10,1,2, Senior II Bronze Latin  (CR),Sample,0,rcb12,40442820,110,Dave Watson,Cha Cha,1
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,11,1,1, Senior II Bronze Latin  (CR),Sample,0,rcb12,40442820,110,Elizabeth C Knoll,Cha Cha,1
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,12,1,1, Senior II Bronze Latin  (CR),Sample,0,rcb12,40442820,110,Peter Mant,Cha Cha,1
+OR,0,1,Final,Douglas Daniels,Li Zhang,10,2,1, Senior II Bronze Latin  (CR),Sample,0,rcb12,40442820,118,Dave Watson,Cha Cha,2
+OR,0,2,Final,Douglas Daniels,Li Zhang,11,2,2, Senior II Bronze Latin  (CR),Sample,0,rcb12,40442820,118,Elizabeth C Knoll,Cha Cha,2
+OR,0,2,Final,Douglas Daniels,Li Zhang,12,2,2, Senior II Bronze Latin  (CR),Sample,0,rcb12,40442820,118,Peter Mant,Cha Cha,2
+WA,0,3,Final,Greg Musgrave,Nancy Musgrave,10,3,3, Senior II Bronze Latin  (CR),Sample,0,rcb12,40442820,107,Dave Watson,Cha Cha,3
+WA,0,3,Final,Greg Musgrave,Nancy Musgrave,11,3,3, Senior II Bronze Latin  (CR),Sample,0,rcb12,40442820,107,Elizabeth C Knoll,Cha Cha,3
+WA,0,3,Final,Greg Musgrave,Nancy Musgrave,12,3,3, Senior II Bronze Latin  (CR),Sample,0,rcb12,40442820,107,Peter Mant,Cha Cha,3
+OR,0,4,Final,Les Whitworth,Ellen Wong,10,4,4, Senior II Bronze Latin  (CR),Sample,0,rcb12,40442820,121,Dave Watson,Cha Cha,4
+OR,0,4,Final,Les Whitworth,Ellen Wong,11,4,4, Senior II Bronze Latin  (CR),Sample,0,rcb12,40442820,121,Elizabeth C Knoll,Cha Cha,4
+OR,0,4,Final,Les Whitworth,Ellen Wong,12,4,4, Senior II Bronze Latin  (CR),Sample,0,rcb12,40442820,121,Peter Mant,Cha Cha,4
+OR,0,5,Final,Gary Gitner,Karen Rash-Gitner,10,5,5, Senior II Bronze Latin  (CR),Sample,0,rcb12,40442820,106,Dave Watson,Cha Cha,5
+OR,0,5,Final,Gary Gitner,Karen Rash-Gitner,11,5,5, Senior II Bronze Latin  (CR),Sample,0,rcb12,40442820,106,Elizabeth C Knoll,Cha Cha,5
+OR,0,5,Final,Gary Gitner,Karen Rash-Gitner,12,5,5, Senior II Bronze Latin  (CR),Sample,0,rcb12,40442820,106,Peter Mant,Cha Cha,5
+OR,0,2,Final,Terrance Nicholson,Candace Nicholson,10,2,2, Senior II Bronze Latin  (CR),Sample,1,rcb12,40442820,110,Dave Watson,Rumba,1
+OR,0,2,Final,Terrance Nicholson,Candace Nicholson,11,2,2, Senior II Bronze Latin  (CR),Sample,1,rcb12,40442820,110,Elizabeth C Knoll,Rumba,1
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,12,2,1, Senior II Bronze Latin  (CR),Sample,1,rcb12,40442820,110,Peter Mant,Rumba,1
+OR,0,1,Final,Douglas Daniels,Li Zhang,10,1,1, Senior II Bronze Latin  (CR),Sample,1,rcb12,40442820,118,Dave Watson,Rumba,2
+OR,0,1,Final,Douglas Daniels,Li Zhang,11,1,1, Senior II Bronze Latin  (CR),Sample,1,rcb12,40442820,118,Elizabeth C Knoll,Rumba,2
+OR,0,2,Final,Douglas Daniels,Li Zhang,12,1,2, Senior II Bronze Latin  (CR),Sample,1,rcb12,40442820,118,Peter Mant,Rumba,2
+WA,0,3,Final,Greg Musgrave,Nancy Musgrave,10,3,3, Senior II Bronze Latin  (CR),Sample,1,rcb12,40442820,107,Dave Watson,Rumba,3
+WA,0,3,Final,Greg Musgrave,Nancy Musgrave,11,3,3, Senior II Bronze Latin  (CR),Sample,1,rcb12,40442820,107,Elizabeth C Knoll,Rumba,3
+WA,0,3,Final,Greg Musgrave,Nancy Musgrave,12,3,3, Senior II Bronze Latin  (CR),Sample,1,rcb12,40442820,107,Peter Mant,Rumba,3
+OR,0,4,Final,Les Whitworth,Ellen Wong,10,4,4, Senior II Bronze Latin  (CR),Sample,1,rcb12,40442820,121,Dave Watson,Rumba,4
+OR,0,4,Final,Les Whitworth,Ellen Wong,11,4,4, Senior II Bronze Latin  (CR),Sample,1,rcb12,40442820,121,Elizabeth C Knoll,Rumba,4
+OR,0,4,Final,Les Whitworth,Ellen Wong,12,4,4, Senior II Bronze Latin  (CR),Sample,1,rcb12,40442820,121,Peter Mant,Rumba,4
+OR,0,5,Final,Gary Gitner,Karen Rash-Gitner,10,5,5, Senior II Bronze Latin  (CR),Sample,1,rcb12,40442820,106,Dave Watson,Rumba,5
+OR,0,5,Final,Gary Gitner,Karen Rash-Gitner,11,5,5, Senior II Bronze Latin  (CR),Sample,1,rcb12,40442820,106,Elizabeth C Knoll,Rumba,5
+OR,0,5,Final,Gary Gitner,Karen Rash-Gitner,12,5,5, Senior II Bronze Latin  (CR),Sample,1,rcb12,40442820,106,Peter Mant,Rumba,5
+OR,0,1,Final,Douglas Daniels,Li Zhang,10,1,1, Senior I Silver Latin  (SCR),Sample,0,rcb12,40433020,118,Dave Watson,Samba,1
+OR,0,1,Final,Douglas Daniels,Li Zhang,11,1,1, Senior I Silver Latin  (SCR),Sample,0,rcb12,40433020,118,Elizabeth C Knoll,Samba,1
+OR,0,1,Final,Douglas Daniels,Li Zhang,12,1,1, Senior I Silver Latin  (SCR),Sample,0,rcb12,40433020,118,Peter Mant,Samba,1
+OR,0,1,Final,Douglas Daniels,Li Zhang,10,1,1, Senior I Silver Latin  (SCR),Sample,1,rcb12,40433020,118,Dave Watson,Cha Cha,1
+OR,0,1,Final,Douglas Daniels,Li Zhang,11,1,1, Senior I Silver Latin  (SCR),Sample,1,rcb12,40433020,118,Elizabeth C Knoll,Cha Cha,1
+OR,0,1,Final,Douglas Daniels,Li Zhang,12,1,1, Senior I Silver Latin  (SCR),Sample,1,rcb12,40433020,118,Peter Mant,Cha Cha,1
+OR,0,1,Final,Douglas Daniels,Li Zhang,10,1,1, Senior I Silver Latin  (SCR),Sample,2,rcb12,40433020,118,Dave Watson,Rumba,1
+OR,0,1,Final,Douglas Daniels,Li Zhang,11,1,1, Senior I Silver Latin  (SCR),Sample,2,rcb12,40433020,118,Elizabeth C Knoll,Rumba,1
+OR,0,1,Final,Douglas Daniels,Li Zhang,12,1,1, Senior I Silver Latin  (SCR),Sample,2,rcb12,40433020,118,Peter Mant,Rumba,1
+WA,0,1,Final,Jared McKell,Jamie Carr,10,1,1, Adult Silver Latin  (SCR),Sample,0,rcb12,40423020,127,Dave Watson,Samba,1
+WA,0,1,Final,Jared McKell,Jamie Carr,11,1,1, Adult Silver Latin  (SCR),Sample,0,rcb12,40423020,127,Elizabeth C Knoll,Samba,1
+WA,0,1,Final,Jared McKell,Jamie Carr,12,1,1, Adult Silver Latin  (SCR),Sample,0,rcb12,40423020,127,Peter Mant,Samba,1
+WA,0,1,Final,Jared McKell,Jamie Carr,10,1,1, Adult Silver Latin  (SCR),Sample,1,rcb12,40423020,127,Dave Watson,Cha Cha,1
+WA,0,1,Final,Jared McKell,Jamie Carr,11,1,1, Adult Silver Latin  (SCR),Sample,1,rcb12,40423020,127,Elizabeth C Knoll,Cha Cha,1
+WA,0,1,Final,Jared McKell,Jamie Carr,12,1,1, Adult Silver Latin  (SCR),Sample,1,rcb12,40423020,127,Peter Mant,Cha Cha,1
+WA,0,1,Final,Jared McKell,Jamie Carr,10,1,1, Adult Silver Latin  (SCR),Sample,2,rcb12,40423020,127,Dave Watson,Rumba,1
+WA,0,1,Final,Jared McKell,Jamie Carr,11,1,1, Adult Silver Latin  (SCR),Sample,2,rcb12,40423020,127,Elizabeth C Knoll,Rumba,1
+WA,0,1,Final,Jared McKell,Jamie Carr,12,1,1, Adult Silver Latin  (SCR),Sample,2,rcb12,40423020,127,Peter Mant,Rumba,1
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,10,1,1, Senior III Bronze Latin  (CR),Sample,0,rcb12,40452820,110,Dave Watson,Cha Cha,1
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,11,1,1, Senior III Bronze Latin  (CR),Sample,0,rcb12,40452820,110,Elizabeth C Knoll,Cha Cha,1
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,12,1,1, Senior III Bronze Latin  (CR),Sample,0,rcb12,40452820,110,Peter Mant,Cha Cha,1
+WA,0,2,Final,Greg Musgrave,Nancy Musgrave,10,2,2, Senior III Bronze Latin  (CR),Sample,0,rcb12,40452820,107,Dave Watson,Cha Cha,2
+WA,0,2,Final,Greg Musgrave,Nancy Musgrave,11,2,2, Senior III Bronze Latin  (CR),Sample,0,rcb12,40452820,107,Elizabeth C Knoll,Cha Cha,2
+WA,0,2,Final,Greg Musgrave,Nancy Musgrave,12,2,2, Senior III Bronze Latin  (CR),Sample,0,rcb12,40452820,107,Peter Mant,Cha Cha,2
+OR,0,3,Final,Les Whitworth,Ellen Wong,10,3,3, Senior III Bronze Latin  (CR),Sample,0,rcb12,40452820,121,Dave Watson,Cha Cha,3
+OR,0,4,Final,Les Whitworth,Ellen Wong,11,3,4, Senior III Bronze Latin  (CR),Sample,0,rcb12,40452820,121,Elizabeth C Knoll,Cha Cha,3
+OR,0,3,Final,Les Whitworth,Ellen Wong,12,3,3, Senior III Bronze Latin  (CR),Sample,0,rcb12,40452820,121,Peter Mant,Cha Cha,3
+OR,0,4,Final,Gary Gitner,Karen Rash-Gitner,10,4,4, Senior III Bronze Latin  (CR),Sample,0,rcb12,40452820,106,Dave Watson,Cha Cha,4
+OR,0,3,Final,Gary Gitner,Karen Rash-Gitner,11,4,3, Senior III Bronze Latin  (CR),Sample,0,rcb12,40452820,106,Elizabeth C Knoll,Cha Cha,4
+OR,0,4,Final,Gary Gitner,Karen Rash-Gitner,12,4,4, Senior III Bronze Latin  (CR),Sample,0,rcb12,40452820,106,Peter Mant,Cha Cha,4
+OR,0,2,Final,Terrance Nicholson,Candace Nicholson,10,1,2, Senior III Bronze Latin  (CR),Sample,1,rcb12,40452820,110,Dave Watson,Rumba,1
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,11,1,1, Senior III Bronze Latin  (CR),Sample,1,rcb12,40452820,110,Elizabeth C Knoll,Rumba,1
+OR,0,1,Final,Terrance Nicholson,Candace Nicholson,12,1,1, Senior III Bronze Latin  (CR),Sample,1,rcb12,40452820,110,Peter Mant,Rumba,1
+WA,0,1,Final,Greg Musgrave,Nancy Musgrave,10,2,1, Senior III Bronze Latin  (CR),Sample,1,rcb12,40452820,107,Dave Watson,Rumba,2
+WA,0,2,Final,Greg Musgrave,Nancy Musgrave,11,2,2, Senior III Bronze Latin  (CR),Sample,1,rcb12,40452820,107,Elizabeth C Knoll,Rumba,2
+WA,0,2,Final,Greg Musgrave,Nancy Musgrave,12,2,2, Senior III Bronze Latin  (CR),Sample,1,rcb12,40452820,107,Peter Mant,Rumba,2
+OR,0,3,Final,Les Whitworth,Ellen Wong,10,3,3, Senior III Bronze Latin  (CR),Sample,1,rcb12,40452820,121,Dave Watson,Rumba,3
+OR,0,4,Final,Les Whitworth,Ellen Wong,11,3,4, Senior III Bronze Latin  (CR),Sample,1,rcb12,40452820,121,Elizabeth C Knoll,Rumba,3
+OR,0,3,Final,Les Whitworth,Ellen Wong,12,3,3, Senior III Bronze Latin  (CR),Sample,1,rcb12,40452820,121,Peter Mant,Rumba,3
+OR,0,4,Final,Gary Gitner,Karen Rash-Gitner,10,4,4, Senior III Bronze Latin  (CR),Sample,1,rcb12,40452820,106,Dave Watson,Rumba,4
+OR,0,3,Final,Gary Gitner,Karen Rash-Gitner,11,4,3, Senior III Bronze Latin  (CR),Sample,1,rcb12,40452820,106,Elizabeth C Knoll,Rumba,4
+OR,0,4,Final,Gary Gitner,Karen Rash-Gitner,12,4,4, Senior III Bronze Latin  (CR),Sample,1,rcb12,40452820,106,Peter Mant,Rumba,4
+OR,0,1,Final,Douglas Daniels,Li Zhang,10,1,1, Senior II Silver Latin  (SCR),Sample,0,rcb12,40443020,118,Dave Watson,Samba,1
+OR,0,3,Final,Douglas Daniels,Li Zhang,11,1,3, Senior II Silver Latin  (SCR),Sample,0,rcb12,40443020,118,Elizabeth C Knoll,Samba,1
+OR,0,1,Final,Douglas Daniels,Li Zhang,12,1,1, Senior II Silver Latin  (SCR),Sample,0,rcb12,40443020,118,Peter Mant,Samba,1
+WA,0,4,Final,Edward Brennan,Cecilia Wang,10,4,4, Senior II Silver Latin  (SCR),Sample,0,rcb12,40443020,117,Dave Watson,Samba,2
+WA,0,1,Final,Edward Brennan,Cecilia Wang,11,4,1, Senior II Silver Latin  (SCR),Sample,0,rcb12,40443020,117,Elizabeth C Knoll,Samba,2
+WA,0,4,Final,Edward Brennan,Cecilia Wang,12,4,4, Senior II Silver Latin  (SCR),Sample,0,rcb12,40443020,117,Peter Mant,Samba,2
+OR,0,3,Final,Terrance Nicholson,Candace Nicholson,10,3,3, Senior II Silver Latin  (SCR),Sample,0,rcb12,40443020,110,Dave Watson,Samba,3
+OR,0,2,Final,Terrance Nicholson,Candace Nicholson,11,3,2, Senior II Silver Latin  (SCR),Sample,0,rcb12,40443020,110,Elizabeth C Knoll,Samba,3
+OR,0,3,Final,Terrance Nicholson,Candace Nicholson,12,3,3, Senior II Silver Latin  (SCR),Sample,0,rcb12,40443020,110,Peter Mant,Samba,3
+WA,0,2,Final,William Minniear,Irita Minniear,10,2,2, Senior II Silver Latin  (SCR),Sample,0,rcb12,40443020,131,Dave Watson,Samba,4
+WA,0,4,Final,William Minniear,Irita Minniear,11,2,4, Senior II Silver Latin  (SCR),Sample,0,rcb12,40443020,131,Elizabeth C Knoll,Samba,4
+WA,0,2,Final,William Minniear,Irita Minniear,12,2,2, Senior II Silver Latin  (SCR),Sample,0,rcb12,40443020,131,Peter Mant,Samba,4
+WA,0,5,Final,Greg Musgrave,Nancy Musgrave,10,5,5, Senior II Silver Latin  (SCR),Sample,0,rcb12,40443020,107,Dave Watson,Samba,5
+WA,0,5,Final,Greg Musgrave,Nancy Musgrave,11,5,5, Senior II Silver Latin  (SCR),Sample,0,rcb12,40443020,107,Elizabeth C Knoll,Samba,5
+WA,0,5,Final,Greg Musgrave,Nancy Musgrave,12,5,5, Senior II Silver Latin  (SCR),Sample,0,rcb12,40443020,107,Peter Mant,Samba,5
+OR,0,1,Final,Douglas Daniels,Li Zhang,10,1,1, Senior II Silver Latin  (SCR),Sample,1,rcb12,40443020,118,Dave Watson,Cha Cha,1
+OR,0,2,Final,Douglas Daniels,Li Zhang,11,1,2, Senior II Silver Latin  (SCR),Sample,1,rcb12,40443020,118,Elizabeth C Knoll,Cha Cha,1
+OR,0,1,Final,Douglas Daniels,Li Zhang,12,1,1, Senior II Silver Latin  (SCR),Sample,1,rcb12,40443020,118,Peter Mant,Cha Cha,1
+WA,0,2,Final,Edward Brennan,Cecilia Wang,10,2,2, Senior II Silver Latin  (SCR),Sample,1,rcb12,40443020,117,Dave Watson,Cha Cha,2
+WA,0,1,Final,Edward Brennan,Cecilia Wang,11,2,1, Senior II Silver Latin  (SCR),Sample,1,rcb12,40443020,117,Elizabeth C Knoll,Cha Cha,2
+WA,0,3,Final,Edward Brennan,Cecilia Wang,12,2,3, Senior II Silver Latin  (SCR),Sample,1,rcb12,40443020,117,Peter Mant,Cha Cha,2
+OR,0,5,Final,Terrance Nicholson,Candace Nicholson,10,3,5, Senior II Silver Latin  (SCR),Sample,1,rcb12,40443020,110,Dave Watson,Cha Cha,3
+OR,0,3,Final,Terrance Nicholson,Candace Nicholson,11,3,3, Senior II Silver Latin  (SCR),Sample,1,rcb12,40443020,110,Elizabeth C Knoll,Cha Cha,3
+OR,0,2,Final,Terrance Nicholson,Candace Nicholson,12,3,2, Senior II Silver Latin  (SCR),Sample,1,rcb12,40443020,110,Peter Mant,Cha Cha,3
+WA,0,4,Final,William Minniear,Irita Minniear,10,5,4, Senior II Silver Latin  (SCR),Sample,1,rcb12,40443020,131,Dave Watson,Cha Cha,4
+WA,0,5,Final,William Minniear,Irita Minniear,11,5,5, Senior II Silver Latin  (SCR),Sample,1,rcb12,40443020,131,Elizabeth C Knoll,Cha Cha,4
+WA,0,4,Final,William Minniear,Irita Minniear,12,5,4, Senior II Silver Latin  (SCR),Sample,1,rcb12,40443020,131,Peter Mant,Cha Cha,4
+WA,0,3,Final,Greg Musgrave,Nancy Musgrave,10,4,3, Senior II Silver Latin  (SCR),Sample,1,rcb12,40443020,107,Dave Watson,Cha Cha,5
+WA,0,4,Final,Greg Musgrave,Nancy Musgrave,11,4,4, Senior II Silver Latin  (SCR),Sample,1,rcb12,40443020,107,Elizabeth C Knoll,Cha Cha,5
+WA,0,5,Final,Greg Musgrave,Nancy Musgrave,12,4,5, Senior II Silver Latin  (SCR),Sample,1,rcb12,40443020,107,Peter Mant,Cha Cha,5
+OR,0,1,Final,Douglas Daniels,Li Zhang,10,1,1, Senior II Silver Latin  (SCR),Sample,2,rcb12,40443020,118,Dave Watson,Rumba,1
+OR,0,2,Final,Douglas Daniels,Li Zhang,11,1,2, Senior II Silver Latin  (SCR),Sample,2,rcb12,40443020,118,Elizabeth C Knoll,Rumba,1
+OR,0,1,Final,Douglas Daniels,Li Zhang,12,1,1, Senior II Silver Latin  (SCR),Sample,2,rcb12,40443020,118,Peter Mant,Rumba,1
+WA,0,2,Final,Edward Brennan,Cecilia Wang,10,2,2, Senior II Silver Latin  (SCR),Sample,2,rcb12,40443020,117,Dave Watson,Rumba,2
+WA,0,1,Final,Edward Brennan,Cecilia Wang,11,2,1, Senior II Silver Latin  (SCR),Sample,2,rcb12,40443020,117,Elizabeth C Knoll,Rumba,2
+WA,0,3,Final,Edward Brennan,Cecilia Wang,12,2,3, Senior II Silver Latin  (SCR),Sample,2,rcb12,40443020,117,Peter Mant,Rumba,2
+OR,0,5,Final,Terrance Nicholson,Candace Nicholson,10,3,5, Senior II Silver Latin  (SCR),Sample,2,rcb12,40443020,110,Dave Watson,Rumba,3
+OR,0,3,Final,Terrance Nicholson,Candace Nicholson,11,3,3, Senior II Silver Latin  (SCR),Sample,2,rcb12,40443020,110,Elizabeth C Knoll,Rumba,3
+OR,0,2,Final,Terrance Nicholson,Candace Nicholson,12,3,2, Senior II Silver Latin  (SCR),Sample,2,rcb12,40443020,110,Peter Mant,Rumba,3
+WA,0,3,Final,William Minniear,Irita Minniear,10,4,3, Senior II Silver Latin  (SCR),Sample,2,rcb12,40443020,131,Dave Watson,Rumba,4
+WA,0,4,Final,William Minniear,Irita Minniear,11,4,4, Senior II Silver Latin  (SCR),Sample,2,rcb12,40443020,131,Elizabeth C Knoll,Rumba,4
+WA,0,5,Final,William Minniear,Irita Minniear,12,4,5, Senior II Silver Latin  (SCR),Sample,2,rcb12,40443020,131,Peter Mant,Rumba,4
+WA,0,4,Final,Greg Musgrave,Nancy Musgrave,10,5,4, Senior II Silver Latin  (SCR),Sample,2,rcb12,40443020,107,Dave Watson,Rumba,5
+WA,0,5,Final,Greg Musgrave,Nancy Musgrave,11,5,5, Senior II Silver Latin  (SCR),Sample,2,rcb12,40443020,107,Elizabeth C Knoll,Rumba,5
+WA,0,4,Final,Greg Musgrave,Nancy Musgrave,12,5,4, Senior II Silver Latin  (SCR),Sample,2,rcb12,40443020,107,Peter Mant,Rumba,5
+OR,0,1,Final,Mark Richman,Leilani Nakagawa,10,1,1, Adult Novice Latin  (SCR),Sample,0,rcb12,40428120,105,Dave Watson,Samba,1
+OR,0,1,Final,Mark Richman,Leilani Nakagawa,11,1,1, Adult Novice Latin  (SCR),Sample,0,rcb12,40428120,105,Elizabeth C Knoll,Samba,1
+OR,0,1,Final,Mark Richman,Leilani Nakagawa,12,1,1, Adult Novice Latin  (SCR),Sample,0,rcb12,40428120,105,Peter Mant,Samba,1
+OR,0,2,Final,Chad Crader,Samantha Sun,10,2,2, Adult Novice Latin  (SCR),Sample,0,rcb12,40428120,126,Dave Watson,Samba,2
+OR,0,2,Final,Chad Crader,Samantha Sun,11,2,2, Adult Novice Latin  (SCR),Sample,0,rcb12,40428120,126,Elizabeth C Knoll,Samba,2
+OR,0,2,Final,Chad Crader,Samantha Sun,12,2,2, Adult Novice Latin  (SCR),Sample,0,rcb12,40428120,126,Peter Mant,Samba,2
+OR,0,1,Final,Mark Richman,Leilani Nakagawa,10,1,1, Adult Novice Latin  (SCR),Sample,1,rcb12,40428120,105,Dave Watson,Cha Cha,1
+OR,0,1,Final,Mark Richman,Leilani Nakagawa,11,1,1, Adult Novice Latin  (SCR),Sample,1,rcb12,40428120,105,Elizabeth C Knoll,Cha Cha,1
+OR,0,2,Final,Mark Richman,Leilani Nakagawa,12,1,2, Adult Novice Latin  (SCR),Sample,1,rcb12,40428120,105,Peter Mant,Cha Cha,1
+OR,0,2,Final,Chad Crader,Samantha Sun,10,2,2, Adult Novice Latin  (SCR),Sample,1,rcb12,40428120,126,Dave Watson,Cha Cha,2
+OR,0,2,Final,Chad Crader,Samantha Sun,11,2,2, Adult Novice Latin  (SCR),Sample,1,rcb12,40428120,126,Elizabeth C Knoll,Cha Cha,2
+OR,0,1,Final,Chad Crader,Samantha Sun,12,2,1, Adult Novice Latin  (SCR),Sample,1,rcb12,40428120,126,Peter Mant,Cha Cha,2
+OR,0,1,Final,Mark Richman,Leilani Nakagawa,10,2,1, Adult Novice Latin  (SCR),Sample,2,rcb12,40428120,105,Dave Watson,Rumba,1
+OR,0,2,Final,Mark Richman,Leilani Nakagawa,11,2,2, Adult Novice Latin  (SCR),Sample,2,rcb12,40428120,105,Elizabeth C Knoll,Rumba,1
+OR,0,2,Final,Mark Richman,Leilani Nakagawa,12,2,2, Adult Novice Latin  (SCR),Sample,2,rcb12,40428120,105,Peter Mant,Rumba,1
+OR,0,2,Final,Chad Crader,Samantha Sun,10,1,2, Adult Novice Latin  (SCR),Sample,2,rcb12,40428120,126,Dave Watson,Rumba,2
+OR,0,1,Final,Chad Crader,Samantha Sun,11,1,1, Adult Novice Latin  (SCR),Sample,2,rcb12,40428120,126,Elizabeth C Knoll,Rumba,2
+OR,0,1,Final,Chad Crader,Samantha Sun,12,1,1, Adult Novice Latin  (SCR),Sample,2,rcb12,40428120,126,Peter Mant,Rumba,2
+WA,0,1,Final,Edward Brennan,Cecilia Wang,10,1,1, Senior III Gold Latin  (SCRJ),Sample,0,rcb12,40453820,117,Dave Watson,Samba,1
+WA,0,1,Final,Edward Brennan,Cecilia Wang,11,1,1, Senior III Gold Latin  (SCRJ),Sample,0,rcb12,40453820,117,Elizabeth C Knoll,Samba,1
+WA,0,1,Final,Edward Brennan,Cecilia Wang,12,1,1, Senior III Gold Latin  (SCRJ),Sample,0,rcb12,40453820,117,Peter Mant,Samba,1
+WA,0,1,Final,Edward Brennan,Cecilia Wang,10,1,1, Senior III Gold Latin  (SCRJ),Sample,1,rcb12,40453820,117,Dave Watson,Cha Cha,1
+WA,0,1,Final,Edward Brennan,Cecilia Wang,11,1,1, Senior III Gold Latin  (SCRJ),Sample,1,rcb12,40453820,117,Elizabeth C Knoll,Cha Cha,1
+WA,0,1,Final,Edward Brennan,Cecilia Wang,12,1,1, Senior III Gold Latin  (SCRJ),Sample,1,rcb12,40453820,117,Peter Mant,Cha Cha,1
+WA,0,1,Final,Edward Brennan,Cecilia Wang,10,1,1, Senior III Gold Latin  (SCRJ),Sample,2,rcb12,40453820,117,Dave Watson,Rumba,1
+WA,0,1,Final,Edward Brennan,Cecilia Wang,11,1,1, Senior III Gold Latin  (SCRJ),Sample,2,rcb12,40453820,117,Elizabeth C Knoll,Rumba,1
+WA,0,1,Final,Edward Brennan,Cecilia Wang,12,1,1, Senior III Gold Latin  (SCRJ),Sample,2,rcb12,40453820,117,Peter Mant,Rumba,1
+WA,0,1,Final,Edward Brennan,Cecilia Wang,10,1,1, Senior III Gold Latin  (SCRJ),Sample,3,rcb12,40453820,117,Dave Watson,Jive,1
+WA,0,1,Final,Edward Brennan,Cecilia Wang,11,1,1, Senior III Gold Latin  (SCRJ),Sample,3,rcb12,40453820,117,Elizabeth C Knoll,Jive,1
+WA,0,1,Final,Edward Brennan,Cecilia Wang,12,1,1, Senior III Gold Latin  (SCRJ),Sample,3,rcb12,40453820,117,Peter Mant,Jive,1
+OR,0,1,Final,Chad Crader,Samantha Sun,10,1,1, Adult Gold Latin  (SCRJ),Sample,0,rcb12,40423820,126,Dave Watson,Samba,1
+OR,0,1,Final,Chad Crader,Samantha Sun,11,1,1, Adult Gold Latin  (SCRJ),Sample,0,rcb12,40423820,126,Elizabeth C Knoll,Samba,1
+OR,0,1,Final,Chad Crader,Samantha Sun,12,1,1, Adult Gold Latin  (SCRJ),Sample,0,rcb12,40423820,126,Peter Mant,Samba,1
+OR,0,1,Final,Chad Crader,Samantha Sun,10,1,1, Adult Gold Latin  (SCRJ),Sample,1,rcb12,40423820,126,Dave Watson,Cha Cha,1
+OR,0,1,Final,Chad Crader,Samantha Sun,11,1,1, Adult Gold Latin  (SCRJ),Sample,1,rcb12,40423820,126,Elizabeth C Knoll,Cha Cha,1
+OR,0,1,Final,Chad Crader,Samantha Sun,12,1,1, Adult Gold Latin  (SCRJ),Sample,1,rcb12,40423820,126,Peter Mant,Cha Cha,1
+OR,0,1,Final,Chad Crader,Samantha Sun,10,1,1, Adult Gold Latin  (SCRJ),Sample,2,rcb12,40423820,126,Dave Watson,Rumba,1
+OR,0,2,Final,Chad Crader,Samantha Sun,11,1,2, Adult Gold Latin  (SCRJ),Sample,2,rcb12,40423820,126,Elizabeth C Knoll,Rumba,1
+OR,0,1,Final,Chad Crader,Samantha Sun,12,1,1, Adult Gold Latin  (SCRJ),Sample,2,rcb12,40423820,126,Peter Mant,Rumba,1
+OR,0,1,Final,Chad Crader,Samantha Sun,10,1,1, Adult Gold Latin  (SCRJ),Sample,3,rcb12,40423820,126,Dave Watson,Jive,1
+OR,0,2,Final,Chad Crader,Samantha Sun,11,1,2, Adult Gold Latin  (SCRJ),Sample,3,rcb12,40423820,126,Elizabeth C Knoll,Jive,1
+OR,0,1,Final,Chad Crader,Samantha Sun,12,1,1, Adult Gold Latin  (SCRJ),Sample,3,rcb12,40423820,126,Peter Mant,Jive,1
+OR,0,1,Final,Norbert Teston,Jessica Lindsey,10,1,1, Adult Pre-Champ Latin  (SCRJ),Sample,0,rcb12,40428320,124,Dave Watson,Samba,1
+OR,0,1,Final,Norbert Teston,Jessica Lindsey,11,1,1, Adult Pre-Champ Latin  (SCRJ),Sample,0,rcb12,40428320,124,Elizabeth C Knoll,Samba,1
+OR,0,1,Final,Norbert Teston,Jessica Lindsey,12,1,1, Adult Pre-Champ Latin  (SCRJ),Sample,0,rcb12,40428320,124,Peter Mant,Samba,1
+OR,0,2,Final,Mark Richman,Leilani Nakagawa,10,2,2, Adult Pre-Champ Latin  (SCRJ),Sample,0,rcb12,40428320,105,Dave Watson,Samba,2
+OR,0,2,Final,Mark Richman,Leilani Nakagawa,11,2,2, Adult Pre-Champ Latin  (SCRJ),Sample,0,rcb12,40428320,105,Elizabeth C Knoll,Samba,2
+OR,0,2,Final,Mark Richman,Leilani Nakagawa,12,2,2, Adult Pre-Champ Latin  (SCRJ),Sample,0,rcb12,40428320,105,Peter Mant,Samba,2
+OR,0,1,Final,Norbert Teston,Jessica Lindsey,10,1,1, Adult Pre-Champ Latin  (SCRJ),Sample,1,rcb12,40428320,124,Dave Watson,Cha Cha,1
+OR,0,1,Final,Norbert Teston,Jessica Lindsey,11,1,1, Adult Pre-Champ Latin  (SCRJ),Sample,1,rcb12,40428320,124,Elizabeth C Knoll,Cha Cha,1
+OR,0,1,Final,Norbert Teston,Jessica Lindsey,12,1,1, Adult Pre-Champ Latin  (SCRJ),Sample,1,rcb12,40428320,124,Peter Mant,Cha Cha,1
+OR,0,2,Final,Mark Richman,Leilani Nakagawa,10,2,2, Adult Pre-Champ Latin  (SCRJ),Sample,1,rcb12,40428320,105,Dave Watson,Cha Cha,2
+OR,0,2,Final,Mark Richman,Leilani Nakagawa,11,2,2, Adult Pre-Champ Latin  (SCRJ),Sample,1,rcb12,40428320,105,Elizabeth C Knoll,Cha Cha,2
+OR,0,2,Final,Mark Richman,Leilani Nakagawa,12,2,2, Adult Pre-Champ Latin  (SCRJ),Sample,1,rcb12,40428320,105,Peter Mant,Cha Cha,2
+OR,0,2,Final,Norbert Teston,Jessica Lindsey,10,1,2, Adult Pre-Champ Latin  (SCRJ),Sample,2,rcb12,40428320,124,Dave Watson,Rumba,1
+OR,0,1,Final,Norbert Teston,Jessica Lindsey,11,1,1, Adult Pre-Champ Latin  (SCRJ),Sample,2,rcb12,40428320,124,Elizabeth C Knoll,Rumba,1
+OR,0,1,Final,Norbert Teston,Jessica Lindsey,12,1,1, Adult Pre-Champ Latin  (SCRJ),Sample,2,rcb12,40428320,124,Peter Mant,Rumba,1
+OR,0,1,Final,Mark Richman,Leilani Nakagawa,10,2,1, Adult Pre-Champ Latin  (SCRJ),Sample,2,rcb12,40428320,105,Dave Watson,Rumba,2
+OR,0,2,Final,Mark Richman,Leilani Nakagawa,11,2,2, Adult Pre-Champ Latin  (SCRJ),Sample,2,rcb12,40428320,105,Elizabeth C Knoll,Rumba,2
+OR,0,2,Final,Mark Richman,Leilani Nakagawa,12,2,2, Adult Pre-Champ Latin  (SCRJ),Sample,2,rcb12,40428320,105,Peter Mant,Rumba,2
+OR,0,1,Final,Norbert Teston,Jessica Lindsey,10,1,1, Adult Pre-Champ Latin  (SCRJ),Sample,3,rcb12,40428320,124,Dave Watson,Jive,1
+OR,0,1,Final,Norbert Teston,Jessica Lindsey,11,1,1, Adult Pre-Champ Latin  (SCRJ),Sample,3,rcb12,40428320,124,Elizabeth C Knoll,Jive,1
+OR,0,1,Final,Norbert Teston,Jessica Lindsey,12,1,1, Adult Pre-Champ Latin  (SCRJ),Sample,3,rcb12,40428320,124,Peter Mant,Jive,1
+OR,0,2,Final,Mark Richman,Leilani Nakagawa,10,2,2, Adult Pre-Champ Latin  (SCRJ),Sample,3,rcb12,40428320,105,Dave Watson,Jive,2
+OR,0,2,Final,Mark Richman,Leilani Nakagawa,11,2,2, Adult Pre-Champ Latin  (SCRJ),Sample,3,rcb12,40428320,105,Elizabeth C Knoll,Jive,2
+OR,0,2,Final,Mark Richman,Leilani Nakagawa,12,2,2, Adult Pre-Champ Latin  (SCRJ),Sample,3,rcb12,40428320,105,Peter Mant,Jive,2
+OR,0,1,Final,Norbert Teston,Jessica Lindsey,10,1,1, Adult Championship Latin  (SCRPJ),Sample,0,rcb12,40428720,124,Dave Watson,Samba,1
+OR,0,1,Final,Norbert Teston,Jessica Lindsey,11,1,1, Adult Championship Latin  (SCRPJ),Sample,0,rcb12,40428720,124,Elizabeth C Knoll,Samba,1
+OR,0,1,Final,Norbert Teston,Jessica Lindsey,12,1,1, Adult Championship Latin  (SCRPJ),Sample,0,rcb12,40428720,124,Peter Mant,Samba,1
+OR,0,1,Final,Norbert Teston,Jessica Lindsey,10,1,1, Adult Championship Latin  (SCRPJ),Sample,1,rcb12,40428720,124,Dave Watson,Cha Cha,1
+OR,0,1,Final,Norbert Teston,Jessica Lindsey,11,1,1, Adult Championship Latin  (SCRPJ),Sample,1,rcb12,40428720,124,Elizabeth C Knoll,Cha Cha,1
+OR,0,1,Final,Norbert Teston,Jessica Lindsey,12,1,1, Adult Championship Latin  (SCRPJ),Sample,1,rcb12,40428720,124,Peter Mant,Cha Cha,1
+OR,0,1,Final,Norbert Teston,Jessica Lindsey,10,1,1, Adult Championship Latin  (SCRPJ),Sample,2,rcb12,40428720,124,Dave Watson,Rumba,1
+OR,0,1,Final,Norbert Teston,Jessica Lindsey,11,1,1, Adult Championship Latin  (SCRPJ),Sample,2,rcb12,40428720,124,Elizabeth C Knoll,Rumba,1
+OR,0,1,Final,Norbert Teston,Jessica Lindsey,12,1,1, Adult Championship Latin  (SCRPJ),Sample,2,rcb12,40428720,124,Peter Mant,Rumba,1
+OR,0,1,Final,Norbert Teston,Jessica Lindsey,10,1,1, Adult Championship Latin  (SCRPJ),Sample,3,rcb12,40428720,124,Dave Watson,Paso Doble,1
+OR,0,1,Final,Norbert Teston,Jessica Lindsey,11,1,1, Adult Championship Latin  (SCRPJ),Sample,3,rcb12,40428720,124,Elizabeth C Knoll,Paso Doble,1
+OR,0,1,Final,Norbert Teston,Jessica Lindsey,12,1,1, Adult Championship Latin  (SCRPJ),Sample,3,rcb12,40428720,124,Peter Mant,Paso Doble,1
+OR,0,1,Final,Norbert Teston,Jessica Lindsey,10,1,1, Adult Championship Latin  (SCRPJ),Sample,4,rcb12,40428720,124,Dave Watson,Jive,1
+OR,0,1,Final,Norbert Teston,Jessica Lindsey,11,1,1, Adult Championship Latin  (SCRPJ),Sample,4,rcb12,40428720,124,Elizabeth C Knoll,Jive,1
+OR,0,1,Final,Norbert Teston,Jessica Lindsey,12,1,1, Adult Championship Latin  (SCRPJ),Sample,4,rcb12,40428720,124,Peter Mant,Jive,1

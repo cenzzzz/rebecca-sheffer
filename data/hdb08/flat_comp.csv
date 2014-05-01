@@ -1,0 +1,1323 @@
+couple_location,round_id,mark,round_name,lead_name,follow_name,judge,result,value,heat_name,comp_name,dance_id,comp_id,heat_id,couple,judge_name,dance_name,final_result
+CA,0,1,Final,Steve Vasco,Katherine Kuan,10,1,1, Pro/Am Adult A1 Newcomer Intl. Cha Cha  (C),Sample,0,hdb08,80C12028,160,Stephen Cullip,Intl. Cha Cha,1
+CA,0,1,Final,Steve Vasco,Katherine Kuan,11,1,1, Pro/Am Adult A1 Newcomer Intl. Cha Cha  (C),Sample,0,hdb08,80C12028,160,Melissa Dexter,Intl. Cha Cha,1
+CA,0,1,Final,Steve Vasco,Katherine Kuan,12,1,1, Pro/Am Adult A1 Newcomer Intl. Cha Cha  (C),Sample,0,hdb08,80C12028,160,Nadia Eftedal,Intl. Cha Cha,1
+CA,0,1,Final,Steve Vasco,Katherine Kuan,13,1,1, Pro/Am Adult A1 Newcomer Intl. Cha Cha  (C),Sample,0,hdb08,80C12028,160,Charlotte Jorgensen,Intl. Cha Cha,1
+CA,0,1,Final,Steve Vasco,Katherine Kuan,17,1,1, Pro/Am Adult A1 Newcomer Intl. Cha Cha  (C),Sample,0,hdb08,80C12028,160,Giacomo Staccagli,Intl. Cha Cha,1
+CA,0,1,Final,Alex Ivanov,Rumyana Gavavova,10,1,1, Pro/Am Adult A1 Full Bronze Intl. Cha Cha  (C),Sample,0,hdb08,80C12B28,139,Stephen Cullip,Intl. Cha Cha,1
+CA,0,1,Final,Alex Ivanov,Rumyana Gavavova,11,1,1, Pro/Am Adult A1 Full Bronze Intl. Cha Cha  (C),Sample,0,hdb08,80C12B28,139,Melissa Dexter,Intl. Cha Cha,1
+CA,0,1,Final,Alex Ivanov,Rumyana Gavavova,12,1,1, Pro/Am Adult A1 Full Bronze Intl. Cha Cha  (C),Sample,0,hdb08,80C12B28,139,Nadia Eftedal,Intl. Cha Cha,1
+CA,0,1,Final,Alex Ivanov,Rumyana Gavavova,13,1,1, Pro/Am Adult A1 Full Bronze Intl. Cha Cha  (C),Sample,0,hdb08,80C12B28,139,Charlotte Jorgensen,Intl. Cha Cha,1
+CA,0,1,Final,Alex Ivanov,Rumyana Gavavova,17,1,1, Pro/Am Adult A1 Full Bronze Intl. Cha Cha  (C),Sample,0,hdb08,80C12B28,139,Giacomo Staccagli,Intl. Cha Cha,1
+CA,0,1,Final,Steve Vasco,Katherine Kuan,10,1,1, Pro/Am Adult A1 Newcomer Intl. Rumba  (R),Sample,0,hdb08,80C1202A,160,Stephen Cullip,Intl. Rumba,1
+CA,0,1,Final,Steve Vasco,Katherine Kuan,11,1,1, Pro/Am Adult A1 Newcomer Intl. Rumba  (R),Sample,0,hdb08,80C1202A,160,Melissa Dexter,Intl. Rumba,1
+CA,0,1,Final,Steve Vasco,Katherine Kuan,12,1,1, Pro/Am Adult A1 Newcomer Intl. Rumba  (R),Sample,0,hdb08,80C1202A,160,Nadia Eftedal,Intl. Rumba,1
+CA,0,1,Final,Steve Vasco,Katherine Kuan,13,1,1, Pro/Am Adult A1 Newcomer Intl. Rumba  (R),Sample,0,hdb08,80C1202A,160,Charlotte Jorgensen,Intl. Rumba,1
+CA,0,1,Final,Steve Vasco,Katherine Kuan,17,1,1, Pro/Am Adult A1 Newcomer Intl. Rumba  (R),Sample,0,hdb08,80C1202A,160,Giacomo Staccagli,Intl. Rumba,1
+CA,0,1,Final,Alex Ivanov,Rumyana Gavavova,10,1,1, Pro/Am Adult A1 Full Bronze Intl. Rumba  (R),Sample,0,hdb08,80C12B2A,139,Stephen Cullip,Intl. Rumba,1
+CA,0,1,Final,Alex Ivanov,Rumyana Gavavova,11,1,1, Pro/Am Adult A1 Full Bronze Intl. Rumba  (R),Sample,0,hdb08,80C12B2A,139,Melissa Dexter,Intl. Rumba,1
+CA,0,1,Final,Alex Ivanov,Rumyana Gavavova,12,1,1, Pro/Am Adult A1 Full Bronze Intl. Rumba  (R),Sample,0,hdb08,80C12B2A,139,Nadia Eftedal,Intl. Rumba,1
+CA,0,1,Final,Alex Ivanov,Rumyana Gavavova,13,1,1, Pro/Am Adult A1 Full Bronze Intl. Rumba  (R),Sample,0,hdb08,80C12B2A,139,Charlotte Jorgensen,Intl. Rumba,1
+CA,0,1,Final,Alex Ivanov,Rumyana Gavavova,17,1,1, Pro/Am Adult A1 Full Bronze Intl. Rumba  (R),Sample,0,hdb08,80C12B2A,139,Giacomo Staccagli,Intl. Rumba,1
+CA,0,1,Final,Steve Vasco,Katherine Kuan,10,1,1, Pro/Am Adult A1 Newcomer Intl. Jive  (J),Sample,0,hdb08,80C1202C,160,Stephen Cullip,Intl. Jive,1
+CA,0,1,Final,Steve Vasco,Katherine Kuan,11,1,1, Pro/Am Adult A1 Newcomer Intl. Jive  (J),Sample,0,hdb08,80C1202C,160,Melissa Dexter,Intl. Jive,1
+CA,0,1,Final,Steve Vasco,Katherine Kuan,12,1,1, Pro/Am Adult A1 Newcomer Intl. Jive  (J),Sample,0,hdb08,80C1202C,160,Nadia Eftedal,Intl. Jive,1
+CA,0,1,Final,Steve Vasco,Katherine Kuan,13,1,1, Pro/Am Adult A1 Newcomer Intl. Jive  (J),Sample,0,hdb08,80C1202C,160,Charlotte Jorgensen,Intl. Jive,1
+CA,0,1,Final,Steve Vasco,Katherine Kuan,17,1,1, Pro/Am Adult A1 Newcomer Intl. Jive  (J),Sample,0,hdb08,80C1202C,160,Giacomo Staccagli,Intl. Jive,1
+CA,0,1,Final,Alex Ivanov,Rumyana Gavavova,10,1,1, Pro/Am Adult A1 Full Bronze Intl. Jive  (J),Sample,0,hdb08,80C12B2C,139,Stephen Cullip,Intl. Jive,1
+CA,0,1,Final,Alex Ivanov,Rumyana Gavavova,11,1,1, Pro/Am Adult A1 Full Bronze Intl. Jive  (J),Sample,0,hdb08,80C12B2C,139,Melissa Dexter,Intl. Jive,1
+CA,0,1,Final,Alex Ivanov,Rumyana Gavavova,12,1,1, Pro/Am Adult A1 Full Bronze Intl. Jive  (J),Sample,0,hdb08,80C12B2C,139,Nadia Eftedal,Intl. Jive,1
+CA,0,1,Final,Alex Ivanov,Rumyana Gavavova,13,1,1, Pro/Am Adult A1 Full Bronze Intl. Jive  (J),Sample,0,hdb08,80C12B2C,139,Charlotte Jorgensen,Intl. Jive,1
+CA,0,1,Final,Alex Ivanov,Rumyana Gavavova,17,1,1, Pro/Am Adult A1 Full Bronze Intl. Jive  (J),Sample,0,hdb08,80C12B2C,139,Giacomo Staccagli,Intl. Jive,1
+CA,0,1,Final,Alex Ivanov,Rumyana Gavavova,10,1,1, Pro/Am Adult A1 Int. Bronze Intl. Cha Cha  (C),Sample,0,hdb08,80C12A28,139,Stephen Cullip,Intl. Cha Cha,1
+CA,0,1,Final,Alex Ivanov,Rumyana Gavavova,11,1,1, Pro/Am Adult A1 Int. Bronze Intl. Cha Cha  (C),Sample,0,hdb08,80C12A28,139,Melissa Dexter,Intl. Cha Cha,1
+CA,0,1,Final,Alex Ivanov,Rumyana Gavavova,12,1,1, Pro/Am Adult A1 Int. Bronze Intl. Cha Cha  (C),Sample,0,hdb08,80C12A28,139,Nadia Eftedal,Intl. Cha Cha,1
+CA,0,1,Final,Alex Ivanov,Rumyana Gavavova,13,1,1, Pro/Am Adult A1 Int. Bronze Intl. Cha Cha  (C),Sample,0,hdb08,80C12A28,139,Charlotte Jorgensen,Intl. Cha Cha,1
+CA,0,2,Final,Alex Ivanov,Rumyana Gavavova,17,1,2, Pro/Am Adult A1 Int. Bronze Intl. Cha Cha  (C),Sample,0,hdb08,80C12A28,139,Giacomo Staccagli,Intl. Cha Cha,1
+CA,0,2,Final,Steve Vasco,Katherine Kuan,10,2,2, Pro/Am Adult A1 Int. Bronze Intl. Cha Cha  (C),Sample,0,hdb08,80C12A28,160,Stephen Cullip,Intl. Cha Cha,2
+CA,0,2,Final,Steve Vasco,Katherine Kuan,11,2,2, Pro/Am Adult A1 Int. Bronze Intl. Cha Cha  (C),Sample,0,hdb08,80C12A28,160,Melissa Dexter,Intl. Cha Cha,2
+CA,0,2,Final,Steve Vasco,Katherine Kuan,12,2,2, Pro/Am Adult A1 Int. Bronze Intl. Cha Cha  (C),Sample,0,hdb08,80C12A28,160,Nadia Eftedal,Intl. Cha Cha,2
+CA,0,2,Final,Steve Vasco,Katherine Kuan,13,2,2, Pro/Am Adult A1 Int. Bronze Intl. Cha Cha  (C),Sample,0,hdb08,80C12A28,160,Charlotte Jorgensen,Intl. Cha Cha,2
+CA,0,1,Final,Steve Vasco,Katherine Kuan,17,2,1, Pro/Am Adult A1 Int. Bronze Intl. Cha Cha  (C),Sample,0,hdb08,80C12A28,160,Giacomo Staccagli,Intl. Cha Cha,2
+,0,1,Final,Gabriel Yankulin,Ashley Yankulin,10,1,1, Student/Student Pre-Teen I Bronze Intl. Cha Cha  (C),Sample,0,hdb08,B0232828,161,Stephen Cullip,Intl. Cha Cha,1
+,0,1,Final,Gabriel Yankulin,Ashley Yankulin,11,1,1, Student/Student Pre-Teen I Bronze Intl. Cha Cha  (C),Sample,0,hdb08,B0232828,161,Melissa Dexter,Intl. Cha Cha,1
+,0,1,Final,Gabriel Yankulin,Ashley Yankulin,12,1,1, Student/Student Pre-Teen I Bronze Intl. Cha Cha  (C),Sample,0,hdb08,B0232828,161,Nadia Eftedal,Intl. Cha Cha,1
+,0,1,Final,Gabriel Yankulin,Ashley Yankulin,13,1,1, Student/Student Pre-Teen I Bronze Intl. Cha Cha  (C),Sample,0,hdb08,B0232828,161,Charlotte Jorgensen,Intl. Cha Cha,1
+,0,2,Final,Gabriel Yankulin,Ashley Yankulin,17,1,2, Student/Student Pre-Teen I Bronze Intl. Cha Cha  (C),Sample,0,hdb08,B0232828,161,Giacomo Staccagli,Intl. Cha Cha,1
+,0,1,Final,Gabriel Yankulin,Ashley Yankulin,10,1,1, Student/Student Pre-Teen I Bronze Intl. Samba  (S),Sample,0,hdb08,B0232829,161,Stephen Cullip,Intl. Samba,1
+,0,1,Final,Gabriel Yankulin,Ashley Yankulin,11,1,1, Student/Student Pre-Teen I Bronze Intl. Samba  (S),Sample,0,hdb08,B0232829,161,Melissa Dexter,Intl. Samba,1
+,0,1,Final,Gabriel Yankulin,Ashley Yankulin,12,1,1, Student/Student Pre-Teen I Bronze Intl. Samba  (S),Sample,0,hdb08,B0232829,161,Nadia Eftedal,Intl. Samba,1
+,0,1,Final,Gabriel Yankulin,Ashley Yankulin,13,1,1, Student/Student Pre-Teen I Bronze Intl. Samba  (S),Sample,0,hdb08,B0232829,161,Charlotte Jorgensen,Intl. Samba,1
+,0,1,Final,Gabriel Yankulin,Ashley Yankulin,17,1,1, Student/Student Pre-Teen I Bronze Intl. Samba  (S),Sample,0,hdb08,B0232829,161,Giacomo Staccagli,Intl. Samba,1
+CA,0,1,Final,Alex Ivanov,Rumyana Gavavova,10,1,1, Pro/Am Adult A1 Int. Bronze Intl. Rumba  (R),Sample,0,hdb08,80C12A2A,139,Stephen Cullip,Intl. Rumba,1
+CA,0,2,Final,Alex Ivanov,Rumyana Gavavova,11,1,2, Pro/Am Adult A1 Int. Bronze Intl. Rumba  (R),Sample,0,hdb08,80C12A2A,139,Melissa Dexter,Intl. Rumba,1
+CA,0,1,Final,Alex Ivanov,Rumyana Gavavova,12,1,1, Pro/Am Adult A1 Int. Bronze Intl. Rumba  (R),Sample,0,hdb08,80C12A2A,139,Nadia Eftedal,Intl. Rumba,1
+CA,0,1,Final,Alex Ivanov,Rumyana Gavavova,13,1,1, Pro/Am Adult A1 Int. Bronze Intl. Rumba  (R),Sample,0,hdb08,80C12A2A,139,Charlotte Jorgensen,Intl. Rumba,1
+CA,0,2,Final,Alex Ivanov,Rumyana Gavavova,17,1,2, Pro/Am Adult A1 Int. Bronze Intl. Rumba  (R),Sample,0,hdb08,80C12A2A,139,Giacomo Staccagli,Intl. Rumba,1
+CA,0,2,Final,Steve Vasco,Katherine Kuan,10,2,2, Pro/Am Adult A1 Int. Bronze Intl. Rumba  (R),Sample,0,hdb08,80C12A2A,160,Stephen Cullip,Intl. Rumba,2
+CA,0,1,Final,Steve Vasco,Katherine Kuan,11,2,1, Pro/Am Adult A1 Int. Bronze Intl. Rumba  (R),Sample,0,hdb08,80C12A2A,160,Melissa Dexter,Intl. Rumba,2
+CA,0,2,Final,Steve Vasco,Katherine Kuan,12,2,2, Pro/Am Adult A1 Int. Bronze Intl. Rumba  (R),Sample,0,hdb08,80C12A2A,160,Nadia Eftedal,Intl. Rumba,2
+CA,0,2,Final,Steve Vasco,Katherine Kuan,13,2,2, Pro/Am Adult A1 Int. Bronze Intl. Rumba  (R),Sample,0,hdb08,80C12A2A,160,Charlotte Jorgensen,Intl. Rumba,2
+CA,0,1,Final,Steve Vasco,Katherine Kuan,17,2,1, Pro/Am Adult A1 Int. Bronze Intl. Rumba  (R),Sample,0,hdb08,80C12A2A,160,Giacomo Staccagli,Intl. Rumba,2
+,0,1,Final,Gabriel Yankulin,Ashley Yankulin,10,1,1, Student/Student Pre-Teen I Bronze Intl. Rumba  (R),Sample,0,hdb08,B023282A,161,Stephen Cullip,Intl. Rumba,1
+,0,1,Final,Gabriel Yankulin,Ashley Yankulin,11,1,1, Student/Student Pre-Teen I Bronze Intl. Rumba  (R),Sample,0,hdb08,B023282A,161,Melissa Dexter,Intl. Rumba,1
+,0,1,Final,Gabriel Yankulin,Ashley Yankulin,12,1,1, Student/Student Pre-Teen I Bronze Intl. Rumba  (R),Sample,0,hdb08,B023282A,161,Nadia Eftedal,Intl. Rumba,1
+,0,1,Final,Gabriel Yankulin,Ashley Yankulin,13,1,1, Student/Student Pre-Teen I Bronze Intl. Rumba  (R),Sample,0,hdb08,B023282A,161,Charlotte Jorgensen,Intl. Rumba,1
+,0,2,Final,Gabriel Yankulin,Ashley Yankulin,17,1,2, Student/Student Pre-Teen I Bronze Intl. Rumba  (R),Sample,0,hdb08,B023282A,161,Giacomo Staccagli,Intl. Rumba,1
+CA,0,2,Final,Alex Ivanov,Rumyana Gavavova,10,1,2, Pro/Am Adult A1 Int. Bronze Intl. Jive  (J),Sample,0,hdb08,80C12A2C,139,Stephen Cullip,Intl. Jive,1
+CA,0,1,Final,Alex Ivanov,Rumyana Gavavova,11,1,1, Pro/Am Adult A1 Int. Bronze Intl. Jive  (J),Sample,0,hdb08,80C12A2C,139,Melissa Dexter,Intl. Jive,1
+CA,0,1,Final,Alex Ivanov,Rumyana Gavavova,12,1,1, Pro/Am Adult A1 Int. Bronze Intl. Jive  (J),Sample,0,hdb08,80C12A2C,139,Nadia Eftedal,Intl. Jive,1
+CA,0,1,Final,Alex Ivanov,Rumyana Gavavova,13,1,1, Pro/Am Adult A1 Int. Bronze Intl. Jive  (J),Sample,0,hdb08,80C12A2C,139,Charlotte Jorgensen,Intl. Jive,1
+CA,0,1,Final,Alex Ivanov,Rumyana Gavavova,17,1,1, Pro/Am Adult A1 Int. Bronze Intl. Jive  (J),Sample,0,hdb08,80C12A2C,139,Giacomo Staccagli,Intl. Jive,1
+CA,0,1,Final,Steve Vasco,Katherine Kuan,10,2,1, Pro/Am Adult A1 Int. Bronze Intl. Jive  (J),Sample,0,hdb08,80C12A2C,160,Stephen Cullip,Intl. Jive,2
+CA,0,2,Final,Steve Vasco,Katherine Kuan,11,2,2, Pro/Am Adult A1 Int. Bronze Intl. Jive  (J),Sample,0,hdb08,80C12A2C,160,Melissa Dexter,Intl. Jive,2
+CA,0,2,Final,Steve Vasco,Katherine Kuan,12,2,2, Pro/Am Adult A1 Int. Bronze Intl. Jive  (J),Sample,0,hdb08,80C12A2C,160,Nadia Eftedal,Intl. Jive,2
+CA,0,2,Final,Steve Vasco,Katherine Kuan,13,2,2, Pro/Am Adult A1 Int. Bronze Intl. Jive  (J),Sample,0,hdb08,80C12A2C,160,Charlotte Jorgensen,Intl. Jive,2
+CA,0,2,Final,Steve Vasco,Katherine Kuan,17,2,2, Pro/Am Adult A1 Int. Bronze Intl. Jive  (J),Sample,0,hdb08,80C12A2C,160,Giacomo Staccagli,Intl. Jive,2
+,0,1,Final,Gabriel Yankulin,Ashley Yankulin,10,1,1, Student/Student Pre-Teen I Bronze Intl. Jive  (J),Sample,0,hdb08,B023282C,161,Stephen Cullip,Intl. Jive,1
+,0,1,Final,Gabriel Yankulin,Ashley Yankulin,11,1,1, Student/Student Pre-Teen I Bronze Intl. Jive  (J),Sample,0,hdb08,B023282C,161,Melissa Dexter,Intl. Jive,1
+,0,1,Final,Gabriel Yankulin,Ashley Yankulin,12,1,1, Student/Student Pre-Teen I Bronze Intl. Jive  (J),Sample,0,hdb08,B023282C,161,Nadia Eftedal,Intl. Jive,1
+,0,1,Final,Gabriel Yankulin,Ashley Yankulin,13,1,1, Student/Student Pre-Teen I Bronze Intl. Jive  (J),Sample,0,hdb08,B023282C,161,Charlotte Jorgensen,Intl. Jive,1
+,0,1,Final,Gabriel Yankulin,Ashley Yankulin,17,1,1, Student/Student Pre-Teen I Bronze Intl. Jive  (J),Sample,0,hdb08,B023282C,161,Giacomo Staccagli,Intl. Jive,1
+CA,0,1,Final,Steve Vasco,Katherine Kuan,10,1,1, Pro/Am Adult A1 Pre-Bronze Intl. Cha Cha  (C),Sample,0,hdb08,80C12928,160,Stephen Cullip,Intl. Cha Cha,1
+CA,0,1,Final,Steve Vasco,Katherine Kuan,11,1,1, Pro/Am Adult A1 Pre-Bronze Intl. Cha Cha  (C),Sample,0,hdb08,80C12928,160,Melissa Dexter,Intl. Cha Cha,1
+CA,0,1,Final,Steve Vasco,Katherine Kuan,12,1,1, Pro/Am Adult A1 Pre-Bronze Intl. Cha Cha  (C),Sample,0,hdb08,80C12928,160,Nadia Eftedal,Intl. Cha Cha,1
+CA,0,1,Final,Steve Vasco,Katherine Kuan,13,1,1, Pro/Am Adult A1 Pre-Bronze Intl. Cha Cha  (C),Sample,0,hdb08,80C12928,160,Charlotte Jorgensen,Intl. Cha Cha,1
+CA,0,1,Final,Steve Vasco,Katherine Kuan,17,1,1, Pro/Am Adult A1 Pre-Bronze Intl. Cha Cha  (C),Sample,0,hdb08,80C12928,160,Giacomo Staccagli,Intl. Cha Cha,1
+CA,0,1,Final,Steve Vasco,Katherine Kuan,10,1,1, Pro/Am Adult A1 Pre-Bronze Intl. Rumba  (R),Sample,0,hdb08,80C1292A,160,Stephen Cullip,Intl. Rumba,1
+CA,0,1,Final,Steve Vasco,Katherine Kuan,11,1,1, Pro/Am Adult A1 Pre-Bronze Intl. Rumba  (R),Sample,0,hdb08,80C1292A,160,Melissa Dexter,Intl. Rumba,1
+CA,0,1,Final,Steve Vasco,Katherine Kuan,12,1,1, Pro/Am Adult A1 Pre-Bronze Intl. Rumba  (R),Sample,0,hdb08,80C1292A,160,Nadia Eftedal,Intl. Rumba,1
+CA,0,1,Final,Steve Vasco,Katherine Kuan,13,1,1, Pro/Am Adult A1 Pre-Bronze Intl. Rumba  (R),Sample,0,hdb08,80C1292A,160,Charlotte Jorgensen,Intl. Rumba,1
+CA,0,1,Final,Steve Vasco,Katherine Kuan,17,1,1, Pro/Am Adult A1 Pre-Bronze Intl. Rumba  (R),Sample,0,hdb08,80C1292A,160,Giacomo Staccagli,Intl. Rumba,1
+CA,0,1,Final,Steve Vasco,Katherine Kuan,10,1,1, Pro/Am Adult A1 Pre-Bronze Intl. Jive  (J),Sample,0,hdb08,80C1292C,160,Stephen Cullip,Intl. Jive,1
+CA,0,1,Final,Steve Vasco,Katherine Kuan,11,1,1, Pro/Am Adult A1 Pre-Bronze Intl. Jive  (J),Sample,0,hdb08,80C1292C,160,Melissa Dexter,Intl. Jive,1
+CA,0,1,Final,Steve Vasco,Katherine Kuan,12,1,1, Pro/Am Adult A1 Pre-Bronze Intl. Jive  (J),Sample,0,hdb08,80C1292C,160,Nadia Eftedal,Intl. Jive,1
+CA,0,1,Final,Steve Vasco,Katherine Kuan,13,1,1, Pro/Am Adult A1 Pre-Bronze Intl. Jive  (J),Sample,0,hdb08,80C1292C,160,Charlotte Jorgensen,Intl. Jive,1
+CA,0,1,Final,Steve Vasco,Katherine Kuan,17,1,1, Pro/Am Adult A1 Pre-Bronze Intl. Jive  (J),Sample,0,hdb08,80C1292C,160,Giacomo Staccagli,Intl. Jive,1
+CA,0,1,Final,Alex Ivanov,Rumyana Gavavova,10,1,1, Pro/Am  Bronze Scholarship Latin  (CRJ),Sample,0,hdb08,80016820,139,Stephen Cullip,Cha Cha,1
+CA,0,1,Final,Alex Ivanov,Rumyana Gavavova,11,1,1, Pro/Am  Bronze Scholarship Latin  (CRJ),Sample,0,hdb08,80016820,139,Melissa Dexter,Cha Cha,1
+CA,0,1,Final,Alex Ivanov,Rumyana Gavavova,12,1,1, Pro/Am  Bronze Scholarship Latin  (CRJ),Sample,0,hdb08,80016820,139,Nadia Eftedal,Cha Cha,1
+CA,0,1,Final,Alex Ivanov,Rumyana Gavavova,13,1,1, Pro/Am  Bronze Scholarship Latin  (CRJ),Sample,0,hdb08,80016820,139,Charlotte Jorgensen,Cha Cha,1
+CA,0,1,Final,Alex Ivanov,Rumyana Gavavova,17,1,1, Pro/Am  Bronze Scholarship Latin  (CRJ),Sample,0,hdb08,80016820,139,Giacomo Staccagli,Cha Cha,1
+CA,0,1,Final,Alex Ivanov,Rumyana Gavavova,10,1,1, Pro/Am  Bronze Scholarship Latin  (CRJ),Sample,1,hdb08,80016820,139,Stephen Cullip,Rumba,1
+CA,0,1,Final,Alex Ivanov,Rumyana Gavavova,11,1,1, Pro/Am  Bronze Scholarship Latin  (CRJ),Sample,1,hdb08,80016820,139,Melissa Dexter,Rumba,1
+CA,0,1,Final,Alex Ivanov,Rumyana Gavavova,12,1,1, Pro/Am  Bronze Scholarship Latin  (CRJ),Sample,1,hdb08,80016820,139,Nadia Eftedal,Rumba,1
+CA,0,1,Final,Alex Ivanov,Rumyana Gavavova,13,1,1, Pro/Am  Bronze Scholarship Latin  (CRJ),Sample,1,hdb08,80016820,139,Charlotte Jorgensen,Rumba,1
+CA,0,1,Final,Alex Ivanov,Rumyana Gavavova,17,1,1, Pro/Am  Bronze Scholarship Latin  (CRJ),Sample,1,hdb08,80016820,139,Giacomo Staccagli,Rumba,1
+CA,0,1,Final,Alex Ivanov,Rumyana Gavavova,10,1,1, Pro/Am  Bronze Scholarship Latin  (CRJ),Sample,2,hdb08,80016820,139,Stephen Cullip,Jive,1
+CA,0,1,Final,Alex Ivanov,Rumyana Gavavova,11,1,1, Pro/Am  Bronze Scholarship Latin  (CRJ),Sample,2,hdb08,80016820,139,Melissa Dexter,Jive,1
+CA,0,1,Final,Alex Ivanov,Rumyana Gavavova,12,1,1, Pro/Am  Bronze Scholarship Latin  (CRJ),Sample,2,hdb08,80016820,139,Nadia Eftedal,Jive,1
+CA,0,1,Final,Alex Ivanov,Rumyana Gavavova,13,1,1, Pro/Am  Bronze Scholarship Latin  (CRJ),Sample,2,hdb08,80016820,139,Charlotte Jorgensen,Jive,1
+CA,0,1,Final,Alex Ivanov,Rumyana Gavavova,17,1,1, Pro/Am  Bronze Scholarship Latin  (CRJ),Sample,2,hdb08,80016820,139,Giacomo Staccagli,Jive,1
+,0,1,Final,Gabriel Yankulin,Ashley Yankulin,10,1,1, Amateur Pre-Teen Open Latin  (CRJ),Sample,0,hdb08,40278520,161,Stephen Cullip,Cha Cha,1
+,0,2,Final,Gabriel Yankulin,Ashley Yankulin,11,1,2, Amateur Pre-Teen Open Latin  (CRJ),Sample,0,hdb08,40278520,161,Melissa Dexter,Cha Cha,1
+,0,1,Final,Gabriel Yankulin,Ashley Yankulin,12,1,1, Amateur Pre-Teen Open Latin  (CRJ),Sample,0,hdb08,40278520,161,Nadia Eftedal,Cha Cha,1
+,0,1,Final,Gabriel Yankulin,Ashley Yankulin,13,1,1, Amateur Pre-Teen Open Latin  (CRJ),Sample,0,hdb08,40278520,161,Charlotte Jorgensen,Cha Cha,1
+,0,1,Final,Gabriel Yankulin,Ashley Yankulin,17,1,1, Amateur Pre-Teen Open Latin  (CRJ),Sample,0,hdb08,40278520,161,Giacomo Staccagli,Cha Cha,1
+,0,1,Final,Gabriel Yankulin,Ashley Yankulin,10,1,1, Amateur Pre-Teen Open Latin  (CRJ),Sample,1,hdb08,40278520,161,Stephen Cullip,Rumba,1
+,0,1,Final,Gabriel Yankulin,Ashley Yankulin,11,1,1, Amateur Pre-Teen Open Latin  (CRJ),Sample,1,hdb08,40278520,161,Melissa Dexter,Rumba,1
+,0,1,Final,Gabriel Yankulin,Ashley Yankulin,12,1,1, Amateur Pre-Teen Open Latin  (CRJ),Sample,1,hdb08,40278520,161,Nadia Eftedal,Rumba,1
+,0,1,Final,Gabriel Yankulin,Ashley Yankulin,13,1,1, Amateur Pre-Teen Open Latin  (CRJ),Sample,1,hdb08,40278520,161,Charlotte Jorgensen,Rumba,1
+,0,1,Final,Gabriel Yankulin,Ashley Yankulin,17,1,1, Amateur Pre-Teen Open Latin  (CRJ),Sample,1,hdb08,40278520,161,Giacomo Staccagli,Rumba,1
+,0,1,Final,Gabriel Yankulin,Ashley Yankulin,10,1,1, Amateur Pre-Teen Open Latin  (CRJ),Sample,2,hdb08,40278520,161,Stephen Cullip,Jive,1
+,0,1,Final,Gabriel Yankulin,Ashley Yankulin,11,1,1, Amateur Pre-Teen Open Latin  (CRJ),Sample,2,hdb08,40278520,161,Melissa Dexter,Jive,1
+,0,2,Final,Gabriel Yankulin,Ashley Yankulin,12,1,2, Amateur Pre-Teen Open Latin  (CRJ),Sample,2,hdb08,40278520,161,Nadia Eftedal,Jive,1
+,0,1,Final,Gabriel Yankulin,Ashley Yankulin,13,1,1, Amateur Pre-Teen Open Latin  (CRJ),Sample,2,hdb08,40278520,161,Charlotte Jorgensen,Jive,1
+,0,1,Final,Gabriel Yankulin,Ashley Yankulin,17,1,1, Amateur Pre-Teen Open Latin  (CRJ),Sample,2,hdb08,40278520,161,Giacomo Staccagli,Jive,1
+CA,0,1,Final,Steve Vasco,Sally Bard,10,1,1, Pro/Am Adult B1 Pre-Silver Am. Cha Cha  (C),Sample,0,hdb08,80C43148,160,Stephen Cullip,Am. Cha Cha,1
+CA,0,1,Final,Steve Vasco,Sally Bard,12,1,1, Pro/Am Adult B1 Pre-Silver Am. Cha Cha  (C),Sample,0,hdb08,80C43148,160,Nadia Eftedal,Am. Cha Cha,1
+CA,0,1,Final,Steve Vasco,Sally Bard,13,1,1, Pro/Am Adult B1 Pre-Silver Am. Cha Cha  (C),Sample,0,hdb08,80C43148,160,Charlotte Jorgensen,Am. Cha Cha,1
+CA,0,1,Final,Steve Vasco,Sally Bard,16,1,1, Pro/Am Adult B1 Pre-Silver Am. Cha Cha  (C),Sample,0,hdb08,80C43148,160,Rex Lewis,Am. Cha Cha,1
+CA,0,1,Final,Steve Vasco,Sally Bard,18,1,1, Pro/Am Adult B1 Pre-Silver Am. Cha Cha  (C),Sample,0,hdb08,80C43148,160,Gosia Zygadlo,Am. Cha Cha,1
+CA,0,1,Final,Sergey Malko,Bonnie Farrell,10,1,1, Pro/Am Adult A2 Open Bronze Am. Cha Cha  (C),Sample,0,hdb08,80C22D48,153,Stephen Cullip,Am. Cha Cha,1
+CA,0,1,Final,Sergey Malko,Bonnie Farrell,12,1,1, Pro/Am Adult A2 Open Bronze Am. Cha Cha  (C),Sample,0,hdb08,80C22D48,153,Nadia Eftedal,Am. Cha Cha,1
+CA,0,1,Final,Sergey Malko,Bonnie Farrell,13,1,1, Pro/Am Adult A2 Open Bronze Am. Cha Cha  (C),Sample,0,hdb08,80C22D48,153,Charlotte Jorgensen,Am. Cha Cha,1
+CA,0,1,Final,Sergey Malko,Bonnie Farrell,16,1,1, Pro/Am Adult A2 Open Bronze Am. Cha Cha  (C),Sample,0,hdb08,80C22D48,153,Rex Lewis,Am. Cha Cha,1
+CA,0,1,Final,Sergey Malko,Bonnie Farrell,18,1,1, Pro/Am Adult A2 Open Bronze Am. Cha Cha  (C),Sample,0,hdb08,80C22D48,153,Gosia Zygadlo,Am. Cha Cha,1
+CA,0,1,Final,Steve Vasco,Sally Bard,10,1,1, Pro/Am Adult B1 Pre-Silver Am. Swing  (S),Sample,0,hdb08,80C4314A,160,Stephen Cullip,Am. Swing,1
+CA,0,1,Final,Steve Vasco,Sally Bard,12,1,1, Pro/Am Adult B1 Pre-Silver Am. Swing  (S),Sample,0,hdb08,80C4314A,160,Nadia Eftedal,Am. Swing,1
+CA,0,1,Final,Steve Vasco,Sally Bard,13,1,1, Pro/Am Adult B1 Pre-Silver Am. Swing  (S),Sample,0,hdb08,80C4314A,160,Charlotte Jorgensen,Am. Swing,1
+CA,0,1,Final,Steve Vasco,Sally Bard,16,1,1, Pro/Am Adult B1 Pre-Silver Am. Swing  (S),Sample,0,hdb08,80C4314A,160,Rex Lewis,Am. Swing,1
+CA,0,1,Final,Steve Vasco,Sally Bard,18,1,1, Pro/Am Adult B1 Pre-Silver Am. Swing  (S),Sample,0,hdb08,80C4314A,160,Gosia Zygadlo,Am. Swing,1
+CA,0,1,Final,Sergey Malko,Bonnie Farrell,10,1,1, Pro/Am Adult A2 Open Bronze Am. Swing  (S),Sample,0,hdb08,80C22D4A,153,Stephen Cullip,Am. Swing,1
+CA,0,1,Final,Sergey Malko,Bonnie Farrell,12,1,1, Pro/Am Adult A2 Open Bronze Am. Swing  (S),Sample,0,hdb08,80C22D4A,153,Nadia Eftedal,Am. Swing,1
+CA,0,1,Final,Sergey Malko,Bonnie Farrell,13,1,1, Pro/Am Adult A2 Open Bronze Am. Swing  (S),Sample,0,hdb08,80C22D4A,153,Charlotte Jorgensen,Am. Swing,1
+CA,0,1,Final,Sergey Malko,Bonnie Farrell,16,1,1, Pro/Am Adult A2 Open Bronze Am. Swing  (S),Sample,0,hdb08,80C22D4A,153,Rex Lewis,Am. Swing,1
+CA,0,1,Final,Sergey Malko,Bonnie Farrell,18,1,1, Pro/Am Adult A2 Open Bronze Am. Swing  (S),Sample,0,hdb08,80C22D4A,153,Gosia Zygadlo,Am. Swing,1
+CA,0,1,Final,Steve Vasco,Sally Bard,10,1,1, Pro/Am Adult B1 Pre-Silver Am. Rumba  (R),Sample,0,hdb08,80C43149,160,Stephen Cullip,Am. Rumba,1
+CA,0,1,Final,Steve Vasco,Sally Bard,12,1,1, Pro/Am Adult B1 Pre-Silver Am. Rumba  (R),Sample,0,hdb08,80C43149,160,Nadia Eftedal,Am. Rumba,1
+CA,0,1,Final,Steve Vasco,Sally Bard,13,1,1, Pro/Am Adult B1 Pre-Silver Am. Rumba  (R),Sample,0,hdb08,80C43149,160,Charlotte Jorgensen,Am. Rumba,1
+CA,0,1,Final,Steve Vasco,Sally Bard,16,1,1, Pro/Am Adult B1 Pre-Silver Am. Rumba  (R),Sample,0,hdb08,80C43149,160,Rex Lewis,Am. Rumba,1
+CA,0,1,Final,Steve Vasco,Sally Bard,18,1,1, Pro/Am Adult B1 Pre-Silver Am. Rumba  (R),Sample,0,hdb08,80C43149,160,Gosia Zygadlo,Am. Rumba,1
+CA,0,1,Final,Sergey Malko,Bonnie Farrell,10,1,1, Pro/Am Adult A2 Open Bronze Am. Rumba  (R),Sample,0,hdb08,80C22D49,153,Stephen Cullip,Am. Rumba,1
+CA,0,1,Final,Sergey Malko,Bonnie Farrell,12,1,1, Pro/Am Adult A2 Open Bronze Am. Rumba  (R),Sample,0,hdb08,80C22D49,153,Nadia Eftedal,Am. Rumba,1
+CA,0,1,Final,Sergey Malko,Bonnie Farrell,13,1,1, Pro/Am Adult A2 Open Bronze Am. Rumba  (R),Sample,0,hdb08,80C22D49,153,Charlotte Jorgensen,Am. Rumba,1
+CA,0,1,Final,Sergey Malko,Bonnie Farrell,16,1,1, Pro/Am Adult A2 Open Bronze Am. Rumba  (R),Sample,0,hdb08,80C22D49,153,Rex Lewis,Am. Rumba,1
+CA,0,1,Final,Sergey Malko,Bonnie Farrell,18,1,1, Pro/Am Adult A2 Open Bronze Am. Rumba  (R),Sample,0,hdb08,80C22D49,153,Gosia Zygadlo,Am. Rumba,1
+CA,0,1,Final,Steve Vasco,Sally Bard,10,1,1, Pro/Am Adult B1 Pre-Silver Am. Bolero  (B),Sample,0,hdb08,80C4314B,160,Stephen Cullip,Am. Bolero,1
+CA,0,1,Final,Steve Vasco,Sally Bard,12,1,1, Pro/Am Adult B1 Pre-Silver Am. Bolero  (B),Sample,0,hdb08,80C4314B,160,Nadia Eftedal,Am. Bolero,1
+CA,0,1,Final,Steve Vasco,Sally Bard,13,1,1, Pro/Am Adult B1 Pre-Silver Am. Bolero  (B),Sample,0,hdb08,80C4314B,160,Charlotte Jorgensen,Am. Bolero,1
+CA,0,1,Final,Steve Vasco,Sally Bard,16,1,1, Pro/Am Adult B1 Pre-Silver Am. Bolero  (B),Sample,0,hdb08,80C4314B,160,Rex Lewis,Am. Bolero,1
+CA,0,1,Final,Steve Vasco,Sally Bard,18,1,1, Pro/Am Adult B1 Pre-Silver Am. Bolero  (B),Sample,0,hdb08,80C4314B,160,Gosia Zygadlo,Am. Bolero,1
+CA,0,1,Final,Sergey Malko,Bonnie Farrell,10,1,1, Pro/Am Adult A2 Open Bronze Am. Bolero  (B),Sample,0,hdb08,80C22D4B,153,Stephen Cullip,Am. Bolero,1
+CA,0,1,Final,Sergey Malko,Bonnie Farrell,12,1,1, Pro/Am Adult A2 Open Bronze Am. Bolero  (B),Sample,0,hdb08,80C22D4B,153,Nadia Eftedal,Am. Bolero,1
+CA,0,1,Final,Sergey Malko,Bonnie Farrell,13,1,1, Pro/Am Adult A2 Open Bronze Am. Bolero  (B),Sample,0,hdb08,80C22D4B,153,Charlotte Jorgensen,Am. Bolero,1
+CA,0,1,Final,Sergey Malko,Bonnie Farrell,16,1,1, Pro/Am Adult A2 Open Bronze Am. Bolero  (B),Sample,0,hdb08,80C22D4B,153,Rex Lewis,Am. Bolero,1
+CA,0,1,Final,Sergey Malko,Bonnie Farrell,18,1,1, Pro/Am Adult A2 Open Bronze Am. Bolero  (B),Sample,0,hdb08,80C22D4B,153,Gosia Zygadlo,Am. Bolero,1
+CA,0,1,Final,Steve Vasco,Sally Bard,10,1,1, Pro/Am Adult B1 Pre-Silver Am. Mambo  (M),Sample,0,hdb08,80C4314C,160,Stephen Cullip,Am. Mambo,1
+CA,0,1,Final,Steve Vasco,Sally Bard,12,1,1, Pro/Am Adult B1 Pre-Silver Am. Mambo  (M),Sample,0,hdb08,80C4314C,160,Nadia Eftedal,Am. Mambo,1
+CA,0,2,Final,Steve Vasco,Sally Bard,13,1,2, Pro/Am Adult B1 Pre-Silver Am. Mambo  (M),Sample,0,hdb08,80C4314C,160,Charlotte Jorgensen,Am. Mambo,1
+CA,0,1,Final,Steve Vasco,Sally Bard,16,1,1, Pro/Am Adult B1 Pre-Silver Am. Mambo  (M),Sample,0,hdb08,80C4314C,160,Rex Lewis,Am. Mambo,1
+CA,0,1,Final,Steve Vasco,Sally Bard,18,1,1, Pro/Am Adult B1 Pre-Silver Am. Mambo  (M),Sample,0,hdb08,80C4314C,160,Gosia Zygadlo,Am. Mambo,1
+CA,0,1,Final,Steve Vasco,Sally Bard,10,1,1, Pro/Am Adult B1 Int. Silver Am. Cha Cha  (C),Sample,0,hdb08,80C43248,160,Stephen Cullip,Am. Cha Cha,1
+CA,0,1,Final,Steve Vasco,Sally Bard,12,1,1, Pro/Am Adult B1 Int. Silver Am. Cha Cha  (C),Sample,0,hdb08,80C43248,160,Nadia Eftedal,Am. Cha Cha,1
+CA,0,1,Final,Steve Vasco,Sally Bard,13,1,1, Pro/Am Adult B1 Int. Silver Am. Cha Cha  (C),Sample,0,hdb08,80C43248,160,Charlotte Jorgensen,Am. Cha Cha,1
+CA,0,1,Final,Steve Vasco,Sally Bard,16,1,1, Pro/Am Adult B1 Int. Silver Am. Cha Cha  (C),Sample,0,hdb08,80C43248,160,Rex Lewis,Am. Cha Cha,1
+CA,0,1,Final,Steve Vasco,Sally Bard,18,1,1, Pro/Am Adult B1 Int. Silver Am. Cha Cha  (C),Sample,0,hdb08,80C43248,160,Gosia Zygadlo,Am. Cha Cha,1
+CA,0,1,Final,Sergey Malko,Bonnie Farrell,10,1,1, Pro/Am Adult B1 Open Bronze Salsa  (S),Sample,0,hdb08,80C42D67,153,Stephen Cullip,Salsa,1
+CA,0,1,Final,Sergey Malko,Bonnie Farrell,12,1,1, Pro/Am Adult B1 Open Bronze Salsa  (S),Sample,0,hdb08,80C42D67,153,Nadia Eftedal,Salsa,1
+CA,0,1,Final,Sergey Malko,Bonnie Farrell,13,1,1, Pro/Am Adult B1 Open Bronze Salsa  (S),Sample,0,hdb08,80C42D67,153,Charlotte Jorgensen,Salsa,1
+CA,0,1,Final,Sergey Malko,Bonnie Farrell,16,1,1, Pro/Am Adult B1 Open Bronze Salsa  (S),Sample,0,hdb08,80C42D67,153,Rex Lewis,Salsa,1
+CA,0,1,Final,Sergey Malko,Bonnie Farrell,18,1,1, Pro/Am Adult B1 Open Bronze Salsa  (S),Sample,0,hdb08,80C42D67,153,Gosia Zygadlo,Salsa,1
+CA,0,1,Final,Sergey Malko,Bonnie Farrell,10,1,1, Pro/Am Adult B1 Open Bronze Am. Cha Cha  (C),Sample,0,hdb08,80C42D48,153,Stephen Cullip,Am. Cha Cha,1
+CA,0,1,Final,Sergey Malko,Bonnie Farrell,12,1,1, Pro/Am Adult B1 Open Bronze Am. Cha Cha  (C),Sample,0,hdb08,80C42D48,153,Nadia Eftedal,Am. Cha Cha,1
+CA,0,1,Final,Sergey Malko,Bonnie Farrell,13,1,1, Pro/Am Adult B1 Open Bronze Am. Cha Cha  (C),Sample,0,hdb08,80C42D48,153,Charlotte Jorgensen,Am. Cha Cha,1
+CA,0,1,Final,Sergey Malko,Bonnie Farrell,16,1,1, Pro/Am Adult B1 Open Bronze Am. Cha Cha  (C),Sample,0,hdb08,80C42D48,153,Rex Lewis,Am. Cha Cha,1
+CA,0,1,Final,Sergey Malko,Bonnie Farrell,18,1,1, Pro/Am Adult B1 Open Bronze Am. Cha Cha  (C),Sample,0,hdb08,80C42D48,153,Gosia Zygadlo,Am. Cha Cha,1
+CA,0,1,Final,Sergey Malko,Bonnie Farrell,10,1,1, Pro/Am Adult B1 Open Bronze Am. Rumba  (R),Sample,0,hdb08,80C42D49,153,Stephen Cullip,Am. Rumba,1
+CA,0,1,Final,Sergey Malko,Bonnie Farrell,12,1,1, Pro/Am Adult B1 Open Bronze Am. Rumba  (R),Sample,0,hdb08,80C42D49,153,Nadia Eftedal,Am. Rumba,1
+CA,0,1,Final,Sergey Malko,Bonnie Farrell,13,1,1, Pro/Am Adult B1 Open Bronze Am. Rumba  (R),Sample,0,hdb08,80C42D49,153,Charlotte Jorgensen,Am. Rumba,1
+CA,0,1,Final,Sergey Malko,Bonnie Farrell,16,1,1, Pro/Am Adult B1 Open Bronze Am. Rumba  (R),Sample,0,hdb08,80C42D49,153,Rex Lewis,Am. Rumba,1
+CA,0,1,Final,Sergey Malko,Bonnie Farrell,18,1,1, Pro/Am Adult B1 Open Bronze Am. Rumba  (R),Sample,0,hdb08,80C42D49,153,Gosia Zygadlo,Am. Rumba,1
+CA,0,1,Final,Steve Vasco,Sally Bard,10,1,1, Pro/Am Adult B1 Int. Silver Am. Rumba  (R),Sample,0,hdb08,80C43249,160,Stephen Cullip,Am. Rumba,1
+CA,0,1,Final,Steve Vasco,Sally Bard,12,1,1, Pro/Am Adult B1 Int. Silver Am. Rumba  (R),Sample,0,hdb08,80C43249,160,Nadia Eftedal,Am. Rumba,1
+CA,0,1,Final,Steve Vasco,Sally Bard,13,1,1, Pro/Am Adult B1 Int. Silver Am. Rumba  (R),Sample,0,hdb08,80C43249,160,Charlotte Jorgensen,Am. Rumba,1
+CA,0,1,Final,Steve Vasco,Sally Bard,16,1,1, Pro/Am Adult B1 Int. Silver Am. Rumba  (R),Sample,0,hdb08,80C43249,160,Rex Lewis,Am. Rumba,1
+CA,0,1,Final,Steve Vasco,Sally Bard,18,1,1, Pro/Am Adult B1 Int. Silver Am. Rumba  (R),Sample,0,hdb08,80C43249,160,Gosia Zygadlo,Am. Rumba,1
+CA,0,1,Final,Sergey Malko,Bonnie Farrell,10,1,1, Pro/Am Adult B1 Open Bronze Am. Swing  (S),Sample,0,hdb08,80C42D4A,153,Stephen Cullip,Am. Swing,1
+CA,0,1,Final,Sergey Malko,Bonnie Farrell,12,1,1, Pro/Am Adult B1 Open Bronze Am. Swing  (S),Sample,0,hdb08,80C42D4A,153,Nadia Eftedal,Am. Swing,1
+CA,0,1,Final,Sergey Malko,Bonnie Farrell,13,1,1, Pro/Am Adult B1 Open Bronze Am. Swing  (S),Sample,0,hdb08,80C42D4A,153,Charlotte Jorgensen,Am. Swing,1
+CA,0,1,Final,Sergey Malko,Bonnie Farrell,16,1,1, Pro/Am Adult B1 Open Bronze Am. Swing  (S),Sample,0,hdb08,80C42D4A,153,Rex Lewis,Am. Swing,1
+CA,0,1,Final,Sergey Malko,Bonnie Farrell,18,1,1, Pro/Am Adult B1 Open Bronze Am. Swing  (S),Sample,0,hdb08,80C42D4A,153,Gosia Zygadlo,Am. Swing,1
+CA,0,1,Final,Steve Vasco,Sally Bard,10,1,1, Pro/Am Adult B1 Int. Silver Am. Swing  (S),Sample,0,hdb08,80C4324A,160,Stephen Cullip,Am. Swing,1
+CA,0,1,Final,Steve Vasco,Sally Bard,12,1,1, Pro/Am Adult B1 Int. Silver Am. Swing  (S),Sample,0,hdb08,80C4324A,160,Nadia Eftedal,Am. Swing,1
+CA,0,1,Final,Steve Vasco,Sally Bard,13,1,1, Pro/Am Adult B1 Int. Silver Am. Swing  (S),Sample,0,hdb08,80C4324A,160,Charlotte Jorgensen,Am. Swing,1
+CA,0,1,Final,Steve Vasco,Sally Bard,16,1,1, Pro/Am Adult B1 Int. Silver Am. Swing  (S),Sample,0,hdb08,80C4324A,160,Rex Lewis,Am. Swing,1
+CA,0,1,Final,Steve Vasco,Sally Bard,18,1,1, Pro/Am Adult B1 Int. Silver Am. Swing  (S),Sample,0,hdb08,80C4324A,160,Gosia Zygadlo,Am. Swing,1
+CA,0,1,Final,Sergey Malko,Bonnie Farrell,10,1,1, Pro/Am Adult B1 Open Bronze Am. Bolero  (B),Sample,0,hdb08,80C42D4B,153,Stephen Cullip,Am. Bolero,1
+CA,0,1,Final,Sergey Malko,Bonnie Farrell,12,1,1, Pro/Am Adult B1 Open Bronze Am. Bolero  (B),Sample,0,hdb08,80C42D4B,153,Nadia Eftedal,Am. Bolero,1
+CA,0,1,Final,Sergey Malko,Bonnie Farrell,13,1,1, Pro/Am Adult B1 Open Bronze Am. Bolero  (B),Sample,0,hdb08,80C42D4B,153,Charlotte Jorgensen,Am. Bolero,1
+CA,0,1,Final,Sergey Malko,Bonnie Farrell,16,1,1, Pro/Am Adult B1 Open Bronze Am. Bolero  (B),Sample,0,hdb08,80C42D4B,153,Rex Lewis,Am. Bolero,1
+CA,0,1,Final,Sergey Malko,Bonnie Farrell,18,1,1, Pro/Am Adult B1 Open Bronze Am. Bolero  (B),Sample,0,hdb08,80C42D4B,153,Gosia Zygadlo,Am. Bolero,1
+CA,0,1,Final,Steve Vasco,Sally Bard,10,1,1, Pro/Am Adult B1 Int. Silver Am. Bolero  (B),Sample,0,hdb08,80C4324B,160,Stephen Cullip,Am. Bolero,1
+CA,0,1,Final,Steve Vasco,Sally Bard,12,1,1, Pro/Am Adult B1 Int. Silver Am. Bolero  (B),Sample,0,hdb08,80C4324B,160,Nadia Eftedal,Am. Bolero,1
+CA,0,1,Final,Steve Vasco,Sally Bard,13,1,1, Pro/Am Adult B1 Int. Silver Am. Bolero  (B),Sample,0,hdb08,80C4324B,160,Charlotte Jorgensen,Am. Bolero,1
+CA,0,1,Final,Steve Vasco,Sally Bard,16,1,1, Pro/Am Adult B1 Int. Silver Am. Bolero  (B),Sample,0,hdb08,80C4324B,160,Rex Lewis,Am. Bolero,1
+CA,0,1,Final,Steve Vasco,Sally Bard,18,1,1, Pro/Am Adult B1 Int. Silver Am. Bolero  (B),Sample,0,hdb08,80C4324B,160,Gosia Zygadlo,Am. Bolero,1
+CA,0,1,Final,Steve Vasco,Sally Bard,10,1,1, Pro/Am Adult B1 Int. Silver Am. Mambo  (M),Sample,0,hdb08,80C4324C,160,Stephen Cullip,Am. Mambo,1
+CA,0,1,Final,Steve Vasco,Sally Bard,12,1,1, Pro/Am Adult B1 Int. Silver Am. Mambo  (M),Sample,0,hdb08,80C4324C,160,Nadia Eftedal,Am. Mambo,1
+CA,0,1,Final,Steve Vasco,Sally Bard,13,1,1, Pro/Am Adult B1 Int. Silver Am. Mambo  (M),Sample,0,hdb08,80C4324C,160,Charlotte Jorgensen,Am. Mambo,1
+CA,0,1,Final,Steve Vasco,Sally Bard,16,1,1, Pro/Am Adult B1 Int. Silver Am. Mambo  (M),Sample,0,hdb08,80C4324C,160,Rex Lewis,Am. Mambo,1
+CA,0,1,Final,Steve Vasco,Sally Bard,18,1,1, Pro/Am Adult B1 Int. Silver Am. Mambo  (M),Sample,0,hdb08,80C4324C,160,Gosia Zygadlo,Am. Mambo,1
+CA,0,1,Final,Wajih Dalai,Jennifer Chu,10,1,1, Pro/Am Adult B1 Open Bronze Hustle  (H),Sample,0,hdb08,80C42D69,165,Stephen Cullip,Hustle,1
+CA,0,1,Final,Wajih Dalai,Jennifer Chu,12,1,1, Pro/Am Adult B1 Open Bronze Hustle  (H),Sample,0,hdb08,80C42D69,165,Nadia Eftedal,Hustle,1
+CA,0,1,Final,Wajih Dalai,Jennifer Chu,13,1,1, Pro/Am Adult B1 Open Bronze Hustle  (H),Sample,0,hdb08,80C42D69,165,Charlotte Jorgensen,Hustle,1
+CA,0,2,Final,Wajih Dalai,Jennifer Chu,16,1,2, Pro/Am Adult B1 Open Bronze Hustle  (H),Sample,0,hdb08,80C42D69,165,Rex Lewis,Hustle,1
+CA,0,1,Final,Wajih Dalai,Jennifer Chu,18,1,1, Pro/Am Adult B1 Open Bronze Hustle  (H),Sample,0,hdb08,80C42D69,165,Gosia Zygadlo,Hustle,1
+CA,0,2,Final,Sergey Malko,Bonnie Farrell,10,2,2, Pro/Am Adult B1 Open Bronze Hustle  (H),Sample,0,hdb08,80C42D69,153,Stephen Cullip,Hustle,2
+CA,0,2,Final,Sergey Malko,Bonnie Farrell,12,2,2, Pro/Am Adult B1 Open Bronze Hustle  (H),Sample,0,hdb08,80C42D69,153,Nadia Eftedal,Hustle,2
+CA,0,2,Final,Sergey Malko,Bonnie Farrell,13,2,2, Pro/Am Adult B1 Open Bronze Hustle  (H),Sample,0,hdb08,80C42D69,153,Charlotte Jorgensen,Hustle,2
+CA,0,1,Final,Sergey Malko,Bonnie Farrell,16,2,1, Pro/Am Adult B1 Open Bronze Hustle  (H),Sample,0,hdb08,80C42D69,153,Rex Lewis,Hustle,2
+CA,0,2,Final,Sergey Malko,Bonnie Farrell,18,2,2, Pro/Am Adult B1 Open Bronze Hustle  (H),Sample,0,hdb08,80C42D69,153,Gosia Zygadlo,Hustle,2
+CA,0,1,Final,Steve Vasco,Sally Bard,10,1,1, Pro/Am  Silver Scholarship Rhythm  (CRSB),Sample,0,hdb08,80017040,160,Stephen Cullip,Cha Cha,1
+CA,0,1,Final,Steve Vasco,Sally Bard,12,1,1, Pro/Am  Silver Scholarship Rhythm  (CRSB),Sample,0,hdb08,80017040,160,Nadia Eftedal,Cha Cha,1
+CA,0,1,Final,Steve Vasco,Sally Bard,13,1,1, Pro/Am  Silver Scholarship Rhythm  (CRSB),Sample,0,hdb08,80017040,160,Charlotte Jorgensen,Cha Cha,1
+CA,0,1,Final,Steve Vasco,Sally Bard,16,1,1, Pro/Am  Silver Scholarship Rhythm  (CRSB),Sample,0,hdb08,80017040,160,Rex Lewis,Cha Cha,1
+CA,0,1,Final,Steve Vasco,Sally Bard,18,1,1, Pro/Am  Silver Scholarship Rhythm  (CRSB),Sample,0,hdb08,80017040,160,Gosia Zygadlo,Cha Cha,1
+CA,0,2,Final,Sergey Malko,Bonnie Farrell,10,2,2, Pro/Am  Silver Scholarship Rhythm  (CRSB),Sample,0,hdb08,80017040,153,Stephen Cullip,Cha Cha,2
+CA,0,2,Final,Sergey Malko,Bonnie Farrell,12,2,2, Pro/Am  Silver Scholarship Rhythm  (CRSB),Sample,0,hdb08,80017040,153,Nadia Eftedal,Cha Cha,2
+CA,0,2,Final,Sergey Malko,Bonnie Farrell,13,2,2, Pro/Am  Silver Scholarship Rhythm  (CRSB),Sample,0,hdb08,80017040,153,Charlotte Jorgensen,Cha Cha,2
+CA,0,2,Final,Sergey Malko,Bonnie Farrell,16,2,2, Pro/Am  Silver Scholarship Rhythm  (CRSB),Sample,0,hdb08,80017040,153,Rex Lewis,Cha Cha,2
+CA,0,2,Final,Sergey Malko,Bonnie Farrell,18,2,2, Pro/Am  Silver Scholarship Rhythm  (CRSB),Sample,0,hdb08,80017040,153,Gosia Zygadlo,Cha Cha,2
+CA,0,1,Final,Steve Vasco,Sally Bard,10,1,1, Pro/Am  Silver Scholarship Rhythm  (CRSB),Sample,1,hdb08,80017040,160,Stephen Cullip,Rumba,1
+CA,0,1,Final,Steve Vasco,Sally Bard,12,1,1, Pro/Am  Silver Scholarship Rhythm  (CRSB),Sample,1,hdb08,80017040,160,Nadia Eftedal,Rumba,1
+CA,0,1,Final,Steve Vasco,Sally Bard,13,1,1, Pro/Am  Silver Scholarship Rhythm  (CRSB),Sample,1,hdb08,80017040,160,Charlotte Jorgensen,Rumba,1
+CA,0,1,Final,Steve Vasco,Sally Bard,16,1,1, Pro/Am  Silver Scholarship Rhythm  (CRSB),Sample,1,hdb08,80017040,160,Rex Lewis,Rumba,1
+CA,0,1,Final,Steve Vasco,Sally Bard,18,1,1, Pro/Am  Silver Scholarship Rhythm  (CRSB),Sample,1,hdb08,80017040,160,Gosia Zygadlo,Rumba,1
+CA,0,2,Final,Sergey Malko,Bonnie Farrell,10,2,2, Pro/Am  Silver Scholarship Rhythm  (CRSB),Sample,1,hdb08,80017040,153,Stephen Cullip,Rumba,2
+CA,0,2,Final,Sergey Malko,Bonnie Farrell,12,2,2, Pro/Am  Silver Scholarship Rhythm  (CRSB),Sample,1,hdb08,80017040,153,Nadia Eftedal,Rumba,2
+CA,0,2,Final,Sergey Malko,Bonnie Farrell,13,2,2, Pro/Am  Silver Scholarship Rhythm  (CRSB),Sample,1,hdb08,80017040,153,Charlotte Jorgensen,Rumba,2
+CA,0,2,Final,Sergey Malko,Bonnie Farrell,16,2,2, Pro/Am  Silver Scholarship Rhythm  (CRSB),Sample,1,hdb08,80017040,153,Rex Lewis,Rumba,2
+CA,0,2,Final,Sergey Malko,Bonnie Farrell,18,2,2, Pro/Am  Silver Scholarship Rhythm  (CRSB),Sample,1,hdb08,80017040,153,Gosia Zygadlo,Rumba,2
+CA,0,1,Final,Steve Vasco,Sally Bard,10,1,1, Pro/Am  Silver Scholarship Rhythm  (CRSB),Sample,2,hdb08,80017040,160,Stephen Cullip,Swing,1
+CA,0,1,Final,Steve Vasco,Sally Bard,12,1,1, Pro/Am  Silver Scholarship Rhythm  (CRSB),Sample,2,hdb08,80017040,160,Nadia Eftedal,Swing,1
+CA,0,1,Final,Steve Vasco,Sally Bard,13,1,1, Pro/Am  Silver Scholarship Rhythm  (CRSB),Sample,2,hdb08,80017040,160,Charlotte Jorgensen,Swing,1
+CA,0,1,Final,Steve Vasco,Sally Bard,16,1,1, Pro/Am  Silver Scholarship Rhythm  (CRSB),Sample,2,hdb08,80017040,160,Rex Lewis,Swing,1
+CA,0,1,Final,Steve Vasco,Sally Bard,18,1,1, Pro/Am  Silver Scholarship Rhythm  (CRSB),Sample,2,hdb08,80017040,160,Gosia Zygadlo,Swing,1
+CA,0,2,Final,Sergey Malko,Bonnie Farrell,10,2,2, Pro/Am  Silver Scholarship Rhythm  (CRSB),Sample,2,hdb08,80017040,153,Stephen Cullip,Swing,2
+CA,0,2,Final,Sergey Malko,Bonnie Farrell,12,2,2, Pro/Am  Silver Scholarship Rhythm  (CRSB),Sample,2,hdb08,80017040,153,Nadia Eftedal,Swing,2
+CA,0,2,Final,Sergey Malko,Bonnie Farrell,13,2,2, Pro/Am  Silver Scholarship Rhythm  (CRSB),Sample,2,hdb08,80017040,153,Charlotte Jorgensen,Swing,2
+CA,0,2,Final,Sergey Malko,Bonnie Farrell,16,2,2, Pro/Am  Silver Scholarship Rhythm  (CRSB),Sample,2,hdb08,80017040,153,Rex Lewis,Swing,2
+CA,0,2,Final,Sergey Malko,Bonnie Farrell,18,2,2, Pro/Am  Silver Scholarship Rhythm  (CRSB),Sample,2,hdb08,80017040,153,Gosia Zygadlo,Swing,2
+CA,0,1,Final,Steve Vasco,Sally Bard,10,1,1, Pro/Am  Silver Scholarship Rhythm  (CRSB),Sample,3,hdb08,80017040,160,Stephen Cullip,Bolero,1
+CA,0,2,Final,Steve Vasco,Sally Bard,12,1,2, Pro/Am  Silver Scholarship Rhythm  (CRSB),Sample,3,hdb08,80017040,160,Nadia Eftedal,Bolero,1
+CA,0,1,Final,Steve Vasco,Sally Bard,13,1,1, Pro/Am  Silver Scholarship Rhythm  (CRSB),Sample,3,hdb08,80017040,160,Charlotte Jorgensen,Bolero,1
+CA,0,1,Final,Steve Vasco,Sally Bard,16,1,1, Pro/Am  Silver Scholarship Rhythm  (CRSB),Sample,3,hdb08,80017040,160,Rex Lewis,Bolero,1
+CA,0,1,Final,Steve Vasco,Sally Bard,18,1,1, Pro/Am  Silver Scholarship Rhythm  (CRSB),Sample,3,hdb08,80017040,160,Gosia Zygadlo,Bolero,1
+CA,0,2,Final,Sergey Malko,Bonnie Farrell,10,2,2, Pro/Am  Silver Scholarship Rhythm  (CRSB),Sample,3,hdb08,80017040,153,Stephen Cullip,Bolero,2
+CA,0,1,Final,Sergey Malko,Bonnie Farrell,12,2,1, Pro/Am  Silver Scholarship Rhythm  (CRSB),Sample,3,hdb08,80017040,153,Nadia Eftedal,Bolero,2
+CA,0,2,Final,Sergey Malko,Bonnie Farrell,13,2,2, Pro/Am  Silver Scholarship Rhythm  (CRSB),Sample,3,hdb08,80017040,153,Charlotte Jorgensen,Bolero,2
+CA,0,2,Final,Sergey Malko,Bonnie Farrell,16,2,2, Pro/Am  Silver Scholarship Rhythm  (CRSB),Sample,3,hdb08,80017040,153,Rex Lewis,Bolero,2
+CA,0,2,Final,Sergey Malko,Bonnie Farrell,18,2,2, Pro/Am  Silver Scholarship Rhythm  (CRSB),Sample,3,hdb08,80017040,153,Gosia Zygadlo,Bolero,2
+CA,0,1,Final,Hristo Minev,Sayeh Begalari,10,1,1, Pro/Am Adult A2 Pre-Bronze Intl. Waltz  (W),Sample,0,hdb08,80C22918,110,Stephen Cullip,Intl. Waltz,1
+CA,0,1,Final,Hristo Minev,Sayeh Begalari,12,1,1, Pro/Am Adult A2 Pre-Bronze Intl. Waltz  (W),Sample,0,hdb08,80C22918,110,Nadia Eftedal,Intl. Waltz,1
+CA,0,1,Final,Hristo Minev,Sayeh Begalari,16,1,1, Pro/Am Adult A2 Pre-Bronze Intl. Waltz  (W),Sample,0,hdb08,80C22918,110,Rex Lewis,Intl. Waltz,1
+CA,0,1,Final,Hristo Minev,Sayeh Begalari,17,1,1, Pro/Am Adult A2 Pre-Bronze Intl. Waltz  (W),Sample,0,hdb08,80C22918,110,Giacomo Staccagli,Intl. Waltz,1
+CA,0,1,Final,Hristo Minev,Sayeh Begalari,18,1,1, Pro/Am Adult A2 Pre-Bronze Intl. Waltz  (W),Sample,0,hdb08,80C22918,110,Gosia Zygadlo,Intl. Waltz,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,10,1,1, Pro/Am Adult B2 Pre-Silver Intl. Waltz  (W),Sample,0,hdb08,80C53118,153,Stephen Cullip,Intl. Waltz,1
+CA,0,2,Final,Sergey Malko,Jo Kopp,12,1,2, Pro/Am Adult B2 Pre-Silver Intl. Waltz  (W),Sample,0,hdb08,80C53118,153,Nadia Eftedal,Intl. Waltz,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,16,1,1, Pro/Am Adult B2 Pre-Silver Intl. Waltz  (W),Sample,0,hdb08,80C53118,153,Rex Lewis,Intl. Waltz,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,17,1,1, Pro/Am Adult B2 Pre-Silver Intl. Waltz  (W),Sample,0,hdb08,80C53118,153,Giacomo Staccagli,Intl. Waltz,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,18,1,1, Pro/Am Adult B2 Pre-Silver Intl. Waltz  (W),Sample,0,hdb08,80C53118,153,Gosia Zygadlo,Intl. Waltz,1
+CA,0,1,Final,Hristo Minev,Sayeh Begalari,10,1,1, Pro/Am Adult A2 Pre-Bronze Intl. Tango  (T),Sample,0,hdb08,80C22919,110,Stephen Cullip,Intl. Tango,1
+CA,0,1,Final,Hristo Minev,Sayeh Begalari,12,1,1, Pro/Am Adult A2 Pre-Bronze Intl. Tango  (T),Sample,0,hdb08,80C22919,110,Nadia Eftedal,Intl. Tango,1
+CA,0,1,Final,Hristo Minev,Sayeh Begalari,16,1,1, Pro/Am Adult A2 Pre-Bronze Intl. Tango  (T),Sample,0,hdb08,80C22919,110,Rex Lewis,Intl. Tango,1
+CA,0,1,Final,Hristo Minev,Sayeh Begalari,17,1,1, Pro/Am Adult A2 Pre-Bronze Intl. Tango  (T),Sample,0,hdb08,80C22919,110,Giacomo Staccagli,Intl. Tango,1
+CA,0,1,Final,Hristo Minev,Sayeh Begalari,18,1,1, Pro/Am Adult A2 Pre-Bronze Intl. Tango  (T),Sample,0,hdb08,80C22919,110,Gosia Zygadlo,Intl. Tango,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,10,1,1, Pro/Am Adult B2 Pre-Silver Intl. Tango  (T),Sample,0,hdb08,80C53119,153,Stephen Cullip,Intl. Tango,1
+CA,0,2,Final,Sergey Malko,Jo Kopp,12,1,2, Pro/Am Adult B2 Pre-Silver Intl. Tango  (T),Sample,0,hdb08,80C53119,153,Nadia Eftedal,Intl. Tango,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,16,1,1, Pro/Am Adult B2 Pre-Silver Intl. Tango  (T),Sample,0,hdb08,80C53119,153,Rex Lewis,Intl. Tango,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,17,1,1, Pro/Am Adult B2 Pre-Silver Intl. Tango  (T),Sample,0,hdb08,80C53119,153,Giacomo Staccagli,Intl. Tango,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,18,1,1, Pro/Am Adult B2 Pre-Silver Intl. Tango  (T),Sample,0,hdb08,80C53119,153,Gosia Zygadlo,Intl. Tango,1
+CA,0,1,Final,Hristo Minev,Sayeh Begalari,10,1,1, Pro/Am Adult A2 Pre-Bronze Intl. V. Waltz  (V),Sample,0,hdb08,80C2291A,110,Stephen Cullip,Intl. V. Waltz,1
+CA,0,1,Final,Hristo Minev,Sayeh Begalari,12,1,1, Pro/Am Adult A2 Pre-Bronze Intl. V. Waltz  (V),Sample,0,hdb08,80C2291A,110,Nadia Eftedal,Intl. V. Waltz,1
+CA,0,1,Final,Hristo Minev,Sayeh Begalari,16,1,1, Pro/Am Adult A2 Pre-Bronze Intl. V. Waltz  (V),Sample,0,hdb08,80C2291A,110,Rex Lewis,Intl. V. Waltz,1
+CA,0,1,Final,Hristo Minev,Sayeh Begalari,17,1,1, Pro/Am Adult A2 Pre-Bronze Intl. V. Waltz  (V),Sample,0,hdb08,80C2291A,110,Giacomo Staccagli,Intl. V. Waltz,1
+CA,0,1,Final,Hristo Minev,Sayeh Begalari,18,1,1, Pro/Am Adult A2 Pre-Bronze Intl. V. Waltz  (V),Sample,0,hdb08,80C2291A,110,Gosia Zygadlo,Intl. V. Waltz,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,10,1,1, Pro/Am Adult B2 Pre-Silver Intl. V. Waltz  (V),Sample,0,hdb08,80C5311A,153,Stephen Cullip,Intl. V. Waltz,1
+CA,0,2,Final,Sergey Malko,Jo Kopp,12,1,2, Pro/Am Adult B2 Pre-Silver Intl. V. Waltz  (V),Sample,0,hdb08,80C5311A,153,Nadia Eftedal,Intl. V. Waltz,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,16,1,1, Pro/Am Adult B2 Pre-Silver Intl. V. Waltz  (V),Sample,0,hdb08,80C5311A,153,Rex Lewis,Intl. V. Waltz,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,17,1,1, Pro/Am Adult B2 Pre-Silver Intl. V. Waltz  (V),Sample,0,hdb08,80C5311A,153,Giacomo Staccagli,Intl. V. Waltz,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,18,1,1, Pro/Am Adult B2 Pre-Silver Intl. V. Waltz  (V),Sample,0,hdb08,80C5311A,153,Gosia Zygadlo,Intl. V. Waltz,1
+CA,0,1,Final,Hristo Minev,Sayeh Begalari,10,1,1, Pro/Am Adult A2 Pre-Bronze Intl. Foxtrot  (F),Sample,0,hdb08,80C2291B,110,Stephen Cullip,Intl. Foxtrot,1
+CA,0,1,Final,Hristo Minev,Sayeh Begalari,12,1,1, Pro/Am Adult A2 Pre-Bronze Intl. Foxtrot  (F),Sample,0,hdb08,80C2291B,110,Nadia Eftedal,Intl. Foxtrot,1
+CA,0,1,Final,Hristo Minev,Sayeh Begalari,16,1,1, Pro/Am Adult A2 Pre-Bronze Intl. Foxtrot  (F),Sample,0,hdb08,80C2291B,110,Rex Lewis,Intl. Foxtrot,1
+CA,0,1,Final,Hristo Minev,Sayeh Begalari,17,1,1, Pro/Am Adult A2 Pre-Bronze Intl. Foxtrot  (F),Sample,0,hdb08,80C2291B,110,Giacomo Staccagli,Intl. Foxtrot,1
+CA,0,1,Final,Hristo Minev,Sayeh Begalari,18,1,1, Pro/Am Adult A2 Pre-Bronze Intl. Foxtrot  (F),Sample,0,hdb08,80C2291B,110,Gosia Zygadlo,Intl. Foxtrot,1
+CA,0,2,Final,Sergey Malko,Jo Kopp,10,1,2, Pro/Am Adult B2 Pre-Silver Intl. Foxtrot  (F),Sample,0,hdb08,80C5311B,153,Stephen Cullip,Intl. Foxtrot,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,12,1,1, Pro/Am Adult B2 Pre-Silver Intl. Foxtrot  (F),Sample,0,hdb08,80C5311B,153,Nadia Eftedal,Intl. Foxtrot,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,16,1,1, Pro/Am Adult B2 Pre-Silver Intl. Foxtrot  (F),Sample,0,hdb08,80C5311B,153,Rex Lewis,Intl. Foxtrot,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,17,1,1, Pro/Am Adult B2 Pre-Silver Intl. Foxtrot  (F),Sample,0,hdb08,80C5311B,153,Giacomo Staccagli,Intl. Foxtrot,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,18,1,1, Pro/Am Adult B2 Pre-Silver Intl. Foxtrot  (F),Sample,0,hdb08,80C5311B,153,Gosia Zygadlo,Intl. Foxtrot,1
+CA,0,2,Final,Sergey Malko,Jo Kopp,10,1,2, Pro/Am Adult B2 Pre-Silver Intl. Quickstep  (Q),Sample,0,hdb08,80C5311C,153,Stephen Cullip,Intl. Quickstep,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,12,1,1, Pro/Am Adult B2 Pre-Silver Intl. Quickstep  (Q),Sample,0,hdb08,80C5311C,153,Nadia Eftedal,Intl. Quickstep,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,16,1,1, Pro/Am Adult B2 Pre-Silver Intl. Quickstep  (Q),Sample,0,hdb08,80C5311C,153,Rex Lewis,Intl. Quickstep,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,17,1,1, Pro/Am Adult B2 Pre-Silver Intl. Quickstep  (Q),Sample,0,hdb08,80C5311C,153,Giacomo Staccagli,Intl. Quickstep,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,18,1,1, Pro/Am Adult B2 Pre-Silver Intl. Quickstep  (Q),Sample,0,hdb08,80C5311C,153,Gosia Zygadlo,Intl. Quickstep,1
+CA,0,1,Final,Hristo Minev,Sayeh Begalari,10,1,1, Pro/Am Adult A2 Full Bronze Intl. Waltz  (W),Sample,0,hdb08,80C22B18,110,Stephen Cullip,Intl. Waltz,1
+CA,0,1,Final,Hristo Minev,Sayeh Begalari,12,1,1, Pro/Am Adult A2 Full Bronze Intl. Waltz  (W),Sample,0,hdb08,80C22B18,110,Nadia Eftedal,Intl. Waltz,1
+CA,0,1,Final,Hristo Minev,Sayeh Begalari,16,1,1, Pro/Am Adult A2 Full Bronze Intl. Waltz  (W),Sample,0,hdb08,80C22B18,110,Rex Lewis,Intl. Waltz,1
+CA,0,1,Final,Hristo Minev,Sayeh Begalari,17,1,1, Pro/Am Adult A2 Full Bronze Intl. Waltz  (W),Sample,0,hdb08,80C22B18,110,Giacomo Staccagli,Intl. Waltz,1
+CA,0,1,Final,Hristo Minev,Sayeh Begalari,18,1,1, Pro/Am Adult A2 Full Bronze Intl. Waltz  (W),Sample,0,hdb08,80C22B18,110,Gosia Zygadlo,Intl. Waltz,1
+CA,0,1,Final,Danny Lerer,Barnaly Pande,10,1,1, Pro/Am Adult A1 Full Silver Intl. Waltz  (W),Sample,0,hdb08,80C13318,149,Stephen Cullip,Intl. Waltz,1
+CA,0,2,Final,Danny Lerer,Barnaly Pande,12,1,2, Pro/Am Adult A1 Full Silver Intl. Waltz  (W),Sample,0,hdb08,80C13318,149,Nadia Eftedal,Intl. Waltz,1
+CA,0,1,Final,Danny Lerer,Barnaly Pande,16,1,1, Pro/Am Adult A1 Full Silver Intl. Waltz  (W),Sample,0,hdb08,80C13318,149,Rex Lewis,Intl. Waltz,1
+CA,0,1,Final,Danny Lerer,Barnaly Pande,17,1,1, Pro/Am Adult A1 Full Silver Intl. Waltz  (W),Sample,0,hdb08,80C13318,149,Giacomo Staccagli,Intl. Waltz,1
+CA,0,1,Final,Danny Lerer,Barnaly Pande,18,1,1, Pro/Am Adult A1 Full Silver Intl. Waltz  (W),Sample,0,hdb08,80C13318,149,Gosia Zygadlo,Intl. Waltz,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,10,1,1, Pro/Am Adult A2 Open Silver Intl. Waltz  (W),Sample,0,hdb08,80C23518,141,Stephen Cullip,Intl. Waltz,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,12,1,1, Pro/Am Adult A2 Open Silver Intl. Waltz  (W),Sample,0,hdb08,80C23518,141,Nadia Eftedal,Intl. Waltz,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,16,1,1, Pro/Am Adult A2 Open Silver Intl. Waltz  (W),Sample,0,hdb08,80C23518,141,Rex Lewis,Intl. Waltz,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,17,1,1, Pro/Am Adult A2 Open Silver Intl. Waltz  (W),Sample,0,hdb08,80C23518,141,Giacomo Staccagli,Intl. Waltz,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,18,1,1, Pro/Am Adult A2 Open Silver Intl. Waltz  (W),Sample,0,hdb08,80C23518,141,Gosia Zygadlo,Intl. Waltz,1
+CA,0,1,Final,Bill Roth,Taba Ofuka,10,1,1, Pro/Am Adult B1 Open Silver Intl. Waltz  (W),Sample,0,hdb08,80C43518,157,Stephen Cullip,Intl. Waltz,1
+CA,0,1,Final,Bill Roth,Taba Ofuka,12,1,1, Pro/Am Adult B1 Open Silver Intl. Waltz  (W),Sample,0,hdb08,80C43518,157,Nadia Eftedal,Intl. Waltz,1
+CA,0,1,Final,Bill Roth,Taba Ofuka,16,1,1, Pro/Am Adult B1 Open Silver Intl. Waltz  (W),Sample,0,hdb08,80C43518,157,Rex Lewis,Intl. Waltz,1
+CA,0,1,Final,Bill Roth,Taba Ofuka,17,1,1, Pro/Am Adult B1 Open Silver Intl. Waltz  (W),Sample,0,hdb08,80C43518,157,Giacomo Staccagli,Intl. Waltz,1
+CA,0,1,Final,Bill Roth,Taba Ofuka,18,1,1, Pro/Am Adult B1 Open Silver Intl. Waltz  (W),Sample,0,hdb08,80C43518,157,Gosia Zygadlo,Intl. Waltz,1
+,0,1,Final,Curtis Eaves,Sharon Liu,10,1,1, Pro/Am Adult B1 Open Gold Intl. Waltz  (W),Sample,0,hdb08,80C43D18,133,Stephen Cullip,Intl. Waltz,1
+,0,1,Final,Curtis Eaves,Sharon Liu,12,1,1, Pro/Am Adult B1 Open Gold Intl. Waltz  (W),Sample,0,hdb08,80C43D18,133,Nadia Eftedal,Intl. Waltz,1
+,0,1,Final,Curtis Eaves,Sharon Liu,16,1,1, Pro/Am Adult B1 Open Gold Intl. Waltz  (W),Sample,0,hdb08,80C43D18,133,Rex Lewis,Intl. Waltz,1
+,0,1,Final,Curtis Eaves,Sharon Liu,17,1,1, Pro/Am Adult B1 Open Gold Intl. Waltz  (W),Sample,0,hdb08,80C43D18,133,Giacomo Staccagli,Intl. Waltz,1
+,0,1,Final,Curtis Eaves,Sharon Liu,18,1,1, Pro/Am Adult B1 Open Gold Intl. Waltz  (W),Sample,0,hdb08,80C43D18,133,Gosia Zygadlo,Intl. Waltz,1
+CA,0,1,Final,Hristo Minev,Sayeh Begalari,10,1,1, Pro/Am Adult A2 Full Bronze Intl. Tango  (T),Sample,0,hdb08,80C22B19,110,Stephen Cullip,Intl. Tango,1
+CA,0,1,Final,Hristo Minev,Sayeh Begalari,12,1,1, Pro/Am Adult A2 Full Bronze Intl. Tango  (T),Sample,0,hdb08,80C22B19,110,Nadia Eftedal,Intl. Tango,1
+CA,0,1,Final,Hristo Minev,Sayeh Begalari,16,1,1, Pro/Am Adult A2 Full Bronze Intl. Tango  (T),Sample,0,hdb08,80C22B19,110,Rex Lewis,Intl. Tango,1
+CA,0,1,Final,Hristo Minev,Sayeh Begalari,17,1,1, Pro/Am Adult A2 Full Bronze Intl. Tango  (T),Sample,0,hdb08,80C22B19,110,Giacomo Staccagli,Intl. Tango,1
+CA,0,1,Final,Hristo Minev,Sayeh Begalari,18,1,1, Pro/Am Adult A2 Full Bronze Intl. Tango  (T),Sample,0,hdb08,80C22B19,110,Gosia Zygadlo,Intl. Tango,1
+CA,0,1,Final,Danny Lerer,Barnaly Pande,10,1,1, Pro/Am Adult A1 Full Silver Intl. Tango  (T),Sample,0,hdb08,80C13319,149,Stephen Cullip,Intl. Tango,1
+CA,0,1,Final,Danny Lerer,Barnaly Pande,12,1,1, Pro/Am Adult A1 Full Silver Intl. Tango  (T),Sample,0,hdb08,80C13319,149,Nadia Eftedal,Intl. Tango,1
+CA,0,1,Final,Danny Lerer,Barnaly Pande,16,1,1, Pro/Am Adult A1 Full Silver Intl. Tango  (T),Sample,0,hdb08,80C13319,149,Rex Lewis,Intl. Tango,1
+CA,0,1,Final,Danny Lerer,Barnaly Pande,17,1,1, Pro/Am Adult A1 Full Silver Intl. Tango  (T),Sample,0,hdb08,80C13319,149,Giacomo Staccagli,Intl. Tango,1
+CA,0,1,Final,Danny Lerer,Barnaly Pande,18,1,1, Pro/Am Adult A1 Full Silver Intl. Tango  (T),Sample,0,hdb08,80C13319,149,Gosia Zygadlo,Intl. Tango,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,10,1,1, Pro/Am Adult A2 Open Silver Intl. Tango  (T),Sample,0,hdb08,80C23519,141,Stephen Cullip,Intl. Tango,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,12,1,1, Pro/Am Adult A2 Open Silver Intl. Tango  (T),Sample,0,hdb08,80C23519,141,Nadia Eftedal,Intl. Tango,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,16,1,1, Pro/Am Adult A2 Open Silver Intl. Tango  (T),Sample,0,hdb08,80C23519,141,Rex Lewis,Intl. Tango,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,17,1,1, Pro/Am Adult A2 Open Silver Intl. Tango  (T),Sample,0,hdb08,80C23519,141,Giacomo Staccagli,Intl. Tango,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,18,1,1, Pro/Am Adult A2 Open Silver Intl. Tango  (T),Sample,0,hdb08,80C23519,141,Gosia Zygadlo,Intl. Tango,1
+,0,1,Final,Curtis Eaves,Sharon Liu,10,1,1, Pro/Am Adult B1 Open Gold Intl. Tango  (T),Sample,0,hdb08,80C43D19,133,Stephen Cullip,Intl. Tango,1
+,0,1,Final,Curtis Eaves,Sharon Liu,12,1,1, Pro/Am Adult B1 Open Gold Intl. Tango  (T),Sample,0,hdb08,80C43D19,133,Nadia Eftedal,Intl. Tango,1
+,0,1,Final,Curtis Eaves,Sharon Liu,16,1,1, Pro/Am Adult B1 Open Gold Intl. Tango  (T),Sample,0,hdb08,80C43D19,133,Rex Lewis,Intl. Tango,1
+,0,1,Final,Curtis Eaves,Sharon Liu,17,1,1, Pro/Am Adult B1 Open Gold Intl. Tango  (T),Sample,0,hdb08,80C43D19,133,Giacomo Staccagli,Intl. Tango,1
+,0,1,Final,Curtis Eaves,Sharon Liu,18,1,1, Pro/Am Adult B1 Open Gold Intl. Tango  (T),Sample,0,hdb08,80C43D19,133,Gosia Zygadlo,Intl. Tango,1
+CA,0,1,Final,Hristo Minev,Sayeh Begalari,10,1,1, Pro/Am Adult A2 Full Bronze Intl. V. Waltz  (V),Sample,0,hdb08,80C22B1A,110,Stephen Cullip,Intl. V. Waltz,1
+CA,0,1,Final,Hristo Minev,Sayeh Begalari,12,1,1, Pro/Am Adult A2 Full Bronze Intl. V. Waltz  (V),Sample,0,hdb08,80C22B1A,110,Nadia Eftedal,Intl. V. Waltz,1
+CA,0,1,Final,Hristo Minev,Sayeh Begalari,16,1,1, Pro/Am Adult A2 Full Bronze Intl. V. Waltz  (V),Sample,0,hdb08,80C22B1A,110,Rex Lewis,Intl. V. Waltz,1
+CA,0,2,Final,Hristo Minev,Sayeh Begalari,17,1,2, Pro/Am Adult A2 Full Bronze Intl. V. Waltz  (V),Sample,0,hdb08,80C22B1A,110,Giacomo Staccagli,Intl. V. Waltz,1
+CA,0,1,Final,Hristo Minev,Sayeh Begalari,18,1,1, Pro/Am Adult A2 Full Bronze Intl. V. Waltz  (V),Sample,0,hdb08,80C22B1A,110,Gosia Zygadlo,Intl. V. Waltz,1
+CA,0,1,Final,Danny Lerer,Barnaly Pande,10,1,1, Pro/Am Adult A1 Full Silver Intl. V. Waltz  (V),Sample,0,hdb08,80C1331A,149,Stephen Cullip,Intl. V. Waltz,1
+CA,0,1,Final,Danny Lerer,Barnaly Pande,12,1,1, Pro/Am Adult A1 Full Silver Intl. V. Waltz  (V),Sample,0,hdb08,80C1331A,149,Nadia Eftedal,Intl. V. Waltz,1
+CA,0,1,Final,Danny Lerer,Barnaly Pande,16,1,1, Pro/Am Adult A1 Full Silver Intl. V. Waltz  (V),Sample,0,hdb08,80C1331A,149,Rex Lewis,Intl. V. Waltz,1
+CA,0,2,Final,Danny Lerer,Barnaly Pande,17,1,2, Pro/Am Adult A1 Full Silver Intl. V. Waltz  (V),Sample,0,hdb08,80C1331A,149,Giacomo Staccagli,Intl. V. Waltz,1
+CA,0,1,Final,Danny Lerer,Barnaly Pande,18,1,1, Pro/Am Adult A1 Full Silver Intl. V. Waltz  (V),Sample,0,hdb08,80C1331A,149,Gosia Zygadlo,Intl. V. Waltz,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,10,1,1, Pro/Am Adult A2 Open Silver Intl. V. Waltz  (V),Sample,0,hdb08,80C2351A,141,Stephen Cullip,Intl. V. Waltz,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,12,1,1, Pro/Am Adult A2 Open Silver Intl. V. Waltz  (V),Sample,0,hdb08,80C2351A,141,Nadia Eftedal,Intl. V. Waltz,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,16,1,1, Pro/Am Adult A2 Open Silver Intl. V. Waltz  (V),Sample,0,hdb08,80C2351A,141,Rex Lewis,Intl. V. Waltz,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,17,1,1, Pro/Am Adult A2 Open Silver Intl. V. Waltz  (V),Sample,0,hdb08,80C2351A,141,Giacomo Staccagli,Intl. V. Waltz,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,18,1,1, Pro/Am Adult A2 Open Silver Intl. V. Waltz  (V),Sample,0,hdb08,80C2351A,141,Gosia Zygadlo,Intl. V. Waltz,1
+,0,1,Final,Curtis Eaves,Sharon Liu,10,1,1, Pro/Am Adult B1 Open Gold Intl. V. Waltz  (V),Sample,0,hdb08,80C43D1A,133,Stephen Cullip,Intl. V. Waltz,1
+,0,1,Final,Curtis Eaves,Sharon Liu,12,1,1, Pro/Am Adult B1 Open Gold Intl. V. Waltz  (V),Sample,0,hdb08,80C43D1A,133,Nadia Eftedal,Intl. V. Waltz,1
+,0,1,Final,Curtis Eaves,Sharon Liu,16,1,1, Pro/Am Adult B1 Open Gold Intl. V. Waltz  (V),Sample,0,hdb08,80C43D1A,133,Rex Lewis,Intl. V. Waltz,1
+,0,2,Final,Curtis Eaves,Sharon Liu,17,1,2, Pro/Am Adult B1 Open Gold Intl. V. Waltz  (V),Sample,0,hdb08,80C43D1A,133,Giacomo Staccagli,Intl. V. Waltz,1
+,0,1,Final,Curtis Eaves,Sharon Liu,18,1,1, Pro/Am Adult B1 Open Gold Intl. V. Waltz  (V),Sample,0,hdb08,80C43D1A,133,Gosia Zygadlo,Intl. V. Waltz,1
+CA,0,1,Final,Hristo Minev,Sayeh Begalari,10,1,1, Pro/Am Adult A2 Full Bronze Intl. Foxtrot  (F),Sample,0,hdb08,80C22B1B,110,Stephen Cullip,Intl. Foxtrot,1
+CA,0,1,Final,Hristo Minev,Sayeh Begalari,12,1,1, Pro/Am Adult A2 Full Bronze Intl. Foxtrot  (F),Sample,0,hdb08,80C22B1B,110,Nadia Eftedal,Intl. Foxtrot,1
+CA,0,1,Final,Hristo Minev,Sayeh Begalari,16,1,1, Pro/Am Adult A2 Full Bronze Intl. Foxtrot  (F),Sample,0,hdb08,80C22B1B,110,Rex Lewis,Intl. Foxtrot,1
+CA,0,1,Final,Hristo Minev,Sayeh Begalari,17,1,1, Pro/Am Adult A2 Full Bronze Intl. Foxtrot  (F),Sample,0,hdb08,80C22B1B,110,Giacomo Staccagli,Intl. Foxtrot,1
+CA,0,1,Final,Hristo Minev,Sayeh Begalari,18,1,1, Pro/Am Adult A2 Full Bronze Intl. Foxtrot  (F),Sample,0,hdb08,80C22B1B,110,Gosia Zygadlo,Intl. Foxtrot,1
+CA,0,1,Final,Danny Lerer,Barnaly Pande,10,1,1, Pro/Am Adult A1 Full Silver Intl. Foxtrot  (F),Sample,0,hdb08,80C1331B,149,Stephen Cullip,Intl. Foxtrot,1
+CA,0,1,Final,Danny Lerer,Barnaly Pande,12,1,1, Pro/Am Adult A1 Full Silver Intl. Foxtrot  (F),Sample,0,hdb08,80C1331B,149,Nadia Eftedal,Intl. Foxtrot,1
+CA,0,1,Final,Danny Lerer,Barnaly Pande,16,1,1, Pro/Am Adult A1 Full Silver Intl. Foxtrot  (F),Sample,0,hdb08,80C1331B,149,Rex Lewis,Intl. Foxtrot,1
+CA,0,1,Final,Danny Lerer,Barnaly Pande,17,1,1, Pro/Am Adult A1 Full Silver Intl. Foxtrot  (F),Sample,0,hdb08,80C1331B,149,Giacomo Staccagli,Intl. Foxtrot,1
+CA,0,1,Final,Danny Lerer,Barnaly Pande,18,1,1, Pro/Am Adult A1 Full Silver Intl. Foxtrot  (F),Sample,0,hdb08,80C1331B,149,Gosia Zygadlo,Intl. Foxtrot,1
+CA,0,1,Final,Bill Roth,Taba Ofuka,10,1,1, Pro/Am Adult B1 Open Silver Intl. Foxtrot  (F),Sample,0,hdb08,80C4351B,157,Stephen Cullip,Intl. Foxtrot,1
+CA,0,1,Final,Bill Roth,Taba Ofuka,12,1,1, Pro/Am Adult B1 Open Silver Intl. Foxtrot  (F),Sample,0,hdb08,80C4351B,157,Nadia Eftedal,Intl. Foxtrot,1
+CA,0,1,Final,Bill Roth,Taba Ofuka,16,1,1, Pro/Am Adult B1 Open Silver Intl. Foxtrot  (F),Sample,0,hdb08,80C4351B,157,Rex Lewis,Intl. Foxtrot,1
+CA,0,1,Final,Bill Roth,Taba Ofuka,17,1,1, Pro/Am Adult B1 Open Silver Intl. Foxtrot  (F),Sample,0,hdb08,80C4351B,157,Giacomo Staccagli,Intl. Foxtrot,1
+CA,0,1,Final,Bill Roth,Taba Ofuka,18,1,1, Pro/Am Adult B1 Open Silver Intl. Foxtrot  (F),Sample,0,hdb08,80C4351B,157,Gosia Zygadlo,Intl. Foxtrot,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,10,1,1, Pro/Am Adult A2 Open Silver Intl. Foxtrot  (F),Sample,0,hdb08,80C2351B,141,Stephen Cullip,Intl. Foxtrot,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,12,1,1, Pro/Am Adult A2 Open Silver Intl. Foxtrot  (F),Sample,0,hdb08,80C2351B,141,Nadia Eftedal,Intl. Foxtrot,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,16,1,1, Pro/Am Adult A2 Open Silver Intl. Foxtrot  (F),Sample,0,hdb08,80C2351B,141,Rex Lewis,Intl. Foxtrot,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,17,1,1, Pro/Am Adult A2 Open Silver Intl. Foxtrot  (F),Sample,0,hdb08,80C2351B,141,Giacomo Staccagli,Intl. Foxtrot,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,18,1,1, Pro/Am Adult A2 Open Silver Intl. Foxtrot  (F),Sample,0,hdb08,80C2351B,141,Gosia Zygadlo,Intl. Foxtrot,1
+,0,1,Final,Curtis Eaves,Sharon Liu,10,1,1, Pro/Am Adult B1 Open Gold Intl. Foxtrot  (F),Sample,0,hdb08,80C43D1B,133,Stephen Cullip,Intl. Foxtrot,1
+,0,1,Final,Curtis Eaves,Sharon Liu,12,1,1, Pro/Am Adult B1 Open Gold Intl. Foxtrot  (F),Sample,0,hdb08,80C43D1B,133,Nadia Eftedal,Intl. Foxtrot,1
+,0,1,Final,Curtis Eaves,Sharon Liu,16,1,1, Pro/Am Adult B1 Open Gold Intl. Foxtrot  (F),Sample,0,hdb08,80C43D1B,133,Rex Lewis,Intl. Foxtrot,1
+,0,1,Final,Curtis Eaves,Sharon Liu,17,1,1, Pro/Am Adult B1 Open Gold Intl. Foxtrot  (F),Sample,0,hdb08,80C43D1B,133,Giacomo Staccagli,Intl. Foxtrot,1
+,0,1,Final,Curtis Eaves,Sharon Liu,18,1,1, Pro/Am Adult B1 Open Gold Intl. Foxtrot  (F),Sample,0,hdb08,80C43D1B,133,Gosia Zygadlo,Intl. Foxtrot,1
+CA,0,1,Final,Danny Lerer,Barnaly Pande,10,1,1, Pro/Am Adult A1 Full Silver Intl. Quickstep  (Q),Sample,0,hdb08,80C1331C,149,Stephen Cullip,Intl. Quickstep,1
+CA,0,1,Final,Danny Lerer,Barnaly Pande,12,1,1, Pro/Am Adult A1 Full Silver Intl. Quickstep  (Q),Sample,0,hdb08,80C1331C,149,Nadia Eftedal,Intl. Quickstep,1
+CA,0,1,Final,Danny Lerer,Barnaly Pande,16,1,1, Pro/Am Adult A1 Full Silver Intl. Quickstep  (Q),Sample,0,hdb08,80C1331C,149,Rex Lewis,Intl. Quickstep,1
+CA,0,1,Final,Danny Lerer,Barnaly Pande,17,1,1, Pro/Am Adult A1 Full Silver Intl. Quickstep  (Q),Sample,0,hdb08,80C1331C,149,Giacomo Staccagli,Intl. Quickstep,1
+CA,0,1,Final,Danny Lerer,Barnaly Pande,18,1,1, Pro/Am Adult A1 Full Silver Intl. Quickstep  (Q),Sample,0,hdb08,80C1331C,149,Gosia Zygadlo,Intl. Quickstep,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,10,1,1, Pro/Am Adult A2 Open Silver Intl. Quickstep  (Q),Sample,0,hdb08,80C2351C,141,Stephen Cullip,Intl. Quickstep,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,12,1,1, Pro/Am Adult A2 Open Silver Intl. Quickstep  (Q),Sample,0,hdb08,80C2351C,141,Nadia Eftedal,Intl. Quickstep,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,16,1,1, Pro/Am Adult A2 Open Silver Intl. Quickstep  (Q),Sample,0,hdb08,80C2351C,141,Rex Lewis,Intl. Quickstep,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,17,1,1, Pro/Am Adult A2 Open Silver Intl. Quickstep  (Q),Sample,0,hdb08,80C2351C,141,Giacomo Staccagli,Intl. Quickstep,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,18,1,1, Pro/Am Adult A2 Open Silver Intl. Quickstep  (Q),Sample,0,hdb08,80C2351C,141,Gosia Zygadlo,Intl. Quickstep,1
+CA,0,1,Final,Bill Roth,Taba Ofuka,10,1,1, Pro/Am Adult B1 Open Silver Intl. Quickstep  (Q),Sample,0,hdb08,80C4351C,157,Stephen Cullip,Intl. Quickstep,1
+CA,0,1,Final,Bill Roth,Taba Ofuka,12,1,1, Pro/Am Adult B1 Open Silver Intl. Quickstep  (Q),Sample,0,hdb08,80C4351C,157,Nadia Eftedal,Intl. Quickstep,1
+CA,0,1,Final,Bill Roth,Taba Ofuka,16,1,1, Pro/Am Adult B1 Open Silver Intl. Quickstep  (Q),Sample,0,hdb08,80C4351C,157,Rex Lewis,Intl. Quickstep,1
+CA,0,1,Final,Bill Roth,Taba Ofuka,17,1,1, Pro/Am Adult B1 Open Silver Intl. Quickstep  (Q),Sample,0,hdb08,80C4351C,157,Giacomo Staccagli,Intl. Quickstep,1
+CA,0,1,Final,Bill Roth,Taba Ofuka,18,1,1, Pro/Am Adult B1 Open Silver Intl. Quickstep  (Q),Sample,0,hdb08,80C4351C,157,Gosia Zygadlo,Intl. Quickstep,1
+,0,1,Final,Curtis Eaves,Sharon Liu,10,1,1, Pro/Am Adult B1 Open Gold Intl. Quickstep  (Q),Sample,0,hdb08,80C43D1C,133,Stephen Cullip,Intl. Quickstep,1
+,0,1,Final,Curtis Eaves,Sharon Liu,12,1,1, Pro/Am Adult B1 Open Gold Intl. Quickstep  (Q),Sample,0,hdb08,80C43D1C,133,Nadia Eftedal,Intl. Quickstep,1
+,0,1,Final,Curtis Eaves,Sharon Liu,16,1,1, Pro/Am Adult B1 Open Gold Intl. Quickstep  (Q),Sample,0,hdb08,80C43D1C,133,Rex Lewis,Intl. Quickstep,1
+,0,1,Final,Curtis Eaves,Sharon Liu,17,1,1, Pro/Am Adult B1 Open Gold Intl. Quickstep  (Q),Sample,0,hdb08,80C43D1C,133,Giacomo Staccagli,Intl. Quickstep,1
+,0,1,Final,Curtis Eaves,Sharon Liu,18,1,1, Pro/Am Adult B1 Open Gold Intl. Quickstep  (Q),Sample,0,hdb08,80C43D1C,133,Gosia Zygadlo,Intl. Quickstep,1
+CA,0,1,Final,Hristo Minev,Jennifer Chu,11,1,1, Pro/Am Adult A2 Open Bronze Intl. Waltz  (W),Sample,0,hdb08,80C22D18,110,Melissa Dexter,Intl. Waltz,1
+CA,0,1,Final,Hristo Minev,Jennifer Chu,13,1,1, Pro/Am Adult A2 Open Bronze Intl. Waltz  (W),Sample,0,hdb08,80C22D18,110,Charlotte Jorgensen,Intl. Waltz,1
+CA,0,1,Final,Hristo Minev,Jennifer Chu,15,1,1, Pro/Am Adult A2 Open Bronze Intl. Waltz  (W),Sample,0,hdb08,80C22D18,110,Stephan Krauel,Intl. Waltz,1
+CA,0,1,Final,Hristo Minev,Jennifer Chu,17,1,1, Pro/Am Adult A2 Open Bronze Intl. Waltz  (W),Sample,0,hdb08,80C22D18,110,Giacomo Staccagli,Intl. Waltz,1
+CA,0,1,Final,Hristo Minev,Jennifer Chu,18,1,1, Pro/Am Adult A2 Open Bronze Intl. Waltz  (W),Sample,0,hdb08,80C22D18,110,Gosia Zygadlo,Intl. Waltz,1
+CA,0,1,Final,Bill Roth,Taba Ofuka,11,1,1, Pro/Am Adult B2 Open Silver Intl. Waltz  (W),Sample,0,hdb08,80C53518,157,Melissa Dexter,Intl. Waltz,1
+CA,0,1,Final,Bill Roth,Taba Ofuka,13,1,1, Pro/Am Adult B2 Open Silver Intl. Waltz  (W),Sample,0,hdb08,80C53518,157,Charlotte Jorgensen,Intl. Waltz,1
+CA,0,1,Final,Bill Roth,Taba Ofuka,15,1,1, Pro/Am Adult B2 Open Silver Intl. Waltz  (W),Sample,0,hdb08,80C53518,157,Stephan Krauel,Intl. Waltz,1
+CA,0,1,Final,Bill Roth,Taba Ofuka,17,1,1, Pro/Am Adult B2 Open Silver Intl. Waltz  (W),Sample,0,hdb08,80C53518,157,Giacomo Staccagli,Intl. Waltz,1
+CA,0,1,Final,Bill Roth,Taba Ofuka,18,1,1, Pro/Am Adult B2 Open Silver Intl. Waltz  (W),Sample,0,hdb08,80C53518,157,Gosia Zygadlo,Intl. Waltz,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,11,1,1, Pro/Am Adult A2 Full Gold Intl. Waltz  (W),Sample,0,hdb08,80C23B18,141,Melissa Dexter,Intl. Waltz,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,13,1,1, Pro/Am Adult A2 Full Gold Intl. Waltz  (W),Sample,0,hdb08,80C23B18,141,Charlotte Jorgensen,Intl. Waltz,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,15,1,1, Pro/Am Adult A2 Full Gold Intl. Waltz  (W),Sample,0,hdb08,80C23B18,141,Stephan Krauel,Intl. Waltz,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,17,1,1, Pro/Am Adult A2 Full Gold Intl. Waltz  (W),Sample,0,hdb08,80C23B18,141,Giacomo Staccagli,Intl. Waltz,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,18,1,1, Pro/Am Adult A2 Full Gold Intl. Waltz  (W),Sample,0,hdb08,80C23B18,141,Gosia Zygadlo,Intl. Waltz,1
+MS,0,2,Final,Adrian Sanborn,Anna Chen,11,1,2, Student/Student Adult A1 Open Gold Intl. Waltz  (W),Sample,0,hdb08,B0C13D18,162,Melissa Dexter,Intl. Waltz,1
+MS,0,1,Final,Adrian Sanborn,Anna Chen,13,1,1, Student/Student Adult A1 Open Gold Intl. Waltz  (W),Sample,0,hdb08,B0C13D18,162,Charlotte Jorgensen,Intl. Waltz,1
+MS,0,1,Final,Adrian Sanborn,Anna Chen,15,1,1, Student/Student Adult A1 Open Gold Intl. Waltz  (W),Sample,0,hdb08,B0C13D18,162,Stephan Krauel,Intl. Waltz,1
+MS,0,1,Final,Adrian Sanborn,Anna Chen,17,1,1, Student/Student Adult A1 Open Gold Intl. Waltz  (W),Sample,0,hdb08,B0C13D18,162,Giacomo Staccagli,Intl. Waltz,1
+MS,0,1,Final,Adrian Sanborn,Anna Chen,18,1,1, Student/Student Adult A1 Open Gold Intl. Waltz  (W),Sample,0,hdb08,B0C13D18,162,Gosia Zygadlo,Intl. Waltz,1
+CA,0,1,Final,Hristo Minev,Jennifer Chu,11,1,1, Pro/Am Adult A2 Open Bronze Intl. Tango  (T),Sample,0,hdb08,80C22D19,110,Melissa Dexter,Intl. Tango,1
+CA,0,1,Final,Hristo Minev,Jennifer Chu,13,1,1, Pro/Am Adult A2 Open Bronze Intl. Tango  (T),Sample,0,hdb08,80C22D19,110,Charlotte Jorgensen,Intl. Tango,1
+CA,0,1,Final,Hristo Minev,Jennifer Chu,15,1,1, Pro/Am Adult A2 Open Bronze Intl. Tango  (T),Sample,0,hdb08,80C22D19,110,Stephan Krauel,Intl. Tango,1
+CA,0,1,Final,Hristo Minev,Jennifer Chu,17,1,1, Pro/Am Adult A2 Open Bronze Intl. Tango  (T),Sample,0,hdb08,80C22D19,110,Giacomo Staccagli,Intl. Tango,1
+CA,0,1,Final,Hristo Minev,Jennifer Chu,18,1,1, Pro/Am Adult A2 Open Bronze Intl. Tango  (T),Sample,0,hdb08,80C22D19,110,Gosia Zygadlo,Intl. Tango,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,11,1,1, Pro/Am Adult A2 Full Gold Intl. Tango  (T),Sample,0,hdb08,80C23B19,141,Melissa Dexter,Intl. Tango,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,13,1,1, Pro/Am Adult A2 Full Gold Intl. Tango  (T),Sample,0,hdb08,80C23B19,141,Charlotte Jorgensen,Intl. Tango,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,15,1,1, Pro/Am Adult A2 Full Gold Intl. Tango  (T),Sample,0,hdb08,80C23B19,141,Stephan Krauel,Intl. Tango,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,17,1,1, Pro/Am Adult A2 Full Gold Intl. Tango  (T),Sample,0,hdb08,80C23B19,141,Giacomo Staccagli,Intl. Tango,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,18,1,1, Pro/Am Adult A2 Full Gold Intl. Tango  (T),Sample,0,hdb08,80C23B19,141,Gosia Zygadlo,Intl. Tango,1
+MS,0,2,Final,Adrian Sanborn,Anna Chen,11,1,2, Student/Student Adult A1 Open Gold Intl. Tango  (T),Sample,0,hdb08,B0C13D19,162,Melissa Dexter,Intl. Tango,1
+MS,0,1,Final,Adrian Sanborn,Anna Chen,13,1,1, Student/Student Adult A1 Open Gold Intl. Tango  (T),Sample,0,hdb08,B0C13D19,162,Charlotte Jorgensen,Intl. Tango,1
+MS,0,1,Final,Adrian Sanborn,Anna Chen,15,1,1, Student/Student Adult A1 Open Gold Intl. Tango  (T),Sample,0,hdb08,B0C13D19,162,Stephan Krauel,Intl. Tango,1
+MS,0,1,Final,Adrian Sanborn,Anna Chen,17,1,1, Student/Student Adult A1 Open Gold Intl. Tango  (T),Sample,0,hdb08,B0C13D19,162,Giacomo Staccagli,Intl. Tango,1
+MS,0,1,Final,Adrian Sanborn,Anna Chen,18,1,1, Student/Student Adult A1 Open Gold Intl. Tango  (T),Sample,0,hdb08,B0C13D19,162,Gosia Zygadlo,Intl. Tango,1
+CA,0,1,Final,Hristo Minev,Jennifer Chu,11,1,1, Pro/Am Adult A2 Open Bronze Intl. V. Waltz  (V),Sample,0,hdb08,80C22D1A,110,Melissa Dexter,Intl. V. Waltz,1
+CA,0,1,Final,Hristo Minev,Jennifer Chu,13,1,1, Pro/Am Adult A2 Open Bronze Intl. V. Waltz  (V),Sample,0,hdb08,80C22D1A,110,Charlotte Jorgensen,Intl. V. Waltz,1
+CA,0,1,Final,Hristo Minev,Jennifer Chu,15,1,1, Pro/Am Adult A2 Open Bronze Intl. V. Waltz  (V),Sample,0,hdb08,80C22D1A,110,Stephan Krauel,Intl. V. Waltz,1
+CA,0,1,Final,Hristo Minev,Jennifer Chu,17,1,1, Pro/Am Adult A2 Open Bronze Intl. V. Waltz  (V),Sample,0,hdb08,80C22D1A,110,Giacomo Staccagli,Intl. V. Waltz,1
+CA,0,1,Final,Hristo Minev,Jennifer Chu,18,1,1, Pro/Am Adult A2 Open Bronze Intl. V. Waltz  (V),Sample,0,hdb08,80C22D1A,110,Gosia Zygadlo,Intl. V. Waltz,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,11,1,1, Pro/Am Adult A2 Full Gold Intl. V. Waltz  (V),Sample,0,hdb08,80C23B1A,141,Melissa Dexter,Intl. V. Waltz,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,13,1,1, Pro/Am Adult A2 Full Gold Intl. V. Waltz  (V),Sample,0,hdb08,80C23B1A,141,Charlotte Jorgensen,Intl. V. Waltz,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,15,1,1, Pro/Am Adult A2 Full Gold Intl. V. Waltz  (V),Sample,0,hdb08,80C23B1A,141,Stephan Krauel,Intl. V. Waltz,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,17,1,1, Pro/Am Adult A2 Full Gold Intl. V. Waltz  (V),Sample,0,hdb08,80C23B1A,141,Giacomo Staccagli,Intl. V. Waltz,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,18,1,1, Pro/Am Adult A2 Full Gold Intl. V. Waltz  (V),Sample,0,hdb08,80C23B1A,141,Gosia Zygadlo,Intl. V. Waltz,1
+MS,0,2,Final,Adrian Sanborn,Anna Chen,11,1,2, Student/Student Adult A1 Open Gold Intl. V. Waltz  (V),Sample,0,hdb08,B0C13D1A,162,Melissa Dexter,Intl. V. Waltz,1
+MS,0,1,Final,Adrian Sanborn,Anna Chen,13,1,1, Student/Student Adult A1 Open Gold Intl. V. Waltz  (V),Sample,0,hdb08,B0C13D1A,162,Charlotte Jorgensen,Intl. V. Waltz,1
+MS,0,1,Final,Adrian Sanborn,Anna Chen,15,1,1, Student/Student Adult A1 Open Gold Intl. V. Waltz  (V),Sample,0,hdb08,B0C13D1A,162,Stephan Krauel,Intl. V. Waltz,1
+MS,0,1,Final,Adrian Sanborn,Anna Chen,17,1,1, Student/Student Adult A1 Open Gold Intl. V. Waltz  (V),Sample,0,hdb08,B0C13D1A,162,Giacomo Staccagli,Intl. V. Waltz,1
+MS,0,1,Final,Adrian Sanborn,Anna Chen,18,1,1, Student/Student Adult A1 Open Gold Intl. V. Waltz  (V),Sample,0,hdb08,B0C13D1A,162,Gosia Zygadlo,Intl. V. Waltz,1
+CA,0,1,Final,Hristo Minev,Jennifer Chu,11,1,1, Pro/Am Adult A2 Open Bronze Intl. Foxtrot  (F),Sample,0,hdb08,80C22D1B,110,Melissa Dexter,Intl. Foxtrot,1
+CA,0,1,Final,Hristo Minev,Jennifer Chu,13,1,1, Pro/Am Adult A2 Open Bronze Intl. Foxtrot  (F),Sample,0,hdb08,80C22D1B,110,Charlotte Jorgensen,Intl. Foxtrot,1
+CA,0,1,Final,Hristo Minev,Jennifer Chu,15,1,1, Pro/Am Adult A2 Open Bronze Intl. Foxtrot  (F),Sample,0,hdb08,80C22D1B,110,Stephan Krauel,Intl. Foxtrot,1
+CA,0,1,Final,Hristo Minev,Jennifer Chu,17,1,1, Pro/Am Adult A2 Open Bronze Intl. Foxtrot  (F),Sample,0,hdb08,80C22D1B,110,Giacomo Staccagli,Intl. Foxtrot,1
+CA,0,1,Final,Hristo Minev,Jennifer Chu,18,1,1, Pro/Am Adult A2 Open Bronze Intl. Foxtrot  (F),Sample,0,hdb08,80C22D1B,110,Gosia Zygadlo,Intl. Foxtrot,1
+CA,0,1,Final,Bill Roth,Taba Ofuka,11,1,1, Pro/Am Adult B2 Open Silver Intl. Foxtrot  (F),Sample,0,hdb08,80C5351B,157,Melissa Dexter,Intl. Foxtrot,1
+CA,0,1,Final,Bill Roth,Taba Ofuka,13,1,1, Pro/Am Adult B2 Open Silver Intl. Foxtrot  (F),Sample,0,hdb08,80C5351B,157,Charlotte Jorgensen,Intl. Foxtrot,1
+CA,0,1,Final,Bill Roth,Taba Ofuka,15,1,1, Pro/Am Adult B2 Open Silver Intl. Foxtrot  (F),Sample,0,hdb08,80C5351B,157,Stephan Krauel,Intl. Foxtrot,1
+CA,0,1,Final,Bill Roth,Taba Ofuka,17,1,1, Pro/Am Adult B2 Open Silver Intl. Foxtrot  (F),Sample,0,hdb08,80C5351B,157,Giacomo Staccagli,Intl. Foxtrot,1
+CA,0,1,Final,Bill Roth,Taba Ofuka,18,1,1, Pro/Am Adult B2 Open Silver Intl. Foxtrot  (F),Sample,0,hdb08,80C5351B,157,Gosia Zygadlo,Intl. Foxtrot,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,11,1,1, Pro/Am Adult A2 Full Gold Intl. Foxtrot  (F),Sample,0,hdb08,80C23B1B,141,Melissa Dexter,Intl. Foxtrot,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,13,1,1, Pro/Am Adult A2 Full Gold Intl. Foxtrot  (F),Sample,0,hdb08,80C23B1B,141,Charlotte Jorgensen,Intl. Foxtrot,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,15,1,1, Pro/Am Adult A2 Full Gold Intl. Foxtrot  (F),Sample,0,hdb08,80C23B1B,141,Stephan Krauel,Intl. Foxtrot,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,17,1,1, Pro/Am Adult A2 Full Gold Intl. Foxtrot  (F),Sample,0,hdb08,80C23B1B,141,Giacomo Staccagli,Intl. Foxtrot,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,18,1,1, Pro/Am Adult A2 Full Gold Intl. Foxtrot  (F),Sample,0,hdb08,80C23B1B,141,Gosia Zygadlo,Intl. Foxtrot,1
+MS,0,2,Final,Adrian Sanborn,Anna Chen,11,1,2, Student/Student Adult A1 Open Gold Intl. Foxtrot  (F),Sample,0,hdb08,B0C13D1B,162,Melissa Dexter,Intl. Foxtrot,1
+MS,0,1,Final,Adrian Sanborn,Anna Chen,13,1,1, Student/Student Adult A1 Open Gold Intl. Foxtrot  (F),Sample,0,hdb08,B0C13D1B,162,Charlotte Jorgensen,Intl. Foxtrot,1
+MS,0,1,Final,Adrian Sanborn,Anna Chen,15,1,1, Student/Student Adult A1 Open Gold Intl. Foxtrot  (F),Sample,0,hdb08,B0C13D1B,162,Stephan Krauel,Intl. Foxtrot,1
+MS,0,1,Final,Adrian Sanborn,Anna Chen,17,1,1, Student/Student Adult A1 Open Gold Intl. Foxtrot  (F),Sample,0,hdb08,B0C13D1B,162,Giacomo Staccagli,Intl. Foxtrot,1
+MS,0,1,Final,Adrian Sanborn,Anna Chen,18,1,1, Student/Student Adult A1 Open Gold Intl. Foxtrot  (F),Sample,0,hdb08,B0C13D1B,162,Gosia Zygadlo,Intl. Foxtrot,1
+CA,0,1,Final,Hristo Minev,Jennifer Chu,11,1,1, Pro/Am Adult A2 Open Bronze Intl. Quickstep  (Q),Sample,0,hdb08,80C22D1C,110,Melissa Dexter,Intl. Quickstep,1
+CA,0,1,Final,Hristo Minev,Jennifer Chu,13,1,1, Pro/Am Adult A2 Open Bronze Intl. Quickstep  (Q),Sample,0,hdb08,80C22D1C,110,Charlotte Jorgensen,Intl. Quickstep,1
+CA,0,1,Final,Hristo Minev,Jennifer Chu,15,1,1, Pro/Am Adult A2 Open Bronze Intl. Quickstep  (Q),Sample,0,hdb08,80C22D1C,110,Stephan Krauel,Intl. Quickstep,1
+CA,0,1,Final,Hristo Minev,Jennifer Chu,17,1,1, Pro/Am Adult A2 Open Bronze Intl. Quickstep  (Q),Sample,0,hdb08,80C22D1C,110,Giacomo Staccagli,Intl. Quickstep,1
+CA,0,1,Final,Hristo Minev,Jennifer Chu,18,1,1, Pro/Am Adult A2 Open Bronze Intl. Quickstep  (Q),Sample,0,hdb08,80C22D1C,110,Gosia Zygadlo,Intl. Quickstep,1
+CA,0,1,Final,Bill Roth,Taba Ofuka,11,1,1, Pro/Am Adult B2 Open Silver Intl. Quickstep  (Q),Sample,0,hdb08,80C5351C,157,Melissa Dexter,Intl. Quickstep,1
+CA,0,1,Final,Bill Roth,Taba Ofuka,13,1,1, Pro/Am Adult B2 Open Silver Intl. Quickstep  (Q),Sample,0,hdb08,80C5351C,157,Charlotte Jorgensen,Intl. Quickstep,1
+CA,0,1,Final,Bill Roth,Taba Ofuka,15,1,1, Pro/Am Adult B2 Open Silver Intl. Quickstep  (Q),Sample,0,hdb08,80C5351C,157,Stephan Krauel,Intl. Quickstep,1
+CA,0,1,Final,Bill Roth,Taba Ofuka,17,1,1, Pro/Am Adult B2 Open Silver Intl. Quickstep  (Q),Sample,0,hdb08,80C5351C,157,Giacomo Staccagli,Intl. Quickstep,1
+CA,0,1,Final,Bill Roth,Taba Ofuka,18,1,1, Pro/Am Adult B2 Open Silver Intl. Quickstep  (Q),Sample,0,hdb08,80C5351C,157,Gosia Zygadlo,Intl. Quickstep,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,11,1,1, Pro/Am Adult A2 Full Gold Intl. Quickstep  (Q),Sample,0,hdb08,80C23B1C,141,Melissa Dexter,Intl. Quickstep,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,13,1,1, Pro/Am Adult A2 Full Gold Intl. Quickstep  (Q),Sample,0,hdb08,80C23B1C,141,Charlotte Jorgensen,Intl. Quickstep,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,15,1,1, Pro/Am Adult A2 Full Gold Intl. Quickstep  (Q),Sample,0,hdb08,80C23B1C,141,Stephan Krauel,Intl. Quickstep,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,17,1,1, Pro/Am Adult A2 Full Gold Intl. Quickstep  (Q),Sample,0,hdb08,80C23B1C,141,Giacomo Staccagli,Intl. Quickstep,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,18,1,1, Pro/Am Adult A2 Full Gold Intl. Quickstep  (Q),Sample,0,hdb08,80C23B1C,141,Gosia Zygadlo,Intl. Quickstep,1
+MS,0,2,Final,Adrian Sanborn,Anna Chen,11,1,2, Student/Student Adult A1 Open Gold Intl. Quickstep  (Q),Sample,0,hdb08,B0C13D1C,162,Melissa Dexter,Intl. Quickstep,1
+MS,0,1,Final,Adrian Sanborn,Anna Chen,13,1,1, Student/Student Adult A1 Open Gold Intl. Quickstep  (Q),Sample,0,hdb08,B0C13D1C,162,Charlotte Jorgensen,Intl. Quickstep,1
+MS,0,1,Final,Adrian Sanborn,Anna Chen,15,1,1, Student/Student Adult A1 Open Gold Intl. Quickstep  (Q),Sample,0,hdb08,B0C13D1C,162,Stephan Krauel,Intl. Quickstep,1
+MS,0,1,Final,Adrian Sanborn,Anna Chen,17,1,1, Student/Student Adult A1 Open Gold Intl. Quickstep  (Q),Sample,0,hdb08,B0C13D1C,162,Giacomo Staccagli,Intl. Quickstep,1
+MS,0,1,Final,Adrian Sanborn,Anna Chen,18,1,1, Student/Student Adult A1 Open Gold Intl. Quickstep  (Q),Sample,0,hdb08,B0C13D1C,162,Gosia Zygadlo,Intl. Quickstep,1
+CA,0,1,Final,John Huang,Oksana Bazhenova,11,1,1, Amateur Adult Warmup Standard  (TF),Sample,0,hdb08,40422111,138,Melissa Dexter,Tango,1
+CA,0,1,Final,John Huang,Oksana Bazhenova,13,1,1, Amateur Adult Warmup Standard  (TF),Sample,0,hdb08,40422111,138,Charlotte Jorgensen,Tango,1
+CA,0,1,Final,John Huang,Oksana Bazhenova,15,1,1, Amateur Adult Warmup Standard  (TF),Sample,0,hdb08,40422111,138,Stephan Krauel,Tango,1
+CA,0,1,Final,John Huang,Oksana Bazhenova,16,1,1, Amateur Adult Warmup Standard  (TF),Sample,0,hdb08,40422111,138,Rex Lewis,Tango,1
+CA,0,2,Final,John Huang,Oksana Bazhenova,17,1,2, Amateur Adult Warmup Standard  (TF),Sample,0,hdb08,40422111,138,Giacomo Staccagli,Tango,1
+MS,0,3,Final,Adrian Sanborn,Anna Chen,11,2,3, Amateur Adult Warmup Standard  (TF),Sample,0,hdb08,40422111,162,Melissa Dexter,Tango,2
+MS,0,2,Final,Adrian Sanborn,Anna Chen,13,2,2, Amateur Adult Warmup Standard  (TF),Sample,0,hdb08,40422111,162,Charlotte Jorgensen,Tango,2
+MS,0,2,Final,Adrian Sanborn,Anna Chen,15,2,2, Amateur Adult Warmup Standard  (TF),Sample,0,hdb08,40422111,162,Stephan Krauel,Tango,2
+MS,0,2,Final,Adrian Sanborn,Anna Chen,16,2,2, Amateur Adult Warmup Standard  (TF),Sample,0,hdb08,40422111,162,Rex Lewis,Tango,2
+MS,0,1,Final,Adrian Sanborn,Anna Chen,17,2,1, Amateur Adult Warmup Standard  (TF),Sample,0,hdb08,40422111,162,Giacomo Staccagli,Tango,2
+CA,0,2,Final,John Li,Yolanda Li,11,3,2, Amateur Adult Warmup Standard  (TF),Sample,0,hdb08,40422111,151,Melissa Dexter,Tango,3
+CA,0,4,Final,John Li,Yolanda Li,13,3,4, Amateur Adult Warmup Standard  (TF),Sample,0,hdb08,40422111,151,Charlotte Jorgensen,Tango,3
+CA,0,3,Final,John Li,Yolanda Li,15,3,3, Amateur Adult Warmup Standard  (TF),Sample,0,hdb08,40422111,151,Stephan Krauel,Tango,3
+CA,0,3,Final,John Li,Yolanda Li,16,3,3, Amateur Adult Warmup Standard  (TF),Sample,0,hdb08,40422111,151,Rex Lewis,Tango,3
+CA,0,4,Final,John Li,Yolanda Li,17,3,4, Amateur Adult Warmup Standard  (TF),Sample,0,hdb08,40422111,151,Giacomo Staccagli,Tango,3
+CA,0,4,Final,Chad Hamilton,Susan Aitken,11,4,4, Amateur Adult Warmup Standard  (TF),Sample,0,hdb08,40422111,137,Melissa Dexter,Tango,4
+CA,0,3,Final,Chad Hamilton,Susan Aitken,13,4,3, Amateur Adult Warmup Standard  (TF),Sample,0,hdb08,40422111,137,Charlotte Jorgensen,Tango,4
+CA,0,4,Final,Chad Hamilton,Susan Aitken,15,4,4, Amateur Adult Warmup Standard  (TF),Sample,0,hdb08,40422111,137,Stephan Krauel,Tango,4
+CA,0,4,Final,Chad Hamilton,Susan Aitken,16,4,4, Amateur Adult Warmup Standard  (TF),Sample,0,hdb08,40422111,137,Rex Lewis,Tango,4
+CA,0,3,Final,Chad Hamilton,Susan Aitken,17,4,3, Amateur Adult Warmup Standard  (TF),Sample,0,hdb08,40422111,137,Giacomo Staccagli,Tango,4
+CA,0,1,Final,John Huang,Oksana Bazhenova,11,1,1, Amateur Adult Warmup Standard  (TF),Sample,1,hdb08,40422111,138,Melissa Dexter,Foxtrot,1
+CA,0,1,Final,John Huang,Oksana Bazhenova,13,1,1, Amateur Adult Warmup Standard  (TF),Sample,1,hdb08,40422111,138,Charlotte Jorgensen,Foxtrot,1
+CA,0,1,Final,John Huang,Oksana Bazhenova,15,1,1, Amateur Adult Warmup Standard  (TF),Sample,1,hdb08,40422111,138,Stephan Krauel,Foxtrot,1
+CA,0,2,Final,John Huang,Oksana Bazhenova,16,1,2, Amateur Adult Warmup Standard  (TF),Sample,1,hdb08,40422111,138,Rex Lewis,Foxtrot,1
+CA,0,2,Final,John Huang,Oksana Bazhenova,17,1,2, Amateur Adult Warmup Standard  (TF),Sample,1,hdb08,40422111,138,Giacomo Staccagli,Foxtrot,1
+MS,0,2,Final,Adrian Sanborn,Anna Chen,11,2,2, Amateur Adult Warmup Standard  (TF),Sample,1,hdb08,40422111,162,Melissa Dexter,Foxtrot,2
+MS,0,3,Final,Adrian Sanborn,Anna Chen,13,2,3, Amateur Adult Warmup Standard  (TF),Sample,1,hdb08,40422111,162,Charlotte Jorgensen,Foxtrot,2
+MS,0,2,Final,Adrian Sanborn,Anna Chen,15,2,2, Amateur Adult Warmup Standard  (TF),Sample,1,hdb08,40422111,162,Stephan Krauel,Foxtrot,2
+MS,0,1,Final,Adrian Sanborn,Anna Chen,16,2,1, Amateur Adult Warmup Standard  (TF),Sample,1,hdb08,40422111,162,Rex Lewis,Foxtrot,2
+MS,0,1,Final,Adrian Sanborn,Anna Chen,17,2,1, Amateur Adult Warmup Standard  (TF),Sample,1,hdb08,40422111,162,Giacomo Staccagli,Foxtrot,2
+CA,0,3,Final,John Li,Yolanda Li,11,3,3, Amateur Adult Warmup Standard  (TF),Sample,1,hdb08,40422111,151,Melissa Dexter,Foxtrot,3
+CA,0,4,Final,John Li,Yolanda Li,13,3,4, Amateur Adult Warmup Standard  (TF),Sample,1,hdb08,40422111,151,Charlotte Jorgensen,Foxtrot,3
+CA,0,4,Final,John Li,Yolanda Li,15,3,4, Amateur Adult Warmup Standard  (TF),Sample,1,hdb08,40422111,151,Stephan Krauel,Foxtrot,3
+CA,0,3,Final,John Li,Yolanda Li,16,3,3, Amateur Adult Warmup Standard  (TF),Sample,1,hdb08,40422111,151,Rex Lewis,Foxtrot,3
+CA,0,3,Final,John Li,Yolanda Li,17,3,3, Amateur Adult Warmup Standard  (TF),Sample,1,hdb08,40422111,151,Giacomo Staccagli,Foxtrot,3
+CA,0,4,Final,Chad Hamilton,Susan Aitken,11,4,4, Amateur Adult Warmup Standard  (TF),Sample,1,hdb08,40422111,137,Melissa Dexter,Foxtrot,4
+CA,0,2,Final,Chad Hamilton,Susan Aitken,13,4,2, Amateur Adult Warmup Standard  (TF),Sample,1,hdb08,40422111,137,Charlotte Jorgensen,Foxtrot,4
+CA,0,3,Final,Chad Hamilton,Susan Aitken,15,4,3, Amateur Adult Warmup Standard  (TF),Sample,1,hdb08,40422111,137,Stephan Krauel,Foxtrot,4
+CA,0,4,Final,Chad Hamilton,Susan Aitken,16,4,4, Amateur Adult Warmup Standard  (TF),Sample,1,hdb08,40422111,137,Rex Lewis,Foxtrot,4
+CA,0,4,Final,Chad Hamilton,Susan Aitken,17,4,4, Amateur Adult Warmup Standard  (TF),Sample,1,hdb08,40422111,137,Giacomo Staccagli,Foxtrot,4
+CA,0,1,Final,John Huang,Oksana Bazhenova,11,1,1, Amateur Adult Warmup Standard  (WQ),Sample,0,hdb08,40422110,138,Melissa Dexter,Waltz,1
+CA,0,1,Final,John Huang,Oksana Bazhenova,13,1,1, Amateur Adult Warmup Standard  (WQ),Sample,0,hdb08,40422110,138,Charlotte Jorgensen,Waltz,1
+CA,0,1,Final,John Huang,Oksana Bazhenova,15,1,1, Amateur Adult Warmup Standard  (WQ),Sample,0,hdb08,40422110,138,Stephan Krauel,Waltz,1
+CA,0,2,Final,John Huang,Oksana Bazhenova,16,1,2, Amateur Adult Warmup Standard  (WQ),Sample,0,hdb08,40422110,138,Rex Lewis,Waltz,1
+CA,0,2,Final,John Huang,Oksana Bazhenova,17,1,2, Amateur Adult Warmup Standard  (WQ),Sample,0,hdb08,40422110,138,Giacomo Staccagli,Waltz,1
+MS,0,2,Final,Adrian Sanborn,Anna Chen,11,2,2, Amateur Adult Warmup Standard  (WQ),Sample,0,hdb08,40422110,162,Melissa Dexter,Waltz,2
+MS,0,2,Final,Adrian Sanborn,Anna Chen,13,2,2, Amateur Adult Warmup Standard  (WQ),Sample,0,hdb08,40422110,162,Charlotte Jorgensen,Waltz,2
+MS,0,2,Final,Adrian Sanborn,Anna Chen,15,2,2, Amateur Adult Warmup Standard  (WQ),Sample,0,hdb08,40422110,162,Stephan Krauel,Waltz,2
+MS,0,1,Final,Adrian Sanborn,Anna Chen,16,2,1, Amateur Adult Warmup Standard  (WQ),Sample,0,hdb08,40422110,162,Rex Lewis,Waltz,2
+MS,0,1,Final,Adrian Sanborn,Anna Chen,17,2,1, Amateur Adult Warmup Standard  (WQ),Sample,0,hdb08,40422110,162,Giacomo Staccagli,Waltz,2
+CA,0,3,Final,Chad Hamilton,Susan Aitken,11,3,3, Amateur Adult Warmup Standard  (WQ),Sample,0,hdb08,40422110,137,Melissa Dexter,Waltz,3
+CA,0,3,Final,Chad Hamilton,Susan Aitken,13,3,3, Amateur Adult Warmup Standard  (WQ),Sample,0,hdb08,40422110,137,Charlotte Jorgensen,Waltz,3
+CA,0,4,Final,Chad Hamilton,Susan Aitken,15,3,4, Amateur Adult Warmup Standard  (WQ),Sample,0,hdb08,40422110,137,Stephan Krauel,Waltz,3
+CA,0,3,Final,Chad Hamilton,Susan Aitken,16,3,3, Amateur Adult Warmup Standard  (WQ),Sample,0,hdb08,40422110,137,Rex Lewis,Waltz,3
+CA,0,3,Final,Chad Hamilton,Susan Aitken,17,3,3, Amateur Adult Warmup Standard  (WQ),Sample,0,hdb08,40422110,137,Giacomo Staccagli,Waltz,3
+CA,0,4,Final,John Li,Yolanda Li,11,4,4, Amateur Adult Warmup Standard  (WQ),Sample,0,hdb08,40422110,151,Melissa Dexter,Waltz,4
+CA,0,4,Final,John Li,Yolanda Li,13,4,4, Amateur Adult Warmup Standard  (WQ),Sample,0,hdb08,40422110,151,Charlotte Jorgensen,Waltz,4
+CA,0,3,Final,John Li,Yolanda Li,15,4,3, Amateur Adult Warmup Standard  (WQ),Sample,0,hdb08,40422110,151,Stephan Krauel,Waltz,4
+CA,0,4,Final,John Li,Yolanda Li,16,4,4, Amateur Adult Warmup Standard  (WQ),Sample,0,hdb08,40422110,151,Rex Lewis,Waltz,4
+CA,0,4,Final,John Li,Yolanda Li,17,4,4, Amateur Adult Warmup Standard  (WQ),Sample,0,hdb08,40422110,151,Giacomo Staccagli,Waltz,4
+CA,0,1,Final,John Huang,Oksana Bazhenova,11,1,1, Amateur Adult Warmup Standard  (WQ),Sample,1,hdb08,40422110,138,Melissa Dexter,Quickstep,1
+CA,0,1,Final,John Huang,Oksana Bazhenova,13,1,1, Amateur Adult Warmup Standard  (WQ),Sample,1,hdb08,40422110,138,Charlotte Jorgensen,Quickstep,1
+CA,0,1,Final,John Huang,Oksana Bazhenova,15,1,1, Amateur Adult Warmup Standard  (WQ),Sample,1,hdb08,40422110,138,Stephan Krauel,Quickstep,1
+CA,0,2,Final,John Huang,Oksana Bazhenova,16,1,2, Amateur Adult Warmup Standard  (WQ),Sample,1,hdb08,40422110,138,Rex Lewis,Quickstep,1
+CA,0,2,Final,John Huang,Oksana Bazhenova,17,1,2, Amateur Adult Warmup Standard  (WQ),Sample,1,hdb08,40422110,138,Giacomo Staccagli,Quickstep,1
+MS,0,2,Final,Adrian Sanborn,Anna Chen,11,2,2, Amateur Adult Warmup Standard  (WQ),Sample,1,hdb08,40422110,162,Melissa Dexter,Quickstep,2
+MS,0,2,Final,Adrian Sanborn,Anna Chen,13,2,2, Amateur Adult Warmup Standard  (WQ),Sample,1,hdb08,40422110,162,Charlotte Jorgensen,Quickstep,2
+MS,0,2,Final,Adrian Sanborn,Anna Chen,15,2,2, Amateur Adult Warmup Standard  (WQ),Sample,1,hdb08,40422110,162,Stephan Krauel,Quickstep,2
+MS,0,1,Final,Adrian Sanborn,Anna Chen,16,2,1, Amateur Adult Warmup Standard  (WQ),Sample,1,hdb08,40422110,162,Rex Lewis,Quickstep,2
+MS,0,1,Final,Adrian Sanborn,Anna Chen,17,2,1, Amateur Adult Warmup Standard  (WQ),Sample,1,hdb08,40422110,162,Giacomo Staccagli,Quickstep,2
+CA,0,3,Final,Chad Hamilton,Susan Aitken,11,3,3, Amateur Adult Warmup Standard  (WQ),Sample,1,hdb08,40422110,137,Melissa Dexter,Quickstep,3
+CA,0,3,Final,Chad Hamilton,Susan Aitken,13,3,3, Amateur Adult Warmup Standard  (WQ),Sample,1,hdb08,40422110,137,Charlotte Jorgensen,Quickstep,3
+CA,0,3,Final,Chad Hamilton,Susan Aitken,15,3,3, Amateur Adult Warmup Standard  (WQ),Sample,1,hdb08,40422110,137,Stephan Krauel,Quickstep,3
+CA,0,4,Final,Chad Hamilton,Susan Aitken,16,3,4, Amateur Adult Warmup Standard  (WQ),Sample,1,hdb08,40422110,137,Rex Lewis,Quickstep,3
+CA,0,3,Final,Chad Hamilton,Susan Aitken,17,3,3, Amateur Adult Warmup Standard  (WQ),Sample,1,hdb08,40422110,137,Giacomo Staccagli,Quickstep,3
+CA,0,4,Final,John Li,Yolanda Li,11,4,4, Amateur Adult Warmup Standard  (WQ),Sample,1,hdb08,40422110,151,Melissa Dexter,Quickstep,4
+CA,0,4,Final,John Li,Yolanda Li,13,4,4, Amateur Adult Warmup Standard  (WQ),Sample,1,hdb08,40422110,151,Charlotte Jorgensen,Quickstep,4
+CA,0,4,Final,John Li,Yolanda Li,15,4,4, Amateur Adult Warmup Standard  (WQ),Sample,1,hdb08,40422110,151,Stephan Krauel,Quickstep,4
+CA,0,3,Final,John Li,Yolanda Li,16,4,3, Amateur Adult Warmup Standard  (WQ),Sample,1,hdb08,40422110,151,Rex Lewis,Quickstep,4
+CA,0,4,Final,John Li,Yolanda Li,17,4,4, Amateur Adult Warmup Standard  (WQ),Sample,1,hdb08,40422110,151,Giacomo Staccagli,Quickstep,4
+CA,0,2,Final,Danny Lerer,Barnaly Pande,11,1,2, Pro/Am  Silver Scholarship Standard  (WTQF),Sample,0,hdb08,80017010,149,Melissa Dexter,Waltz,1
+CA,0,2,Final,Danny Lerer,Barnaly Pande,13,1,2, Pro/Am  Silver Scholarship Standard  (WTQF),Sample,0,hdb08,80017010,149,Charlotte Jorgensen,Waltz,1
+CA,0,1,Final,Danny Lerer,Barnaly Pande,15,1,1, Pro/Am  Silver Scholarship Standard  (WTQF),Sample,0,hdb08,80017010,149,Stephan Krauel,Waltz,1
+CA,0,1,Final,Danny Lerer,Barnaly Pande,16,1,1, Pro/Am  Silver Scholarship Standard  (WTQF),Sample,0,hdb08,80017010,149,Rex Lewis,Waltz,1
+CA,0,1,Final,Danny Lerer,Barnaly Pande,17,1,1, Pro/Am  Silver Scholarship Standard  (WTQF),Sample,0,hdb08,80017010,149,Giacomo Staccagli,Waltz,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,11,2,1, Pro/Am  Silver Scholarship Standard  (WTQF),Sample,0,hdb08,80017010,141,Melissa Dexter,Waltz,2
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,13,2,1, Pro/Am  Silver Scholarship Standard  (WTQF),Sample,0,hdb08,80017010,141,Charlotte Jorgensen,Waltz,2
+CA,0,2,Final,Tadas Jonyla,Jan Duffy,15,2,2, Pro/Am  Silver Scholarship Standard  (WTQF),Sample,0,hdb08,80017010,141,Stephan Krauel,Waltz,2
+CA,0,2,Final,Tadas Jonyla,Jan Duffy,16,2,2, Pro/Am  Silver Scholarship Standard  (WTQF),Sample,0,hdb08,80017010,141,Rex Lewis,Waltz,2
+CA,0,2,Final,Tadas Jonyla,Jan Duffy,17,2,2, Pro/Am  Silver Scholarship Standard  (WTQF),Sample,0,hdb08,80017010,141,Giacomo Staccagli,Waltz,2
+CA,0,1,Final,Danny Lerer,Barnaly Pande,11,1,1, Pro/Am  Silver Scholarship Standard  (WTQF),Sample,1,hdb08,80017010,149,Melissa Dexter,Tango,1
+CA,0,2,Final,Danny Lerer,Barnaly Pande,13,1,2, Pro/Am  Silver Scholarship Standard  (WTQF),Sample,1,hdb08,80017010,149,Charlotte Jorgensen,Tango,1
+CA,0,1,Final,Danny Lerer,Barnaly Pande,15,1,1, Pro/Am  Silver Scholarship Standard  (WTQF),Sample,1,hdb08,80017010,149,Stephan Krauel,Tango,1
+CA,0,1,Final,Danny Lerer,Barnaly Pande,16,1,1, Pro/Am  Silver Scholarship Standard  (WTQF),Sample,1,hdb08,80017010,149,Rex Lewis,Tango,1
+CA,0,1,Final,Danny Lerer,Barnaly Pande,17,1,1, Pro/Am  Silver Scholarship Standard  (WTQF),Sample,1,hdb08,80017010,149,Giacomo Staccagli,Tango,1
+CA,0,2,Final,Tadas Jonyla,Jan Duffy,11,2,2, Pro/Am  Silver Scholarship Standard  (WTQF),Sample,1,hdb08,80017010,141,Melissa Dexter,Tango,2
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,13,2,1, Pro/Am  Silver Scholarship Standard  (WTQF),Sample,1,hdb08,80017010,141,Charlotte Jorgensen,Tango,2
+CA,0,2,Final,Tadas Jonyla,Jan Duffy,15,2,2, Pro/Am  Silver Scholarship Standard  (WTQF),Sample,1,hdb08,80017010,141,Stephan Krauel,Tango,2
+CA,0,2,Final,Tadas Jonyla,Jan Duffy,16,2,2, Pro/Am  Silver Scholarship Standard  (WTQF),Sample,1,hdb08,80017010,141,Rex Lewis,Tango,2
+CA,0,2,Final,Tadas Jonyla,Jan Duffy,17,2,2, Pro/Am  Silver Scholarship Standard  (WTQF),Sample,1,hdb08,80017010,141,Giacomo Staccagli,Tango,2
+CA,0,1,Final,Danny Lerer,Barnaly Pande,11,1,1, Pro/Am  Silver Scholarship Standard  (WTQF),Sample,2,hdb08,80017010,149,Melissa Dexter,Quickstep,1
+CA,0,1,Final,Danny Lerer,Barnaly Pande,13,1,1, Pro/Am  Silver Scholarship Standard  (WTQF),Sample,2,hdb08,80017010,149,Charlotte Jorgensen,Quickstep,1
+CA,0,1,Final,Danny Lerer,Barnaly Pande,15,1,1, Pro/Am  Silver Scholarship Standard  (WTQF),Sample,2,hdb08,80017010,149,Stephan Krauel,Quickstep,1
+CA,0,1,Final,Danny Lerer,Barnaly Pande,16,1,1, Pro/Am  Silver Scholarship Standard  (WTQF),Sample,2,hdb08,80017010,149,Rex Lewis,Quickstep,1
+CA,0,1,Final,Danny Lerer,Barnaly Pande,17,1,1, Pro/Am  Silver Scholarship Standard  (WTQF),Sample,2,hdb08,80017010,149,Giacomo Staccagli,Quickstep,1
+CA,0,2,Final,Tadas Jonyla,Jan Duffy,11,2,2, Pro/Am  Silver Scholarship Standard  (WTQF),Sample,2,hdb08,80017010,141,Melissa Dexter,Quickstep,2
+CA,0,2,Final,Tadas Jonyla,Jan Duffy,13,2,2, Pro/Am  Silver Scholarship Standard  (WTQF),Sample,2,hdb08,80017010,141,Charlotte Jorgensen,Quickstep,2
+CA,0,2,Final,Tadas Jonyla,Jan Duffy,15,2,2, Pro/Am  Silver Scholarship Standard  (WTQF),Sample,2,hdb08,80017010,141,Stephan Krauel,Quickstep,2
+CA,0,2,Final,Tadas Jonyla,Jan Duffy,16,2,2, Pro/Am  Silver Scholarship Standard  (WTQF),Sample,2,hdb08,80017010,141,Rex Lewis,Quickstep,2
+CA,0,2,Final,Tadas Jonyla,Jan Duffy,17,2,2, Pro/Am  Silver Scholarship Standard  (WTQF),Sample,2,hdb08,80017010,141,Giacomo Staccagli,Quickstep,2
+CA,0,2,Final,Danny Lerer,Barnaly Pande,11,2,2, Pro/Am  Silver Scholarship Standard  (WTQF),Sample,3,hdb08,80017010,149,Melissa Dexter,Foxtrot,1
+CA,0,2,Final,Danny Lerer,Barnaly Pande,13,2,2, Pro/Am  Silver Scholarship Standard  (WTQF),Sample,3,hdb08,80017010,149,Charlotte Jorgensen,Foxtrot,1
+CA,0,1,Final,Danny Lerer,Barnaly Pande,15,2,1, Pro/Am  Silver Scholarship Standard  (WTQF),Sample,3,hdb08,80017010,149,Stephan Krauel,Foxtrot,1
+CA,0,2,Final,Danny Lerer,Barnaly Pande,16,2,2, Pro/Am  Silver Scholarship Standard  (WTQF),Sample,3,hdb08,80017010,149,Rex Lewis,Foxtrot,1
+CA,0,2,Final,Danny Lerer,Barnaly Pande,17,2,2, Pro/Am  Silver Scholarship Standard  (WTQF),Sample,3,hdb08,80017010,149,Giacomo Staccagli,Foxtrot,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,11,1,1, Pro/Am  Silver Scholarship Standard  (WTQF),Sample,3,hdb08,80017010,141,Melissa Dexter,Foxtrot,2
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,13,1,1, Pro/Am  Silver Scholarship Standard  (WTQF),Sample,3,hdb08,80017010,141,Charlotte Jorgensen,Foxtrot,2
+CA,0,2,Final,Tadas Jonyla,Jan Duffy,15,1,2, Pro/Am  Silver Scholarship Standard  (WTQF),Sample,3,hdb08,80017010,141,Stephan Krauel,Foxtrot,2
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,16,1,1, Pro/Am  Silver Scholarship Standard  (WTQF),Sample,3,hdb08,80017010,141,Rex Lewis,Foxtrot,2
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,17,1,1, Pro/Am  Silver Scholarship Standard  (WTQF),Sample,3,hdb08,80017010,141,Giacomo Staccagli,Foxtrot,2
+CA,0,1,Final,Hristo Minev,Jennifer Chu,11,1,1, Pro/Am  Bronze Scholarship Standard  (WTQ),Sample,0,hdb08,80016810,110,Melissa Dexter,Waltz,1
+CA,0,1,Final,Hristo Minev,Jennifer Chu,13,1,1, Pro/Am  Bronze Scholarship Standard  (WTQ),Sample,0,hdb08,80016810,110,Charlotte Jorgensen,Waltz,1
+CA,0,1,Final,Hristo Minev,Jennifer Chu,15,1,1, Pro/Am  Bronze Scholarship Standard  (WTQ),Sample,0,hdb08,80016810,110,Stephan Krauel,Waltz,1
+CA,0,1,Final,Hristo Minev,Jennifer Chu,16,1,1, Pro/Am  Bronze Scholarship Standard  (WTQ),Sample,0,hdb08,80016810,110,Rex Lewis,Waltz,1
+CA,0,1,Final,Hristo Minev,Jennifer Chu,17,1,1, Pro/Am  Bronze Scholarship Standard  (WTQ),Sample,0,hdb08,80016810,110,Giacomo Staccagli,Waltz,1
+CA,0,1,Final,Hristo Minev,Jennifer Chu,11,1,1, Pro/Am  Bronze Scholarship Standard  (WTQ),Sample,1,hdb08,80016810,110,Melissa Dexter,Tango,1
+CA,0,1,Final,Hristo Minev,Jennifer Chu,13,1,1, Pro/Am  Bronze Scholarship Standard  (WTQ),Sample,1,hdb08,80016810,110,Charlotte Jorgensen,Tango,1
+CA,0,1,Final,Hristo Minev,Jennifer Chu,15,1,1, Pro/Am  Bronze Scholarship Standard  (WTQ),Sample,1,hdb08,80016810,110,Stephan Krauel,Tango,1
+CA,0,1,Final,Hristo Minev,Jennifer Chu,16,1,1, Pro/Am  Bronze Scholarship Standard  (WTQ),Sample,1,hdb08,80016810,110,Rex Lewis,Tango,1
+CA,0,1,Final,Hristo Minev,Jennifer Chu,17,1,1, Pro/Am  Bronze Scholarship Standard  (WTQ),Sample,1,hdb08,80016810,110,Giacomo Staccagli,Tango,1
+CA,0,1,Final,Hristo Minev,Jennifer Chu,11,1,1, Pro/Am  Bronze Scholarship Standard  (WTQ),Sample,2,hdb08,80016810,110,Melissa Dexter,Quickstep,1
+CA,0,1,Final,Hristo Minev,Jennifer Chu,13,1,1, Pro/Am  Bronze Scholarship Standard  (WTQ),Sample,2,hdb08,80016810,110,Charlotte Jorgensen,Quickstep,1
+CA,0,1,Final,Hristo Minev,Jennifer Chu,15,1,1, Pro/Am  Bronze Scholarship Standard  (WTQ),Sample,2,hdb08,80016810,110,Stephan Krauel,Quickstep,1
+CA,0,1,Final,Hristo Minev,Jennifer Chu,16,1,1, Pro/Am  Bronze Scholarship Standard  (WTQ),Sample,2,hdb08,80016810,110,Rex Lewis,Quickstep,1
+CA,0,1,Final,Hristo Minev,Jennifer Chu,17,1,1, Pro/Am  Bronze Scholarship Standard  (WTQ),Sample,2,hdb08,80016810,110,Giacomo Staccagli,Quickstep,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,11,1,1, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,0,hdb08,8001C010,141,Melissa Dexter,Waltz,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,13,1,1, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,0,hdb08,8001C010,141,Charlotte Jorgensen,Waltz,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,15,1,1, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,0,hdb08,8001C010,141,Stephan Krauel,Waltz,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,16,1,1, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,0,hdb08,8001C010,141,Rex Lewis,Waltz,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,17,1,1, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,0,hdb08,8001C010,141,Giacomo Staccagli,Waltz,1
+,0,2,Final,Curtis Eaves,Sharon Liu,11,2,2, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,0,hdb08,8001C010,133,Melissa Dexter,Waltz,2
+,0,2,Final,Curtis Eaves,Sharon Liu,13,2,2, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,0,hdb08,8001C010,133,Charlotte Jorgensen,Waltz,2
+,0,2,Final,Curtis Eaves,Sharon Liu,15,2,2, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,0,hdb08,8001C010,133,Stephan Krauel,Waltz,2
+,0,2,Final,Curtis Eaves,Sharon Liu,16,2,2, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,0,hdb08,8001C010,133,Rex Lewis,Waltz,2
+,0,2,Final,Curtis Eaves,Sharon Liu,17,2,2, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,0,hdb08,8001C010,133,Giacomo Staccagli,Waltz,2
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,11,1,1, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,1,hdb08,8001C010,141,Melissa Dexter,Tango,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,13,1,1, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,1,hdb08,8001C010,141,Charlotte Jorgensen,Tango,1
+CA,0,2,Final,Tadas Jonyla,Jan Duffy,15,1,2, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,1,hdb08,8001C010,141,Stephan Krauel,Tango,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,16,1,1, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,1,hdb08,8001C010,141,Rex Lewis,Tango,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,17,1,1, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,1,hdb08,8001C010,141,Giacomo Staccagli,Tango,1
+,0,2,Final,Curtis Eaves,Sharon Liu,11,2,2, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,1,hdb08,8001C010,133,Melissa Dexter,Tango,2
+,0,2,Final,Curtis Eaves,Sharon Liu,13,2,2, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,1,hdb08,8001C010,133,Charlotte Jorgensen,Tango,2
+,0,1,Final,Curtis Eaves,Sharon Liu,15,2,1, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,1,hdb08,8001C010,133,Stephan Krauel,Tango,2
+,0,2,Final,Curtis Eaves,Sharon Liu,16,2,2, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,1,hdb08,8001C010,133,Rex Lewis,Tango,2
+,0,2,Final,Curtis Eaves,Sharon Liu,17,2,2, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,1,hdb08,8001C010,133,Giacomo Staccagli,Tango,2
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,11,1,1, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,2,hdb08,8001C010,141,Melissa Dexter,Viennese Waltz,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,13,1,1, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,2,hdb08,8001C010,141,Charlotte Jorgensen,Viennese Waltz,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,15,1,1, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,2,hdb08,8001C010,141,Stephan Krauel,Viennese Waltz,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,16,1,1, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,2,hdb08,8001C010,141,Rex Lewis,Viennese Waltz,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,17,1,1, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,2,hdb08,8001C010,141,Giacomo Staccagli,Viennese Waltz,1
+,0,2,Final,Curtis Eaves,Sharon Liu,11,2,2, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,2,hdb08,8001C010,133,Melissa Dexter,Viennese Waltz,2
+,0,2,Final,Curtis Eaves,Sharon Liu,13,2,2, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,2,hdb08,8001C010,133,Charlotte Jorgensen,Viennese Waltz,2
+,0,2,Final,Curtis Eaves,Sharon Liu,15,2,2, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,2,hdb08,8001C010,133,Stephan Krauel,Viennese Waltz,2
+,0,2,Final,Curtis Eaves,Sharon Liu,16,2,2, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,2,hdb08,8001C010,133,Rex Lewis,Viennese Waltz,2
+,0,2,Final,Curtis Eaves,Sharon Liu,17,2,2, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,2,hdb08,8001C010,133,Giacomo Staccagli,Viennese Waltz,2
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,11,1,1, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,3,hdb08,8001C010,141,Melissa Dexter,Foxtrot,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,13,1,1, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,3,hdb08,8001C010,141,Charlotte Jorgensen,Foxtrot,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,15,1,1, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,3,hdb08,8001C010,141,Stephan Krauel,Foxtrot,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,16,1,1, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,3,hdb08,8001C010,141,Rex Lewis,Foxtrot,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,17,1,1, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,3,hdb08,8001C010,141,Giacomo Staccagli,Foxtrot,1
+,0,2,Final,Curtis Eaves,Sharon Liu,11,2,2, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,3,hdb08,8001C010,133,Melissa Dexter,Foxtrot,2
+,0,2,Final,Curtis Eaves,Sharon Liu,13,2,2, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,3,hdb08,8001C010,133,Charlotte Jorgensen,Foxtrot,2
+,0,2,Final,Curtis Eaves,Sharon Liu,15,2,2, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,3,hdb08,8001C010,133,Stephan Krauel,Foxtrot,2
+,0,2,Final,Curtis Eaves,Sharon Liu,16,2,2, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,3,hdb08,8001C010,133,Rex Lewis,Foxtrot,2
+,0,2,Final,Curtis Eaves,Sharon Liu,17,2,2, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,3,hdb08,8001C010,133,Giacomo Staccagli,Foxtrot,2
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,11,1,1, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,4,hdb08,8001C010,141,Melissa Dexter,Quickstep,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,13,1,1, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,4,hdb08,8001C010,141,Charlotte Jorgensen,Quickstep,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,15,1,1, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,4,hdb08,8001C010,141,Stephan Krauel,Quickstep,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,16,1,1, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,4,hdb08,8001C010,141,Rex Lewis,Quickstep,1
+CA,0,1,Final,Tadas Jonyla,Jan Duffy,17,1,1, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,4,hdb08,8001C010,141,Giacomo Staccagli,Quickstep,1
+,0,2,Final,Curtis Eaves,Sharon Liu,11,2,2, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,4,hdb08,8001C010,133,Melissa Dexter,Quickstep,2
+,0,2,Final,Curtis Eaves,Sharon Liu,13,2,2, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,4,hdb08,8001C010,133,Charlotte Jorgensen,Quickstep,2
+,0,2,Final,Curtis Eaves,Sharon Liu,15,2,2, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,4,hdb08,8001C010,133,Stephan Krauel,Quickstep,2
+,0,2,Final,Curtis Eaves,Sharon Liu,16,2,2, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,4,hdb08,8001C010,133,Rex Lewis,Quickstep,2
+,0,2,Final,Curtis Eaves,Sharon Liu,17,2,2, Pro/Am  Open Scholarship Standard  (WTVFQ),Sample,4,hdb08,8001C010,133,Giacomo Staccagli,Quickstep,2
+CA,0,2,Final,Douglas Priest,Laura White,11,2,2, Amateur Adult Novice Standard  (WTQ),Sample,0,hdb08,40428110,156,Melissa Dexter,Waltz,1
+CA,0,1,Final,Douglas Priest,Laura White,13,2,1, Amateur Adult Novice Standard  (WTQ),Sample,0,hdb08,40428110,156,Charlotte Jorgensen,Waltz,1
+CA,0,1,Final,Douglas Priest,Laura White,15,2,1, Amateur Adult Novice Standard  (WTQ),Sample,0,hdb08,40428110,156,Stephan Krauel,Waltz,1
+CA,0,2,Final,Douglas Priest,Laura White,16,2,2, Amateur Adult Novice Standard  (WTQ),Sample,0,hdb08,40428110,156,Rex Lewis,Waltz,1
+CA,0,2,Final,Douglas Priest,Laura White,17,2,2, Amateur Adult Novice Standard  (WTQ),Sample,0,hdb08,40428110,156,Giacomo Staccagli,Waltz,1
+CA,0,1,Final,Peter Ng,Christina Wu,11,1,1, Amateur Adult Novice Standard  (WTQ),Sample,0,hdb08,40428110,155,Melissa Dexter,Waltz,2
+CA,0,2,Final,Peter Ng,Christina Wu,13,1,2, Amateur Adult Novice Standard  (WTQ),Sample,0,hdb08,40428110,155,Charlotte Jorgensen,Waltz,2
+CA,0,2,Final,Peter Ng,Christina Wu,15,1,2, Amateur Adult Novice Standard  (WTQ),Sample,0,hdb08,40428110,155,Stephan Krauel,Waltz,2
+CA,0,1,Final,Peter Ng,Christina Wu,16,1,1, Amateur Adult Novice Standard  (WTQ),Sample,0,hdb08,40428110,155,Rex Lewis,Waltz,2
+CA,0,1,Final,Peter Ng,Christina Wu,17,1,1, Amateur Adult Novice Standard  (WTQ),Sample,0,hdb08,40428110,155,Giacomo Staccagli,Waltz,2
+MS,0,3,Final,Adrian Sanborn,Anna Chen,11,3,3, Amateur Adult Novice Standard  (WTQ),Sample,0,hdb08,40428110,162,Melissa Dexter,Waltz,3
+MS,0,3,Final,Adrian Sanborn,Anna Chen,13,3,3, Amateur Adult Novice Standard  (WTQ),Sample,0,hdb08,40428110,162,Charlotte Jorgensen,Waltz,3
+MS,0,3,Final,Adrian Sanborn,Anna Chen,15,3,3, Amateur Adult Novice Standard  (WTQ),Sample,0,hdb08,40428110,162,Stephan Krauel,Waltz,3
+MS,0,3,Final,Adrian Sanborn,Anna Chen,16,3,3, Amateur Adult Novice Standard  (WTQ),Sample,0,hdb08,40428110,162,Rex Lewis,Waltz,3
+MS,0,3,Final,Adrian Sanborn,Anna Chen,17,3,3, Amateur Adult Novice Standard  (WTQ),Sample,0,hdb08,40428110,162,Giacomo Staccagli,Waltz,3
+CA,0,2,Final,Douglas Priest,Laura White,11,1,2, Amateur Adult Novice Standard  (WTQ),Sample,1,hdb08,40428110,156,Melissa Dexter,Tango,1
+CA,0,1,Final,Douglas Priest,Laura White,13,1,1, Amateur Adult Novice Standard  (WTQ),Sample,1,hdb08,40428110,156,Charlotte Jorgensen,Tango,1
+CA,0,1,Final,Douglas Priest,Laura White,15,1,1, Amateur Adult Novice Standard  (WTQ),Sample,1,hdb08,40428110,156,Stephan Krauel,Tango,1
+CA,0,1,Final,Douglas Priest,Laura White,16,1,1, Amateur Adult Novice Standard  (WTQ),Sample,1,hdb08,40428110,156,Rex Lewis,Tango,1
+CA,0,3,Final,Douglas Priest,Laura White,17,1,3, Amateur Adult Novice Standard  (WTQ),Sample,1,hdb08,40428110,156,Giacomo Staccagli,Tango,1
+CA,0,1,Final,Peter Ng,Christina Wu,11,2,1, Amateur Adult Novice Standard  (WTQ),Sample,1,hdb08,40428110,155,Melissa Dexter,Tango,2
+CA,0,2,Final,Peter Ng,Christina Wu,13,2,2, Amateur Adult Novice Standard  (WTQ),Sample,1,hdb08,40428110,155,Charlotte Jorgensen,Tango,2
+CA,0,2,Final,Peter Ng,Christina Wu,15,2,2, Amateur Adult Novice Standard  (WTQ),Sample,1,hdb08,40428110,155,Stephan Krauel,Tango,2
+CA,0,2,Final,Peter Ng,Christina Wu,16,2,2, Amateur Adult Novice Standard  (WTQ),Sample,1,hdb08,40428110,155,Rex Lewis,Tango,2
+CA,0,1,Final,Peter Ng,Christina Wu,17,2,1, Amateur Adult Novice Standard  (WTQ),Sample,1,hdb08,40428110,155,Giacomo Staccagli,Tango,2
+MS,0,3,Final,Adrian Sanborn,Anna Chen,11,3,3, Amateur Adult Novice Standard  (WTQ),Sample,1,hdb08,40428110,162,Melissa Dexter,Tango,3
+MS,0,3,Final,Adrian Sanborn,Anna Chen,13,3,3, Amateur Adult Novice Standard  (WTQ),Sample,1,hdb08,40428110,162,Charlotte Jorgensen,Tango,3
+MS,0,3,Final,Adrian Sanborn,Anna Chen,15,3,3, Amateur Adult Novice Standard  (WTQ),Sample,1,hdb08,40428110,162,Stephan Krauel,Tango,3
+MS,0,3,Final,Adrian Sanborn,Anna Chen,16,3,3, Amateur Adult Novice Standard  (WTQ),Sample,1,hdb08,40428110,162,Rex Lewis,Tango,3
+MS,0,2,Final,Adrian Sanborn,Anna Chen,17,3,2, Amateur Adult Novice Standard  (WTQ),Sample,1,hdb08,40428110,162,Giacomo Staccagli,Tango,3
+CA,0,2,Final,Douglas Priest,Laura White,11,1,2, Amateur Adult Novice Standard  (WTQ),Sample,2,hdb08,40428110,156,Melissa Dexter,Quickstep,1
+CA,0,1,Final,Douglas Priest,Laura White,13,1,1, Amateur Adult Novice Standard  (WTQ),Sample,2,hdb08,40428110,156,Charlotte Jorgensen,Quickstep,1
+CA,0,1,Final,Douglas Priest,Laura White,15,1,1, Amateur Adult Novice Standard  (WTQ),Sample,2,hdb08,40428110,156,Stephan Krauel,Quickstep,1
+CA,0,1,Final,Douglas Priest,Laura White,16,1,1, Amateur Adult Novice Standard  (WTQ),Sample,2,hdb08,40428110,156,Rex Lewis,Quickstep,1
+CA,0,3,Final,Douglas Priest,Laura White,17,1,3, Amateur Adult Novice Standard  (WTQ),Sample,2,hdb08,40428110,156,Giacomo Staccagli,Quickstep,1
+CA,0,1,Final,Peter Ng,Christina Wu,11,2,1, Amateur Adult Novice Standard  (WTQ),Sample,2,hdb08,40428110,155,Melissa Dexter,Quickstep,2
+CA,0,2,Final,Peter Ng,Christina Wu,13,2,2, Amateur Adult Novice Standard  (WTQ),Sample,2,hdb08,40428110,155,Charlotte Jorgensen,Quickstep,2
+CA,0,2,Final,Peter Ng,Christina Wu,15,2,2, Amateur Adult Novice Standard  (WTQ),Sample,2,hdb08,40428110,155,Stephan Krauel,Quickstep,2
+CA,0,2,Final,Peter Ng,Christina Wu,16,2,2, Amateur Adult Novice Standard  (WTQ),Sample,2,hdb08,40428110,155,Rex Lewis,Quickstep,2
+CA,0,1,Final,Peter Ng,Christina Wu,17,2,1, Amateur Adult Novice Standard  (WTQ),Sample,2,hdb08,40428110,155,Giacomo Staccagli,Quickstep,2
+MS,0,3,Final,Adrian Sanborn,Anna Chen,11,3,3, Amateur Adult Novice Standard  (WTQ),Sample,2,hdb08,40428110,162,Melissa Dexter,Quickstep,3
+MS,0,3,Final,Adrian Sanborn,Anna Chen,13,3,3, Amateur Adult Novice Standard  (WTQ),Sample,2,hdb08,40428110,162,Charlotte Jorgensen,Quickstep,3
+MS,0,3,Final,Adrian Sanborn,Anna Chen,15,3,3, Amateur Adult Novice Standard  (WTQ),Sample,2,hdb08,40428110,162,Stephan Krauel,Quickstep,3
+MS,0,3,Final,Adrian Sanborn,Anna Chen,16,3,3, Amateur Adult Novice Standard  (WTQ),Sample,2,hdb08,40428110,162,Rex Lewis,Quickstep,3
+MS,0,2,Final,Adrian Sanborn,Anna Chen,17,3,2, Amateur Adult Novice Standard  (WTQ),Sample,2,hdb08,40428110,162,Giacomo Staccagli,Quickstep,3
+CA,0,1,Final,Gamble See,Desiree Doyle,11,1,1, Amateur Adult Open Smooth  (WTFV),Sample,0,hdb08,40428530,158,Melissa Dexter,Waltz,1
+CA,0,1,Final,Gamble See,Desiree Doyle,13,1,1, Amateur Adult Open Smooth  (WTFV),Sample,0,hdb08,40428530,158,Charlotte Jorgensen,Waltz,1
+CA,0,1,Final,Gamble See,Desiree Doyle,15,1,1, Amateur Adult Open Smooth  (WTFV),Sample,0,hdb08,40428530,158,Stephan Krauel,Waltz,1
+CA,0,1,Final,Gamble See,Desiree Doyle,16,1,1, Amateur Adult Open Smooth  (WTFV),Sample,0,hdb08,40428530,158,Rex Lewis,Waltz,1
+CA,0,1,Final,Gamble See,Desiree Doyle,17,1,1, Amateur Adult Open Smooth  (WTFV),Sample,0,hdb08,40428530,158,Giacomo Staccagli,Waltz,1
+CA,0,2,Final,James Kleinrath,Melody Singleton,11,2,2, Amateur Adult Open Smooth  (WTFV),Sample,0,hdb08,40428530,144,Melissa Dexter,Waltz,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,13,2,2, Amateur Adult Open Smooth  (WTFV),Sample,0,hdb08,40428530,144,Charlotte Jorgensen,Waltz,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,15,2,2, Amateur Adult Open Smooth  (WTFV),Sample,0,hdb08,40428530,144,Stephan Krauel,Waltz,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,16,2,2, Amateur Adult Open Smooth  (WTFV),Sample,0,hdb08,40428530,144,Rex Lewis,Waltz,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,17,2,2, Amateur Adult Open Smooth  (WTFV),Sample,0,hdb08,40428530,144,Giacomo Staccagli,Waltz,2
+CA,0,2,Final,Gamble See,Desiree Doyle,11,1,2, Amateur Adult Open Smooth  (WTFV),Sample,1,hdb08,40428530,158,Melissa Dexter,Tango,1
+CA,0,1,Final,Gamble See,Desiree Doyle,13,1,1, Amateur Adult Open Smooth  (WTFV),Sample,1,hdb08,40428530,158,Charlotte Jorgensen,Tango,1
+CA,0,1,Final,Gamble See,Desiree Doyle,15,1,1, Amateur Adult Open Smooth  (WTFV),Sample,1,hdb08,40428530,158,Stephan Krauel,Tango,1
+CA,0,1,Final,Gamble See,Desiree Doyle,16,1,1, Amateur Adult Open Smooth  (WTFV),Sample,1,hdb08,40428530,158,Rex Lewis,Tango,1
+CA,0,1,Final,Gamble See,Desiree Doyle,17,1,1, Amateur Adult Open Smooth  (WTFV),Sample,1,hdb08,40428530,158,Giacomo Staccagli,Tango,1
+CA,0,1,Final,James Kleinrath,Melody Singleton,11,2,1, Amateur Adult Open Smooth  (WTFV),Sample,1,hdb08,40428530,144,Melissa Dexter,Tango,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,13,2,2, Amateur Adult Open Smooth  (WTFV),Sample,1,hdb08,40428530,144,Charlotte Jorgensen,Tango,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,15,2,2, Amateur Adult Open Smooth  (WTFV),Sample,1,hdb08,40428530,144,Stephan Krauel,Tango,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,16,2,2, Amateur Adult Open Smooth  (WTFV),Sample,1,hdb08,40428530,144,Rex Lewis,Tango,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,17,2,2, Amateur Adult Open Smooth  (WTFV),Sample,1,hdb08,40428530,144,Giacomo Staccagli,Tango,2
+CA,0,2,Final,Gamble See,Desiree Doyle,11,1,2, Amateur Adult Open Smooth  (WTFV),Sample,2,hdb08,40428530,158,Melissa Dexter,Foxtrot,1
+CA,0,1,Final,Gamble See,Desiree Doyle,13,1,1, Amateur Adult Open Smooth  (WTFV),Sample,2,hdb08,40428530,158,Charlotte Jorgensen,Foxtrot,1
+CA,0,1,Final,Gamble See,Desiree Doyle,15,1,1, Amateur Adult Open Smooth  (WTFV),Sample,2,hdb08,40428530,158,Stephan Krauel,Foxtrot,1
+CA,0,2,Final,Gamble See,Desiree Doyle,16,1,2, Amateur Adult Open Smooth  (WTFV),Sample,2,hdb08,40428530,158,Rex Lewis,Foxtrot,1
+CA,0,1,Final,Gamble See,Desiree Doyle,17,1,1, Amateur Adult Open Smooth  (WTFV),Sample,2,hdb08,40428530,158,Giacomo Staccagli,Foxtrot,1
+CA,0,1,Final,James Kleinrath,Melody Singleton,11,2,1, Amateur Adult Open Smooth  (WTFV),Sample,2,hdb08,40428530,144,Melissa Dexter,Foxtrot,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,13,2,2, Amateur Adult Open Smooth  (WTFV),Sample,2,hdb08,40428530,144,Charlotte Jorgensen,Foxtrot,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,15,2,2, Amateur Adult Open Smooth  (WTFV),Sample,2,hdb08,40428530,144,Stephan Krauel,Foxtrot,2
+CA,0,1,Final,James Kleinrath,Melody Singleton,16,2,1, Amateur Adult Open Smooth  (WTFV),Sample,2,hdb08,40428530,144,Rex Lewis,Foxtrot,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,17,2,2, Amateur Adult Open Smooth  (WTFV),Sample,2,hdb08,40428530,144,Giacomo Staccagli,Foxtrot,2
+CA,0,2,Final,Gamble See,Desiree Doyle,11,1,2, Amateur Adult Open Smooth  (WTFV),Sample,3,hdb08,40428530,158,Melissa Dexter,Viennese Waltz,1
+CA,0,1,Final,Gamble See,Desiree Doyle,13,1,1, Amateur Adult Open Smooth  (WTFV),Sample,3,hdb08,40428530,158,Charlotte Jorgensen,Viennese Waltz,1
+CA,0,1,Final,Gamble See,Desiree Doyle,15,1,1, Amateur Adult Open Smooth  (WTFV),Sample,3,hdb08,40428530,158,Stephan Krauel,Viennese Waltz,1
+CA,0,1,Final,Gamble See,Desiree Doyle,16,1,1, Amateur Adult Open Smooth  (WTFV),Sample,3,hdb08,40428530,158,Rex Lewis,Viennese Waltz,1
+CA,0,1,Final,Gamble See,Desiree Doyle,17,1,1, Amateur Adult Open Smooth  (WTFV),Sample,3,hdb08,40428530,158,Giacomo Staccagli,Viennese Waltz,1
+CA,0,1,Final,James Kleinrath,Melody Singleton,11,2,1, Amateur Adult Open Smooth  (WTFV),Sample,3,hdb08,40428530,144,Melissa Dexter,Viennese Waltz,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,13,2,2, Amateur Adult Open Smooth  (WTFV),Sample,3,hdb08,40428530,144,Charlotte Jorgensen,Viennese Waltz,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,15,2,2, Amateur Adult Open Smooth  (WTFV),Sample,3,hdb08,40428530,144,Stephan Krauel,Viennese Waltz,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,16,2,2, Amateur Adult Open Smooth  (WTFV),Sample,3,hdb08,40428530,144,Rex Lewis,Viennese Waltz,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,17,2,2, Amateur Adult Open Smooth  (WTFV),Sample,3,hdb08,40428530,144,Giacomo Staccagli,Viennese Waltz,2
+CA,0,1,Final,Sergey Malko,Jo Kopp,10,1,1, Pro/Am Adult B2 Pre-Silver Am. Waltz  (W),Sample,0,hdb08,80C53138,153,Stephen Cullip,Am. Waltz,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,12,1,1, Pro/Am Adult B2 Pre-Silver Am. Waltz  (W),Sample,0,hdb08,80C53138,153,Nadia Eftedal,Am. Waltz,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,13,1,1, Pro/Am Adult B2 Pre-Silver Am. Waltz  (W),Sample,0,hdb08,80C53138,153,Charlotte Jorgensen,Am. Waltz,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,16,1,1, Pro/Am Adult B2 Pre-Silver Am. Waltz  (W),Sample,0,hdb08,80C53138,153,Rex Lewis,Am. Waltz,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,18,1,1, Pro/Am Adult B2 Pre-Silver Am. Waltz  (W),Sample,0,hdb08,80C53138,153,Gosia Zygadlo,Am. Waltz,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,10,1,1, Pro/Am Adult B2 Pre-Silver Am. Tango  (T),Sample,0,hdb08,80C53139,153,Stephen Cullip,Am. Tango,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,12,1,1, Pro/Am Adult B2 Pre-Silver Am. Tango  (T),Sample,0,hdb08,80C53139,153,Nadia Eftedal,Am. Tango,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,13,1,1, Pro/Am Adult B2 Pre-Silver Am. Tango  (T),Sample,0,hdb08,80C53139,153,Charlotte Jorgensen,Am. Tango,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,16,1,1, Pro/Am Adult B2 Pre-Silver Am. Tango  (T),Sample,0,hdb08,80C53139,153,Rex Lewis,Am. Tango,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,18,1,1, Pro/Am Adult B2 Pre-Silver Am. Tango  (T),Sample,0,hdb08,80C53139,153,Gosia Zygadlo,Am. Tango,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,10,1,1, Pro/Am Adult B2 Pre-Silver Am. Foxtrot  (F),Sample,0,hdb08,80C5313A,153,Stephen Cullip,Am. Foxtrot,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,12,1,1, Pro/Am Adult B2 Pre-Silver Am. Foxtrot  (F),Sample,0,hdb08,80C5313A,153,Nadia Eftedal,Am. Foxtrot,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,13,1,1, Pro/Am Adult B2 Pre-Silver Am. Foxtrot  (F),Sample,0,hdb08,80C5313A,153,Charlotte Jorgensen,Am. Foxtrot,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,16,1,1, Pro/Am Adult B2 Pre-Silver Am. Foxtrot  (F),Sample,0,hdb08,80C5313A,153,Rex Lewis,Am. Foxtrot,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,18,1,1, Pro/Am Adult B2 Pre-Silver Am. Foxtrot  (F),Sample,0,hdb08,80C5313A,153,Gosia Zygadlo,Am. Foxtrot,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,10,1,1, Pro/Am Adult B2 Pre-Silver Am. V. Waltz  (V),Sample,0,hdb08,80C5313B,153,Stephen Cullip,Am. V. Waltz,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,12,1,1, Pro/Am Adult B2 Pre-Silver Am. V. Waltz  (V),Sample,0,hdb08,80C5313B,153,Nadia Eftedal,Am. V. Waltz,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,13,1,1, Pro/Am Adult B2 Pre-Silver Am. V. Waltz  (V),Sample,0,hdb08,80C5313B,153,Charlotte Jorgensen,Am. V. Waltz,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,16,1,1, Pro/Am Adult B2 Pre-Silver Am. V. Waltz  (V),Sample,0,hdb08,80C5313B,153,Rex Lewis,Am. V. Waltz,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,18,1,1, Pro/Am Adult B2 Pre-Silver Am. V. Waltz  (V),Sample,0,hdb08,80C5313B,153,Gosia Zygadlo,Am. V. Waltz,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,10,1,1, Pro/Am Adult B2 Full Silver Am. Waltz  (W),Sample,0,hdb08,80C53338,153,Stephen Cullip,Am. Waltz,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,12,1,1, Pro/Am Adult B2 Full Silver Am. Waltz  (W),Sample,0,hdb08,80C53338,153,Nadia Eftedal,Am. Waltz,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,13,1,1, Pro/Am Adult B2 Full Silver Am. Waltz  (W),Sample,0,hdb08,80C53338,153,Charlotte Jorgensen,Am. Waltz,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,16,1,1, Pro/Am Adult B2 Full Silver Am. Waltz  (W),Sample,0,hdb08,80C53338,153,Rex Lewis,Am. Waltz,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,18,1,1, Pro/Am Adult B2 Full Silver Am. Waltz  (W),Sample,0,hdb08,80C53338,153,Gosia Zygadlo,Am. Waltz,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,10,1,1, Pro/Am Adult B2 Full Silver Am. Tango  (T),Sample,0,hdb08,80C53339,153,Stephen Cullip,Am. Tango,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,12,1,1, Pro/Am Adult B2 Full Silver Am. Tango  (T),Sample,0,hdb08,80C53339,153,Nadia Eftedal,Am. Tango,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,13,1,1, Pro/Am Adult B2 Full Silver Am. Tango  (T),Sample,0,hdb08,80C53339,153,Charlotte Jorgensen,Am. Tango,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,16,1,1, Pro/Am Adult B2 Full Silver Am. Tango  (T),Sample,0,hdb08,80C53339,153,Rex Lewis,Am. Tango,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,18,1,1, Pro/Am Adult B2 Full Silver Am. Tango  (T),Sample,0,hdb08,80C53339,153,Gosia Zygadlo,Am. Tango,1
+CA,0,2,Final,Sergey Malko,Jo Kopp,10,1,2, Pro/Am Adult B2 Full Silver Am. Foxtrot  (F),Sample,0,hdb08,80C5333A,153,Stephen Cullip,Am. Foxtrot,1
+CA,0,2,Final,Sergey Malko,Jo Kopp,12,1,2, Pro/Am Adult B2 Full Silver Am. Foxtrot  (F),Sample,0,hdb08,80C5333A,153,Nadia Eftedal,Am. Foxtrot,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,13,1,1, Pro/Am Adult B2 Full Silver Am. Foxtrot  (F),Sample,0,hdb08,80C5333A,153,Charlotte Jorgensen,Am. Foxtrot,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,16,1,1, Pro/Am Adult B2 Full Silver Am. Foxtrot  (F),Sample,0,hdb08,80C5333A,153,Rex Lewis,Am. Foxtrot,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,18,1,1, Pro/Am Adult B2 Full Silver Am. Foxtrot  (F),Sample,0,hdb08,80C5333A,153,Gosia Zygadlo,Am. Foxtrot,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,10,1,1, Pro/Am Adult B2 Full Silver Am. V. Waltz  (V),Sample,0,hdb08,80C5333B,153,Stephen Cullip,Am. V. Waltz,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,12,1,1, Pro/Am Adult B2 Full Silver Am. V. Waltz  (V),Sample,0,hdb08,80C5333B,153,Nadia Eftedal,Am. V. Waltz,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,13,1,1, Pro/Am Adult B2 Full Silver Am. V. Waltz  (V),Sample,0,hdb08,80C5333B,153,Charlotte Jorgensen,Am. V. Waltz,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,16,1,1, Pro/Am Adult B2 Full Silver Am. V. Waltz  (V),Sample,0,hdb08,80C5333B,153,Rex Lewis,Am. V. Waltz,1
+CA,0,1,Final,Sergey Malko,Jo Kopp,18,1,1, Pro/Am Adult B2 Full Silver Am. V. Waltz  (V),Sample,0,hdb08,80C5333B,153,Gosia Zygadlo,Am. V. Waltz,1
+CA,0,1,Final,Christopher Fisher,Sasha Garefova,10,1,1, Amateur Junior Open Standard  (WTFQ),Sample,0,hdb08,402C8510,163,Stephen Cullip,Waltz,1
+CA,0,1,Final,Christopher Fisher,Sasha Garefova,12,1,1, Amateur Junior Open Standard  (WTFQ),Sample,0,hdb08,402C8510,163,Nadia Eftedal,Waltz,1
+CA,0,1,Final,Christopher Fisher,Sasha Garefova,13,1,1, Amateur Junior Open Standard  (WTFQ),Sample,0,hdb08,402C8510,163,Charlotte Jorgensen,Waltz,1
+CA,0,1,Final,Christopher Fisher,Sasha Garefova,15,1,1, Amateur Junior Open Standard  (WTFQ),Sample,0,hdb08,402C8510,163,Stephan Krauel,Waltz,1
+CA,0,1,Final,Christopher Fisher,Sasha Garefova,16,1,1, Amateur Junior Open Standard  (WTFQ),Sample,0,hdb08,402C8510,163,Rex Lewis,Waltz,1
+CA,0,1,Final,Christopher Fisher,Sasha Garefova,17,1,1, Amateur Junior Open Standard  (WTFQ),Sample,0,hdb08,402C8510,163,Giacomo Staccagli,Waltz,1
+CA,0,1,Final,Christopher Fisher,Sasha Garefova,18,1,1, Amateur Junior Open Standard  (WTFQ),Sample,0,hdb08,402C8510,163,Gosia Zygadlo,Waltz,1
+CA,0,1,Final,Christopher Fisher,Sasha Garefova,10,1,1, Amateur Junior Open Standard  (WTFQ),Sample,1,hdb08,402C8510,163,Stephen Cullip,Tango,1
+CA,0,1,Final,Christopher Fisher,Sasha Garefova,12,1,1, Amateur Junior Open Standard  (WTFQ),Sample,1,hdb08,402C8510,163,Nadia Eftedal,Tango,1
+CA,0,1,Final,Christopher Fisher,Sasha Garefova,13,1,1, Amateur Junior Open Standard  (WTFQ),Sample,1,hdb08,402C8510,163,Charlotte Jorgensen,Tango,1
+CA,0,1,Final,Christopher Fisher,Sasha Garefova,15,1,1, Amateur Junior Open Standard  (WTFQ),Sample,1,hdb08,402C8510,163,Stephan Krauel,Tango,1
+CA,0,1,Final,Christopher Fisher,Sasha Garefova,16,1,1, Amateur Junior Open Standard  (WTFQ),Sample,1,hdb08,402C8510,163,Rex Lewis,Tango,1
+CA,0,1,Final,Christopher Fisher,Sasha Garefova,17,1,1, Amateur Junior Open Standard  (WTFQ),Sample,1,hdb08,402C8510,163,Giacomo Staccagli,Tango,1
+CA,0,1,Final,Christopher Fisher,Sasha Garefova,18,1,1, Amateur Junior Open Standard  (WTFQ),Sample,1,hdb08,402C8510,163,Gosia Zygadlo,Tango,1
+CA,0,1,Final,Christopher Fisher,Sasha Garefova,10,1,1, Amateur Junior Open Standard  (WTFQ),Sample,2,hdb08,402C8510,163,Stephen Cullip,Foxtrot,1
+CA,0,1,Final,Christopher Fisher,Sasha Garefova,12,1,1, Amateur Junior Open Standard  (WTFQ),Sample,2,hdb08,402C8510,163,Nadia Eftedal,Foxtrot,1
+CA,0,1,Final,Christopher Fisher,Sasha Garefova,13,1,1, Amateur Junior Open Standard  (WTFQ),Sample,2,hdb08,402C8510,163,Charlotte Jorgensen,Foxtrot,1
+CA,0,1,Final,Christopher Fisher,Sasha Garefova,15,1,1, Amateur Junior Open Standard  (WTFQ),Sample,2,hdb08,402C8510,163,Stephan Krauel,Foxtrot,1
+CA,0,1,Final,Christopher Fisher,Sasha Garefova,16,1,1, Amateur Junior Open Standard  (WTFQ),Sample,2,hdb08,402C8510,163,Rex Lewis,Foxtrot,1
+CA,0,1,Final,Christopher Fisher,Sasha Garefova,17,1,1, Amateur Junior Open Standard  (WTFQ),Sample,2,hdb08,402C8510,163,Giacomo Staccagli,Foxtrot,1
+CA,0,1,Final,Christopher Fisher,Sasha Garefova,18,1,1, Amateur Junior Open Standard  (WTFQ),Sample,2,hdb08,402C8510,163,Gosia Zygadlo,Foxtrot,1
+CA,0,1,Final,Christopher Fisher,Sasha Garefova,10,1,1, Amateur Junior Open Standard  (WTFQ),Sample,3,hdb08,402C8510,163,Stephen Cullip,Quickstep,1
+CA,0,1,Final,Christopher Fisher,Sasha Garefova,12,1,1, Amateur Junior Open Standard  (WTFQ),Sample,3,hdb08,402C8510,163,Nadia Eftedal,Quickstep,1
+CA,0,1,Final,Christopher Fisher,Sasha Garefova,13,1,1, Amateur Junior Open Standard  (WTFQ),Sample,3,hdb08,402C8510,163,Charlotte Jorgensen,Quickstep,1
+CA,0,1,Final,Christopher Fisher,Sasha Garefova,15,1,1, Amateur Junior Open Standard  (WTFQ),Sample,3,hdb08,402C8510,163,Stephan Krauel,Quickstep,1
+CA,0,1,Final,Christopher Fisher,Sasha Garefova,16,1,1, Amateur Junior Open Standard  (WTFQ),Sample,3,hdb08,402C8510,163,Rex Lewis,Quickstep,1
+CA,0,1,Final,Christopher Fisher,Sasha Garefova,17,1,1, Amateur Junior Open Standard  (WTFQ),Sample,3,hdb08,402C8510,163,Giacomo Staccagli,Quickstep,1
+CA,0,1,Final,Christopher Fisher,Sasha Garefova,18,1,1, Amateur Junior Open Standard  (WTFQ),Sample,3,hdb08,402C8510,163,Gosia Zygadlo,Quickstep,1
+CA,0,1,Final,Douglas Priest,Laura White,10,1,1, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,0,hdb08,40428310,156,Stephen Cullip,Waltz,1
+CA,0,1,Final,Douglas Priest,Laura White,12,1,1, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,0,hdb08,40428310,156,Nadia Eftedal,Waltz,1
+CA,0,1,Final,Douglas Priest,Laura White,13,1,1, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,0,hdb08,40428310,156,Charlotte Jorgensen,Waltz,1
+CA,0,1,Final,Douglas Priest,Laura White,15,1,1, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,0,hdb08,40428310,156,Stephan Krauel,Waltz,1
+CA,0,1,Final,Douglas Priest,Laura White,16,1,1, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,0,hdb08,40428310,156,Rex Lewis,Waltz,1
+CA,0,1,Final,Douglas Priest,Laura White,17,1,1, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,0,hdb08,40428310,156,Giacomo Staccagli,Waltz,1
+CA,0,1,Final,Douglas Priest,Laura White,18,1,1, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,0,hdb08,40428310,156,Gosia Zygadlo,Waltz,1
+CA,0,1,Final,Douglas Priest,Laura White,10,1,1, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,1,hdb08,40428310,156,Stephen Cullip,Tango,1
+CA,0,1,Final,Douglas Priest,Laura White,12,1,1, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,1,hdb08,40428310,156,Nadia Eftedal,Tango,1
+CA,0,1,Final,Douglas Priest,Laura White,13,1,1, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,1,hdb08,40428310,156,Charlotte Jorgensen,Tango,1
+CA,0,1,Final,Douglas Priest,Laura White,15,1,1, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,1,hdb08,40428310,156,Stephan Krauel,Tango,1
+CA,0,1,Final,Douglas Priest,Laura White,16,1,1, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,1,hdb08,40428310,156,Rex Lewis,Tango,1
+CA,0,1,Final,Douglas Priest,Laura White,17,1,1, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,1,hdb08,40428310,156,Giacomo Staccagli,Tango,1
+CA,0,1,Final,Douglas Priest,Laura White,18,1,1, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,1,hdb08,40428310,156,Gosia Zygadlo,Tango,1
+CA,0,1,Final,Douglas Priest,Laura White,10,1,1, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,2,hdb08,40428310,156,Stephen Cullip,Foxtrot,1
+CA,0,1,Final,Douglas Priest,Laura White,12,1,1, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,2,hdb08,40428310,156,Nadia Eftedal,Foxtrot,1
+CA,0,1,Final,Douglas Priest,Laura White,13,1,1, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,2,hdb08,40428310,156,Charlotte Jorgensen,Foxtrot,1
+CA,0,1,Final,Douglas Priest,Laura White,15,1,1, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,2,hdb08,40428310,156,Stephan Krauel,Foxtrot,1
+CA,0,1,Final,Douglas Priest,Laura White,16,1,1, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,2,hdb08,40428310,156,Rex Lewis,Foxtrot,1
+CA,0,1,Final,Douglas Priest,Laura White,17,1,1, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,2,hdb08,40428310,156,Giacomo Staccagli,Foxtrot,1
+CA,0,1,Final,Douglas Priest,Laura White,18,1,1, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,2,hdb08,40428310,156,Gosia Zygadlo,Foxtrot,1
+CA,0,1,Final,Douglas Priest,Laura White,10,1,1, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,3,hdb08,40428310,156,Stephen Cullip,Quickstep,1
+CA,0,1,Final,Douglas Priest,Laura White,12,1,1, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,3,hdb08,40428310,156,Nadia Eftedal,Quickstep,1
+CA,0,1,Final,Douglas Priest,Laura White,13,1,1, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,3,hdb08,40428310,156,Charlotte Jorgensen,Quickstep,1
+CA,0,1,Final,Douglas Priest,Laura White,15,1,1, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,3,hdb08,40428310,156,Stephan Krauel,Quickstep,1
+CA,0,1,Final,Douglas Priest,Laura White,16,1,1, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,3,hdb08,40428310,156,Rex Lewis,Quickstep,1
+CA,0,1,Final,Douglas Priest,Laura White,17,1,1, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,3,hdb08,40428310,156,Giacomo Staccagli,Quickstep,1
+CA,0,1,Final,Douglas Priest,Laura White,18,1,1, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,3,hdb08,40428310,156,Gosia Zygadlo,Quickstep,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,11,1,1, Amateur Senior I Open Standard  (WTVFQ),Sample,0,hdb08,40438510,154,Melissa Dexter,Waltz,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,12,1,1, Amateur Senior I Open Standard  (WTVFQ),Sample,0,hdb08,40438510,154,Nadia Eftedal,Waltz,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,13,1,1, Amateur Senior I Open Standard  (WTVFQ),Sample,0,hdb08,40438510,154,Charlotte Jorgensen,Waltz,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,15,1,1, Amateur Senior I Open Standard  (WTVFQ),Sample,0,hdb08,40438510,154,Stephan Krauel,Waltz,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,16,1,1, Amateur Senior I Open Standard  (WTVFQ),Sample,0,hdb08,40438510,154,Rex Lewis,Waltz,1
+CA,0,2,Final,Andreas Meijer,Jody Frease,17,1,2, Amateur Senior I Open Standard  (WTVFQ),Sample,0,hdb08,40438510,154,Giacomo Staccagli,Waltz,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,18,1,1, Amateur Senior I Open Standard  (WTVFQ),Sample,0,hdb08,40438510,154,Gosia Zygadlo,Waltz,1
+CA,0,2,Final,Winston Chow,Lilly Chow,11,2,2, Amateur Senior I Open Standard  (WTVFQ),Sample,0,hdb08,40438510,127,Melissa Dexter,Waltz,2
+CA,0,2,Final,Winston Chow,Lilly Chow,12,2,2, Amateur Senior I Open Standard  (WTVFQ),Sample,0,hdb08,40438510,127,Nadia Eftedal,Waltz,2
+CA,0,2,Final,Winston Chow,Lilly Chow,13,2,2, Amateur Senior I Open Standard  (WTVFQ),Sample,0,hdb08,40438510,127,Charlotte Jorgensen,Waltz,2
+CA,0,2,Final,Winston Chow,Lilly Chow,15,2,2, Amateur Senior I Open Standard  (WTVFQ),Sample,0,hdb08,40438510,127,Stephan Krauel,Waltz,2
+CA,0,2,Final,Winston Chow,Lilly Chow,16,2,2, Amateur Senior I Open Standard  (WTVFQ),Sample,0,hdb08,40438510,127,Rex Lewis,Waltz,2
+CA,0,4,Final,Winston Chow,Lilly Chow,17,2,4, Amateur Senior I Open Standard  (WTVFQ),Sample,0,hdb08,40438510,127,Giacomo Staccagli,Waltz,2
+CA,0,2,Final,Winston Chow,Lilly Chow,18,2,2, Amateur Senior I Open Standard  (WTVFQ),Sample,0,hdb08,40438510,127,Gosia Zygadlo,Waltz,2
+CA,0,4,Final,James Kleinrath,Melody Singleton,11,3,4, Amateur Senior I Open Standard  (WTVFQ),Sample,0,hdb08,40438510,144,Melissa Dexter,Waltz,3
+CA,0,4,Final,James Kleinrath,Melody Singleton,12,3,4, Amateur Senior I Open Standard  (WTVFQ),Sample,0,hdb08,40438510,144,Nadia Eftedal,Waltz,3
+CA,0,4,Final,James Kleinrath,Melody Singleton,13,3,4, Amateur Senior I Open Standard  (WTVFQ),Sample,0,hdb08,40438510,144,Charlotte Jorgensen,Waltz,3
+CA,0,3,Final,James Kleinrath,Melody Singleton,15,3,3, Amateur Senior I Open Standard  (WTVFQ),Sample,0,hdb08,40438510,144,Stephan Krauel,Waltz,3
+CA,0,3,Final,James Kleinrath,Melody Singleton,16,3,3, Amateur Senior I Open Standard  (WTVFQ),Sample,0,hdb08,40438510,144,Rex Lewis,Waltz,3
+CA,0,1,Final,James Kleinrath,Melody Singleton,17,3,1, Amateur Senior I Open Standard  (WTVFQ),Sample,0,hdb08,40438510,144,Giacomo Staccagli,Waltz,3
+CA,0,3,Final,James Kleinrath,Melody Singleton,18,3,3, Amateur Senior I Open Standard  (WTVFQ),Sample,0,hdb08,40438510,144,Gosia Zygadlo,Waltz,3
+CA,0,3,Final,Adel Ghoneimy,Karen Chow,11,4,3, Amateur Senior I Open Standard  (WTVFQ),Sample,0,hdb08,40438510,134,Melissa Dexter,Waltz,4
+CA,0,3,Final,Adel Ghoneimy,Karen Chow,12,4,3, Amateur Senior I Open Standard  (WTVFQ),Sample,0,hdb08,40438510,134,Nadia Eftedal,Waltz,4
+CA,0,3,Final,Adel Ghoneimy,Karen Chow,13,4,3, Amateur Senior I Open Standard  (WTVFQ),Sample,0,hdb08,40438510,134,Charlotte Jorgensen,Waltz,4
+CA,0,4,Final,Adel Ghoneimy,Karen Chow,15,4,4, Amateur Senior I Open Standard  (WTVFQ),Sample,0,hdb08,40438510,134,Stephan Krauel,Waltz,4
+CA,0,4,Final,Adel Ghoneimy,Karen Chow,16,4,4, Amateur Senior I Open Standard  (WTVFQ),Sample,0,hdb08,40438510,134,Rex Lewis,Waltz,4
+CA,0,3,Final,Adel Ghoneimy,Karen Chow,17,4,3, Amateur Senior I Open Standard  (WTVFQ),Sample,0,hdb08,40438510,134,Giacomo Staccagli,Waltz,4
+CA,0,4,Final,Adel Ghoneimy,Karen Chow,18,4,4, Amateur Senior I Open Standard  (WTVFQ),Sample,0,hdb08,40438510,134,Gosia Zygadlo,Waltz,4
+CA,0,1,Final,Andreas Meijer,Jody Frease,11,1,1, Amateur Senior I Open Standard  (WTVFQ),Sample,1,hdb08,40438510,154,Melissa Dexter,Tango,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,12,1,1, Amateur Senior I Open Standard  (WTVFQ),Sample,1,hdb08,40438510,154,Nadia Eftedal,Tango,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,13,1,1, Amateur Senior I Open Standard  (WTVFQ),Sample,1,hdb08,40438510,154,Charlotte Jorgensen,Tango,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,15,1,1, Amateur Senior I Open Standard  (WTVFQ),Sample,1,hdb08,40438510,154,Stephan Krauel,Tango,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,16,1,1, Amateur Senior I Open Standard  (WTVFQ),Sample,1,hdb08,40438510,154,Rex Lewis,Tango,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,17,1,1, Amateur Senior I Open Standard  (WTVFQ),Sample,1,hdb08,40438510,154,Giacomo Staccagli,Tango,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,18,1,1, Amateur Senior I Open Standard  (WTVFQ),Sample,1,hdb08,40438510,154,Gosia Zygadlo,Tango,1
+CA,0,3,Final,Winston Chow,Lilly Chow,11,2,3, Amateur Senior I Open Standard  (WTVFQ),Sample,1,hdb08,40438510,127,Melissa Dexter,Tango,2
+CA,0,2,Final,Winston Chow,Lilly Chow,12,2,2, Amateur Senior I Open Standard  (WTVFQ),Sample,1,hdb08,40438510,127,Nadia Eftedal,Tango,2
+CA,0,2,Final,Winston Chow,Lilly Chow,13,2,2, Amateur Senior I Open Standard  (WTVFQ),Sample,1,hdb08,40438510,127,Charlotte Jorgensen,Tango,2
+CA,0,2,Final,Winston Chow,Lilly Chow,15,2,2, Amateur Senior I Open Standard  (WTVFQ),Sample,1,hdb08,40438510,127,Stephan Krauel,Tango,2
+CA,0,2,Final,Winston Chow,Lilly Chow,16,2,2, Amateur Senior I Open Standard  (WTVFQ),Sample,1,hdb08,40438510,127,Rex Lewis,Tango,2
+CA,0,2,Final,Winston Chow,Lilly Chow,17,2,2, Amateur Senior I Open Standard  (WTVFQ),Sample,1,hdb08,40438510,127,Giacomo Staccagli,Tango,2
+CA,0,2,Final,Winston Chow,Lilly Chow,18,2,2, Amateur Senior I Open Standard  (WTVFQ),Sample,1,hdb08,40438510,127,Gosia Zygadlo,Tango,2
+CA,0,4,Final,James Kleinrath,Melody Singleton,11,3,4, Amateur Senior I Open Standard  (WTVFQ),Sample,1,hdb08,40438510,144,Melissa Dexter,Tango,3
+CA,0,4,Final,James Kleinrath,Melody Singleton,12,3,4, Amateur Senior I Open Standard  (WTVFQ),Sample,1,hdb08,40438510,144,Nadia Eftedal,Tango,3
+CA,0,3,Final,James Kleinrath,Melody Singleton,13,3,3, Amateur Senior I Open Standard  (WTVFQ),Sample,1,hdb08,40438510,144,Charlotte Jorgensen,Tango,3
+CA,0,3,Final,James Kleinrath,Melody Singleton,15,3,3, Amateur Senior I Open Standard  (WTVFQ),Sample,1,hdb08,40438510,144,Stephan Krauel,Tango,3
+CA,0,3,Final,James Kleinrath,Melody Singleton,16,3,3, Amateur Senior I Open Standard  (WTVFQ),Sample,1,hdb08,40438510,144,Rex Lewis,Tango,3
+CA,0,3,Final,James Kleinrath,Melody Singleton,17,3,3, Amateur Senior I Open Standard  (WTVFQ),Sample,1,hdb08,40438510,144,Giacomo Staccagli,Tango,3
+CA,0,3,Final,James Kleinrath,Melody Singleton,18,3,3, Amateur Senior I Open Standard  (WTVFQ),Sample,1,hdb08,40438510,144,Gosia Zygadlo,Tango,3
+CA,0,2,Final,Adel Ghoneimy,Karen Chow,11,4,2, Amateur Senior I Open Standard  (WTVFQ),Sample,1,hdb08,40438510,134,Melissa Dexter,Tango,4
+CA,0,3,Final,Adel Ghoneimy,Karen Chow,12,4,3, Amateur Senior I Open Standard  (WTVFQ),Sample,1,hdb08,40438510,134,Nadia Eftedal,Tango,4
+CA,0,4,Final,Adel Ghoneimy,Karen Chow,13,4,4, Amateur Senior I Open Standard  (WTVFQ),Sample,1,hdb08,40438510,134,Charlotte Jorgensen,Tango,4
+CA,0,4,Final,Adel Ghoneimy,Karen Chow,15,4,4, Amateur Senior I Open Standard  (WTVFQ),Sample,1,hdb08,40438510,134,Stephan Krauel,Tango,4
+CA,0,4,Final,Adel Ghoneimy,Karen Chow,16,4,4, Amateur Senior I Open Standard  (WTVFQ),Sample,1,hdb08,40438510,134,Rex Lewis,Tango,4
+CA,0,4,Final,Adel Ghoneimy,Karen Chow,17,4,4, Amateur Senior I Open Standard  (WTVFQ),Sample,1,hdb08,40438510,134,Giacomo Staccagli,Tango,4
+CA,0,4,Final,Adel Ghoneimy,Karen Chow,18,4,4, Amateur Senior I Open Standard  (WTVFQ),Sample,1,hdb08,40438510,134,Gosia Zygadlo,Tango,4
+CA,0,1,Final,Andreas Meijer,Jody Frease,11,1,1, Amateur Senior I Open Standard  (WTVFQ),Sample,2,hdb08,40438510,154,Melissa Dexter,Viennese Waltz,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,12,1,1, Amateur Senior I Open Standard  (WTVFQ),Sample,2,hdb08,40438510,154,Nadia Eftedal,Viennese Waltz,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,13,1,1, Amateur Senior I Open Standard  (WTVFQ),Sample,2,hdb08,40438510,154,Charlotte Jorgensen,Viennese Waltz,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,15,1,1, Amateur Senior I Open Standard  (WTVFQ),Sample,2,hdb08,40438510,154,Stephan Krauel,Viennese Waltz,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,16,1,1, Amateur Senior I Open Standard  (WTVFQ),Sample,2,hdb08,40438510,154,Rex Lewis,Viennese Waltz,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,17,1,1, Amateur Senior I Open Standard  (WTVFQ),Sample,2,hdb08,40438510,154,Giacomo Staccagli,Viennese Waltz,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,18,1,1, Amateur Senior I Open Standard  (WTVFQ),Sample,2,hdb08,40438510,154,Gosia Zygadlo,Viennese Waltz,1
+CA,0,2,Final,Winston Chow,Lilly Chow,11,2,2, Amateur Senior I Open Standard  (WTVFQ),Sample,2,hdb08,40438510,127,Melissa Dexter,Viennese Waltz,2
+CA,0,2,Final,Winston Chow,Lilly Chow,12,2,2, Amateur Senior I Open Standard  (WTVFQ),Sample,2,hdb08,40438510,127,Nadia Eftedal,Viennese Waltz,2
+CA,0,2,Final,Winston Chow,Lilly Chow,13,2,2, Amateur Senior I Open Standard  (WTVFQ),Sample,2,hdb08,40438510,127,Charlotte Jorgensen,Viennese Waltz,2
+CA,0,2,Final,Winston Chow,Lilly Chow,15,2,2, Amateur Senior I Open Standard  (WTVFQ),Sample,2,hdb08,40438510,127,Stephan Krauel,Viennese Waltz,2
+CA,0,2,Final,Winston Chow,Lilly Chow,16,2,2, Amateur Senior I Open Standard  (WTVFQ),Sample,2,hdb08,40438510,127,Rex Lewis,Viennese Waltz,2
+CA,0,2,Final,Winston Chow,Lilly Chow,17,2,2, Amateur Senior I Open Standard  (WTVFQ),Sample,2,hdb08,40438510,127,Giacomo Staccagli,Viennese Waltz,2
+CA,0,4,Final,Winston Chow,Lilly Chow,18,2,4, Amateur Senior I Open Standard  (WTVFQ),Sample,2,hdb08,40438510,127,Gosia Zygadlo,Viennese Waltz,2
+CA,0,4,Final,James Kleinrath,Melody Singleton,11,3,4, Amateur Senior I Open Standard  (WTVFQ),Sample,2,hdb08,40438510,144,Melissa Dexter,Viennese Waltz,3
+CA,0,4,Final,James Kleinrath,Melody Singleton,12,3,4, Amateur Senior I Open Standard  (WTVFQ),Sample,2,hdb08,40438510,144,Nadia Eftedal,Viennese Waltz,3
+CA,0,4,Final,James Kleinrath,Melody Singleton,13,3,4, Amateur Senior I Open Standard  (WTVFQ),Sample,2,hdb08,40438510,144,Charlotte Jorgensen,Viennese Waltz,3
+CA,0,3,Final,James Kleinrath,Melody Singleton,15,3,3, Amateur Senior I Open Standard  (WTVFQ),Sample,2,hdb08,40438510,144,Stephan Krauel,Viennese Waltz,3
+CA,0,3,Final,James Kleinrath,Melody Singleton,16,3,3, Amateur Senior I Open Standard  (WTVFQ),Sample,2,hdb08,40438510,144,Rex Lewis,Viennese Waltz,3
+CA,0,3,Final,James Kleinrath,Melody Singleton,17,3,3, Amateur Senior I Open Standard  (WTVFQ),Sample,2,hdb08,40438510,144,Giacomo Staccagli,Viennese Waltz,3
+CA,0,2,Final,James Kleinrath,Melody Singleton,18,3,2, Amateur Senior I Open Standard  (WTVFQ),Sample,2,hdb08,40438510,144,Gosia Zygadlo,Viennese Waltz,3
+CA,0,3,Final,Adel Ghoneimy,Karen Chow,11,4,3, Amateur Senior I Open Standard  (WTVFQ),Sample,2,hdb08,40438510,134,Melissa Dexter,Viennese Waltz,4
+CA,0,3,Final,Adel Ghoneimy,Karen Chow,12,4,3, Amateur Senior I Open Standard  (WTVFQ),Sample,2,hdb08,40438510,134,Nadia Eftedal,Viennese Waltz,4
+CA,0,3,Final,Adel Ghoneimy,Karen Chow,13,4,3, Amateur Senior I Open Standard  (WTVFQ),Sample,2,hdb08,40438510,134,Charlotte Jorgensen,Viennese Waltz,4
+CA,0,4,Final,Adel Ghoneimy,Karen Chow,15,4,4, Amateur Senior I Open Standard  (WTVFQ),Sample,2,hdb08,40438510,134,Stephan Krauel,Viennese Waltz,4
+CA,0,4,Final,Adel Ghoneimy,Karen Chow,16,4,4, Amateur Senior I Open Standard  (WTVFQ),Sample,2,hdb08,40438510,134,Rex Lewis,Viennese Waltz,4
+CA,0,4,Final,Adel Ghoneimy,Karen Chow,17,4,4, Amateur Senior I Open Standard  (WTVFQ),Sample,2,hdb08,40438510,134,Giacomo Staccagli,Viennese Waltz,4
+CA,0,3,Final,Adel Ghoneimy,Karen Chow,18,4,3, Amateur Senior I Open Standard  (WTVFQ),Sample,2,hdb08,40438510,134,Gosia Zygadlo,Viennese Waltz,4
+CA,0,1,Final,Andreas Meijer,Jody Frease,11,1,1, Amateur Senior I Open Standard  (WTVFQ),Sample,3,hdb08,40438510,154,Melissa Dexter,Foxtrot,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,12,1,1, Amateur Senior I Open Standard  (WTVFQ),Sample,3,hdb08,40438510,154,Nadia Eftedal,Foxtrot,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,13,1,1, Amateur Senior I Open Standard  (WTVFQ),Sample,3,hdb08,40438510,154,Charlotte Jorgensen,Foxtrot,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,15,1,1, Amateur Senior I Open Standard  (WTVFQ),Sample,3,hdb08,40438510,154,Stephan Krauel,Foxtrot,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,16,1,1, Amateur Senior I Open Standard  (WTVFQ),Sample,3,hdb08,40438510,154,Rex Lewis,Foxtrot,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,17,1,1, Amateur Senior I Open Standard  (WTVFQ),Sample,3,hdb08,40438510,154,Giacomo Staccagli,Foxtrot,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,18,1,1, Amateur Senior I Open Standard  (WTVFQ),Sample,3,hdb08,40438510,154,Gosia Zygadlo,Foxtrot,1
+CA,0,3,Final,Winston Chow,Lilly Chow,11,2,3, Amateur Senior I Open Standard  (WTVFQ),Sample,3,hdb08,40438510,127,Melissa Dexter,Foxtrot,2
+CA,0,2,Final,Winston Chow,Lilly Chow,12,2,2, Amateur Senior I Open Standard  (WTVFQ),Sample,3,hdb08,40438510,127,Nadia Eftedal,Foxtrot,2
+CA,0,2,Final,Winston Chow,Lilly Chow,13,2,2, Amateur Senior I Open Standard  (WTVFQ),Sample,3,hdb08,40438510,127,Charlotte Jorgensen,Foxtrot,2
+CA,0,2,Final,Winston Chow,Lilly Chow,15,2,2, Amateur Senior I Open Standard  (WTVFQ),Sample,3,hdb08,40438510,127,Stephan Krauel,Foxtrot,2
+CA,0,2,Final,Winston Chow,Lilly Chow,16,2,2, Amateur Senior I Open Standard  (WTVFQ),Sample,3,hdb08,40438510,127,Rex Lewis,Foxtrot,2
+CA,0,2,Final,Winston Chow,Lilly Chow,17,2,2, Amateur Senior I Open Standard  (WTVFQ),Sample,3,hdb08,40438510,127,Giacomo Staccagli,Foxtrot,2
+CA,0,2,Final,Winston Chow,Lilly Chow,18,2,2, Amateur Senior I Open Standard  (WTVFQ),Sample,3,hdb08,40438510,127,Gosia Zygadlo,Foxtrot,2
+CA,0,4,Final,James Kleinrath,Melody Singleton,11,3,4, Amateur Senior I Open Standard  (WTVFQ),Sample,3,hdb08,40438510,144,Melissa Dexter,Foxtrot,3
+CA,0,4,Final,James Kleinrath,Melody Singleton,12,3,4, Amateur Senior I Open Standard  (WTVFQ),Sample,3,hdb08,40438510,144,Nadia Eftedal,Foxtrot,3
+CA,0,3,Final,James Kleinrath,Melody Singleton,13,3,3, Amateur Senior I Open Standard  (WTVFQ),Sample,3,hdb08,40438510,144,Charlotte Jorgensen,Foxtrot,3
+CA,0,3,Final,James Kleinrath,Melody Singleton,15,3,3, Amateur Senior I Open Standard  (WTVFQ),Sample,3,hdb08,40438510,144,Stephan Krauel,Foxtrot,3
+CA,0,3,Final,James Kleinrath,Melody Singleton,16,3,3, Amateur Senior I Open Standard  (WTVFQ),Sample,3,hdb08,40438510,144,Rex Lewis,Foxtrot,3
+CA,0,3,Final,James Kleinrath,Melody Singleton,17,3,3, Amateur Senior I Open Standard  (WTVFQ),Sample,3,hdb08,40438510,144,Giacomo Staccagli,Foxtrot,3
+CA,0,3,Final,James Kleinrath,Melody Singleton,18,3,3, Amateur Senior I Open Standard  (WTVFQ),Sample,3,hdb08,40438510,144,Gosia Zygadlo,Foxtrot,3
+CA,0,2,Final,Adel Ghoneimy,Karen Chow,11,4,2, Amateur Senior I Open Standard  (WTVFQ),Sample,3,hdb08,40438510,134,Melissa Dexter,Foxtrot,4
+CA,0,3,Final,Adel Ghoneimy,Karen Chow,12,4,3, Amateur Senior I Open Standard  (WTVFQ),Sample,3,hdb08,40438510,134,Nadia Eftedal,Foxtrot,4
+CA,0,4,Final,Adel Ghoneimy,Karen Chow,13,4,4, Amateur Senior I Open Standard  (WTVFQ),Sample,3,hdb08,40438510,134,Charlotte Jorgensen,Foxtrot,4
+CA,0,4,Final,Adel Ghoneimy,Karen Chow,15,4,4, Amateur Senior I Open Standard  (WTVFQ),Sample,3,hdb08,40438510,134,Stephan Krauel,Foxtrot,4
+CA,0,4,Final,Adel Ghoneimy,Karen Chow,16,4,4, Amateur Senior I Open Standard  (WTVFQ),Sample,3,hdb08,40438510,134,Rex Lewis,Foxtrot,4
+CA,0,4,Final,Adel Ghoneimy,Karen Chow,17,4,4, Amateur Senior I Open Standard  (WTVFQ),Sample,3,hdb08,40438510,134,Giacomo Staccagli,Foxtrot,4
+CA,0,4,Final,Adel Ghoneimy,Karen Chow,18,4,4, Amateur Senior I Open Standard  (WTVFQ),Sample,3,hdb08,40438510,134,Gosia Zygadlo,Foxtrot,4
+CA,0,1,Final,Andreas Meijer,Jody Frease,11,1,1, Amateur Senior I Open Standard  (WTVFQ),Sample,4,hdb08,40438510,154,Melissa Dexter,Quickstep,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,12,1,1, Amateur Senior I Open Standard  (WTVFQ),Sample,4,hdb08,40438510,154,Nadia Eftedal,Quickstep,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,13,1,1, Amateur Senior I Open Standard  (WTVFQ),Sample,4,hdb08,40438510,154,Charlotte Jorgensen,Quickstep,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,15,1,1, Amateur Senior I Open Standard  (WTVFQ),Sample,4,hdb08,40438510,154,Stephan Krauel,Quickstep,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,16,1,1, Amateur Senior I Open Standard  (WTVFQ),Sample,4,hdb08,40438510,154,Rex Lewis,Quickstep,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,17,1,1, Amateur Senior I Open Standard  (WTVFQ),Sample,4,hdb08,40438510,154,Giacomo Staccagli,Quickstep,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,18,1,1, Amateur Senior I Open Standard  (WTVFQ),Sample,4,hdb08,40438510,154,Gosia Zygadlo,Quickstep,1
+CA,0,2,Final,Winston Chow,Lilly Chow,11,2,2, Amateur Senior I Open Standard  (WTVFQ),Sample,4,hdb08,40438510,127,Melissa Dexter,Quickstep,2
+CA,0,2,Final,Winston Chow,Lilly Chow,12,2,2, Amateur Senior I Open Standard  (WTVFQ),Sample,4,hdb08,40438510,127,Nadia Eftedal,Quickstep,2
+CA,0,2,Final,Winston Chow,Lilly Chow,13,2,2, Amateur Senior I Open Standard  (WTVFQ),Sample,4,hdb08,40438510,127,Charlotte Jorgensen,Quickstep,2
+CA,0,2,Final,Winston Chow,Lilly Chow,15,2,2, Amateur Senior I Open Standard  (WTVFQ),Sample,4,hdb08,40438510,127,Stephan Krauel,Quickstep,2
+CA,0,2,Final,Winston Chow,Lilly Chow,16,2,2, Amateur Senior I Open Standard  (WTVFQ),Sample,4,hdb08,40438510,127,Rex Lewis,Quickstep,2
+CA,0,2,Final,Winston Chow,Lilly Chow,17,2,2, Amateur Senior I Open Standard  (WTVFQ),Sample,4,hdb08,40438510,127,Giacomo Staccagli,Quickstep,2
+CA,0,4,Final,Winston Chow,Lilly Chow,18,2,4, Amateur Senior I Open Standard  (WTVFQ),Sample,4,hdb08,40438510,127,Gosia Zygadlo,Quickstep,2
+CA,0,3,Final,James Kleinrath,Melody Singleton,11,4,3, Amateur Senior I Open Standard  (WTVFQ),Sample,4,hdb08,40438510,144,Melissa Dexter,Quickstep,3
+CA,0,4,Final,James Kleinrath,Melody Singleton,12,4,4, Amateur Senior I Open Standard  (WTVFQ),Sample,4,hdb08,40438510,144,Nadia Eftedal,Quickstep,3
+CA,0,4,Final,James Kleinrath,Melody Singleton,13,4,4, Amateur Senior I Open Standard  (WTVFQ),Sample,4,hdb08,40438510,144,Charlotte Jorgensen,Quickstep,3
+CA,0,3,Final,James Kleinrath,Melody Singleton,15,4,3, Amateur Senior I Open Standard  (WTVFQ),Sample,4,hdb08,40438510,144,Stephan Krauel,Quickstep,3
+CA,0,3,Final,James Kleinrath,Melody Singleton,16,4,3, Amateur Senior I Open Standard  (WTVFQ),Sample,4,hdb08,40438510,144,Rex Lewis,Quickstep,3
+CA,0,4,Final,James Kleinrath,Melody Singleton,17,4,4, Amateur Senior I Open Standard  (WTVFQ),Sample,4,hdb08,40438510,144,Giacomo Staccagli,Quickstep,3
+CA,0,3,Final,James Kleinrath,Melody Singleton,18,4,3, Amateur Senior I Open Standard  (WTVFQ),Sample,4,hdb08,40438510,144,Gosia Zygadlo,Quickstep,3
+CA,0,4,Final,Adel Ghoneimy,Karen Chow,11,3,4, Amateur Senior I Open Standard  (WTVFQ),Sample,4,hdb08,40438510,134,Melissa Dexter,Quickstep,4
+CA,0,3,Final,Adel Ghoneimy,Karen Chow,12,3,3, Amateur Senior I Open Standard  (WTVFQ),Sample,4,hdb08,40438510,134,Nadia Eftedal,Quickstep,4
+CA,0,3,Final,Adel Ghoneimy,Karen Chow,13,3,3, Amateur Senior I Open Standard  (WTVFQ),Sample,4,hdb08,40438510,134,Charlotte Jorgensen,Quickstep,4
+CA,0,4,Final,Adel Ghoneimy,Karen Chow,15,3,4, Amateur Senior I Open Standard  (WTVFQ),Sample,4,hdb08,40438510,134,Stephan Krauel,Quickstep,4
+CA,0,4,Final,Adel Ghoneimy,Karen Chow,16,3,4, Amateur Senior I Open Standard  (WTVFQ),Sample,4,hdb08,40438510,134,Rex Lewis,Quickstep,4
+CA,0,3,Final,Adel Ghoneimy,Karen Chow,17,3,3, Amateur Senior I Open Standard  (WTVFQ),Sample,4,hdb08,40438510,134,Giacomo Staccagli,Quickstep,4
+CA,0,2,Final,Adel Ghoneimy,Karen Chow,18,3,2, Amateur Senior I Open Standard  (WTVFQ),Sample,4,hdb08,40438510,134,Gosia Zygadlo,Quickstep,4
+CA,0,1,Final,Dale Tager,Faye Tager,11,1,1, Amateur Junior Open Latin  (CSRJ),Sample,0,hdb08,402C8520,159,Melissa Dexter,Cha Cha,1
+CA,0,1,Final,Dale Tager,Faye Tager,12,1,1, Amateur Junior Open Latin  (CSRJ),Sample,0,hdb08,402C8520,159,Nadia Eftedal,Cha Cha,1
+CA,0,1,Final,Dale Tager,Faye Tager,13,1,1, Amateur Junior Open Latin  (CSRJ),Sample,0,hdb08,402C8520,159,Charlotte Jorgensen,Cha Cha,1
+CA,0,1,Final,Dale Tager,Faye Tager,15,1,1, Amateur Junior Open Latin  (CSRJ),Sample,0,hdb08,402C8520,159,Stephan Krauel,Cha Cha,1
+CA,0,2,Final,Dale Tager,Faye Tager,16,1,2, Amateur Junior Open Latin  (CSRJ),Sample,0,hdb08,402C8520,159,Rex Lewis,Cha Cha,1
+CA,0,1,Final,Dale Tager,Faye Tager,17,1,1, Amateur Junior Open Latin  (CSRJ),Sample,0,hdb08,402C8520,159,Giacomo Staccagli,Cha Cha,1
+CA,0,1,Final,Dale Tager,Faye Tager,18,1,1, Amateur Junior Open Latin  (CSRJ),Sample,0,hdb08,402C8520,159,Gosia Zygadlo,Cha Cha,1
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,11,2,2, Amateur Junior Open Latin  (CSRJ),Sample,0,hdb08,402C8520,163,Melissa Dexter,Cha Cha,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,12,2,2, Amateur Junior Open Latin  (CSRJ),Sample,0,hdb08,402C8520,163,Nadia Eftedal,Cha Cha,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,13,2,2, Amateur Junior Open Latin  (CSRJ),Sample,0,hdb08,402C8520,163,Charlotte Jorgensen,Cha Cha,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,15,2,2, Amateur Junior Open Latin  (CSRJ),Sample,0,hdb08,402C8520,163,Stephan Krauel,Cha Cha,2
+CA,0,1,Final,Christopher Fisher,Sasha Garefova,16,2,1, Amateur Junior Open Latin  (CSRJ),Sample,0,hdb08,402C8520,163,Rex Lewis,Cha Cha,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,17,2,2, Amateur Junior Open Latin  (CSRJ),Sample,0,hdb08,402C8520,163,Giacomo Staccagli,Cha Cha,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,18,2,2, Amateur Junior Open Latin  (CSRJ),Sample,0,hdb08,402C8520,163,Gosia Zygadlo,Cha Cha,2
+CA,0,1,Final,Dale Tager,Faye Tager,11,1,1, Amateur Junior Open Latin  (CSRJ),Sample,1,hdb08,402C8520,159,Melissa Dexter,Samba,1
+CA,0,1,Final,Dale Tager,Faye Tager,12,1,1, Amateur Junior Open Latin  (CSRJ),Sample,1,hdb08,402C8520,159,Nadia Eftedal,Samba,1
+CA,0,1,Final,Dale Tager,Faye Tager,13,1,1, Amateur Junior Open Latin  (CSRJ),Sample,1,hdb08,402C8520,159,Charlotte Jorgensen,Samba,1
+CA,0,1,Final,Dale Tager,Faye Tager,15,1,1, Amateur Junior Open Latin  (CSRJ),Sample,1,hdb08,402C8520,159,Stephan Krauel,Samba,1
+CA,0,2,Final,Dale Tager,Faye Tager,16,1,2, Amateur Junior Open Latin  (CSRJ),Sample,1,hdb08,402C8520,159,Rex Lewis,Samba,1
+CA,0,1,Final,Dale Tager,Faye Tager,17,1,1, Amateur Junior Open Latin  (CSRJ),Sample,1,hdb08,402C8520,159,Giacomo Staccagli,Samba,1
+CA,0,1,Final,Dale Tager,Faye Tager,18,1,1, Amateur Junior Open Latin  (CSRJ),Sample,1,hdb08,402C8520,159,Gosia Zygadlo,Samba,1
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,11,2,2, Amateur Junior Open Latin  (CSRJ),Sample,1,hdb08,402C8520,163,Melissa Dexter,Samba,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,12,2,2, Amateur Junior Open Latin  (CSRJ),Sample,1,hdb08,402C8520,163,Nadia Eftedal,Samba,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,13,2,2, Amateur Junior Open Latin  (CSRJ),Sample,1,hdb08,402C8520,163,Charlotte Jorgensen,Samba,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,15,2,2, Amateur Junior Open Latin  (CSRJ),Sample,1,hdb08,402C8520,163,Stephan Krauel,Samba,2
+CA,0,1,Final,Christopher Fisher,Sasha Garefova,16,2,1, Amateur Junior Open Latin  (CSRJ),Sample,1,hdb08,402C8520,163,Rex Lewis,Samba,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,17,2,2, Amateur Junior Open Latin  (CSRJ),Sample,1,hdb08,402C8520,163,Giacomo Staccagli,Samba,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,18,2,2, Amateur Junior Open Latin  (CSRJ),Sample,1,hdb08,402C8520,163,Gosia Zygadlo,Samba,2
+CA,0,2,Final,Dale Tager,Faye Tager,11,1,2, Amateur Junior Open Latin  (CSRJ),Sample,2,hdb08,402C8520,159,Melissa Dexter,Rumba,1
+CA,0,1,Final,Dale Tager,Faye Tager,12,1,1, Amateur Junior Open Latin  (CSRJ),Sample,2,hdb08,402C8520,159,Nadia Eftedal,Rumba,1
+CA,0,1,Final,Dale Tager,Faye Tager,13,1,1, Amateur Junior Open Latin  (CSRJ),Sample,2,hdb08,402C8520,159,Charlotte Jorgensen,Rumba,1
+CA,0,1,Final,Dale Tager,Faye Tager,15,1,1, Amateur Junior Open Latin  (CSRJ),Sample,2,hdb08,402C8520,159,Stephan Krauel,Rumba,1
+CA,0,2,Final,Dale Tager,Faye Tager,16,1,2, Amateur Junior Open Latin  (CSRJ),Sample,2,hdb08,402C8520,159,Rex Lewis,Rumba,1
+CA,0,1,Final,Dale Tager,Faye Tager,17,1,1, Amateur Junior Open Latin  (CSRJ),Sample,2,hdb08,402C8520,159,Giacomo Staccagli,Rumba,1
+CA,0,1,Final,Dale Tager,Faye Tager,18,1,1, Amateur Junior Open Latin  (CSRJ),Sample,2,hdb08,402C8520,159,Gosia Zygadlo,Rumba,1
+CA,0,1,Final,Christopher Fisher,Sasha Garefova,11,2,1, Amateur Junior Open Latin  (CSRJ),Sample,2,hdb08,402C8520,163,Melissa Dexter,Rumba,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,12,2,2, Amateur Junior Open Latin  (CSRJ),Sample,2,hdb08,402C8520,163,Nadia Eftedal,Rumba,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,13,2,2, Amateur Junior Open Latin  (CSRJ),Sample,2,hdb08,402C8520,163,Charlotte Jorgensen,Rumba,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,15,2,2, Amateur Junior Open Latin  (CSRJ),Sample,2,hdb08,402C8520,163,Stephan Krauel,Rumba,2
+CA,0,1,Final,Christopher Fisher,Sasha Garefova,16,2,1, Amateur Junior Open Latin  (CSRJ),Sample,2,hdb08,402C8520,163,Rex Lewis,Rumba,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,17,2,2, Amateur Junior Open Latin  (CSRJ),Sample,2,hdb08,402C8520,163,Giacomo Staccagli,Rumba,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,18,2,2, Amateur Junior Open Latin  (CSRJ),Sample,2,hdb08,402C8520,163,Gosia Zygadlo,Rumba,2
+CA,0,1,Final,Dale Tager,Faye Tager,11,1,1, Amateur Junior Open Latin  (CSRJ),Sample,3,hdb08,402C8520,159,Melissa Dexter,Jive,1
+CA,0,1,Final,Dale Tager,Faye Tager,12,1,1, Amateur Junior Open Latin  (CSRJ),Sample,3,hdb08,402C8520,159,Nadia Eftedal,Jive,1
+CA,0,1,Final,Dale Tager,Faye Tager,13,1,1, Amateur Junior Open Latin  (CSRJ),Sample,3,hdb08,402C8520,159,Charlotte Jorgensen,Jive,1
+CA,0,1,Final,Dale Tager,Faye Tager,15,1,1, Amateur Junior Open Latin  (CSRJ),Sample,3,hdb08,402C8520,159,Stephan Krauel,Jive,1
+CA,0,1,Final,Dale Tager,Faye Tager,16,1,1, Amateur Junior Open Latin  (CSRJ),Sample,3,hdb08,402C8520,159,Rex Lewis,Jive,1
+CA,0,1,Final,Dale Tager,Faye Tager,17,1,1, Amateur Junior Open Latin  (CSRJ),Sample,3,hdb08,402C8520,159,Giacomo Staccagli,Jive,1
+CA,0,1,Final,Dale Tager,Faye Tager,18,1,1, Amateur Junior Open Latin  (CSRJ),Sample,3,hdb08,402C8520,159,Gosia Zygadlo,Jive,1
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,11,2,2, Amateur Junior Open Latin  (CSRJ),Sample,3,hdb08,402C8520,163,Melissa Dexter,Jive,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,12,2,2, Amateur Junior Open Latin  (CSRJ),Sample,3,hdb08,402C8520,163,Nadia Eftedal,Jive,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,13,2,2, Amateur Junior Open Latin  (CSRJ),Sample,3,hdb08,402C8520,163,Charlotte Jorgensen,Jive,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,15,2,2, Amateur Junior Open Latin  (CSRJ),Sample,3,hdb08,402C8520,163,Stephan Krauel,Jive,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,16,2,2, Amateur Junior Open Latin  (CSRJ),Sample,3,hdb08,402C8520,163,Rex Lewis,Jive,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,17,2,2, Amateur Junior Open Latin  (CSRJ),Sample,3,hdb08,402C8520,163,Giacomo Staccagli,Jive,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,18,2,2, Amateur Junior Open Latin  (CSRJ),Sample,3,hdb08,402C8520,163,Gosia Zygadlo,Jive,2
+CA,0,1,Final,Dale Tager,Faye Tager,11,1,1, Amateur Practice Open Latin  (CSRPJ),Sample,0,hdb08,40318520,159,Melissa Dexter,Cha Cha,1
+CA,0,1,Final,Dale Tager,Faye Tager,12,1,1, Amateur Practice Open Latin  (CSRPJ),Sample,0,hdb08,40318520,159,Nadia Eftedal,Cha Cha,1
+CA,0,1,Final,Dale Tager,Faye Tager,13,1,1, Amateur Practice Open Latin  (CSRPJ),Sample,0,hdb08,40318520,159,Charlotte Jorgensen,Cha Cha,1
+CA,0,1,Final,Dale Tager,Faye Tager,15,1,1, Amateur Practice Open Latin  (CSRPJ),Sample,0,hdb08,40318520,159,Stephan Krauel,Cha Cha,1
+CA,0,1,Final,Dale Tager,Faye Tager,16,1,1, Amateur Practice Open Latin  (CSRPJ),Sample,0,hdb08,40318520,159,Rex Lewis,Cha Cha,1
+CA,0,1,Final,Dale Tager,Faye Tager,17,1,1, Amateur Practice Open Latin  (CSRPJ),Sample,0,hdb08,40318520,159,Giacomo Staccagli,Cha Cha,1
+CA,0,1,Final,Dale Tager,Faye Tager,18,1,1, Amateur Practice Open Latin  (CSRPJ),Sample,0,hdb08,40318520,159,Gosia Zygadlo,Cha Cha,1
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,11,2,2, Amateur Practice Open Latin  (CSRPJ),Sample,0,hdb08,40318520,163,Melissa Dexter,Cha Cha,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,12,2,2, Amateur Practice Open Latin  (CSRPJ),Sample,0,hdb08,40318520,163,Nadia Eftedal,Cha Cha,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,13,2,2, Amateur Practice Open Latin  (CSRPJ),Sample,0,hdb08,40318520,163,Charlotte Jorgensen,Cha Cha,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,15,2,2, Amateur Practice Open Latin  (CSRPJ),Sample,0,hdb08,40318520,163,Stephan Krauel,Cha Cha,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,16,2,2, Amateur Practice Open Latin  (CSRPJ),Sample,0,hdb08,40318520,163,Rex Lewis,Cha Cha,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,17,2,2, Amateur Practice Open Latin  (CSRPJ),Sample,0,hdb08,40318520,163,Giacomo Staccagli,Cha Cha,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,18,2,2, Amateur Practice Open Latin  (CSRPJ),Sample,0,hdb08,40318520,163,Gosia Zygadlo,Cha Cha,2
+CA,0,1,Final,Dale Tager,Faye Tager,11,1,1, Amateur Practice Open Latin  (CSRPJ),Sample,1,hdb08,40318520,159,Melissa Dexter,Samba,1
+CA,0,1,Final,Dale Tager,Faye Tager,12,1,1, Amateur Practice Open Latin  (CSRPJ),Sample,1,hdb08,40318520,159,Nadia Eftedal,Samba,1
+CA,0,1,Final,Dale Tager,Faye Tager,13,1,1, Amateur Practice Open Latin  (CSRPJ),Sample,1,hdb08,40318520,159,Charlotte Jorgensen,Samba,1
+CA,0,1,Final,Dale Tager,Faye Tager,15,1,1, Amateur Practice Open Latin  (CSRPJ),Sample,1,hdb08,40318520,159,Stephan Krauel,Samba,1
+CA,0,2,Final,Dale Tager,Faye Tager,16,1,2, Amateur Practice Open Latin  (CSRPJ),Sample,1,hdb08,40318520,159,Rex Lewis,Samba,1
+CA,0,1,Final,Dale Tager,Faye Tager,17,1,1, Amateur Practice Open Latin  (CSRPJ),Sample,1,hdb08,40318520,159,Giacomo Staccagli,Samba,1
+CA,0,1,Final,Dale Tager,Faye Tager,18,1,1, Amateur Practice Open Latin  (CSRPJ),Sample,1,hdb08,40318520,159,Gosia Zygadlo,Samba,1
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,11,2,2, Amateur Practice Open Latin  (CSRPJ),Sample,1,hdb08,40318520,163,Melissa Dexter,Samba,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,12,2,2, Amateur Practice Open Latin  (CSRPJ),Sample,1,hdb08,40318520,163,Nadia Eftedal,Samba,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,13,2,2, Amateur Practice Open Latin  (CSRPJ),Sample,1,hdb08,40318520,163,Charlotte Jorgensen,Samba,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,15,2,2, Amateur Practice Open Latin  (CSRPJ),Sample,1,hdb08,40318520,163,Stephan Krauel,Samba,2
+CA,0,1,Final,Christopher Fisher,Sasha Garefova,16,2,1, Amateur Practice Open Latin  (CSRPJ),Sample,1,hdb08,40318520,163,Rex Lewis,Samba,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,17,2,2, Amateur Practice Open Latin  (CSRPJ),Sample,1,hdb08,40318520,163,Giacomo Staccagli,Samba,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,18,2,2, Amateur Practice Open Latin  (CSRPJ),Sample,1,hdb08,40318520,163,Gosia Zygadlo,Samba,2
+CA,0,1,Final,Dale Tager,Faye Tager,11,1,1, Amateur Practice Open Latin  (CSRPJ),Sample,2,hdb08,40318520,159,Melissa Dexter,Rumba,1
+CA,0,1,Final,Dale Tager,Faye Tager,12,1,1, Amateur Practice Open Latin  (CSRPJ),Sample,2,hdb08,40318520,159,Nadia Eftedal,Rumba,1
+CA,0,1,Final,Dale Tager,Faye Tager,13,1,1, Amateur Practice Open Latin  (CSRPJ),Sample,2,hdb08,40318520,159,Charlotte Jorgensen,Rumba,1
+CA,0,1,Final,Dale Tager,Faye Tager,15,1,1, Amateur Practice Open Latin  (CSRPJ),Sample,2,hdb08,40318520,159,Stephan Krauel,Rumba,1
+CA,0,1,Final,Dale Tager,Faye Tager,16,1,1, Amateur Practice Open Latin  (CSRPJ),Sample,2,hdb08,40318520,159,Rex Lewis,Rumba,1
+CA,0,1,Final,Dale Tager,Faye Tager,17,1,1, Amateur Practice Open Latin  (CSRPJ),Sample,2,hdb08,40318520,159,Giacomo Staccagli,Rumba,1
+CA,0,1,Final,Dale Tager,Faye Tager,18,1,1, Amateur Practice Open Latin  (CSRPJ),Sample,2,hdb08,40318520,159,Gosia Zygadlo,Rumba,1
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,11,2,2, Amateur Practice Open Latin  (CSRPJ),Sample,2,hdb08,40318520,163,Melissa Dexter,Rumba,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,12,2,2, Amateur Practice Open Latin  (CSRPJ),Sample,2,hdb08,40318520,163,Nadia Eftedal,Rumba,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,13,2,2, Amateur Practice Open Latin  (CSRPJ),Sample,2,hdb08,40318520,163,Charlotte Jorgensen,Rumba,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,15,2,2, Amateur Practice Open Latin  (CSRPJ),Sample,2,hdb08,40318520,163,Stephan Krauel,Rumba,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,16,2,2, Amateur Practice Open Latin  (CSRPJ),Sample,2,hdb08,40318520,163,Rex Lewis,Rumba,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,17,2,2, Amateur Practice Open Latin  (CSRPJ),Sample,2,hdb08,40318520,163,Giacomo Staccagli,Rumba,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,18,2,2, Amateur Practice Open Latin  (CSRPJ),Sample,2,hdb08,40318520,163,Gosia Zygadlo,Rumba,2
+CA,0,1,Final,Dale Tager,Faye Tager,11,1,1, Amateur Practice Open Latin  (CSRPJ),Sample,3,hdb08,40318520,159,Melissa Dexter,Paso Doble,1
+CA,0,1,Final,Dale Tager,Faye Tager,12,1,1, Amateur Practice Open Latin  (CSRPJ),Sample,3,hdb08,40318520,159,Nadia Eftedal,Paso Doble,1
+CA,0,1,Final,Dale Tager,Faye Tager,13,1,1, Amateur Practice Open Latin  (CSRPJ),Sample,3,hdb08,40318520,159,Charlotte Jorgensen,Paso Doble,1
+CA,0,1,Final,Dale Tager,Faye Tager,15,1,1, Amateur Practice Open Latin  (CSRPJ),Sample,3,hdb08,40318520,159,Stephan Krauel,Paso Doble,1
+CA,0,1,Final,Dale Tager,Faye Tager,16,1,1, Amateur Practice Open Latin  (CSRPJ),Sample,3,hdb08,40318520,159,Rex Lewis,Paso Doble,1
+CA,0,1,Final,Dale Tager,Faye Tager,17,1,1, Amateur Practice Open Latin  (CSRPJ),Sample,3,hdb08,40318520,159,Giacomo Staccagli,Paso Doble,1
+CA,0,1,Final,Dale Tager,Faye Tager,18,1,1, Amateur Practice Open Latin  (CSRPJ),Sample,3,hdb08,40318520,159,Gosia Zygadlo,Paso Doble,1
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,11,2,2, Amateur Practice Open Latin  (CSRPJ),Sample,3,hdb08,40318520,163,Melissa Dexter,Paso Doble,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,12,2,2, Amateur Practice Open Latin  (CSRPJ),Sample,3,hdb08,40318520,163,Nadia Eftedal,Paso Doble,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,13,2,2, Amateur Practice Open Latin  (CSRPJ),Sample,3,hdb08,40318520,163,Charlotte Jorgensen,Paso Doble,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,15,2,2, Amateur Practice Open Latin  (CSRPJ),Sample,3,hdb08,40318520,163,Stephan Krauel,Paso Doble,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,16,2,2, Amateur Practice Open Latin  (CSRPJ),Sample,3,hdb08,40318520,163,Rex Lewis,Paso Doble,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,17,2,2, Amateur Practice Open Latin  (CSRPJ),Sample,3,hdb08,40318520,163,Giacomo Staccagli,Paso Doble,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,18,2,2, Amateur Practice Open Latin  (CSRPJ),Sample,3,hdb08,40318520,163,Gosia Zygadlo,Paso Doble,2
+CA,0,1,Final,Dale Tager,Faye Tager,11,1,1, Amateur Practice Open Latin  (CSRPJ),Sample,4,hdb08,40318520,159,Melissa Dexter,Jive,1
+CA,0,1,Final,Dale Tager,Faye Tager,12,1,1, Amateur Practice Open Latin  (CSRPJ),Sample,4,hdb08,40318520,159,Nadia Eftedal,Jive,1
+CA,0,1,Final,Dale Tager,Faye Tager,13,1,1, Amateur Practice Open Latin  (CSRPJ),Sample,4,hdb08,40318520,159,Charlotte Jorgensen,Jive,1
+CA,0,1,Final,Dale Tager,Faye Tager,15,1,1, Amateur Practice Open Latin  (CSRPJ),Sample,4,hdb08,40318520,159,Stephan Krauel,Jive,1
+CA,0,1,Final,Dale Tager,Faye Tager,16,1,1, Amateur Practice Open Latin  (CSRPJ),Sample,4,hdb08,40318520,159,Rex Lewis,Jive,1
+CA,0,1,Final,Dale Tager,Faye Tager,17,1,1, Amateur Practice Open Latin  (CSRPJ),Sample,4,hdb08,40318520,159,Giacomo Staccagli,Jive,1
+CA,0,1,Final,Dale Tager,Faye Tager,18,1,1, Amateur Practice Open Latin  (CSRPJ),Sample,4,hdb08,40318520,159,Gosia Zygadlo,Jive,1
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,11,2,2, Amateur Practice Open Latin  (CSRPJ),Sample,4,hdb08,40318520,163,Melissa Dexter,Jive,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,12,2,2, Amateur Practice Open Latin  (CSRPJ),Sample,4,hdb08,40318520,163,Nadia Eftedal,Jive,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,13,2,2, Amateur Practice Open Latin  (CSRPJ),Sample,4,hdb08,40318520,163,Charlotte Jorgensen,Jive,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,15,2,2, Amateur Practice Open Latin  (CSRPJ),Sample,4,hdb08,40318520,163,Stephan Krauel,Jive,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,16,2,2, Amateur Practice Open Latin  (CSRPJ),Sample,4,hdb08,40318520,163,Rex Lewis,Jive,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,17,2,2, Amateur Practice Open Latin  (CSRPJ),Sample,4,hdb08,40318520,163,Giacomo Staccagli,Jive,2
+CA,0,2,Final,Christopher Fisher,Sasha Garefova,18,2,2, Amateur Practice Open Latin  (CSRPJ),Sample,4,hdb08,40318520,163,Gosia Zygadlo,Jive,2
+CA,0,1,Final,Winston Chow,Lilly Chow,10,1,1, Amateur Senior II Open Standard  (WTVFQ),Sample,0,hdb08,40448510,127,Stephen Cullip,Waltz,1
+CA,0,1,Final,Winston Chow,Lilly Chow,12,1,1, Amateur Senior II Open Standard  (WTVFQ),Sample,0,hdb08,40448510,127,Nadia Eftedal,Waltz,1
+CA,0,1,Final,Winston Chow,Lilly Chow,13,1,1, Amateur Senior II Open Standard  (WTVFQ),Sample,0,hdb08,40448510,127,Charlotte Jorgensen,Waltz,1
+CA,0,1,Final,Winston Chow,Lilly Chow,15,1,1, Amateur Senior II Open Standard  (WTVFQ),Sample,0,hdb08,40448510,127,Stephan Krauel,Waltz,1
+CA,0,1,Final,Winston Chow,Lilly Chow,16,1,1, Amateur Senior II Open Standard  (WTVFQ),Sample,0,hdb08,40448510,127,Rex Lewis,Waltz,1
+CA,0,1,Final,Winston Chow,Lilly Chow,17,1,1, Amateur Senior II Open Standard  (WTVFQ),Sample,0,hdb08,40448510,127,Giacomo Staccagli,Waltz,1
+CA,0,1,Final,Winston Chow,Lilly Chow,18,1,1, Amateur Senior II Open Standard  (WTVFQ),Sample,0,hdb08,40448510,127,Gosia Zygadlo,Waltz,1
+CA,0,2,Final,James Kleinrath,Melody Singleton,10,3,2, Amateur Senior II Open Standard  (WTVFQ),Sample,0,hdb08,40448510,144,Stephen Cullip,Waltz,2
+CA,0,3,Final,James Kleinrath,Melody Singleton,12,3,3, Amateur Senior II Open Standard  (WTVFQ),Sample,0,hdb08,40448510,144,Nadia Eftedal,Waltz,2
+CA,0,3,Final,James Kleinrath,Melody Singleton,13,3,3, Amateur Senior II Open Standard  (WTVFQ),Sample,0,hdb08,40448510,144,Charlotte Jorgensen,Waltz,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,15,3,2, Amateur Senior II Open Standard  (WTVFQ),Sample,0,hdb08,40448510,144,Stephan Krauel,Waltz,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,16,3,2, Amateur Senior II Open Standard  (WTVFQ),Sample,0,hdb08,40448510,144,Rex Lewis,Waltz,2
+CA,0,3,Final,James Kleinrath,Melody Singleton,17,3,3, Amateur Senior II Open Standard  (WTVFQ),Sample,0,hdb08,40448510,144,Giacomo Staccagli,Waltz,2
+CA,0,3,Final,James Kleinrath,Melody Singleton,18,3,3, Amateur Senior II Open Standard  (WTVFQ),Sample,0,hdb08,40448510,144,Gosia Zygadlo,Waltz,2
+CA,0,3,Final,Adel Ghoneimy,Karen Chow,10,2,3, Amateur Senior II Open Standard  (WTVFQ),Sample,0,hdb08,40448510,134,Stephen Cullip,Waltz,3
+CA,0,2,Final,Adel Ghoneimy,Karen Chow,12,2,2, Amateur Senior II Open Standard  (WTVFQ),Sample,0,hdb08,40448510,134,Nadia Eftedal,Waltz,3
+CA,0,2,Final,Adel Ghoneimy,Karen Chow,13,2,2, Amateur Senior II Open Standard  (WTVFQ),Sample,0,hdb08,40448510,134,Charlotte Jorgensen,Waltz,3
+CA,0,3,Final,Adel Ghoneimy,Karen Chow,15,2,3, Amateur Senior II Open Standard  (WTVFQ),Sample,0,hdb08,40448510,134,Stephan Krauel,Waltz,3
+CA,0,3,Final,Adel Ghoneimy,Karen Chow,16,2,3, Amateur Senior II Open Standard  (WTVFQ),Sample,0,hdb08,40448510,134,Rex Lewis,Waltz,3
+CA,0,2,Final,Adel Ghoneimy,Karen Chow,17,2,2, Amateur Senior II Open Standard  (WTVFQ),Sample,0,hdb08,40448510,134,Giacomo Staccagli,Waltz,3
+CA,0,2,Final,Adel Ghoneimy,Karen Chow,18,2,2, Amateur Senior II Open Standard  (WTVFQ),Sample,0,hdb08,40448510,134,Gosia Zygadlo,Waltz,3
+CA,0,1,Final,Winston Chow,Lilly Chow,10,1,1, Amateur Senior II Open Standard  (WTVFQ),Sample,1,hdb08,40448510,127,Stephen Cullip,Tango,1
+CA,0,1,Final,Winston Chow,Lilly Chow,12,1,1, Amateur Senior II Open Standard  (WTVFQ),Sample,1,hdb08,40448510,127,Nadia Eftedal,Tango,1
+CA,0,1,Final,Winston Chow,Lilly Chow,13,1,1, Amateur Senior II Open Standard  (WTVFQ),Sample,1,hdb08,40448510,127,Charlotte Jorgensen,Tango,1
+CA,0,1,Final,Winston Chow,Lilly Chow,15,1,1, Amateur Senior II Open Standard  (WTVFQ),Sample,1,hdb08,40448510,127,Stephan Krauel,Tango,1
+CA,0,1,Final,Winston Chow,Lilly Chow,16,1,1, Amateur Senior II Open Standard  (WTVFQ),Sample,1,hdb08,40448510,127,Rex Lewis,Tango,1
+CA,0,1,Final,Winston Chow,Lilly Chow,17,1,1, Amateur Senior II Open Standard  (WTVFQ),Sample,1,hdb08,40448510,127,Giacomo Staccagli,Tango,1
+CA,0,1,Final,Winston Chow,Lilly Chow,18,1,1, Amateur Senior II Open Standard  (WTVFQ),Sample,1,hdb08,40448510,127,Gosia Zygadlo,Tango,1
+CA,0,2,Final,James Kleinrath,Melody Singleton,10,2,2, Amateur Senior II Open Standard  (WTVFQ),Sample,1,hdb08,40448510,144,Stephen Cullip,Tango,2
+CA,0,3,Final,James Kleinrath,Melody Singleton,12,2,3, Amateur Senior II Open Standard  (WTVFQ),Sample,1,hdb08,40448510,144,Nadia Eftedal,Tango,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,13,2,2, Amateur Senior II Open Standard  (WTVFQ),Sample,1,hdb08,40448510,144,Charlotte Jorgensen,Tango,2
+CA,0,3,Final,James Kleinrath,Melody Singleton,15,2,3, Amateur Senior II Open Standard  (WTVFQ),Sample,1,hdb08,40448510,144,Stephan Krauel,Tango,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,16,2,2, Amateur Senior II Open Standard  (WTVFQ),Sample,1,hdb08,40448510,144,Rex Lewis,Tango,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,17,2,2, Amateur Senior II Open Standard  (WTVFQ),Sample,1,hdb08,40448510,144,Giacomo Staccagli,Tango,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,18,2,2, Amateur Senior II Open Standard  (WTVFQ),Sample,1,hdb08,40448510,144,Gosia Zygadlo,Tango,2
+CA,0,3,Final,Adel Ghoneimy,Karen Chow,10,3,3, Amateur Senior II Open Standard  (WTVFQ),Sample,1,hdb08,40448510,134,Stephen Cullip,Tango,3
+CA,0,2,Final,Adel Ghoneimy,Karen Chow,12,3,2, Amateur Senior II Open Standard  (WTVFQ),Sample,1,hdb08,40448510,134,Nadia Eftedal,Tango,3
+CA,0,3,Final,Adel Ghoneimy,Karen Chow,13,3,3, Amateur Senior II Open Standard  (WTVFQ),Sample,1,hdb08,40448510,134,Charlotte Jorgensen,Tango,3
+CA,0,2,Final,Adel Ghoneimy,Karen Chow,15,3,2, Amateur Senior II Open Standard  (WTVFQ),Sample,1,hdb08,40448510,134,Stephan Krauel,Tango,3
+CA,0,3,Final,Adel Ghoneimy,Karen Chow,16,3,3, Amateur Senior II Open Standard  (WTVFQ),Sample,1,hdb08,40448510,134,Rex Lewis,Tango,3
+CA,0,3,Final,Adel Ghoneimy,Karen Chow,17,3,3, Amateur Senior II Open Standard  (WTVFQ),Sample,1,hdb08,40448510,134,Giacomo Staccagli,Tango,3
+CA,0,3,Final,Adel Ghoneimy,Karen Chow,18,3,3, Amateur Senior II Open Standard  (WTVFQ),Sample,1,hdb08,40448510,134,Gosia Zygadlo,Tango,3
+CA,0,1,Final,Winston Chow,Lilly Chow,10,1,1, Amateur Senior II Open Standard  (WTVFQ),Sample,2,hdb08,40448510,127,Stephen Cullip,Viennese Waltz,1
+CA,0,1,Final,Winston Chow,Lilly Chow,12,1,1, Amateur Senior II Open Standard  (WTVFQ),Sample,2,hdb08,40448510,127,Nadia Eftedal,Viennese Waltz,1
+CA,0,1,Final,Winston Chow,Lilly Chow,13,1,1, Amateur Senior II Open Standard  (WTVFQ),Sample,2,hdb08,40448510,127,Charlotte Jorgensen,Viennese Waltz,1
+CA,0,1,Final,Winston Chow,Lilly Chow,15,1,1, Amateur Senior II Open Standard  (WTVFQ),Sample,2,hdb08,40448510,127,Stephan Krauel,Viennese Waltz,1
+CA,0,1,Final,Winston Chow,Lilly Chow,16,1,1, Amateur Senior II Open Standard  (WTVFQ),Sample,2,hdb08,40448510,127,Rex Lewis,Viennese Waltz,1
+CA,0,2,Final,Winston Chow,Lilly Chow,17,1,2, Amateur Senior II Open Standard  (WTVFQ),Sample,2,hdb08,40448510,127,Giacomo Staccagli,Viennese Waltz,1
+CA,0,2,Final,Winston Chow,Lilly Chow,18,1,2, Amateur Senior II Open Standard  (WTVFQ),Sample,2,hdb08,40448510,127,Gosia Zygadlo,Viennese Waltz,1
+CA,0,3,Final,James Kleinrath,Melody Singleton,10,2,3, Amateur Senior II Open Standard  (WTVFQ),Sample,2,hdb08,40448510,144,Stephen Cullip,Viennese Waltz,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,12,2,2, Amateur Senior II Open Standard  (WTVFQ),Sample,2,hdb08,40448510,144,Nadia Eftedal,Viennese Waltz,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,13,2,2, Amateur Senior II Open Standard  (WTVFQ),Sample,2,hdb08,40448510,144,Charlotte Jorgensen,Viennese Waltz,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,15,2,2, Amateur Senior II Open Standard  (WTVFQ),Sample,2,hdb08,40448510,144,Stephan Krauel,Viennese Waltz,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,16,2,2, Amateur Senior II Open Standard  (WTVFQ),Sample,2,hdb08,40448510,144,Rex Lewis,Viennese Waltz,2
+CA,0,1,Final,James Kleinrath,Melody Singleton,17,2,1, Amateur Senior II Open Standard  (WTVFQ),Sample,2,hdb08,40448510,144,Giacomo Staccagli,Viennese Waltz,2
+CA,0,1,Final,James Kleinrath,Melody Singleton,18,2,1, Amateur Senior II Open Standard  (WTVFQ),Sample,2,hdb08,40448510,144,Gosia Zygadlo,Viennese Waltz,2
+CA,0,2,Final,Adel Ghoneimy,Karen Chow,10,3,2, Amateur Senior II Open Standard  (WTVFQ),Sample,2,hdb08,40448510,134,Stephen Cullip,Viennese Waltz,3
+CA,0,3,Final,Adel Ghoneimy,Karen Chow,12,3,3, Amateur Senior II Open Standard  (WTVFQ),Sample,2,hdb08,40448510,134,Nadia Eftedal,Viennese Waltz,3
+CA,0,3,Final,Adel Ghoneimy,Karen Chow,13,3,3, Amateur Senior II Open Standard  (WTVFQ),Sample,2,hdb08,40448510,134,Charlotte Jorgensen,Viennese Waltz,3
+CA,0,3,Final,Adel Ghoneimy,Karen Chow,15,3,3, Amateur Senior II Open Standard  (WTVFQ),Sample,2,hdb08,40448510,134,Stephan Krauel,Viennese Waltz,3
+CA,0,3,Final,Adel Ghoneimy,Karen Chow,16,3,3, Amateur Senior II Open Standard  (WTVFQ),Sample,2,hdb08,40448510,134,Rex Lewis,Viennese Waltz,3
+CA,0,3,Final,Adel Ghoneimy,Karen Chow,17,3,3, Amateur Senior II Open Standard  (WTVFQ),Sample,2,hdb08,40448510,134,Giacomo Staccagli,Viennese Waltz,3
+CA,0,3,Final,Adel Ghoneimy,Karen Chow,18,3,3, Amateur Senior II Open Standard  (WTVFQ),Sample,2,hdb08,40448510,134,Gosia Zygadlo,Viennese Waltz,3
+CA,0,2,Final,Winston Chow,Lilly Chow,10,1,2, Amateur Senior II Open Standard  (WTVFQ),Sample,3,hdb08,40448510,127,Stephen Cullip,Foxtrot,1
+CA,0,1,Final,Winston Chow,Lilly Chow,12,1,1, Amateur Senior II Open Standard  (WTVFQ),Sample,3,hdb08,40448510,127,Nadia Eftedal,Foxtrot,1
+CA,0,1,Final,Winston Chow,Lilly Chow,13,1,1, Amateur Senior II Open Standard  (WTVFQ),Sample,3,hdb08,40448510,127,Charlotte Jorgensen,Foxtrot,1
+CA,0,1,Final,Winston Chow,Lilly Chow,15,1,1, Amateur Senior II Open Standard  (WTVFQ),Sample,3,hdb08,40448510,127,Stephan Krauel,Foxtrot,1
+CA,0,1,Final,Winston Chow,Lilly Chow,16,1,1, Amateur Senior II Open Standard  (WTVFQ),Sample,3,hdb08,40448510,127,Rex Lewis,Foxtrot,1
+CA,0,1,Final,Winston Chow,Lilly Chow,17,1,1, Amateur Senior II Open Standard  (WTVFQ),Sample,3,hdb08,40448510,127,Giacomo Staccagli,Foxtrot,1
+CA,0,1,Final,Winston Chow,Lilly Chow,18,1,1, Amateur Senior II Open Standard  (WTVFQ),Sample,3,hdb08,40448510,127,Gosia Zygadlo,Foxtrot,1
+CA,0,1,Final,James Kleinrath,Melody Singleton,10,2,1, Amateur Senior II Open Standard  (WTVFQ),Sample,3,hdb08,40448510,144,Stephen Cullip,Foxtrot,2
+CA,0,3,Final,James Kleinrath,Melody Singleton,12,2,3, Amateur Senior II Open Standard  (WTVFQ),Sample,3,hdb08,40448510,144,Nadia Eftedal,Foxtrot,2
+CA,0,3,Final,James Kleinrath,Melody Singleton,13,2,3, Amateur Senior II Open Standard  (WTVFQ),Sample,3,hdb08,40448510,144,Charlotte Jorgensen,Foxtrot,2
+CA,0,3,Final,James Kleinrath,Melody Singleton,15,2,3, Amateur Senior II Open Standard  (WTVFQ),Sample,3,hdb08,40448510,144,Stephan Krauel,Foxtrot,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,16,2,2, Amateur Senior II Open Standard  (WTVFQ),Sample,3,hdb08,40448510,144,Rex Lewis,Foxtrot,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,17,2,2, Amateur Senior II Open Standard  (WTVFQ),Sample,3,hdb08,40448510,144,Giacomo Staccagli,Foxtrot,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,18,2,2, Amateur Senior II Open Standard  (WTVFQ),Sample,3,hdb08,40448510,144,Gosia Zygadlo,Foxtrot,2
+CA,0,3,Final,Adel Ghoneimy,Karen Chow,10,3,3, Amateur Senior II Open Standard  (WTVFQ),Sample,3,hdb08,40448510,134,Stephen Cullip,Foxtrot,3
+CA,0,2,Final,Adel Ghoneimy,Karen Chow,12,3,2, Amateur Senior II Open Standard  (WTVFQ),Sample,3,hdb08,40448510,134,Nadia Eftedal,Foxtrot,3
+CA,0,2,Final,Adel Ghoneimy,Karen Chow,13,3,2, Amateur Senior II Open Standard  (WTVFQ),Sample,3,hdb08,40448510,134,Charlotte Jorgensen,Foxtrot,3
+CA,0,2,Final,Adel Ghoneimy,Karen Chow,15,3,2, Amateur Senior II Open Standard  (WTVFQ),Sample,3,hdb08,40448510,134,Stephan Krauel,Foxtrot,3
+CA,0,3,Final,Adel Ghoneimy,Karen Chow,16,3,3, Amateur Senior II Open Standard  (WTVFQ),Sample,3,hdb08,40448510,134,Rex Lewis,Foxtrot,3
+CA,0,3,Final,Adel Ghoneimy,Karen Chow,17,3,3, Amateur Senior II Open Standard  (WTVFQ),Sample,3,hdb08,40448510,134,Giacomo Staccagli,Foxtrot,3
+CA,0,3,Final,Adel Ghoneimy,Karen Chow,18,3,3, Amateur Senior II Open Standard  (WTVFQ),Sample,3,hdb08,40448510,134,Gosia Zygadlo,Foxtrot,3
+CA,0,1,Final,Winston Chow,Lilly Chow,10,1,1, Amateur Senior II Open Standard  (WTVFQ),Sample,4,hdb08,40448510,127,Stephen Cullip,Quickstep,1
+CA,0,1,Final,Winston Chow,Lilly Chow,12,1,1, Amateur Senior II Open Standard  (WTVFQ),Sample,4,hdb08,40448510,127,Nadia Eftedal,Quickstep,1
+CA,0,1,Final,Winston Chow,Lilly Chow,13,1,1, Amateur Senior II Open Standard  (WTVFQ),Sample,4,hdb08,40448510,127,Charlotte Jorgensen,Quickstep,1
+CA,0,1,Final,Winston Chow,Lilly Chow,15,1,1, Amateur Senior II Open Standard  (WTVFQ),Sample,4,hdb08,40448510,127,Stephan Krauel,Quickstep,1
+CA,0,1,Final,Winston Chow,Lilly Chow,16,1,1, Amateur Senior II Open Standard  (WTVFQ),Sample,4,hdb08,40448510,127,Rex Lewis,Quickstep,1
+CA,0,1,Final,Winston Chow,Lilly Chow,17,1,1, Amateur Senior II Open Standard  (WTVFQ),Sample,4,hdb08,40448510,127,Giacomo Staccagli,Quickstep,1
+CA,0,2,Final,Winston Chow,Lilly Chow,18,1,2, Amateur Senior II Open Standard  (WTVFQ),Sample,4,hdb08,40448510,127,Gosia Zygadlo,Quickstep,1
+CA,0,3,Final,James Kleinrath,Melody Singleton,10,3,3, Amateur Senior II Open Standard  (WTVFQ),Sample,4,hdb08,40448510,144,Stephen Cullip,Quickstep,2
+CA,0,3,Final,James Kleinrath,Melody Singleton,12,3,3, Amateur Senior II Open Standard  (WTVFQ),Sample,4,hdb08,40448510,144,Nadia Eftedal,Quickstep,2
+CA,0,3,Final,James Kleinrath,Melody Singleton,13,3,3, Amateur Senior II Open Standard  (WTVFQ),Sample,4,hdb08,40448510,144,Charlotte Jorgensen,Quickstep,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,15,3,2, Amateur Senior II Open Standard  (WTVFQ),Sample,4,hdb08,40448510,144,Stephan Krauel,Quickstep,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,16,3,2, Amateur Senior II Open Standard  (WTVFQ),Sample,4,hdb08,40448510,144,Rex Lewis,Quickstep,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,17,3,2, Amateur Senior II Open Standard  (WTVFQ),Sample,4,hdb08,40448510,144,Giacomo Staccagli,Quickstep,2
+CA,0,3,Final,James Kleinrath,Melody Singleton,18,3,3, Amateur Senior II Open Standard  (WTVFQ),Sample,4,hdb08,40448510,144,Gosia Zygadlo,Quickstep,2
+CA,0,2,Final,Adel Ghoneimy,Karen Chow,10,2,2, Amateur Senior II Open Standard  (WTVFQ),Sample,4,hdb08,40448510,134,Stephen Cullip,Quickstep,3
+CA,0,2,Final,Adel Ghoneimy,Karen Chow,12,2,2, Amateur Senior II Open Standard  (WTVFQ),Sample,4,hdb08,40448510,134,Nadia Eftedal,Quickstep,3
+CA,0,2,Final,Adel Ghoneimy,Karen Chow,13,2,2, Amateur Senior II Open Standard  (WTVFQ),Sample,4,hdb08,40448510,134,Charlotte Jorgensen,Quickstep,3
+CA,0,3,Final,Adel Ghoneimy,Karen Chow,15,2,3, Amateur Senior II Open Standard  (WTVFQ),Sample,4,hdb08,40448510,134,Stephan Krauel,Quickstep,3
+CA,0,3,Final,Adel Ghoneimy,Karen Chow,16,2,3, Amateur Senior II Open Standard  (WTVFQ),Sample,4,hdb08,40448510,134,Rex Lewis,Quickstep,3
+CA,0,3,Final,Adel Ghoneimy,Karen Chow,17,2,3, Amateur Senior II Open Standard  (WTVFQ),Sample,4,hdb08,40448510,134,Giacomo Staccagli,Quickstep,3
+CA,0,1,Final,Adel Ghoneimy,Karen Chow,18,2,1, Amateur Senior II Open Standard  (WTVFQ),Sample,4,hdb08,40448510,134,Gosia Zygadlo,Quickstep,3
+CA,0,1,Final,Andreas Meijer,Jody Frease,10,1,1, Amateur Adult Open Standard  (WTVFQ),Sample,0,hdb08,40428510,154,Stephen Cullip,Waltz,1
+CA,0,2,Final,Andreas Meijer,Jody Frease,12,1,2, Amateur Adult Open Standard  (WTVFQ),Sample,0,hdb08,40428510,154,Nadia Eftedal,Waltz,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,13,1,1, Amateur Adult Open Standard  (WTVFQ),Sample,0,hdb08,40428510,154,Charlotte Jorgensen,Waltz,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,15,1,1, Amateur Adult Open Standard  (WTVFQ),Sample,0,hdb08,40428510,154,Stephan Krauel,Waltz,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,16,1,1, Amateur Adult Open Standard  (WTVFQ),Sample,0,hdb08,40428510,154,Rex Lewis,Waltz,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,17,1,1, Amateur Adult Open Standard  (WTVFQ),Sample,0,hdb08,40428510,154,Giacomo Staccagli,Waltz,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,18,1,1, Amateur Adult Open Standard  (WTVFQ),Sample,0,hdb08,40428510,154,Gosia Zygadlo,Waltz,1
+CA,0,2,Final,Gamble See,Desiree Doyle,10,2,2, Amateur Adult Open Standard  (WTVFQ),Sample,0,hdb08,40428510,158,Stephen Cullip,Waltz,2
+CA,0,1,Final,Gamble See,Desiree Doyle,12,2,1, Amateur Adult Open Standard  (WTVFQ),Sample,0,hdb08,40428510,158,Nadia Eftedal,Waltz,2
+CA,0,2,Final,Gamble See,Desiree Doyle,13,2,2, Amateur Adult Open Standard  (WTVFQ),Sample,0,hdb08,40428510,158,Charlotte Jorgensen,Waltz,2
+CA,0,2,Final,Gamble See,Desiree Doyle,15,2,2, Amateur Adult Open Standard  (WTVFQ),Sample,0,hdb08,40428510,158,Stephan Krauel,Waltz,2
+CA,0,2,Final,Gamble See,Desiree Doyle,16,2,2, Amateur Adult Open Standard  (WTVFQ),Sample,0,hdb08,40428510,158,Rex Lewis,Waltz,2
+CA,0,2,Final,Gamble See,Desiree Doyle,17,2,2, Amateur Adult Open Standard  (WTVFQ),Sample,0,hdb08,40428510,158,Giacomo Staccagli,Waltz,2
+CA,0,2,Final,Gamble See,Desiree Doyle,18,2,2, Amateur Adult Open Standard  (WTVFQ),Sample,0,hdb08,40428510,158,Gosia Zygadlo,Waltz,2
+CA,0,1,Final,Andreas Meijer,Jody Frease,10,1,1, Amateur Adult Open Standard  (WTVFQ),Sample,1,hdb08,40428510,154,Stephen Cullip,Tango,1
+CA,0,2,Final,Andreas Meijer,Jody Frease,12,1,2, Amateur Adult Open Standard  (WTVFQ),Sample,1,hdb08,40428510,154,Nadia Eftedal,Tango,1
+CA,0,2,Final,Andreas Meijer,Jody Frease,13,1,2, Amateur Adult Open Standard  (WTVFQ),Sample,1,hdb08,40428510,154,Charlotte Jorgensen,Tango,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,15,1,1, Amateur Adult Open Standard  (WTVFQ),Sample,1,hdb08,40428510,154,Stephan Krauel,Tango,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,16,1,1, Amateur Adult Open Standard  (WTVFQ),Sample,1,hdb08,40428510,154,Rex Lewis,Tango,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,17,1,1, Amateur Adult Open Standard  (WTVFQ),Sample,1,hdb08,40428510,154,Giacomo Staccagli,Tango,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,18,1,1, Amateur Adult Open Standard  (WTVFQ),Sample,1,hdb08,40428510,154,Gosia Zygadlo,Tango,1
+CA,0,2,Final,Gamble See,Desiree Doyle,10,2,2, Amateur Adult Open Standard  (WTVFQ),Sample,1,hdb08,40428510,158,Stephen Cullip,Tango,2
+CA,0,1,Final,Gamble See,Desiree Doyle,12,2,1, Amateur Adult Open Standard  (WTVFQ),Sample,1,hdb08,40428510,158,Nadia Eftedal,Tango,2
+CA,0,1,Final,Gamble See,Desiree Doyle,13,2,1, Amateur Adult Open Standard  (WTVFQ),Sample,1,hdb08,40428510,158,Charlotte Jorgensen,Tango,2
+CA,0,2,Final,Gamble See,Desiree Doyle,15,2,2, Amateur Adult Open Standard  (WTVFQ),Sample,1,hdb08,40428510,158,Stephan Krauel,Tango,2
+CA,0,2,Final,Gamble See,Desiree Doyle,16,2,2, Amateur Adult Open Standard  (WTVFQ),Sample,1,hdb08,40428510,158,Rex Lewis,Tango,2
+CA,0,2,Final,Gamble See,Desiree Doyle,17,2,2, Amateur Adult Open Standard  (WTVFQ),Sample,1,hdb08,40428510,158,Giacomo Staccagli,Tango,2
+CA,0,2,Final,Gamble See,Desiree Doyle,18,2,2, Amateur Adult Open Standard  (WTVFQ),Sample,1,hdb08,40428510,158,Gosia Zygadlo,Tango,2
+CA,0,1,Final,Andreas Meijer,Jody Frease,10,1,1, Amateur Adult Open Standard  (WTVFQ),Sample,2,hdb08,40428510,154,Stephen Cullip,Viennese Waltz,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,12,1,1, Amateur Adult Open Standard  (WTVFQ),Sample,2,hdb08,40428510,154,Nadia Eftedal,Viennese Waltz,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,13,1,1, Amateur Adult Open Standard  (WTVFQ),Sample,2,hdb08,40428510,154,Charlotte Jorgensen,Viennese Waltz,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,15,1,1, Amateur Adult Open Standard  (WTVFQ),Sample,2,hdb08,40428510,154,Stephan Krauel,Viennese Waltz,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,16,1,1, Amateur Adult Open Standard  (WTVFQ),Sample,2,hdb08,40428510,154,Rex Lewis,Viennese Waltz,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,17,1,1, Amateur Adult Open Standard  (WTVFQ),Sample,2,hdb08,40428510,154,Giacomo Staccagli,Viennese Waltz,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,18,1,1, Amateur Adult Open Standard  (WTVFQ),Sample,2,hdb08,40428510,154,Gosia Zygadlo,Viennese Waltz,1
+CA,0,2,Final,Gamble See,Desiree Doyle,10,2,2, Amateur Adult Open Standard  (WTVFQ),Sample,2,hdb08,40428510,158,Stephen Cullip,Viennese Waltz,2
+CA,0,2,Final,Gamble See,Desiree Doyle,12,2,2, Amateur Adult Open Standard  (WTVFQ),Sample,2,hdb08,40428510,158,Nadia Eftedal,Viennese Waltz,2
+CA,0,2,Final,Gamble See,Desiree Doyle,13,2,2, Amateur Adult Open Standard  (WTVFQ),Sample,2,hdb08,40428510,158,Charlotte Jorgensen,Viennese Waltz,2
+CA,0,2,Final,Gamble See,Desiree Doyle,15,2,2, Amateur Adult Open Standard  (WTVFQ),Sample,2,hdb08,40428510,158,Stephan Krauel,Viennese Waltz,2
+CA,0,2,Final,Gamble See,Desiree Doyle,16,2,2, Amateur Adult Open Standard  (WTVFQ),Sample,2,hdb08,40428510,158,Rex Lewis,Viennese Waltz,2
+CA,0,2,Final,Gamble See,Desiree Doyle,17,2,2, Amateur Adult Open Standard  (WTVFQ),Sample,2,hdb08,40428510,158,Giacomo Staccagli,Viennese Waltz,2
+CA,0,2,Final,Gamble See,Desiree Doyle,18,2,2, Amateur Adult Open Standard  (WTVFQ),Sample,2,hdb08,40428510,158,Gosia Zygadlo,Viennese Waltz,2
+CA,0,1,Final,Andreas Meijer,Jody Frease,10,1,1, Amateur Adult Open Standard  (WTVFQ),Sample,3,hdb08,40428510,154,Stephen Cullip,Foxtrot,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,12,1,1, Amateur Adult Open Standard  (WTVFQ),Sample,3,hdb08,40428510,154,Nadia Eftedal,Foxtrot,1
+CA,0,2,Final,Andreas Meijer,Jody Frease,13,1,2, Amateur Adult Open Standard  (WTVFQ),Sample,3,hdb08,40428510,154,Charlotte Jorgensen,Foxtrot,1
+CA,0,2,Final,Andreas Meijer,Jody Frease,15,1,2, Amateur Adult Open Standard  (WTVFQ),Sample,3,hdb08,40428510,154,Stephan Krauel,Foxtrot,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,16,1,1, Amateur Adult Open Standard  (WTVFQ),Sample,3,hdb08,40428510,154,Rex Lewis,Foxtrot,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,17,1,1, Amateur Adult Open Standard  (WTVFQ),Sample,3,hdb08,40428510,154,Giacomo Staccagli,Foxtrot,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,18,1,1, Amateur Adult Open Standard  (WTVFQ),Sample,3,hdb08,40428510,154,Gosia Zygadlo,Foxtrot,1
+CA,0,2,Final,Gamble See,Desiree Doyle,10,2,2, Amateur Adult Open Standard  (WTVFQ),Sample,3,hdb08,40428510,158,Stephen Cullip,Foxtrot,2
+CA,0,2,Final,Gamble See,Desiree Doyle,12,2,2, Amateur Adult Open Standard  (WTVFQ),Sample,3,hdb08,40428510,158,Nadia Eftedal,Foxtrot,2
+CA,0,1,Final,Gamble See,Desiree Doyle,13,2,1, Amateur Adult Open Standard  (WTVFQ),Sample,3,hdb08,40428510,158,Charlotte Jorgensen,Foxtrot,2
+CA,0,1,Final,Gamble See,Desiree Doyle,15,2,1, Amateur Adult Open Standard  (WTVFQ),Sample,3,hdb08,40428510,158,Stephan Krauel,Foxtrot,2
+CA,0,2,Final,Gamble See,Desiree Doyle,16,2,2, Amateur Adult Open Standard  (WTVFQ),Sample,3,hdb08,40428510,158,Rex Lewis,Foxtrot,2
+CA,0,2,Final,Gamble See,Desiree Doyle,17,2,2, Amateur Adult Open Standard  (WTVFQ),Sample,3,hdb08,40428510,158,Giacomo Staccagli,Foxtrot,2
+CA,0,2,Final,Gamble See,Desiree Doyle,18,2,2, Amateur Adult Open Standard  (WTVFQ),Sample,3,hdb08,40428510,158,Gosia Zygadlo,Foxtrot,2
+CA,0,1,Final,Andreas Meijer,Jody Frease,10,1,1, Amateur Adult Open Standard  (WTVFQ),Sample,4,hdb08,40428510,154,Stephen Cullip,Quickstep,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,12,1,1, Amateur Adult Open Standard  (WTVFQ),Sample,4,hdb08,40428510,154,Nadia Eftedal,Quickstep,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,13,1,1, Amateur Adult Open Standard  (WTVFQ),Sample,4,hdb08,40428510,154,Charlotte Jorgensen,Quickstep,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,15,1,1, Amateur Adult Open Standard  (WTVFQ),Sample,4,hdb08,40428510,154,Stephan Krauel,Quickstep,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,16,1,1, Amateur Adult Open Standard  (WTVFQ),Sample,4,hdb08,40428510,154,Rex Lewis,Quickstep,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,17,1,1, Amateur Adult Open Standard  (WTVFQ),Sample,4,hdb08,40428510,154,Giacomo Staccagli,Quickstep,1
+CA,0,1,Final,Andreas Meijer,Jody Frease,18,1,1, Amateur Adult Open Standard  (WTVFQ),Sample,4,hdb08,40428510,154,Gosia Zygadlo,Quickstep,1
+CA,0,2,Final,Gamble See,Desiree Doyle,10,2,2, Amateur Adult Open Standard  (WTVFQ),Sample,4,hdb08,40428510,158,Stephen Cullip,Quickstep,2
+CA,0,2,Final,Gamble See,Desiree Doyle,12,2,2, Amateur Adult Open Standard  (WTVFQ),Sample,4,hdb08,40428510,158,Nadia Eftedal,Quickstep,2
+CA,0,2,Final,Gamble See,Desiree Doyle,13,2,2, Amateur Adult Open Standard  (WTVFQ),Sample,4,hdb08,40428510,158,Charlotte Jorgensen,Quickstep,2
+CA,0,2,Final,Gamble See,Desiree Doyle,15,2,2, Amateur Adult Open Standard  (WTVFQ),Sample,4,hdb08,40428510,158,Stephan Krauel,Quickstep,2
+CA,0,2,Final,Gamble See,Desiree Doyle,16,2,2, Amateur Adult Open Standard  (WTVFQ),Sample,4,hdb08,40428510,158,Rex Lewis,Quickstep,2
+CA,0,2,Final,Gamble See,Desiree Doyle,17,2,2, Amateur Adult Open Standard  (WTVFQ),Sample,4,hdb08,40428510,158,Giacomo Staccagli,Quickstep,2
+CA,0,2,Final,Gamble See,Desiree Doyle,18,2,2, Amateur Adult Open Standard  (WTVFQ),Sample,4,hdb08,40428510,158,Gosia Zygadlo,Quickstep,2

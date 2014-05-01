@@ -1,0 +1,826 @@
+couple_location,round_id,mark,round_name,lead_name,follow_name,judge,result,value,heat_name,comp_name,dance_id,comp_id,heat_id,couple,judge_name,dance_name,final_result
+WA,0,1,Final,Allan Prince,Angie Luengen,11,1,1, Pro/Am Adult A2 Newcomer Am. Waltz  (W),Sample,0,ons082,80C22038,116,Roland Michtchenko,Am. Waltz,1
+WA,0,1,Final,Allan Prince,Angie Luengen,14,1,1, Pro/Am Adult A2 Newcomer Am. Waltz  (W),Sample,0,ons082,80C22038,116,Yelena Zakharova,Am. Waltz,1
+WA,0,1,Final,Allan Prince,Angie Luengen,16,1,1, Pro/Am Adult A2 Newcomer Am. Waltz  (W),Sample,0,ons082,80C22038,116,Lynn Offutt,Am. Waltz,1
+WA,0,2,Final,Dan Branscum,Kat Mack,11,2,2, Pro/Am Adult A2 Newcomer Am. Waltz  (W),Sample,0,ons082,80C22038,132,Roland Michtchenko,Am. Waltz,2
+WA,0,2,Final,Dan Branscum,Kat Mack,14,2,2, Pro/Am Adult A2 Newcomer Am. Waltz  (W),Sample,0,ons082,80C22038,132,Yelena Zakharova,Am. Waltz,2
+WA,0,2,Final,Dan Branscum,Kat Mack,16,2,2, Pro/Am Adult A2 Newcomer Am. Waltz  (W),Sample,0,ons082,80C22038,132,Lynn Offutt,Am. Waltz,2
+WA,0,1,Final,Allan Prince,Angie Luengen,11,1,1, Pro/Am Adult A2 Pre-Bronze Am. Waltz  (W),Sample,0,ons082,80C22938,116,Roland Michtchenko,Am. Waltz,1
+WA,0,1,Final,Allan Prince,Angie Luengen,14,1,1, Pro/Am Adult A2 Pre-Bronze Am. Waltz  (W),Sample,0,ons082,80C22938,116,Yelena Zakharova,Am. Waltz,1
+WA,0,1,Final,Allan Prince,Angie Luengen,16,1,1, Pro/Am Adult A2 Pre-Bronze Am. Waltz  (W),Sample,0,ons082,80C22938,116,Lynn Offutt,Am. Waltz,1
+WA,0,1,Final,John Daly,Angie Luengen,11,1,1, Pro/Am Adult B1 Int. Bronze Am. Waltz  (W),Sample,0,ons082,80C42A38,102,Roland Michtchenko,Am. Waltz,1
+WA,0,1,Final,John Daly,Angie Luengen,14,1,1, Pro/Am Adult B1 Int. Bronze Am. Waltz  (W),Sample,0,ons082,80C42A38,102,Yelena Zakharova,Am. Waltz,1
+WA,0,1,Final,John Daly,Angie Luengen,16,1,1, Pro/Am Adult B1 Int. Bronze Am. Waltz  (W),Sample,0,ons082,80C42A38,102,Lynn Offutt,Am. Waltz,1
+WA,0,1,Final,John Daly,Angie Luengen,11,1,1, Pro/Am Adult B1 Full Bronze Am. Waltz  (W),Sample,0,ons082,80C42B38,102,Roland Michtchenko,Am. Waltz,1
+WA,0,1,Final,John Daly,Angie Luengen,14,1,1, Pro/Am Adult B1 Full Bronze Am. Waltz  (W),Sample,0,ons082,80C42B38,102,Yelena Zakharova,Am. Waltz,1
+WA,0,1,Final,John Daly,Angie Luengen,16,1,1, Pro/Am Adult B1 Full Bronze Am. Waltz  (W),Sample,0,ons082,80C42B38,102,Lynn Offutt,Am. Waltz,1
+WA,0,1,Final,Yegor Novikov,Kurosaka Kumiko,11,1,1, Pro/Am Adult B2 Open Gold Am. Waltz  (W),Sample,0,ons082,80C53D38,133,Roland Michtchenko,Am. Waltz,1
+WA,0,1,Final,Yegor Novikov,Kurosaka Kumiko,14,1,1, Pro/Am Adult B2 Open Gold Am. Waltz  (W),Sample,0,ons082,80C53D38,133,Yelena Zakharova,Am. Waltz,1
+WA,0,1,Final,Yegor Novikov,Kurosaka Kumiko,16,1,1, Pro/Am Adult B2 Open Gold Am. Waltz  (W),Sample,0,ons082,80C53D38,133,Lynn Offutt,Am. Waltz,1
+WA,0,1,Final,Dan Branscum,Kat Mack,11,1,1, Pro/Am Adult A2 Newcomer Am. Tango  (T),Sample,0,ons082,80C22039,132,Roland Michtchenko,Am. Tango,1
+WA,0,1,Final,Dan Branscum,Kat Mack,14,1,1, Pro/Am Adult A2 Newcomer Am. Tango  (T),Sample,0,ons082,80C22039,132,Yelena Zakharova,Am. Tango,1
+WA,0,1,Final,Dan Branscum,Kat Mack,16,1,1, Pro/Am Adult A2 Newcomer Am. Tango  (T),Sample,0,ons082,80C22039,132,Lynn Offutt,Am. Tango,1
+WA,0,1,Final,John Daly,Angie Luengen,11,1,1, Pro/Am Adult B1 Int. Bronze Am. Tango  (T),Sample,0,ons082,80C42A39,102,Roland Michtchenko,Am. Tango,1
+WA,0,1,Final,John Daly,Angie Luengen,14,1,1, Pro/Am Adult B1 Int. Bronze Am. Tango  (T),Sample,0,ons082,80C42A39,102,Yelena Zakharova,Am. Tango,1
+WA,0,1,Final,John Daly,Angie Luengen,16,1,1, Pro/Am Adult B1 Int. Bronze Am. Tango  (T),Sample,0,ons082,80C42A39,102,Lynn Offutt,Am. Tango,1
+WA,0,1,Final,John Daly,Angie Luengen,11,1,1, Pro/Am Adult B1 Full Bronze Am. Tango  (T),Sample,0,ons082,80C42B39,102,Roland Michtchenko,Am. Tango,1
+WA,0,1,Final,John Daly,Angie Luengen,14,1,1, Pro/Am Adult B1 Full Bronze Am. Tango  (T),Sample,0,ons082,80C42B39,102,Yelena Zakharova,Am. Tango,1
+WA,0,1,Final,John Daly,Angie Luengen,16,1,1, Pro/Am Adult B1 Full Bronze Am. Tango  (T),Sample,0,ons082,80C42B39,102,Lynn Offutt,Am. Tango,1
+WA,0,1,Final,Yegor Novikov,Kurosaka Kumiko,11,1,1, Pro/Am Adult B2 Open Gold Am. Tango  (T),Sample,0,ons082,80C53D39,133,Roland Michtchenko,Am. Tango,1
+WA,0,1,Final,Yegor Novikov,Kurosaka Kumiko,14,1,1, Pro/Am Adult B2 Open Gold Am. Tango  (T),Sample,0,ons082,80C53D39,133,Yelena Zakharova,Am. Tango,1
+WA,0,1,Final,Yegor Novikov,Kurosaka Kumiko,16,1,1, Pro/Am Adult B2 Open Gold Am. Tango  (T),Sample,0,ons082,80C53D39,133,Lynn Offutt,Am. Tango,1
+WA,0,1,Final,Allan Prince,Angie Luengen,11,1,1, Pro/Am Adult A2 Newcomer Am. Foxtrot  (F),Sample,0,ons082,80C2203A,116,Roland Michtchenko,Am. Foxtrot,1
+WA,0,1,Final,Allan Prince,Angie Luengen,14,1,1, Pro/Am Adult A2 Newcomer Am. Foxtrot  (F),Sample,0,ons082,80C2203A,116,Yelena Zakharova,Am. Foxtrot,1
+WA,0,1,Final,Allan Prince,Angie Luengen,16,1,1, Pro/Am Adult A2 Newcomer Am. Foxtrot  (F),Sample,0,ons082,80C2203A,116,Lynn Offutt,Am. Foxtrot,1
+WA,0,1,Final,Allan Prince,Angie Luengen,11,1,1, Pro/Am Adult A2 Pre-Bronze Am. Foxtrot  (F),Sample,0,ons082,80C2293A,116,Roland Michtchenko,Am. Foxtrot,1
+WA,0,1,Final,Allan Prince,Angie Luengen,14,1,1, Pro/Am Adult A2 Pre-Bronze Am. Foxtrot  (F),Sample,0,ons082,80C2293A,116,Yelena Zakharova,Am. Foxtrot,1
+WA,0,1,Final,Allan Prince,Angie Luengen,16,1,1, Pro/Am Adult A2 Pre-Bronze Am. Foxtrot  (F),Sample,0,ons082,80C2293A,116,Lynn Offutt,Am. Foxtrot,1
+WA,0,2,Final,Dan Branscum,Kat Mack,11,2,2, Pro/Am Adult A2 Pre-Bronze Am. Foxtrot  (F),Sample,0,ons082,80C2293A,132,Roland Michtchenko,Am. Foxtrot,2
+WA,0,2,Final,Dan Branscum,Kat Mack,14,2,2, Pro/Am Adult A2 Pre-Bronze Am. Foxtrot  (F),Sample,0,ons082,80C2293A,132,Yelena Zakharova,Am. Foxtrot,2
+WA,0,2,Final,Dan Branscum,Kat Mack,16,2,2, Pro/Am Adult A2 Pre-Bronze Am. Foxtrot  (F),Sample,0,ons082,80C2293A,132,Lynn Offutt,Am. Foxtrot,2
+WA,0,1,Final,John Daly,Angie Luengen,11,1,1, Pro/Am Adult B1 Int. Bronze Am. Foxtrot  (F),Sample,0,ons082,80C42A3A,102,Roland Michtchenko,Am. Foxtrot,1
+WA,0,1,Final,John Daly,Angie Luengen,14,1,1, Pro/Am Adult B1 Int. Bronze Am. Foxtrot  (F),Sample,0,ons082,80C42A3A,102,Yelena Zakharova,Am. Foxtrot,1
+WA,0,1,Final,John Daly,Angie Luengen,16,1,1, Pro/Am Adult B1 Int. Bronze Am. Foxtrot  (F),Sample,0,ons082,80C42A3A,102,Lynn Offutt,Am. Foxtrot,1
+WA,0,1,Final,John Daly,Angie Luengen,11,1,1, Pro/Am Adult B1 Full Bronze Am. Foxtrot  (F),Sample,0,ons082,80C42B3A,102,Roland Michtchenko,Am. Foxtrot,1
+WA,0,1,Final,John Daly,Angie Luengen,14,1,1, Pro/Am Adult B1 Full Bronze Am. Foxtrot  (F),Sample,0,ons082,80C42B3A,102,Yelena Zakharova,Am. Foxtrot,1
+WA,0,1,Final,John Daly,Angie Luengen,16,1,1, Pro/Am Adult B1 Full Bronze Am. Foxtrot  (F),Sample,0,ons082,80C42B3A,102,Lynn Offutt,Am. Foxtrot,1
+WA,0,1,Final,Yegor Novikov,Kurosaka Kumiko,11,1,1, Pro/Am Adult B2 Open Gold Am. Foxtrot  (F),Sample,0,ons082,80C53D3A,133,Roland Michtchenko,Am. Foxtrot,1
+WA,0,1,Final,Yegor Novikov,Kurosaka Kumiko,14,1,1, Pro/Am Adult B2 Open Gold Am. Foxtrot  (F),Sample,0,ons082,80C53D3A,133,Yelena Zakharova,Am. Foxtrot,1
+WA,0,1,Final,Yegor Novikov,Kurosaka Kumiko,16,1,1, Pro/Am Adult B2 Open Gold Am. Foxtrot  (F),Sample,0,ons082,80C53D3A,133,Lynn Offutt,Am. Foxtrot,1
+WA,0,1,Final,Dan Branscum,Kat Mack,11,1,1, Pro/Am Adult A2 Newcomer Am. V. Waltz  (V),Sample,0,ons082,80C2203B,132,Roland Michtchenko,Am. V. Waltz,1
+WA,0,1,Final,Dan Branscum,Kat Mack,14,1,1, Pro/Am Adult A2 Newcomer Am. V. Waltz  (V),Sample,0,ons082,80C2203B,132,Yelena Zakharova,Am. V. Waltz,1
+WA,0,2,Final,Dan Branscum,Kat Mack,16,1,2, Pro/Am Adult A2 Newcomer Am. V. Waltz  (V),Sample,0,ons082,80C2203B,132,Lynn Offutt,Am. V. Waltz,1
+WA,0,1,Final,John Daly,Angie Luengen,11,1,1, Pro/Am Adult B1 Int. Bronze Am. V. Waltz  (V),Sample,0,ons082,80C42A3B,102,Roland Michtchenko,Am. V. Waltz,1
+WA,0,1,Final,John Daly,Angie Luengen,14,1,1, Pro/Am Adult B1 Int. Bronze Am. V. Waltz  (V),Sample,0,ons082,80C42A3B,102,Yelena Zakharova,Am. V. Waltz,1
+WA,0,1,Final,John Daly,Angie Luengen,16,1,1, Pro/Am Adult B1 Int. Bronze Am. V. Waltz  (V),Sample,0,ons082,80C42A3B,102,Lynn Offutt,Am. V. Waltz,1
+WA,0,1,Final,John Daly,Angie Luengen,11,1,1, Pro/Am Adult B1 Full Bronze Am. V. Waltz  (V),Sample,0,ons082,80C42B3B,102,Roland Michtchenko,Am. V. Waltz,1
+WA,0,1,Final,John Daly,Angie Luengen,14,1,1, Pro/Am Adult B1 Full Bronze Am. V. Waltz  (V),Sample,0,ons082,80C42B3B,102,Yelena Zakharova,Am. V. Waltz,1
+WA,0,2,Final,John Daly,Angie Luengen,16,1,2, Pro/Am Adult B1 Full Bronze Am. V. Waltz  (V),Sample,0,ons082,80C42B3B,102,Lynn Offutt,Am. V. Waltz,1
+WA,0,1,Final,Yegor Novikov,Kurosaka Kumiko,11,1,1, Pro/Am Adult B2 Open Gold Am. V. Waltz  (V),Sample,0,ons082,80C53D3B,133,Roland Michtchenko,Am. V. Waltz,1
+WA,0,1,Final,Yegor Novikov,Kurosaka Kumiko,14,1,1, Pro/Am Adult B2 Open Gold Am. V. Waltz  (V),Sample,0,ons082,80C53D3B,133,Yelena Zakharova,Am. V. Waltz,1
+WA,0,1,Final,Yegor Novikov,Kurosaka Kumiko,16,1,1, Pro/Am Adult B2 Open Gold Am. V. Waltz  (V),Sample,0,ons082,80C53D3B,133,Lynn Offutt,Am. V. Waltz,1
+WA,0,1,Final,Yegor Novikov,Kurosaka Kumiko,11,1,1, Pro/Am Adult B1 Syllabus Smooth  (WTF),Sample,0,ons082,80C43F30,133,Roland Michtchenko,Waltz,1
+WA,0,1,Final,Yegor Novikov,Kurosaka Kumiko,14,1,1, Pro/Am Adult B1 Syllabus Smooth  (WTF),Sample,0,ons082,80C43F30,133,Yelena Zakharova,Waltz,1
+WA,0,1,Final,Yegor Novikov,Kurosaka Kumiko,16,1,1, Pro/Am Adult B1 Syllabus Smooth  (WTF),Sample,0,ons082,80C43F30,133,Lynn Offutt,Waltz,1
+WA,0,2,Final,John Daly,Angie Luengen,11,2,2, Pro/Am Adult B1 Syllabus Smooth  (WTF),Sample,0,ons082,80C43F30,102,Roland Michtchenko,Waltz,2
+WA,0,2,Final,John Daly,Angie Luengen,14,2,2, Pro/Am Adult B1 Syllabus Smooth  (WTF),Sample,0,ons082,80C43F30,102,Yelena Zakharova,Waltz,2
+WA,0,2,Final,John Daly,Angie Luengen,16,2,2, Pro/Am Adult B1 Syllabus Smooth  (WTF),Sample,0,ons082,80C43F30,102,Lynn Offutt,Waltz,2
+WA,0,1,Final,Yegor Novikov,Kurosaka Kumiko,11,1,1, Pro/Am Adult B1 Syllabus Smooth  (WTF),Sample,1,ons082,80C43F30,133,Roland Michtchenko,Tango,1
+WA,0,1,Final,Yegor Novikov,Kurosaka Kumiko,14,1,1, Pro/Am Adult B1 Syllabus Smooth  (WTF),Sample,1,ons082,80C43F30,133,Yelena Zakharova,Tango,1
+WA,0,1,Final,Yegor Novikov,Kurosaka Kumiko,16,1,1, Pro/Am Adult B1 Syllabus Smooth  (WTF),Sample,1,ons082,80C43F30,133,Lynn Offutt,Tango,1
+WA,0,2,Final,John Daly,Angie Luengen,11,2,2, Pro/Am Adult B1 Syllabus Smooth  (WTF),Sample,1,ons082,80C43F30,102,Roland Michtchenko,Tango,2
+WA,0,2,Final,John Daly,Angie Luengen,14,2,2, Pro/Am Adult B1 Syllabus Smooth  (WTF),Sample,1,ons082,80C43F30,102,Yelena Zakharova,Tango,2
+WA,0,2,Final,John Daly,Angie Luengen,16,2,2, Pro/Am Adult B1 Syllabus Smooth  (WTF),Sample,1,ons082,80C43F30,102,Lynn Offutt,Tango,2
+WA,0,1,Final,Yegor Novikov,Kurosaka Kumiko,11,1,1, Pro/Am Adult B1 Syllabus Smooth  (WTF),Sample,2,ons082,80C43F30,133,Roland Michtchenko,Foxtrot,1
+WA,0,1,Final,Yegor Novikov,Kurosaka Kumiko,14,1,1, Pro/Am Adult B1 Syllabus Smooth  (WTF),Sample,2,ons082,80C43F30,133,Yelena Zakharova,Foxtrot,1
+WA,0,1,Final,Yegor Novikov,Kurosaka Kumiko,16,1,1, Pro/Am Adult B1 Syllabus Smooth  (WTF),Sample,2,ons082,80C43F30,133,Lynn Offutt,Foxtrot,1
+WA,0,2,Final,John Daly,Angie Luengen,11,2,2, Pro/Am Adult B1 Syllabus Smooth  (WTF),Sample,2,ons082,80C43F30,102,Roland Michtchenko,Foxtrot,2
+WA,0,2,Final,John Daly,Angie Luengen,14,2,2, Pro/Am Adult B1 Syllabus Smooth  (WTF),Sample,2,ons082,80C43F30,102,Yelena Zakharova,Foxtrot,2
+WA,0,2,Final,John Daly,Angie Luengen,16,2,2, Pro/Am Adult B1 Syllabus Smooth  (WTF),Sample,2,ons082,80C43F30,102,Lynn Offutt,Foxtrot,2
+WA,0,1,Final,Pavel Balykin,Jessica Buttler,11,1,1, Pro/Am Jr. Yth. Open Bronze Intl. Waltz  (W),Sample,0,ons082,802E2D18,131,Roland Michtchenko,Intl. Waltz,1
+WA,0,1,Final,Pavel Balykin,Jessica Buttler,14,1,1, Pro/Am Jr. Yth. Open Bronze Intl. Waltz  (W),Sample,0,ons082,802E2D18,131,Yelena Zakharova,Intl. Waltz,1
+WA,0,1,Final,Pavel Balykin,Jessica Buttler,16,1,1, Pro/Am Jr. Yth. Open Bronze Intl. Waltz  (W),Sample,0,ons082,802E2D18,131,Lynn Offutt,Intl. Waltz,1
+WA,0,1,Final,Nekrasov Sergey,Dascha Jayne Wright,11,1,1, Pro/Am Pre-Teen Full Bronze Intl. Waltz  (W),Sample,0,ons082,80272B18,130,Roland Michtchenko,Intl. Waltz,1
+WA,0,1,Final,Nekrasov Sergey,Dascha Jayne Wright,14,1,1, Pro/Am Pre-Teen Full Bronze Intl. Waltz  (W),Sample,0,ons082,80272B18,130,Yelena Zakharova,Intl. Waltz,1
+WA,0,1,Final,Nekrasov Sergey,Dascha Jayne Wright,16,1,1, Pro/Am Pre-Teen Full Bronze Intl. Waltz  (W),Sample,0,ons082,80272B18,130,Lynn Offutt,Intl. Waltz,1
+WA,0,1,Final,Yegor Novikov,Kurosaka Kumiko,11,1,1, Pro/Am Adult B2 Open Gold Intl. Waltz  (W),Sample,0,ons082,80C53D18,133,Roland Michtchenko,Intl. Waltz,1
+WA,0,1,Final,Yegor Novikov,Kurosaka Kumiko,14,1,1, Pro/Am Adult B2 Open Gold Intl. Waltz  (W),Sample,0,ons082,80C53D18,133,Yelena Zakharova,Intl. Waltz,1
+WA,0,1,Final,Yegor Novikov,Kurosaka Kumiko,16,1,1, Pro/Am Adult B2 Open Gold Intl. Waltz  (W),Sample,0,ons082,80C53D18,133,Lynn Offutt,Intl. Waltz,1
+WA,0,1,Final,Nekrasov Sergey,Sabrena Lebeau,11,1,1, Pro/Am Jr. Yth. Int. Gold Intl. Waltz  (W),Sample,0,ons082,802E3A18,130,Roland Michtchenko,Intl. Waltz,1
+WA,0,1,Final,Nekrasov Sergey,Sabrena Lebeau,14,1,1, Pro/Am Jr. Yth. Int. Gold Intl. Waltz  (W),Sample,0,ons082,802E3A18,130,Yelena Zakharova,Intl. Waltz,1
+WA,0,1,Final,Nekrasov Sergey,Sabrena Lebeau,16,1,1, Pro/Am Jr. Yth. Int. Gold Intl. Waltz  (W),Sample,0,ons082,802E3A18,130,Lynn Offutt,Intl. Waltz,1
+WA,0,1,Final,Yegor Novikov,Sue Ikai,11,1,1, Pro/Am Adult B1 Gold Star Intl. Waltz  (W),Sample,0,ons082,80C43E18,133,Roland Michtchenko,Intl. Waltz,1
+WA,0,1,Final,Yegor Novikov,Sue Ikai,14,1,1, Pro/Am Adult B1 Gold Star Intl. Waltz  (W),Sample,0,ons082,80C43E18,133,Yelena Zakharova,Intl. Waltz,1
+WA,0,1,Final,Yegor Novikov,Sue Ikai,16,1,1, Pro/Am Adult B1 Gold Star Intl. Waltz  (W),Sample,0,ons082,80C43E18,133,Lynn Offutt,Intl. Waltz,1
+WA,0,1,Final,Leonard Reichlin,Ekaterina Zakharoff,11,1,1, Pro/Am Adult B2 Open Bronze Hustle  (H),Sample,0,ons082,80C52D69,119,Roland Michtchenko,Hustle,1
+WA,0,1,Final,Leonard Reichlin,Ekaterina Zakharoff,14,1,1, Pro/Am Adult B2 Open Bronze Hustle  (H),Sample,0,ons082,80C52D69,119,Yelena Zakharova,Hustle,1
+WA,0,1,Final,Leonard Reichlin,Ekaterina Zakharoff,16,1,1, Pro/Am Adult B2 Open Bronze Hustle  (H),Sample,0,ons082,80C52D69,119,Lynn Offutt,Hustle,1
+WA,0,1,Final,Nekrasov Sergey,Dascha Jayne Wright,11,1,1, Pro/Am Pre-Teen Full Bronze Intl. Tango  (T),Sample,0,ons082,80272B19,130,Roland Michtchenko,Intl. Tango,1
+WA,0,1,Final,Nekrasov Sergey,Dascha Jayne Wright,14,1,1, Pro/Am Pre-Teen Full Bronze Intl. Tango  (T),Sample,0,ons082,80272B19,130,Yelena Zakharova,Intl. Tango,1
+WA,0,1,Final,Nekrasov Sergey,Dascha Jayne Wright,16,1,1, Pro/Am Pre-Teen Full Bronze Intl. Tango  (T),Sample,0,ons082,80272B19,130,Lynn Offutt,Intl. Tango,1
+WA,0,1,Final,Yegor Novikov,Kurosaka Kumiko,11,1,1, Pro/Am Adult B2 Open Gold Intl. Tango  (T),Sample,0,ons082,80C53D19,133,Roland Michtchenko,Intl. Tango,1
+WA,0,1,Final,Yegor Novikov,Kurosaka Kumiko,14,1,1, Pro/Am Adult B2 Open Gold Intl. Tango  (T),Sample,0,ons082,80C53D19,133,Yelena Zakharova,Intl. Tango,1
+WA,0,1,Final,Yegor Novikov,Kurosaka Kumiko,16,1,1, Pro/Am Adult B2 Open Gold Intl. Tango  (T),Sample,0,ons082,80C53D19,133,Lynn Offutt,Intl. Tango,1
+WA,0,1,Final,Nekrasov Sergey,Sabrena Lebeau,11,1,1, Pro/Am Jr. Yth. Int. Gold Intl. Tango  (T),Sample,0,ons082,802E3A19,130,Roland Michtchenko,Intl. Tango,1
+WA,0,1,Final,Nekrasov Sergey,Sabrena Lebeau,14,1,1, Pro/Am Jr. Yth. Int. Gold Intl. Tango  (T),Sample,0,ons082,802E3A19,130,Yelena Zakharova,Intl. Tango,1
+WA,0,1,Final,Nekrasov Sergey,Sabrena Lebeau,16,1,1, Pro/Am Jr. Yth. Int. Gold Intl. Tango  (T),Sample,0,ons082,802E3A19,130,Lynn Offutt,Intl. Tango,1
+WA,0,1,Final,Yegor Novikov,Sue Ikai,11,1,1, Pro/Am Adult B1 Gold Star Intl. Tango  (T),Sample,0,ons082,80C43E19,133,Roland Michtchenko,Intl. Tango,1
+WA,0,1,Final,Yegor Novikov,Sue Ikai,14,1,1, Pro/Am Adult B1 Gold Star Intl. Tango  (T),Sample,0,ons082,80C43E19,133,Yelena Zakharova,Intl. Tango,1
+WA,0,1,Final,Yegor Novikov,Sue Ikai,16,1,1, Pro/Am Adult B1 Gold Star Intl. Tango  (T),Sample,0,ons082,80C43E19,133,Lynn Offutt,Intl. Tango,1
+WA,0,1,Final,Yegor Novikov,Sue Ikai,11,1,1, Pro/Am Adult B1 Gold Star Intl. V. Waltz  (V),Sample,0,ons082,80C43E1A,133,Roland Michtchenko,Intl. V. Waltz,1
+WA,0,1,Final,Yegor Novikov,Sue Ikai,14,1,1, Pro/Am Adult B1 Gold Star Intl. V. Waltz  (V),Sample,0,ons082,80C43E1A,133,Yelena Zakharova,Intl. V. Waltz,1
+WA,0,1,Final,Yegor Novikov,Sue Ikai,16,1,1, Pro/Am Adult B1 Gold Star Intl. V. Waltz  (V),Sample,0,ons082,80C43E1A,133,Lynn Offutt,Intl. V. Waltz,1
+WA,0,1,Final,Yegor Novikov,Kurosaka Kumiko,11,1,1, Pro/Am Adult B2 Open Gold Intl. V. Waltz  (V),Sample,0,ons082,80C53D1A,133,Roland Michtchenko,Intl. V. Waltz,1
+WA,0,1,Final,Yegor Novikov,Kurosaka Kumiko,14,1,1, Pro/Am Adult B2 Open Gold Intl. V. Waltz  (V),Sample,0,ons082,80C53D1A,133,Yelena Zakharova,Intl. V. Waltz,1
+WA,0,1,Final,Yegor Novikov,Kurosaka Kumiko,16,1,1, Pro/Am Adult B2 Open Gold Intl. V. Waltz  (V),Sample,0,ons082,80C53D1A,133,Lynn Offutt,Intl. V. Waltz,1
+WA,0,1,Final,Leonard Reichlin,Ekaterina Zakharoff,11,1,1, Pro/Am Adult B2 Open Bronze Intl. Foxtrot  (F),Sample,0,ons082,80C52D1B,119,Roland Michtchenko,Intl. Foxtrot,1
+WA,0,1,Final,Leonard Reichlin,Ekaterina Zakharoff,14,1,1, Pro/Am Adult B2 Open Bronze Intl. Foxtrot  (F),Sample,0,ons082,80C52D1B,119,Yelena Zakharova,Intl. Foxtrot,1
+WA,0,1,Final,Leonard Reichlin,Ekaterina Zakharoff,16,1,1, Pro/Am Adult B2 Open Bronze Intl. Foxtrot  (F),Sample,0,ons082,80C52D1B,119,Lynn Offutt,Intl. Foxtrot,1
+WA,0,1,Final,Nekrasov Sergey,Sabrena Lebeau,11,1,1, Pro/Am Jr. Yth. Int. Gold Intl. Foxtrot  (F),Sample,0,ons082,802E3A1B,130,Roland Michtchenko,Intl. Foxtrot,1
+WA,0,1,Final,Nekrasov Sergey,Sabrena Lebeau,14,1,1, Pro/Am Jr. Yth. Int. Gold Intl. Foxtrot  (F),Sample,0,ons082,802E3A1B,130,Yelena Zakharova,Intl. Foxtrot,1
+WA,0,1,Final,Nekrasov Sergey,Sabrena Lebeau,16,1,1, Pro/Am Jr. Yth. Int. Gold Intl. Foxtrot  (F),Sample,0,ons082,802E3A1B,130,Lynn Offutt,Intl. Foxtrot,1
+WA,0,1,Final,Yegor Novikov,Kurosaka Kumiko,11,1,1, Pro/Am Adult B2 Open Gold Intl. Foxtrot  (F),Sample,0,ons082,80C53D1B,133,Roland Michtchenko,Intl. Foxtrot,1
+WA,0,1,Final,Yegor Novikov,Kurosaka Kumiko,14,1,1, Pro/Am Adult B2 Open Gold Intl. Foxtrot  (F),Sample,0,ons082,80C53D1B,133,Yelena Zakharova,Intl. Foxtrot,1
+WA,0,1,Final,Yegor Novikov,Kurosaka Kumiko,16,1,1, Pro/Am Adult B2 Open Gold Intl. Foxtrot  (F),Sample,0,ons082,80C53D1B,133,Lynn Offutt,Intl. Foxtrot,1
+WA,0,1,Final,Nekrasov Sergey,Dascha Jayne Wright,11,1,1, Pro/Am Pre-Teen Full Bronze Intl. Quickstep  (Q),Sample,0,ons082,80272B1C,130,Roland Michtchenko,Intl. Quickstep,1
+WA,0,1,Final,Nekrasov Sergey,Dascha Jayne Wright,14,1,1, Pro/Am Pre-Teen Full Bronze Intl. Quickstep  (Q),Sample,0,ons082,80272B1C,130,Yelena Zakharova,Intl. Quickstep,1
+WA,0,1,Final,Nekrasov Sergey,Dascha Jayne Wright,16,1,1, Pro/Am Pre-Teen Full Bronze Intl. Quickstep  (Q),Sample,0,ons082,80272B1C,130,Lynn Offutt,Intl. Quickstep,1
+WA,0,1,Final,Pavel Balykin,Jessica Buttler,11,1,1, Pro/Am Jr. Yth. Open Bronze Intl. Quickstep  (Q),Sample,0,ons082,802E2D1C,131,Roland Michtchenko,Intl. Quickstep,1
+WA,0,1,Final,Pavel Balykin,Jessica Buttler,14,1,1, Pro/Am Jr. Yth. Open Bronze Intl. Quickstep  (Q),Sample,0,ons082,802E2D1C,131,Yelena Zakharova,Intl. Quickstep,1
+WA,0,1,Final,Pavel Balykin,Jessica Buttler,16,1,1, Pro/Am Jr. Yth. Open Bronze Intl. Quickstep  (Q),Sample,0,ons082,802E2D1C,131,Lynn Offutt,Intl. Quickstep,1
+WA,0,1,Final,Yegor Novikov,Kurosaka Kumiko,11,1,1, Pro/Am Adult B2 Open Gold Intl. Quickstep  (Q),Sample,0,ons082,80C53D1C,133,Roland Michtchenko,Intl. Quickstep,1
+WA,0,1,Final,Yegor Novikov,Kurosaka Kumiko,14,1,1, Pro/Am Adult B2 Open Gold Intl. Quickstep  (Q),Sample,0,ons082,80C53D1C,133,Yelena Zakharova,Intl. Quickstep,1
+WA,0,1,Final,Yegor Novikov,Kurosaka Kumiko,16,1,1, Pro/Am Adult B2 Open Gold Intl. Quickstep  (Q),Sample,0,ons082,80C53D1C,133,Lynn Offutt,Intl. Quickstep,1
+WA,0,1,Final,Nekrasov Sergey,Sabrena Lebeau,11,1,1, Pro/Am Jr. Yth. Int. Gold Intl. Quickstep  (Q),Sample,0,ons082,802E3A1C,130,Roland Michtchenko,Intl. Quickstep,1
+WA,0,1,Final,Nekrasov Sergey,Sabrena Lebeau,14,1,1, Pro/Am Jr. Yth. Int. Gold Intl. Quickstep  (Q),Sample,0,ons082,802E3A1C,130,Yelena Zakharova,Intl. Quickstep,1
+WA,0,1,Final,Nekrasov Sergey,Sabrena Lebeau,16,1,1, Pro/Am Jr. Yth. Int. Gold Intl. Quickstep  (Q),Sample,0,ons082,802E3A1C,130,Lynn Offutt,Intl. Quickstep,1
+WA,0,1,Final,Yegor Novikov,Sue Ikai,11,1,1, Pro/Am Adult B1 Gold Star Intl. Quickstep  (Q),Sample,0,ons082,80C43E1C,133,Roland Michtchenko,Intl. Quickstep,1
+WA,0,1,Final,Yegor Novikov,Sue Ikai,14,1,1, Pro/Am Adult B1 Gold Star Intl. Quickstep  (Q),Sample,0,ons082,80C43E1C,133,Yelena Zakharova,Intl. Quickstep,1
+WA,0,1,Final,Yegor Novikov,Sue Ikai,16,1,1, Pro/Am Adult B1 Gold Star Intl. Quickstep  (Q),Sample,0,ons082,80C43E1C,133,Lynn Offutt,Intl. Quickstep,1
+WA,0,1,Final,Allan Prince,Angie Luengen,11,1,1, Pro/Am Adult A2 Newcomer Am. Cha Cha  (C),Sample,0,ons082,80C22048,116,Roland Michtchenko,Am. Cha Cha,1
+WA,0,1,Final,Allan Prince,Angie Luengen,14,1,1, Pro/Am Adult A2 Newcomer Am. Cha Cha  (C),Sample,0,ons082,80C22048,116,Yelena Zakharova,Am. Cha Cha,1
+WA,0,1,Final,Allan Prince,Angie Luengen,16,1,1, Pro/Am Adult A2 Newcomer Am. Cha Cha  (C),Sample,0,ons082,80C22048,116,Lynn Offutt,Am. Cha Cha,1
+WA,0,1,Final,Allan Prince,Angie Luengen,11,1,1, Pro/Am Adult A2 Pre-Bronze Am. Cha Cha  (C),Sample,0,ons082,80C22948,116,Roland Michtchenko,Am. Cha Cha,1
+WA,0,1,Final,Allan Prince,Angie Luengen,14,1,1, Pro/Am Adult A2 Pre-Bronze Am. Cha Cha  (C),Sample,0,ons082,80C22948,116,Yelena Zakharova,Am. Cha Cha,1
+WA,0,1,Final,Allan Prince,Angie Luengen,16,1,1, Pro/Am Adult A2 Pre-Bronze Am. Cha Cha  (C),Sample,0,ons082,80C22948,116,Lynn Offutt,Am. Cha Cha,1
+WA,0,1,Final,Nekrasov Sergey,Dascha Jayne Wright,11,1,1, Pro/Am Pre-Teen Full Bronze Intl. Cha Cha  (C),Sample,0,ons082,80272B28,130,Roland Michtchenko,Intl. Cha Cha,1
+WA,0,1,Final,Nekrasov Sergey,Dascha Jayne Wright,14,1,1, Pro/Am Pre-Teen Full Bronze Intl. Cha Cha  (C),Sample,0,ons082,80272B28,130,Yelena Zakharova,Intl. Cha Cha,1
+WA,0,1,Final,Nekrasov Sergey,Dascha Jayne Wright,16,1,1, Pro/Am Pre-Teen Full Bronze Intl. Cha Cha  (C),Sample,0,ons082,80272B28,130,Lynn Offutt,Intl. Cha Cha,1
+WA,0,1,Final,Pavel Balykin,Jessica Buttler,11,1,1, Pro/Am Jr. Yth. Open Bronze Intl. Cha Cha  (C),Sample,0,ons082,802E2D28,131,Roland Michtchenko,Intl. Cha Cha,1
+WA,0,1,Final,Pavel Balykin,Jessica Buttler,14,1,1, Pro/Am Jr. Yth. Open Bronze Intl. Cha Cha  (C),Sample,0,ons082,802E2D28,131,Yelena Zakharova,Intl. Cha Cha,1
+WA,0,1,Final,Pavel Balykin,Jessica Buttler,16,1,1, Pro/Am Jr. Yth. Open Bronze Intl. Cha Cha  (C),Sample,0,ons082,802E2D28,131,Lynn Offutt,Intl. Cha Cha,1
+WA,0,1,Final,John Daly,Angie Luengen,11,1,1, Pro/Am Adult B1 Int. Bronze Am. Cha Cha  (C),Sample,0,ons082,80C42A48,102,Roland Michtchenko,Am. Cha Cha,1
+WA,0,1,Final,John Daly,Angie Luengen,14,1,1, Pro/Am Adult B1 Int. Bronze Am. Cha Cha  (C),Sample,0,ons082,80C42A48,102,Yelena Zakharova,Am. Cha Cha,1
+WA,0,1,Final,John Daly,Angie Luengen,16,1,1, Pro/Am Adult B1 Int. Bronze Am. Cha Cha  (C),Sample,0,ons082,80C42A48,102,Lynn Offutt,Am. Cha Cha,1
+WA,0,1,Final,John Daly,Angie Luengen,11,1,1, Pro/Am Adult B1 Full Bronze Am. Cha Cha  (C),Sample,0,ons082,80C42B48,102,Roland Michtchenko,Am. Cha Cha,1
+WA,0,1,Final,John Daly,Angie Luengen,14,1,1, Pro/Am Adult B1 Full Bronze Am. Cha Cha  (C),Sample,0,ons082,80C42B48,102,Yelena Zakharova,Am. Cha Cha,1
+WA,0,1,Final,John Daly,Angie Luengen,16,1,1, Pro/Am Adult B1 Full Bronze Am. Cha Cha  (C),Sample,0,ons082,80C42B48,102,Lynn Offutt,Am. Cha Cha,1
+WA,0,1,Final,Nekrasov Sergey,Sabrena Lebeau,11,1,1, Pro/Am Jr. Yth. Int. Gold Intl. Cha Cha  (C),Sample,0,ons082,802E3A28,130,Roland Michtchenko,Intl. Cha Cha,1
+WA,0,1,Final,Nekrasov Sergey,Sabrena Lebeau,14,1,1, Pro/Am Jr. Yth. Int. Gold Intl. Cha Cha  (C),Sample,0,ons082,802E3A28,130,Yelena Zakharova,Intl. Cha Cha,1
+WA,0,1,Final,Nekrasov Sergey,Sabrena Lebeau,16,1,1, Pro/Am Jr. Yth. Int. Gold Intl. Cha Cha  (C),Sample,0,ons082,802E3A28,130,Lynn Offutt,Intl. Cha Cha,1
+WA,0,1,Final,Pavel Balykin,Leah Garakanidze,11,1,1, Pro/Am Jr. Yth. Full Gold Intl. Cha Cha  (C),Sample,0,ons082,802E3B28,131,Roland Michtchenko,Intl. Cha Cha,1
+WA,0,1,Final,Pavel Balykin,Leah Garakanidze,14,1,1, Pro/Am Jr. Yth. Full Gold Intl. Cha Cha  (C),Sample,0,ons082,802E3B28,131,Yelena Zakharova,Intl. Cha Cha,1
+WA,0,1,Final,Pavel Balykin,Leah Garakanidze,16,1,1, Pro/Am Jr. Yth. Full Gold Intl. Cha Cha  (C),Sample,0,ons082,802E3B28,131,Lynn Offutt,Intl. Cha Cha,1
+WA,0,1,Final,Allan Prince,Angie Luengen,11,1,1, Pro/Am Adult A2 Newcomer Am. Rumba  (R),Sample,0,ons082,80C22049,116,Roland Michtchenko,Am. Rumba,1
+WA,0,1,Final,Allan Prince,Angie Luengen,14,1,1, Pro/Am Adult A2 Newcomer Am. Rumba  (R),Sample,0,ons082,80C22049,116,Yelena Zakharova,Am. Rumba,1
+WA,0,1,Final,Allan Prince,Angie Luengen,16,1,1, Pro/Am Adult A2 Newcomer Am. Rumba  (R),Sample,0,ons082,80C22049,116,Lynn Offutt,Am. Rumba,1
+WA,0,2,Final,Dan Branscum,Kat Mack,11,2,2, Pro/Am Adult A2 Newcomer Am. Rumba  (R),Sample,0,ons082,80C22049,132,Roland Michtchenko,Am. Rumba,2
+WA,0,2,Final,Dan Branscum,Kat Mack,14,2,2, Pro/Am Adult A2 Newcomer Am. Rumba  (R),Sample,0,ons082,80C22049,132,Yelena Zakharova,Am. Rumba,2
+WA,0,2,Final,Dan Branscum,Kat Mack,16,2,2, Pro/Am Adult A2 Newcomer Am. Rumba  (R),Sample,0,ons082,80C22049,132,Lynn Offutt,Am. Rumba,2
+WA,0,1,Final,Allan Prince,Angie Luengen,11,1,1, Pro/Am Adult A2 Pre-Bronze Am. Rumba  (R),Sample,0,ons082,80C22949,116,Roland Michtchenko,Am. Rumba,1
+WA,0,1,Final,Allan Prince,Angie Luengen,14,1,1, Pro/Am Adult A2 Pre-Bronze Am. Rumba  (R),Sample,0,ons082,80C22949,116,Yelena Zakharova,Am. Rumba,1
+WA,0,1,Final,Allan Prince,Angie Luengen,16,1,1, Pro/Am Adult A2 Pre-Bronze Am. Rumba  (R),Sample,0,ons082,80C22949,116,Lynn Offutt,Am. Rumba,1
+WA,0,1,Final,Nekrasov Sergey,Dascha Jayne Wright,11,1,1, Pro/Am Pre-Teen Full Bronze Intl. Samba  (S),Sample,0,ons082,80272B29,130,Roland Michtchenko,Intl. Samba,1
+WA,0,1,Final,Nekrasov Sergey,Dascha Jayne Wright,14,1,1, Pro/Am Pre-Teen Full Bronze Intl. Samba  (S),Sample,0,ons082,80272B29,130,Yelena Zakharova,Intl. Samba,1
+WA,0,1,Final,Nekrasov Sergey,Dascha Jayne Wright,16,1,1, Pro/Am Pre-Teen Full Bronze Intl. Samba  (S),Sample,0,ons082,80272B29,130,Lynn Offutt,Intl. Samba,1
+WA,0,1,Final,John Daly,Angie Luengen,11,1,1, Pro/Am Adult B1 Int. Bronze Am. Rumba  (R),Sample,0,ons082,80C42A49,102,Roland Michtchenko,Am. Rumba,1
+WA,0,1,Final,John Daly,Angie Luengen,14,1,1, Pro/Am Adult B1 Int. Bronze Am. Rumba  (R),Sample,0,ons082,80C42A49,102,Yelena Zakharova,Am. Rumba,1
+WA,0,1,Final,John Daly,Angie Luengen,16,1,1, Pro/Am Adult B1 Int. Bronze Am. Rumba  (R),Sample,0,ons082,80C42A49,102,Lynn Offutt,Am. Rumba,1
+WA,0,1,Final,Nekrasov Sergey,Sabrena Lebeau,11,1,1, Pro/Am Jr. Yth. Int. Gold Intl. Samba  (S),Sample,0,ons082,802E3A29,130,Roland Michtchenko,Intl. Samba,1
+WA,0,1,Final,Nekrasov Sergey,Sabrena Lebeau,14,1,1, Pro/Am Jr. Yth. Int. Gold Intl. Samba  (S),Sample,0,ons082,802E3A29,130,Yelena Zakharova,Intl. Samba,1
+WA,0,1,Final,Nekrasov Sergey,Sabrena Lebeau,16,1,1, Pro/Am Jr. Yth. Int. Gold Intl. Samba  (S),Sample,0,ons082,802E3A29,130,Lynn Offutt,Intl. Samba,1
+WA,0,1,Final,Pavel Balykin,Leah Garakanidze,11,1,1, Pro/Am Jr. Yth. Full Gold Intl. Samba  (S),Sample,0,ons082,802E3B29,131,Roland Michtchenko,Intl. Samba,1
+WA,0,1,Final,Pavel Balykin,Leah Garakanidze,14,1,1, Pro/Am Jr. Yth. Full Gold Intl. Samba  (S),Sample,0,ons082,802E3B29,131,Yelena Zakharova,Intl. Samba,1
+WA,0,1,Final,Pavel Balykin,Leah Garakanidze,16,1,1, Pro/Am Jr. Yth. Full Gold Intl. Samba  (S),Sample,0,ons082,802E3B29,131,Lynn Offutt,Intl. Samba,1
+WA,0,1,Final,John Daly,Angie Luengen,11,1,1, Pro/Am Adult B1 Full Bronze Am. Rumba  (R),Sample,0,ons082,80C42B49,102,Roland Michtchenko,Am. Rumba,1
+WA,0,1,Final,John Daly,Angie Luengen,14,1,1, Pro/Am Adult B1 Full Bronze Am. Rumba  (R),Sample,0,ons082,80C42B49,102,Yelena Zakharova,Am. Rumba,1
+WA,0,1,Final,John Daly,Angie Luengen,16,1,1, Pro/Am Adult B1 Full Bronze Am. Rumba  (R),Sample,0,ons082,80C42B49,102,Lynn Offutt,Am. Rumba,1
+WA,0,1,Final,Nekrasov Sergey,Dascha Jayne Wright,11,1,1, Pro/Am Pre-Teen Full Bronze Intl. Rumba  (R),Sample,0,ons082,80272B2A,130,Roland Michtchenko,Intl. Rumba,1
+WA,0,1,Final,Nekrasov Sergey,Dascha Jayne Wright,14,1,1, Pro/Am Pre-Teen Full Bronze Intl. Rumba  (R),Sample,0,ons082,80272B2A,130,Yelena Zakharova,Intl. Rumba,1
+WA,0,1,Final,Nekrasov Sergey,Dascha Jayne Wright,16,1,1, Pro/Am Pre-Teen Full Bronze Intl. Rumba  (R),Sample,0,ons082,80272B2A,130,Lynn Offutt,Intl. Rumba,1
+WA,0,1,Final,Pavel Balykin,Jessica Buttler,11,1,1, Pro/Am Jr. Yth. Open Bronze Intl. Rumba  (R),Sample,0,ons082,802E2D2A,131,Roland Michtchenko,Intl. Rumba,1
+WA,0,1,Final,Pavel Balykin,Jessica Buttler,14,1,1, Pro/Am Jr. Yth. Open Bronze Intl. Rumba  (R),Sample,0,ons082,802E2D2A,131,Yelena Zakharova,Intl. Rumba,1
+WA,0,1,Final,Pavel Balykin,Jessica Buttler,16,1,1, Pro/Am Jr. Yth. Open Bronze Intl. Rumba  (R),Sample,0,ons082,802E2D2A,131,Lynn Offutt,Intl. Rumba,1
+WA,0,1,Final,Allan Prince,Angie Luengen,11,1,1, Pro/Am Adult A2 Newcomer Am. Swing  (S),Sample,0,ons082,80C2204A,116,Roland Michtchenko,Am. Swing,1
+WA,0,1,Final,Allan Prince,Angie Luengen,14,1,1, Pro/Am Adult A2 Newcomer Am. Swing  (S),Sample,0,ons082,80C2204A,116,Yelena Zakharova,Am. Swing,1
+WA,0,2,Final,Allan Prince,Angie Luengen,16,1,2, Pro/Am Adult A2 Newcomer Am. Swing  (S),Sample,0,ons082,80C2204A,116,Lynn Offutt,Am. Swing,1
+WA,0,2,Final,Dan Branscum,Kat Mack,11,2,2, Pro/Am Adult A2 Newcomer Am. Swing  (S),Sample,0,ons082,80C2204A,132,Roland Michtchenko,Am. Swing,2
+WA,0,2,Final,Dan Branscum,Kat Mack,14,2,2, Pro/Am Adult A2 Newcomer Am. Swing  (S),Sample,0,ons082,80C2204A,132,Yelena Zakharova,Am. Swing,2
+WA,0,1,Final,Dan Branscum,Kat Mack,16,2,1, Pro/Am Adult A2 Newcomer Am. Swing  (S),Sample,0,ons082,80C2204A,132,Lynn Offutt,Am. Swing,2
+WA,0,1,Final,Allan Prince,Angie Luengen,11,1,1, Pro/Am Adult A2 Pre-Bronze Am. Swing  (S),Sample,0,ons082,80C2294A,116,Roland Michtchenko,Am. Swing,1
+WA,0,1,Final,Allan Prince,Angie Luengen,14,1,1, Pro/Am Adult A2 Pre-Bronze Am. Swing  (S),Sample,0,ons082,80C2294A,116,Yelena Zakharova,Am. Swing,1
+WA,0,1,Final,Allan Prince,Angie Luengen,16,1,1, Pro/Am Adult A2 Pre-Bronze Am. Swing  (S),Sample,0,ons082,80C2294A,116,Lynn Offutt,Am. Swing,1
+WA,0,1,Final,Nekrasov Sergey,Sabrena Lebeau,11,1,1, Pro/Am Jr. Yth. Int. Gold Intl. Rumba  (R),Sample,0,ons082,802E3A2A,130,Roland Michtchenko,Intl. Rumba,1
+WA,0,1,Final,Nekrasov Sergey,Sabrena Lebeau,14,1,1, Pro/Am Jr. Yth. Int. Gold Intl. Rumba  (R),Sample,0,ons082,802E3A2A,130,Yelena Zakharova,Intl. Rumba,1
+WA,0,1,Final,Nekrasov Sergey,Sabrena Lebeau,16,1,1, Pro/Am Jr. Yth. Int. Gold Intl. Rumba  (R),Sample,0,ons082,802E3A2A,130,Lynn Offutt,Intl. Rumba,1
+WA,0,1,Final,Pavel Balykin,Leah Garakanidze,11,1,1, Pro/Am Jr. Yth. Full Gold Intl. Rumba  (R),Sample,0,ons082,802E3B2A,131,Roland Michtchenko,Intl. Rumba,1
+WA,0,1,Final,Pavel Balykin,Leah Garakanidze,14,1,1, Pro/Am Jr. Yth. Full Gold Intl. Rumba  (R),Sample,0,ons082,802E3B2A,131,Yelena Zakharova,Intl. Rumba,1
+WA,0,1,Final,Pavel Balykin,Leah Garakanidze,16,1,1, Pro/Am Jr. Yth. Full Gold Intl. Rumba  (R),Sample,0,ons082,802E3B2A,131,Lynn Offutt,Intl. Rumba,1
+WA,0,1,Final,John Daly,Angie Luengen,11,1,1, Pro/Am Adult B1 Int. Bronze Am. Swing  (S),Sample,0,ons082,80C42A4A,102,Roland Michtchenko,Am. Swing,1
+WA,0,1,Final,John Daly,Angie Luengen,14,1,1, Pro/Am Adult B1 Int. Bronze Am. Swing  (S),Sample,0,ons082,80C42A4A,102,Yelena Zakharova,Am. Swing,1
+WA,0,1,Final,John Daly,Angie Luengen,16,1,1, Pro/Am Adult B1 Int. Bronze Am. Swing  (S),Sample,0,ons082,80C42A4A,102,Lynn Offutt,Am. Swing,1
+WA,0,1,Final,John Daly,Angie Luengen,11,1,1, Pro/Am Adult B1 Full Bronze Am. Swing  (S),Sample,0,ons082,80C42B4A,102,Roland Michtchenko,Am. Swing,1
+WA,0,1,Final,John Daly,Angie Luengen,14,1,1, Pro/Am Adult B1 Full Bronze Am. Swing  (S),Sample,0,ons082,80C42B4A,102,Yelena Zakharova,Am. Swing,1
+WA,0,1,Final,John Daly,Angie Luengen,16,1,1, Pro/Am Adult B1 Full Bronze Am. Swing  (S),Sample,0,ons082,80C42B4A,102,Lynn Offutt,Am. Swing,1
+WA,0,1,Final,Nekrasov Sergey,Sabrena Lebeau,11,1,1, Pro/Am Jr. Yth. Int. Gold Intl. Jive  (J),Sample,0,ons082,802E3A2C,130,Roland Michtchenko,Intl. Jive,1
+WA,0,1,Final,Nekrasov Sergey,Sabrena Lebeau,14,1,1, Pro/Am Jr. Yth. Int. Gold Intl. Jive  (J),Sample,0,ons082,802E3A2C,130,Yelena Zakharova,Intl. Jive,1
+WA,0,1,Final,Nekrasov Sergey,Sabrena Lebeau,16,1,1, Pro/Am Jr. Yth. Int. Gold Intl. Jive  (J),Sample,0,ons082,802E3A2C,130,Lynn Offutt,Intl. Jive,1
+WA,0,1,Final,Pavel Balykin,Leah Garakanidze,11,1,1, Pro/Am Jr. Yth. Full Gold Intl. Jive  (J),Sample,0,ons082,802E3B2C,131,Roland Michtchenko,Intl. Jive,1
+WA,0,1,Final,Pavel Balykin,Leah Garakanidze,14,1,1, Pro/Am Jr. Yth. Full Gold Intl. Jive  (J),Sample,0,ons082,802E3B2C,131,Yelena Zakharova,Intl. Jive,1
+WA,0,1,Final,Pavel Balykin,Leah Garakanidze,16,1,1, Pro/Am Jr. Yth. Full Gold Intl. Jive  (J),Sample,0,ons082,802E3B2C,131,Lynn Offutt,Intl. Jive,1
+WA,0,1,Final,John Daly,Angie Luengen,11,1,1, Pro/Am Adult B1 Int. Bronze Am. Mambo  (M),Sample,0,ons082,80C42A4C,102,Roland Michtchenko,Am. Mambo,1
+WA,0,1,Final,John Daly,Angie Luengen,14,1,1, Pro/Am Adult B1 Int. Bronze Am. Mambo  (M),Sample,0,ons082,80C42A4C,102,Yelena Zakharova,Am. Mambo,1
+WA,0,1,Final,John Daly,Angie Luengen,16,1,1, Pro/Am Adult B1 Int. Bronze Am. Mambo  (M),Sample,0,ons082,80C42A4C,102,Lynn Offutt,Am. Mambo,1
+WA,0,1,Final,John Daly,Angie Luengen,11,1,1, Pro/Am Adult B1 Full Bronze Am. Mambo  (M),Sample,0,ons082,80C42B4C,102,Roland Michtchenko,Am. Mambo,1
+WA,0,1,Final,John Daly,Angie Luengen,14,1,1, Pro/Am Adult B1 Full Bronze Am. Mambo  (M),Sample,0,ons082,80C42B4C,102,Yelena Zakharova,Am. Mambo,1
+WA,0,1,Final,John Daly,Angie Luengen,16,1,1, Pro/Am Adult B1 Full Bronze Am. Mambo  (M),Sample,0,ons082,80C42B4C,102,Lynn Offutt,Am. Mambo,1
+WA,0,1,Final,Nekrasov Sergey,Dascha Jayne Wright,11,1,1, Pro/Am Pre-Teen Full Bronze Intl. Jive  (J),Sample,0,ons082,80272B2C,130,Roland Michtchenko,Intl. Jive,1
+WA,0,1,Final,Nekrasov Sergey,Dascha Jayne Wright,14,1,1, Pro/Am Pre-Teen Full Bronze Intl. Jive  (J),Sample,0,ons082,80272B2C,130,Yelena Zakharova,Intl. Jive,1
+WA,0,1,Final,Nekrasov Sergey,Dascha Jayne Wright,16,1,1, Pro/Am Pre-Teen Full Bronze Intl. Jive  (J),Sample,0,ons082,80272B2C,130,Lynn Offutt,Intl. Jive,1
+WA,0,1,Final,Allan Prince,Angie Luengen,11,1,1, Pro/Am Adult A2 Newcomer Night Club 2-Step  (2),Sample,0,ons082,80C22064,116,Roland Michtchenko,Night Club 2-Step,1
+WA,0,1,Final,Allan Prince,Angie Luengen,14,1,1, Pro/Am Adult A2 Newcomer Night Club 2-Step  (2),Sample,0,ons082,80C22064,116,Yelena Zakharova,Night Club 2-Step,1
+WA,0,1,Final,Allan Prince,Angie Luengen,16,1,1, Pro/Am Adult A2 Newcomer Night Club 2-Step  (2),Sample,0,ons082,80C22064,116,Lynn Offutt,Night Club 2-Step,1
+WA,0,1,Final,Allan Prince,Angie Luengen,11,1,1, Pro/Am Adult A2 Pre-Bronze Night Club 2-Step  (2),Sample,0,ons082,80C22964,116,Roland Michtchenko,Night Club 2-Step,1
+WA,0,1,Final,Allan Prince,Angie Luengen,14,1,1, Pro/Am Adult A2 Pre-Bronze Night Club 2-Step  (2),Sample,0,ons082,80C22964,116,Yelena Zakharova,Night Club 2-Step,1
+WA,0,1,Final,Allan Prince,Angie Luengen,16,1,1, Pro/Am Adult A2 Pre-Bronze Night Club 2-Step  (2),Sample,0,ons082,80C22964,116,Lynn Offutt,Night Club 2-Step,1
+WA,0,1,Final,John Daly,Angie Luengen,11,1,1, Pro/Am Adult B1 Syllabus Rhythm  (CRS),Sample,0,ons082,80C43F40,102,Roland Michtchenko,Cha Cha,1
+WA,0,1,Final,John Daly,Angie Luengen,14,1,1, Pro/Am Adult B1 Syllabus Rhythm  (CRS),Sample,0,ons082,80C43F40,102,Yelena Zakharova,Cha Cha,1
+WA,0,1,Final,John Daly,Angie Luengen,16,1,1, Pro/Am Adult B1 Syllabus Rhythm  (CRS),Sample,0,ons082,80C43F40,102,Lynn Offutt,Cha Cha,1
+WA,0,1,Final,John Daly,Angie Luengen,11,1,1, Pro/Am Adult B1 Syllabus Rhythm  (CRS),Sample,1,ons082,80C43F40,102,Roland Michtchenko,Rumba,1
+WA,0,1,Final,John Daly,Angie Luengen,14,1,1, Pro/Am Adult B1 Syllabus Rhythm  (CRS),Sample,1,ons082,80C43F40,102,Yelena Zakharova,Rumba,1
+WA,0,1,Final,John Daly,Angie Luengen,16,1,1, Pro/Am Adult B1 Syllabus Rhythm  (CRS),Sample,1,ons082,80C43F40,102,Lynn Offutt,Rumba,1
+WA,0,1,Final,John Daly,Angie Luengen,11,1,1, Pro/Am Adult B1 Syllabus Rhythm  (CRS),Sample,2,ons082,80C43F40,102,Roland Michtchenko,Swing,1
+WA,0,1,Final,John Daly,Angie Luengen,14,1,1, Pro/Am Adult B1 Syllabus Rhythm  (CRS),Sample,2,ons082,80C43F40,102,Yelena Zakharova,Swing,1
+WA,0,1,Final,John Daly,Angie Luengen,16,1,1, Pro/Am Adult B1 Syllabus Rhythm  (CRS),Sample,2,ons082,80C43F40,102,Lynn Offutt,Swing,1
+WA,0,2,Final,Gracehelen Johnson,Ekaterina Zakharoff,11,1,2, Pro/Am Pre-Teen Newcomer Intl. Waltz  (W),Sample,0,ons082,80272018,128,Roland Michtchenko,Intl. Waltz,1
+WA,0,1,Final,Gracehelen Johnson,Ekaterina Zakharoff,14,1,1, Pro/Am Pre-Teen Newcomer Intl. Waltz  (W),Sample,0,ons082,80272018,128,Yelena Zakharova,Intl. Waltz,1
+WA,0,1,Final,Gracehelen Johnson,Ekaterina Zakharoff,16,1,1, Pro/Am Pre-Teen Newcomer Intl. Waltz  (W),Sample,0,ons082,80272018,128,Lynn Offutt,Intl. Waltz,1
+WA,0,1,Final,Quinlan Harp,Ekaterina Zakharoff,11,1,1, Pro/Am Pre-Teen Pre-Bronze Intl. Waltz  (W),Sample,0,ons082,80272918,107,Roland Michtchenko,Intl. Waltz,1
+WA,0,1,Final,Quinlan Harp,Ekaterina Zakharoff,14,1,1, Pro/Am Pre-Teen Pre-Bronze Intl. Waltz  (W),Sample,0,ons082,80272918,107,Yelena Zakharova,Intl. Waltz,1
+WA,0,1,Final,Quinlan Harp,Ekaterina Zakharoff,16,1,1, Pro/Am Pre-Teen Pre-Bronze Intl. Waltz  (W),Sample,0,ons082,80272918,107,Lynn Offutt,Intl. Waltz,1
+WA,0,1,Final,Gracehelen Johnson,Ekaterina Zakharoff,11,1,1, Pro/Am Pre-Teen Newcomer Intl. Cha Cha  (C),Sample,0,ons082,80272028,128,Roland Michtchenko,Intl. Cha Cha,1
+WA,0,1,Final,Gracehelen Johnson,Ekaterina Zakharoff,14,1,1, Pro/Am Pre-Teen Newcomer Intl. Cha Cha  (C),Sample,0,ons082,80272028,128,Yelena Zakharova,Intl. Cha Cha,1
+WA,0,1,Final,Gracehelen Johnson,Ekaterina Zakharoff,16,1,1, Pro/Am Pre-Teen Newcomer Intl. Cha Cha  (C),Sample,0,ons082,80272028,128,Lynn Offutt,Intl. Cha Cha,1
+WA,0,1,Final,Quinlan Harp,Ekaterina Zakharoff,11,1,1, Pro/Am Pre-Teen Pre-Bronze Intl. Cha Cha  (C),Sample,0,ons082,80272928,107,Roland Michtchenko,Intl. Cha Cha,1
+WA,0,1,Final,Quinlan Harp,Ekaterina Zakharoff,14,1,1, Pro/Am Pre-Teen Pre-Bronze Intl. Cha Cha  (C),Sample,0,ons082,80272928,107,Yelena Zakharova,Intl. Cha Cha,1
+WA,0,1,Final,Quinlan Harp,Ekaterina Zakharoff,16,1,1, Pro/Am Pre-Teen Pre-Bronze Intl. Cha Cha  (C),Sample,0,ons082,80272928,107,Lynn Offutt,Intl. Cha Cha,1
+WA,0,2,Final,Erik Linder,Rickie Taylor,11,2,2, Amateur Pre-Teen Silver Standard  (WTQ),Sample,0,ons082,40273010,112,Roland Michtchenko,Waltz,1
+WA,0,1,Final,Erik Linder,Rickie Taylor,14,2,1, Amateur Pre-Teen Silver Standard  (WTQ),Sample,0,ons082,40273010,112,Yelena Zakharova,Waltz,1
+WA,0,2,Final,Erik Linder,Rickie Taylor,16,2,2, Amateur Pre-Teen Silver Standard  (WTQ),Sample,0,ons082,40273010,112,Lynn Offutt,Waltz,1
+BC,0,1,Final,James Chen,Jessica Jiang,11,1,1, Amateur Pre-Teen Silver Standard  (WTQ),Sample,0,ons082,40273010,100,Roland Michtchenko,Waltz,2
+BC,0,2,Final,James Chen,Jessica Jiang,14,1,2, Amateur Pre-Teen Silver Standard  (WTQ),Sample,0,ons082,40273010,100,Yelena Zakharova,Waltz,2
+BC,0,1,Final,James Chen,Jessica Jiang,16,1,1, Amateur Pre-Teen Silver Standard  (WTQ),Sample,0,ons082,40273010,100,Lynn Offutt,Waltz,2
+WA,0,2,Final,Erik Linder,Rickie Taylor,11,1,2, Amateur Pre-Teen Silver Standard  (WTQ),Sample,1,ons082,40273010,112,Roland Michtchenko,Tango,1
+WA,0,1,Final,Erik Linder,Rickie Taylor,14,1,1, Amateur Pre-Teen Silver Standard  (WTQ),Sample,1,ons082,40273010,112,Yelena Zakharova,Tango,1
+WA,0,1,Final,Erik Linder,Rickie Taylor,16,1,1, Amateur Pre-Teen Silver Standard  (WTQ),Sample,1,ons082,40273010,112,Lynn Offutt,Tango,1
+BC,0,1,Final,James Chen,Jessica Jiang,11,2,1, Amateur Pre-Teen Silver Standard  (WTQ),Sample,1,ons082,40273010,100,Roland Michtchenko,Tango,2
+BC,0,2,Final,James Chen,Jessica Jiang,14,2,2, Amateur Pre-Teen Silver Standard  (WTQ),Sample,1,ons082,40273010,100,Yelena Zakharova,Tango,2
+BC,0,2,Final,James Chen,Jessica Jiang,16,2,2, Amateur Pre-Teen Silver Standard  (WTQ),Sample,1,ons082,40273010,100,Lynn Offutt,Tango,2
+WA,0,1,Final,Erik Linder,Rickie Taylor,11,1,1, Amateur Pre-Teen Silver Standard  (WTQ),Sample,2,ons082,40273010,112,Roland Michtchenko,Quickstep,1
+WA,0,1,Final,Erik Linder,Rickie Taylor,14,1,1, Amateur Pre-Teen Silver Standard  (WTQ),Sample,2,ons082,40273010,112,Yelena Zakharova,Quickstep,1
+WA,0,1,Final,Erik Linder,Rickie Taylor,16,1,1, Amateur Pre-Teen Silver Standard  (WTQ),Sample,2,ons082,40273010,112,Lynn Offutt,Quickstep,1
+BC,0,2,Final,James Chen,Jessica Jiang,11,2,2, Amateur Pre-Teen Silver Standard  (WTQ),Sample,2,ons082,40273010,100,Roland Michtchenko,Quickstep,2
+BC,0,2,Final,James Chen,Jessica Jiang,14,2,2, Amateur Pre-Teen Silver Standard  (WTQ),Sample,2,ons082,40273010,100,Yelena Zakharova,Quickstep,2
+BC,0,2,Final,James Chen,Jessica Jiang,16,2,2, Amateur Pre-Teen Silver Standard  (WTQ),Sample,2,ons082,40273010,100,Lynn Offutt,Quickstep,2
+BC,0,1,Final,Jaidan Lee,Lily Miao,11,1,1, Amateur Youth Silver Standard  (WTQ),Sample,0,ons082,402F3010,110,Roland Michtchenko,Waltz,1
+BC,0,1,Final,Jaidan Lee,Lily Miao,14,1,1, Amateur Youth Silver Standard  (WTQ),Sample,0,ons082,402F3010,110,Yelena Zakharova,Waltz,1
+BC,0,1,Final,Jaidan Lee,Lily Miao,16,1,1, Amateur Youth Silver Standard  (WTQ),Sample,0,ons082,402F3010,110,Lynn Offutt,Waltz,1
+BC,0,1,Final,Jaidan Lee,Lily Miao,11,1,1, Amateur Youth Silver Standard  (WTQ),Sample,1,ons082,402F3010,110,Roland Michtchenko,Tango,1
+BC,0,1,Final,Jaidan Lee,Lily Miao,14,1,1, Amateur Youth Silver Standard  (WTQ),Sample,1,ons082,402F3010,110,Yelena Zakharova,Tango,1
+BC,0,1,Final,Jaidan Lee,Lily Miao,16,1,1, Amateur Youth Silver Standard  (WTQ),Sample,1,ons082,402F3010,110,Lynn Offutt,Tango,1
+BC,0,1,Final,Jaidan Lee,Lily Miao,11,1,1, Amateur Youth Silver Standard  (WTQ),Sample,2,ons082,402F3010,110,Roland Michtchenko,Quickstep,1
+BC,0,1,Final,Jaidan Lee,Lily Miao,14,1,1, Amateur Youth Silver Standard  (WTQ),Sample,2,ons082,402F3010,110,Yelena Zakharova,Quickstep,1
+BC,0,1,Final,Jaidan Lee,Lily Miao,16,1,1, Amateur Youth Silver Standard  (WTQ),Sample,2,ons082,402F3010,110,Lynn Offutt,Quickstep,1
+BC,0,1,Final,Jaidan Lee,Lily Miao,11,1,1, Amateur Junior Bronze Standard  (WQ),Sample,0,ons082,402C2810,110,Roland Michtchenko,Waltz,1
+BC,0,1,Final,Jaidan Lee,Lily Miao,14,1,1, Amateur Junior Bronze Standard  (WQ),Sample,0,ons082,402C2810,110,Yelena Zakharova,Waltz,1
+BC,0,1,Final,Jaidan Lee,Lily Miao,16,1,1, Amateur Junior Bronze Standard  (WQ),Sample,0,ons082,402C2810,110,Lynn Offutt,Waltz,1
+BC,0,1,Final,Jaidan Lee,Lily Miao,11,1,1, Amateur Junior Bronze Standard  (WQ),Sample,1,ons082,402C2810,110,Roland Michtchenko,Quickstep,1
+BC,0,1,Final,Jaidan Lee,Lily Miao,14,1,1, Amateur Junior Bronze Standard  (WQ),Sample,1,ons082,402C2810,110,Yelena Zakharova,Quickstep,1
+BC,0,1,Final,Jaidan Lee,Lily Miao,16,1,1, Amateur Junior Bronze Standard  (WQ),Sample,1,ons082,402C2810,110,Lynn Offutt,Quickstep,1
+OR,0,1,Final,Steven Sowell,Ann Marie Hathaway,11,1,1, Amateur Senior I Bronze Standard  (WQ),Sample,0,ons082,40432810,122,Roland Michtchenko,Waltz,1
+OR,0,1,Final,Steven Sowell,Ann Marie Hathaway,14,1,1, Amateur Senior I Bronze Standard  (WQ),Sample,0,ons082,40432810,122,Yelena Zakharova,Waltz,1
+OR,0,1,Final,Steven Sowell,Ann Marie Hathaway,16,1,1, Amateur Senior I Bronze Standard  (WQ),Sample,0,ons082,40432810,122,Lynn Offutt,Waltz,1
+OR,0,1,Final,Steven Sowell,Ann Marie Hathaway,11,1,1, Amateur Senior I Bronze Standard  (WQ),Sample,1,ons082,40432810,122,Roland Michtchenko,Quickstep,1
+OR,0,1,Final,Steven Sowell,Ann Marie Hathaway,14,1,1, Amateur Senior I Bronze Standard  (WQ),Sample,1,ons082,40432810,122,Yelena Zakharova,Quickstep,1
+OR,0,1,Final,Steven Sowell,Ann Marie Hathaway,16,1,1, Amateur Senior I Bronze Standard  (WQ),Sample,1,ons082,40432810,122,Lynn Offutt,Quickstep,1
+WA,0,2,Final,Paul Stovall,Maxine Taylor,11,2,2, Amateur Junior Gold Standard  (WTFQ),Sample,0,ons082,402C3810,124,Roland Michtchenko,Waltz,1
+WA,0,1,Final,Paul Stovall,Maxine Taylor,14,2,1, Amateur Junior Gold Standard  (WTFQ),Sample,0,ons082,402C3810,124,Yelena Zakharova,Waltz,1
+WA,0,5,Final,Paul Stovall,Maxine Taylor,16,2,5, Amateur Junior Gold Standard  (WTFQ),Sample,0,ons082,402C3810,124,Lynn Offutt,Waltz,1
+B.C.,0,1,Final,Paul Dinh,Scarlett Liaifer,11,1,1, Amateur Junior Gold Standard  (WTFQ),Sample,0,ons082,402C3810,103,Roland Michtchenko,Waltz,2
+B.C.,0,2,Final,Paul Dinh,Scarlett Liaifer,14,1,2, Amateur Junior Gold Standard  (WTFQ),Sample,0,ons082,402C3810,103,Yelena Zakharova,Waltz,2
+B.C.,0,1,Final,Paul Dinh,Scarlett Liaifer,16,1,1, Amateur Junior Gold Standard  (WTFQ),Sample,0,ons082,402C3810,103,Lynn Offutt,Waltz,2
+BC,0,3,Final,James Chen,Jessica Jiang,11,4.5,3, Amateur Junior Gold Standard  (WTFQ),Sample,0,ons082,402C3810,100,Roland Michtchenko,Waltz,3
+BC,0,5,Final,James Chen,Jessica Jiang,14,4.5,5, Amateur Junior Gold Standard  (WTFQ),Sample,0,ons082,402C3810,100,Yelena Zakharova,Waltz,3
+BC,0,4,Final,James Chen,Jessica Jiang,16,4.5,4, Amateur Junior Gold Standard  (WTFQ),Sample,0,ons082,402C3810,100,Lynn Offutt,Waltz,3
+WA,0,4,Final,Danylo Kurgan,Nicole Garakanidze,11,3,4, Amateur Junior Gold Standard  (WTFQ),Sample,0,ons082,402C3810,109,Roland Michtchenko,Waltz,4
+WA,0,3,Final,Danylo Kurgan,Nicole Garakanidze,14,3,3, Amateur Junior Gold Standard  (WTFQ),Sample,0,ons082,402C3810,109,Yelena Zakharova,Waltz,4
+WA,0,2,Final,Danylo Kurgan,Nicole Garakanidze,16,3,2, Amateur Junior Gold Standard  (WTFQ),Sample,0,ons082,402C3810,109,Lynn Offutt,Waltz,4
+WA,0,5,Final,David Porter,Maria Bessonova,11,4.5,5, Amateur Junior Gold Standard  (WTFQ),Sample,0,ons082,402C3810,115,Roland Michtchenko,Waltz,5
+WA,0,4,Final,David Porter,Maria Bessonova,14,4.5,4, Amateur Junior Gold Standard  (WTFQ),Sample,0,ons082,402C3810,115,Yelena Zakharova,Waltz,5
+WA,0,3,Final,David Porter,Maria Bessonova,16,4.5,3, Amateur Junior Gold Standard  (WTFQ),Sample,0,ons082,402C3810,115,Lynn Offutt,Waltz,5
+WA,0,3,Final,Paul Stovall,Maxine Taylor,11,1.5,3, Amateur Junior Gold Standard  (WTFQ),Sample,1,ons082,402C3810,124,Roland Michtchenko,Tango,1
+WA,0,1,Final,Paul Stovall,Maxine Taylor,14,1.5,1, Amateur Junior Gold Standard  (WTFQ),Sample,1,ons082,402C3810,124,Yelena Zakharova,Tango,1
+WA,0,2,Final,Paul Stovall,Maxine Taylor,16,1.5,2, Amateur Junior Gold Standard  (WTFQ),Sample,1,ons082,402C3810,124,Lynn Offutt,Tango,1
+B.C.,0,2,Final,Paul Dinh,Scarlett Liaifer,11,1.5,2, Amateur Junior Gold Standard  (WTFQ),Sample,1,ons082,402C3810,103,Roland Michtchenko,Tango,2
+B.C.,0,3,Final,Paul Dinh,Scarlett Liaifer,14,1.5,3, Amateur Junior Gold Standard  (WTFQ),Sample,1,ons082,402C3810,103,Yelena Zakharova,Tango,2
+B.C.,0,1,Final,Paul Dinh,Scarlett Liaifer,16,1.5,1, Amateur Junior Gold Standard  (WTFQ),Sample,1,ons082,402C3810,103,Lynn Offutt,Tango,2
+BC,0,1,Final,James Chen,Jessica Jiang,11,4,1, Amateur Junior Gold Standard  (WTFQ),Sample,1,ons082,402C3810,100,Roland Michtchenko,Tango,3
+BC,0,4,Final,James Chen,Jessica Jiang,14,4,4, Amateur Junior Gold Standard  (WTFQ),Sample,1,ons082,402C3810,100,Yelena Zakharova,Tango,3
+BC,0,5,Final,James Chen,Jessica Jiang,16,4,5, Amateur Junior Gold Standard  (WTFQ),Sample,1,ons082,402C3810,100,Lynn Offutt,Tango,3
+WA,0,4,Final,Danylo Kurgan,Nicole Garakanidze,11,5,4, Amateur Junior Gold Standard  (WTFQ),Sample,1,ons082,402C3810,109,Roland Michtchenko,Tango,4
+WA,0,5,Final,Danylo Kurgan,Nicole Garakanidze,14,5,5, Amateur Junior Gold Standard  (WTFQ),Sample,1,ons082,402C3810,109,Yelena Zakharova,Tango,4
+WA,0,4,Final,Danylo Kurgan,Nicole Garakanidze,16,5,4, Amateur Junior Gold Standard  (WTFQ),Sample,1,ons082,402C3810,109,Lynn Offutt,Tango,4
+WA,0,5,Final,David Porter,Maria Bessonova,11,3,5, Amateur Junior Gold Standard  (WTFQ),Sample,1,ons082,402C3810,115,Roland Michtchenko,Tango,5
+WA,0,2,Final,David Porter,Maria Bessonova,14,3,2, Amateur Junior Gold Standard  (WTFQ),Sample,1,ons082,402C3810,115,Yelena Zakharova,Tango,5
+WA,0,3,Final,David Porter,Maria Bessonova,16,3,3, Amateur Junior Gold Standard  (WTFQ),Sample,1,ons082,402C3810,115,Lynn Offutt,Tango,5
+WA,0,1,Final,Paul Stovall,Maxine Taylor,11,1,1, Amateur Junior Gold Standard  (WTFQ),Sample,2,ons082,402C3810,124,Roland Michtchenko,Foxtrot,1
+WA,0,1,Final,Paul Stovall,Maxine Taylor,14,1,1, Amateur Junior Gold Standard  (WTFQ),Sample,2,ons082,402C3810,124,Yelena Zakharova,Foxtrot,1
+WA,0,2,Final,Paul Stovall,Maxine Taylor,16,1,2, Amateur Junior Gold Standard  (WTFQ),Sample,2,ons082,402C3810,124,Lynn Offutt,Foxtrot,1
+B.C.,0,2,Final,Paul Dinh,Scarlett Liaifer,11,2,2, Amateur Junior Gold Standard  (WTFQ),Sample,2,ons082,402C3810,103,Roland Michtchenko,Foxtrot,2
+B.C.,0,2,Final,Paul Dinh,Scarlett Liaifer,14,2,2, Amateur Junior Gold Standard  (WTFQ),Sample,2,ons082,402C3810,103,Yelena Zakharova,Foxtrot,2
+B.C.,0,1,Final,Paul Dinh,Scarlett Liaifer,16,2,1, Amateur Junior Gold Standard  (WTFQ),Sample,2,ons082,402C3810,103,Lynn Offutt,Foxtrot,2
+BC,0,4,Final,James Chen,Jessica Jiang,11,3,4, Amateur Junior Gold Standard  (WTFQ),Sample,2,ons082,402C3810,100,Roland Michtchenko,Foxtrot,3
+BC,0,4,Final,James Chen,Jessica Jiang,14,3,4, Amateur Junior Gold Standard  (WTFQ),Sample,2,ons082,402C3810,100,Yelena Zakharova,Foxtrot,3
+BC,0,3,Final,James Chen,Jessica Jiang,16,3,3, Amateur Junior Gold Standard  (WTFQ),Sample,2,ons082,402C3810,100,Lynn Offutt,Foxtrot,3
+WA,0,3,Final,Danylo Kurgan,Nicole Garakanidze,11,4,3, Amateur Junior Gold Standard  (WTFQ),Sample,2,ons082,402C3810,109,Roland Michtchenko,Foxtrot,4
+WA,0,5,Final,Danylo Kurgan,Nicole Garakanidze,14,4,5, Amateur Junior Gold Standard  (WTFQ),Sample,2,ons082,402C3810,109,Yelena Zakharova,Foxtrot,4
+WA,0,4,Final,Danylo Kurgan,Nicole Garakanidze,16,4,4, Amateur Junior Gold Standard  (WTFQ),Sample,2,ons082,402C3810,109,Lynn Offutt,Foxtrot,4
+WA,0,5,Final,David Porter,Maria Bessonova,11,5,5, Amateur Junior Gold Standard  (WTFQ),Sample,2,ons082,402C3810,115,Roland Michtchenko,Foxtrot,5
+WA,0,3,Final,David Porter,Maria Bessonova,14,5,3, Amateur Junior Gold Standard  (WTFQ),Sample,2,ons082,402C3810,115,Yelena Zakharova,Foxtrot,5
+WA,0,5,Final,David Porter,Maria Bessonova,16,5,5, Amateur Junior Gold Standard  (WTFQ),Sample,2,ons082,402C3810,115,Lynn Offutt,Foxtrot,5
+WA,0,1,Final,Paul Stovall,Maxine Taylor,11,1,1, Amateur Junior Gold Standard  (WTFQ),Sample,3,ons082,402C3810,124,Roland Michtchenko,Quickstep,1
+WA,0,1,Final,Paul Stovall,Maxine Taylor,14,1,1, Amateur Junior Gold Standard  (WTFQ),Sample,3,ons082,402C3810,124,Yelena Zakharova,Quickstep,1
+WA,0,2,Final,Paul Stovall,Maxine Taylor,16,1,2, Amateur Junior Gold Standard  (WTFQ),Sample,3,ons082,402C3810,124,Lynn Offutt,Quickstep,1
+B.C.,0,2,Final,Paul Dinh,Scarlett Liaifer,11,2,2, Amateur Junior Gold Standard  (WTFQ),Sample,3,ons082,402C3810,103,Roland Michtchenko,Quickstep,2
+B.C.,0,2,Final,Paul Dinh,Scarlett Liaifer,14,2,2, Amateur Junior Gold Standard  (WTFQ),Sample,3,ons082,402C3810,103,Yelena Zakharova,Quickstep,2
+B.C.,0,1,Final,Paul Dinh,Scarlett Liaifer,16,2,1, Amateur Junior Gold Standard  (WTFQ),Sample,3,ons082,402C3810,103,Lynn Offutt,Quickstep,2
+BC,0,3,Final,James Chen,Jessica Jiang,11,3,3, Amateur Junior Gold Standard  (WTFQ),Sample,3,ons082,402C3810,100,Roland Michtchenko,Quickstep,3
+BC,0,4,Final,James Chen,Jessica Jiang,14,3,4, Amateur Junior Gold Standard  (WTFQ),Sample,3,ons082,402C3810,100,Yelena Zakharova,Quickstep,3
+BC,0,4,Final,James Chen,Jessica Jiang,16,3,4, Amateur Junior Gold Standard  (WTFQ),Sample,3,ons082,402C3810,100,Lynn Offutt,Quickstep,3
+WA,0,4,Final,Danylo Kurgan,Nicole Garakanidze,11,4,4, Amateur Junior Gold Standard  (WTFQ),Sample,3,ons082,402C3810,109,Roland Michtchenko,Quickstep,4
+WA,0,5,Final,Danylo Kurgan,Nicole Garakanidze,14,4,5, Amateur Junior Gold Standard  (WTFQ),Sample,3,ons082,402C3810,109,Yelena Zakharova,Quickstep,4
+WA,0,3,Final,Danylo Kurgan,Nicole Garakanidze,16,4,3, Amateur Junior Gold Standard  (WTFQ),Sample,3,ons082,402C3810,109,Lynn Offutt,Quickstep,4
+WA,0,5,Final,David Porter,Maria Bessonova,11,5,5, Amateur Junior Gold Standard  (WTFQ),Sample,3,ons082,402C3810,115,Roland Michtchenko,Quickstep,5
+WA,0,3,Final,David Porter,Maria Bessonova,14,5,3, Amateur Junior Gold Standard  (WTFQ),Sample,3,ons082,402C3810,115,Yelena Zakharova,Quickstep,5
+WA,0,5,Final,David Porter,Maria Bessonova,16,5,5, Amateur Junior Gold Standard  (WTFQ),Sample,3,ons082,402C3810,115,Lynn Offutt,Quickstep,5
+BC,0,1,Final,Jaidan Lee,Lily Miao,11,1,1, Amateur Youth Bronze Standard  (WQ),Sample,0,ons082,402F2810,110,Roland Michtchenko,Waltz,1
+BC,0,1,Final,Jaidan Lee,Lily Miao,14,1,1, Amateur Youth Bronze Standard  (WQ),Sample,0,ons082,402F2810,110,Yelena Zakharova,Waltz,1
+BC,0,1,Final,Jaidan Lee,Lily Miao,16,1,1, Amateur Youth Bronze Standard  (WQ),Sample,0,ons082,402F2810,110,Lynn Offutt,Waltz,1
+BC,0,1,Final,Jaidan Lee,Lily Miao,11,1,1, Amateur Youth Bronze Standard  (WQ),Sample,1,ons082,402F2810,110,Roland Michtchenko,Quickstep,1
+BC,0,1,Final,Jaidan Lee,Lily Miao,14,1,1, Amateur Youth Bronze Standard  (WQ),Sample,1,ons082,402F2810,110,Yelena Zakharova,Quickstep,1
+BC,0,1,Final,Jaidan Lee,Lily Miao,16,1,1, Amateur Youth Bronze Standard  (WQ),Sample,1,ons082,402F2810,110,Lynn Offutt,Quickstep,1
+OR,0,1,Final,Steven Sowell,Ann Marie Hathaway,11,1,1, Amateur Adult Bronze Standard  (WQ),Sample,0,ons082,40422810,122,Roland Michtchenko,Waltz,1
+OR,0,1,Final,Steven Sowell,Ann Marie Hathaway,14,1,1, Amateur Adult Bronze Standard  (WQ),Sample,0,ons082,40422810,122,Yelena Zakharova,Waltz,1
+OR,0,1,Final,Steven Sowell,Ann Marie Hathaway,16,1,1, Amateur Adult Bronze Standard  (WQ),Sample,0,ons082,40422810,122,Lynn Offutt,Waltz,1
+OR,0,1,Final,Steven Sowell,Ann Marie Hathaway,11,1,1, Amateur Adult Bronze Standard  (WQ),Sample,1,ons082,40422810,122,Roland Michtchenko,Quickstep,1
+OR,0,1,Final,Steven Sowell,Ann Marie Hathaway,14,1,1, Amateur Adult Bronze Standard  (WQ),Sample,1,ons082,40422810,122,Yelena Zakharova,Quickstep,1
+OR,0,1,Final,Steven Sowell,Ann Marie Hathaway,16,1,1, Amateur Adult Bronze Standard  (WQ),Sample,1,ons082,40422810,122,Lynn Offutt,Quickstep,1
+BC,0,1,Final,James Chen,Jessica Jiang,11,1,1, Amateur Junior Silver Standard  (WTQ),Sample,0,ons082,402C3010,100,Roland Michtchenko,Waltz,1
+BC,0,3,Final,James Chen,Jessica Jiang,14,1,3, Amateur Junior Silver Standard  (WTQ),Sample,0,ons082,402C3010,100,Yelena Zakharova,Waltz,1
+BC,0,1,Final,James Chen,Jessica Jiang,16,1,1, Amateur Junior Silver Standard  (WTQ),Sample,0,ons082,402C3010,100,Lynn Offutt,Waltz,1
+WA,0,3,Final,Erik Linder,Rickie Taylor,11,2,3, Amateur Junior Silver Standard  (WTQ),Sample,0,ons082,402C3010,112,Roland Michtchenko,Waltz,2
+WA,0,1,Final,Erik Linder,Rickie Taylor,14,2,1, Amateur Junior Silver Standard  (WTQ),Sample,0,ons082,402C3010,112,Yelena Zakharova,Waltz,2
+WA,0,2,Final,Erik Linder,Rickie Taylor,16,2,2, Amateur Junior Silver Standard  (WTQ),Sample,0,ons082,402C3010,112,Lynn Offutt,Waltz,2
+WA,0,2,Final,Danylo Kurgan,Nicole Garakanidze,11,3,2, Amateur Junior Silver Standard  (WTQ),Sample,0,ons082,402C3010,109,Roland Michtchenko,Waltz,3
+WA,0,4,Final,Danylo Kurgan,Nicole Garakanidze,14,3,4, Amateur Junior Silver Standard  (WTQ),Sample,0,ons082,402C3010,109,Yelena Zakharova,Waltz,3
+WA,0,3,Final,Danylo Kurgan,Nicole Garakanidze,16,3,3, Amateur Junior Silver Standard  (WTQ),Sample,0,ons082,402C3010,109,Lynn Offutt,Waltz,3
+WA,0,4,Final,David Porter,Maria Bessonova,11,4,4, Amateur Junior Silver Standard  (WTQ),Sample,0,ons082,402C3010,115,Roland Michtchenko,Waltz,4
+WA,0,2,Final,David Porter,Maria Bessonova,14,4,2, Amateur Junior Silver Standard  (WTQ),Sample,0,ons082,402C3010,115,Yelena Zakharova,Waltz,4
+WA,0,5,Final,David Porter,Maria Bessonova,16,4,5, Amateur Junior Silver Standard  (WTQ),Sample,0,ons082,402C3010,115,Lynn Offutt,Waltz,4
+BC,0,5,Final,Jaidan Lee,Lily Miao,11,5,5, Amateur Junior Silver Standard  (WTQ),Sample,0,ons082,402C3010,110,Roland Michtchenko,Waltz,5
+BC,0,5,Final,Jaidan Lee,Lily Miao,14,5,5, Amateur Junior Silver Standard  (WTQ),Sample,0,ons082,402C3010,110,Yelena Zakharova,Waltz,5
+BC,0,4,Final,Jaidan Lee,Lily Miao,16,5,4, Amateur Junior Silver Standard  (WTQ),Sample,0,ons082,402C3010,110,Lynn Offutt,Waltz,5
+BC,0,1,Final,James Chen,Jessica Jiang,11,1,1, Amateur Junior Silver Standard  (WTQ),Sample,1,ons082,402C3010,100,Roland Michtchenko,Tango,1
+BC,0,2,Final,James Chen,Jessica Jiang,14,1,2, Amateur Junior Silver Standard  (WTQ),Sample,1,ons082,402C3010,100,Yelena Zakharova,Tango,1
+BC,0,1,Final,James Chen,Jessica Jiang,16,1,1, Amateur Junior Silver Standard  (WTQ),Sample,1,ons082,402C3010,100,Lynn Offutt,Tango,1
+WA,0,2,Final,Erik Linder,Rickie Taylor,11,2,2, Amateur Junior Silver Standard  (WTQ),Sample,1,ons082,402C3010,112,Roland Michtchenko,Tango,2
+WA,0,1,Final,Erik Linder,Rickie Taylor,14,2,1, Amateur Junior Silver Standard  (WTQ),Sample,1,ons082,402C3010,112,Yelena Zakharova,Tango,2
+WA,0,2,Final,Erik Linder,Rickie Taylor,16,2,2, Amateur Junior Silver Standard  (WTQ),Sample,1,ons082,402C3010,112,Lynn Offutt,Tango,2
+WA,0,3,Final,Danylo Kurgan,Nicole Garakanidze,11,3,3, Amateur Junior Silver Standard  (WTQ),Sample,1,ons082,402C3010,109,Roland Michtchenko,Tango,3
+WA,0,4,Final,Danylo Kurgan,Nicole Garakanidze,14,3,4, Amateur Junior Silver Standard  (WTQ),Sample,1,ons082,402C3010,109,Yelena Zakharova,Tango,3
+WA,0,3,Final,Danylo Kurgan,Nicole Garakanidze,16,3,3, Amateur Junior Silver Standard  (WTQ),Sample,1,ons082,402C3010,109,Lynn Offutt,Tango,3
+WA,0,4,Final,David Porter,Maria Bessonova,11,4,4, Amateur Junior Silver Standard  (WTQ),Sample,1,ons082,402C3010,115,Roland Michtchenko,Tango,4
+WA,0,3,Final,David Porter,Maria Bessonova,14,4,3, Amateur Junior Silver Standard  (WTQ),Sample,1,ons082,402C3010,115,Yelena Zakharova,Tango,4
+WA,0,4,Final,David Porter,Maria Bessonova,16,4,4, Amateur Junior Silver Standard  (WTQ),Sample,1,ons082,402C3010,115,Lynn Offutt,Tango,4
+BC,0,5,Final,Jaidan Lee,Lily Miao,11,5,5, Amateur Junior Silver Standard  (WTQ),Sample,1,ons082,402C3010,110,Roland Michtchenko,Tango,5
+BC,0,5,Final,Jaidan Lee,Lily Miao,14,5,5, Amateur Junior Silver Standard  (WTQ),Sample,1,ons082,402C3010,110,Yelena Zakharova,Tango,5
+BC,0,5,Final,Jaidan Lee,Lily Miao,16,5,5, Amateur Junior Silver Standard  (WTQ),Sample,1,ons082,402C3010,110,Lynn Offutt,Tango,5
+BC,0,1,Final,James Chen,Jessica Jiang,11,1,1, Amateur Junior Silver Standard  (WTQ),Sample,2,ons082,402C3010,100,Roland Michtchenko,Quickstep,1
+BC,0,2,Final,James Chen,Jessica Jiang,14,1,2, Amateur Junior Silver Standard  (WTQ),Sample,2,ons082,402C3010,100,Yelena Zakharova,Quickstep,1
+BC,0,1,Final,James Chen,Jessica Jiang,16,1,1, Amateur Junior Silver Standard  (WTQ),Sample,2,ons082,402C3010,100,Lynn Offutt,Quickstep,1
+WA,0,2,Final,Erik Linder,Rickie Taylor,11,2,2, Amateur Junior Silver Standard  (WTQ),Sample,2,ons082,402C3010,112,Roland Michtchenko,Quickstep,2
+WA,0,1,Final,Erik Linder,Rickie Taylor,14,2,1, Amateur Junior Silver Standard  (WTQ),Sample,2,ons082,402C3010,112,Yelena Zakharova,Quickstep,2
+WA,0,2,Final,Erik Linder,Rickie Taylor,16,2,2, Amateur Junior Silver Standard  (WTQ),Sample,2,ons082,402C3010,112,Lynn Offutt,Quickstep,2
+WA,0,3,Final,Danylo Kurgan,Nicole Garakanidze,11,3,3, Amateur Junior Silver Standard  (WTQ),Sample,2,ons082,402C3010,109,Roland Michtchenko,Quickstep,3
+WA,0,4,Final,Danylo Kurgan,Nicole Garakanidze,14,3,4, Amateur Junior Silver Standard  (WTQ),Sample,2,ons082,402C3010,109,Yelena Zakharova,Quickstep,3
+WA,0,3,Final,Danylo Kurgan,Nicole Garakanidze,16,3,3, Amateur Junior Silver Standard  (WTQ),Sample,2,ons082,402C3010,109,Lynn Offutt,Quickstep,3
+WA,0,4,Final,David Porter,Maria Bessonova,11,4,4, Amateur Junior Silver Standard  (WTQ),Sample,2,ons082,402C3010,115,Roland Michtchenko,Quickstep,4
+WA,0,3,Final,David Porter,Maria Bessonova,14,4,3, Amateur Junior Silver Standard  (WTQ),Sample,2,ons082,402C3010,115,Yelena Zakharova,Quickstep,4
+WA,0,4,Final,David Porter,Maria Bessonova,16,4,4, Amateur Junior Silver Standard  (WTQ),Sample,2,ons082,402C3010,115,Lynn Offutt,Quickstep,4
+BC,0,5,Final,Jaidan Lee,Lily Miao,11,5,5, Amateur Junior Silver Standard  (WTQ),Sample,2,ons082,402C3010,110,Roland Michtchenko,Quickstep,5
+BC,0,5,Final,Jaidan Lee,Lily Miao,14,5,5, Amateur Junior Silver Standard  (WTQ),Sample,2,ons082,402C3010,110,Yelena Zakharova,Quickstep,5
+BC,0,5,Final,Jaidan Lee,Lily Miao,16,5,5, Amateur Junior Silver Standard  (WTQ),Sample,2,ons082,402C3010,110,Lynn Offutt,Quickstep,5
+WA,0,1,Final,Paul Stovall,Leah Garakanidze,11,1,1, Amateur Junior Pre-Champ Standard  (WTFQ),Sample,0,ons082,402C8310,124,Roland Michtchenko,Waltz,1
+WA,0,1,Final,Paul Stovall,Leah Garakanidze,14,1,1, Amateur Junior Pre-Champ Standard  (WTFQ),Sample,0,ons082,402C8310,124,Yelena Zakharova,Waltz,1
+WA,0,1,Final,Paul Stovall,Leah Garakanidze,16,1,1, Amateur Junior Pre-Champ Standard  (WTFQ),Sample,0,ons082,402C8310,124,Lynn Offutt,Waltz,1
+WA,0,1,Final,Paul Stovall,Leah Garakanidze,11,1,1, Amateur Junior Pre-Champ Standard  (WTFQ),Sample,1,ons082,402C8310,124,Roland Michtchenko,Tango,1
+WA,0,1,Final,Paul Stovall,Leah Garakanidze,14,1,1, Amateur Junior Pre-Champ Standard  (WTFQ),Sample,1,ons082,402C8310,124,Yelena Zakharova,Tango,1
+WA,0,1,Final,Paul Stovall,Leah Garakanidze,16,1,1, Amateur Junior Pre-Champ Standard  (WTFQ),Sample,1,ons082,402C8310,124,Lynn Offutt,Tango,1
+WA,0,1,Final,Paul Stovall,Leah Garakanidze,11,1,1, Amateur Junior Pre-Champ Standard  (WTFQ),Sample,2,ons082,402C8310,124,Roland Michtchenko,Foxtrot,1
+WA,0,1,Final,Paul Stovall,Leah Garakanidze,14,1,1, Amateur Junior Pre-Champ Standard  (WTFQ),Sample,2,ons082,402C8310,124,Yelena Zakharova,Foxtrot,1
+WA,0,1,Final,Paul Stovall,Leah Garakanidze,16,1,1, Amateur Junior Pre-Champ Standard  (WTFQ),Sample,2,ons082,402C8310,124,Lynn Offutt,Foxtrot,1
+WA,0,1,Final,Paul Stovall,Leah Garakanidze,11,1,1, Amateur Junior Pre-Champ Standard  (WTFQ),Sample,3,ons082,402C8310,124,Roland Michtchenko,Quickstep,1
+WA,0,1,Final,Paul Stovall,Leah Garakanidze,14,1,1, Amateur Junior Pre-Champ Standard  (WTFQ),Sample,3,ons082,402C8310,124,Yelena Zakharova,Quickstep,1
+WA,0,1,Final,Paul Stovall,Leah Garakanidze,16,1,1, Amateur Junior Pre-Champ Standard  (WTFQ),Sample,3,ons082,402C8310,124,Lynn Offutt,Quickstep,1
+,0,1,Final,Dmitriy Vorobiev,Kseniya Sovenko,11,1,1, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,0,ons082,40428310,125,Roland Michtchenko,Waltz,1
+,0,1,Final,Dmitriy Vorobiev,Kseniya Sovenko,14,1,1, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,0,ons082,40428310,125,Yelena Zakharova,Waltz,1
+,0,1,Final,Dmitriy Vorobiev,Kseniya Sovenko,16,1,1, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,0,ons082,40428310,125,Lynn Offutt,Waltz,1
+WA,0,2,Final,Lars Linder,Holly Linder,11,2,2, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,0,ons082,40428310,113,Roland Michtchenko,Waltz,2
+WA,0,2,Final,Lars Linder,Holly Linder,14,2,2, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,0,ons082,40428310,113,Yelena Zakharova,Waltz,2
+WA,0,2,Final,Lars Linder,Holly Linder,16,2,2, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,0,ons082,40428310,113,Lynn Offutt,Waltz,2
+BC,0,3,Final,George Pytlik,Wendy Pytlik,11,3,3, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,0,ons082,40428310,117,Roland Michtchenko,Waltz,3
+BC,0,3,Final,George Pytlik,Wendy Pytlik,14,3,3, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,0,ons082,40428310,117,Yelena Zakharova,Waltz,3
+BC,0,3,Final,George Pytlik,Wendy Pytlik,16,3,3, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,0,ons082,40428310,117,Lynn Offutt,Waltz,3
+,0,1,Final,Dmitriy Vorobiev,Kseniya Sovenko,11,1,1, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,1,ons082,40428310,125,Roland Michtchenko,Tango,1
+,0,1,Final,Dmitriy Vorobiev,Kseniya Sovenko,14,1,1, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,1,ons082,40428310,125,Yelena Zakharova,Tango,1
+,0,1,Final,Dmitriy Vorobiev,Kseniya Sovenko,16,1,1, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,1,ons082,40428310,125,Lynn Offutt,Tango,1
+WA,0,2,Final,Lars Linder,Holly Linder,11,2,2, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,1,ons082,40428310,113,Roland Michtchenko,Tango,2
+WA,0,2,Final,Lars Linder,Holly Linder,14,2,2, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,1,ons082,40428310,113,Yelena Zakharova,Tango,2
+WA,0,2,Final,Lars Linder,Holly Linder,16,2,2, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,1,ons082,40428310,113,Lynn Offutt,Tango,2
+BC,0,3,Final,George Pytlik,Wendy Pytlik,11,3,3, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,1,ons082,40428310,117,Roland Michtchenko,Tango,3
+BC,0,3,Final,George Pytlik,Wendy Pytlik,14,3,3, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,1,ons082,40428310,117,Yelena Zakharova,Tango,3
+BC,0,3,Final,George Pytlik,Wendy Pytlik,16,3,3, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,1,ons082,40428310,117,Lynn Offutt,Tango,3
+,0,1,Final,Dmitriy Vorobiev,Kseniya Sovenko,11,1,1, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,2,ons082,40428310,125,Roland Michtchenko,Foxtrot,1
+,0,1,Final,Dmitriy Vorobiev,Kseniya Sovenko,14,1,1, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,2,ons082,40428310,125,Yelena Zakharova,Foxtrot,1
+,0,1,Final,Dmitriy Vorobiev,Kseniya Sovenko,16,1,1, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,2,ons082,40428310,125,Lynn Offutt,Foxtrot,1
+WA,0,3,Final,Lars Linder,Holly Linder,11,2,3, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,2,ons082,40428310,113,Roland Michtchenko,Foxtrot,2
+WA,0,2,Final,Lars Linder,Holly Linder,14,2,2, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,2,ons082,40428310,113,Yelena Zakharova,Foxtrot,2
+WA,0,2,Final,Lars Linder,Holly Linder,16,2,2, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,2,ons082,40428310,113,Lynn Offutt,Foxtrot,2
+BC,0,2,Final,George Pytlik,Wendy Pytlik,11,3,2, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,2,ons082,40428310,117,Roland Michtchenko,Foxtrot,3
+BC,0,3,Final,George Pytlik,Wendy Pytlik,14,3,3, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,2,ons082,40428310,117,Yelena Zakharova,Foxtrot,3
+BC,0,3,Final,George Pytlik,Wendy Pytlik,16,3,3, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,2,ons082,40428310,117,Lynn Offutt,Foxtrot,3
+,0,1,Final,Dmitriy Vorobiev,Kseniya Sovenko,11,1,1, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,3,ons082,40428310,125,Roland Michtchenko,Quickstep,1
+,0,1,Final,Dmitriy Vorobiev,Kseniya Sovenko,14,1,1, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,3,ons082,40428310,125,Yelena Zakharova,Quickstep,1
+,0,1,Final,Dmitriy Vorobiev,Kseniya Sovenko,16,1,1, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,3,ons082,40428310,125,Lynn Offutt,Quickstep,1
+WA,0,3,Final,Lars Linder,Holly Linder,11,2,3, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,3,ons082,40428310,113,Roland Michtchenko,Quickstep,2
+WA,0,2,Final,Lars Linder,Holly Linder,14,2,2, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,3,ons082,40428310,113,Yelena Zakharova,Quickstep,2
+WA,0,2,Final,Lars Linder,Holly Linder,16,2,2, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,3,ons082,40428310,113,Lynn Offutt,Quickstep,2
+BC,0,2,Final,George Pytlik,Wendy Pytlik,11,3,2, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,3,ons082,40428310,117,Roland Michtchenko,Quickstep,3
+BC,0,3,Final,George Pytlik,Wendy Pytlik,14,3,3, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,3,ons082,40428310,117,Yelena Zakharova,Quickstep,3
+BC,0,3,Final,George Pytlik,Wendy Pytlik,16,3,3, Amateur Adult Pre-Champ Standard  (WTFQ),Sample,3,ons082,40428310,117,Lynn Offutt,Quickstep,3
+OR,0,1,Final,Steven Sowell,Ann Marie Hathaway,11,1,1, Amateur Senior I Silver Standard  (WTF),Sample,0,ons082,40433010,122,Roland Michtchenko,Waltz,1
+OR,0,1,Final,Steven Sowell,Ann Marie Hathaway,14,1,1, Amateur Senior I Silver Standard  (WTF),Sample,0,ons082,40433010,122,Yelena Zakharova,Waltz,1
+OR,0,1,Final,Steven Sowell,Ann Marie Hathaway,16,1,1, Amateur Senior I Silver Standard  (WTF),Sample,0,ons082,40433010,122,Lynn Offutt,Waltz,1
+OR,0,1,Final,Steven Sowell,Ann Marie Hathaway,11,1,1, Amateur Senior I Silver Standard  (WTF),Sample,1,ons082,40433010,122,Roland Michtchenko,Tango,1
+OR,0,1,Final,Steven Sowell,Ann Marie Hathaway,14,1,1, Amateur Senior I Silver Standard  (WTF),Sample,1,ons082,40433010,122,Yelena Zakharova,Tango,1
+OR,0,1,Final,Steven Sowell,Ann Marie Hathaway,16,1,1, Amateur Senior I Silver Standard  (WTF),Sample,1,ons082,40433010,122,Lynn Offutt,Tango,1
+OR,0,1,Final,Steven Sowell,Ann Marie Hathaway,11,1,1, Amateur Senior I Silver Standard  (WTF),Sample,2,ons082,40433010,122,Roland Michtchenko,Foxtrot,1
+OR,0,1,Final,Steven Sowell,Ann Marie Hathaway,14,1,1, Amateur Senior I Silver Standard  (WTF),Sample,2,ons082,40433010,122,Yelena Zakharova,Foxtrot,1
+OR,0,1,Final,Steven Sowell,Ann Marie Hathaway,16,1,1, Amateur Senior I Silver Standard  (WTF),Sample,2,ons082,40433010,122,Lynn Offutt,Foxtrot,1
+,0,2,Final,Dmitriy Vorobiev,Kseniya Sovenko,11,2,2, Amateur Youth Championship Standard  (WTVFQ),Sample,0,ons082,402F8710,125,Roland Michtchenko,Waltz,1
+,0,2,Final,Dmitriy Vorobiev,Kseniya Sovenko,14,2,2, Amateur Youth Championship Standard  (WTVFQ),Sample,0,ons082,402F8710,125,Yelena Zakharova,Waltz,1
+,0,1,Final,Dmitriy Vorobiev,Kseniya Sovenko,16,2,1, Amateur Youth Championship Standard  (WTVFQ),Sample,0,ons082,402F8710,125,Lynn Offutt,Waltz,1
+Wa,0,1,Final,Teleryck Ianakiev,Mariya Starichenok,11,1,1, Amateur Youth Championship Standard  (WTVFQ),Sample,0,ons082,402F8710,108,Roland Michtchenko,Waltz,2
+Wa,0,1,Final,Teleryck Ianakiev,Mariya Starichenok,14,1,1, Amateur Youth Championship Standard  (WTVFQ),Sample,0,ons082,402F8710,108,Yelena Zakharova,Waltz,2
+Wa,0,2,Final,Teleryck Ianakiev,Mariya Starichenok,16,1,2, Amateur Youth Championship Standard  (WTVFQ),Sample,0,ons082,402F8710,108,Lynn Offutt,Waltz,2
+,0,2,Final,Dmitriy Vorobiev,Kseniya Sovenko,11,2,2, Amateur Youth Championship Standard  (WTVFQ),Sample,1,ons082,402F8710,125,Roland Michtchenko,Tango,1
+,0,2,Final,Dmitriy Vorobiev,Kseniya Sovenko,14,2,2, Amateur Youth Championship Standard  (WTVFQ),Sample,1,ons082,402F8710,125,Yelena Zakharova,Tango,1
+,0,1,Final,Dmitriy Vorobiev,Kseniya Sovenko,16,2,1, Amateur Youth Championship Standard  (WTVFQ),Sample,1,ons082,402F8710,125,Lynn Offutt,Tango,1
+Wa,0,1,Final,Teleryck Ianakiev,Mariya Starichenok,11,1,1, Amateur Youth Championship Standard  (WTVFQ),Sample,1,ons082,402F8710,108,Roland Michtchenko,Tango,2
+Wa,0,1,Final,Teleryck Ianakiev,Mariya Starichenok,14,1,1, Amateur Youth Championship Standard  (WTVFQ),Sample,1,ons082,402F8710,108,Yelena Zakharova,Tango,2
+Wa,0,2,Final,Teleryck Ianakiev,Mariya Starichenok,16,1,2, Amateur Youth Championship Standard  (WTVFQ),Sample,1,ons082,402F8710,108,Lynn Offutt,Tango,2
+,0,1,Final,Dmitriy Vorobiev,Kseniya Sovenko,11,1,1, Amateur Youth Championship Standard  (WTVFQ),Sample,2,ons082,402F8710,125,Roland Michtchenko,Viennese Waltz,1
+,0,2,Final,Dmitriy Vorobiev,Kseniya Sovenko,14,1,2, Amateur Youth Championship Standard  (WTVFQ),Sample,2,ons082,402F8710,125,Yelena Zakharova,Viennese Waltz,1
+,0,1,Final,Dmitriy Vorobiev,Kseniya Sovenko,16,1,1, Amateur Youth Championship Standard  (WTVFQ),Sample,2,ons082,402F8710,125,Lynn Offutt,Viennese Waltz,1
+Wa,0,2,Final,Teleryck Ianakiev,Mariya Starichenok,11,2,2, Amateur Youth Championship Standard  (WTVFQ),Sample,2,ons082,402F8710,108,Roland Michtchenko,Viennese Waltz,2
+Wa,0,1,Final,Teleryck Ianakiev,Mariya Starichenok,14,2,1, Amateur Youth Championship Standard  (WTVFQ),Sample,2,ons082,402F8710,108,Yelena Zakharova,Viennese Waltz,2
+Wa,0,2,Final,Teleryck Ianakiev,Mariya Starichenok,16,2,2, Amateur Youth Championship Standard  (WTVFQ),Sample,2,ons082,402F8710,108,Lynn Offutt,Viennese Waltz,2
+,0,1,Final,Dmitriy Vorobiev,Kseniya Sovenko,11,1,1, Amateur Youth Championship Standard  (WTVFQ),Sample,3,ons082,402F8710,125,Roland Michtchenko,Foxtrot,1
+,0,2,Final,Dmitriy Vorobiev,Kseniya Sovenko,14,1,2, Amateur Youth Championship Standard  (WTVFQ),Sample,3,ons082,402F8710,125,Yelena Zakharova,Foxtrot,1
+,0,1,Final,Dmitriy Vorobiev,Kseniya Sovenko,16,1,1, Amateur Youth Championship Standard  (WTVFQ),Sample,3,ons082,402F8710,125,Lynn Offutt,Foxtrot,1
+Wa,0,2,Final,Teleryck Ianakiev,Mariya Starichenok,11,2,2, Amateur Youth Championship Standard  (WTVFQ),Sample,3,ons082,402F8710,108,Roland Michtchenko,Foxtrot,2
+Wa,0,1,Final,Teleryck Ianakiev,Mariya Starichenok,14,2,1, Amateur Youth Championship Standard  (WTVFQ),Sample,3,ons082,402F8710,108,Yelena Zakharova,Foxtrot,2
+Wa,0,2,Final,Teleryck Ianakiev,Mariya Starichenok,16,2,2, Amateur Youth Championship Standard  (WTVFQ),Sample,3,ons082,402F8710,108,Lynn Offutt,Foxtrot,2
+,0,1,Final,Dmitriy Vorobiev,Kseniya Sovenko,11,1,1, Amateur Youth Championship Standard  (WTVFQ),Sample,4,ons082,402F8710,125,Roland Michtchenko,Quickstep,1
+,0,2,Final,Dmitriy Vorobiev,Kseniya Sovenko,14,1,2, Amateur Youth Championship Standard  (WTVFQ),Sample,4,ons082,402F8710,125,Yelena Zakharova,Quickstep,1
+,0,1,Final,Dmitriy Vorobiev,Kseniya Sovenko,16,1,1, Amateur Youth Championship Standard  (WTVFQ),Sample,4,ons082,402F8710,125,Lynn Offutt,Quickstep,1
+Wa,0,2,Final,Teleryck Ianakiev,Mariya Starichenok,11,2,2, Amateur Youth Championship Standard  (WTVFQ),Sample,4,ons082,402F8710,108,Roland Michtchenko,Quickstep,2
+Wa,0,1,Final,Teleryck Ianakiev,Mariya Starichenok,14,2,1, Amateur Youth Championship Standard  (WTVFQ),Sample,4,ons082,402F8710,108,Yelena Zakharova,Quickstep,2
+Wa,0,2,Final,Teleryck Ianakiev,Mariya Starichenok,16,2,2, Amateur Youth Championship Standard  (WTVFQ),Sample,4,ons082,402F8710,108,Lynn Offutt,Quickstep,2
+WA,0,2,Final,Lars Linder,Holly Linder,11,1,2, Amateur Senior I Pre-Champ Standard  (WTFQ),Sample,0,ons082,40438310,113,Roland Michtchenko,Waltz,1
+WA,0,1,Final,Lars Linder,Holly Linder,14,1,1, Amateur Senior I Pre-Champ Standard  (WTFQ),Sample,0,ons082,40438310,113,Yelena Zakharova,Waltz,1
+WA,0,1,Final,Lars Linder,Holly Linder,16,1,1, Amateur Senior I Pre-Champ Standard  (WTFQ),Sample,0,ons082,40438310,113,Lynn Offutt,Waltz,1
+BC,0,1,Final,George Pytlik,Wendy Pytlik,11,2,1, Amateur Senior I Pre-Champ Standard  (WTFQ),Sample,0,ons082,40438310,117,Roland Michtchenko,Waltz,2
+BC,0,2,Final,George Pytlik,Wendy Pytlik,14,2,2, Amateur Senior I Pre-Champ Standard  (WTFQ),Sample,0,ons082,40438310,117,Yelena Zakharova,Waltz,2
+BC,0,3,Final,George Pytlik,Wendy Pytlik,16,2,3, Amateur Senior I Pre-Champ Standard  (WTFQ),Sample,0,ons082,40438310,117,Lynn Offutt,Waltz,2
+WA,0,3,Final,Daryl Schmidt,Michele Boyer,11,3,3, Amateur Senior I Pre-Champ Standard  (WTFQ),Sample,0,ons082,40438310,120,Roland Michtchenko,Waltz,3
+WA,0,3,Final,Daryl Schmidt,Michele Boyer,14,3,3, Amateur Senior I Pre-Champ Standard  (WTFQ),Sample,0,ons082,40438310,120,Yelena Zakharova,Waltz,3
+WA,0,2,Final,Daryl Schmidt,Michele Boyer,16,3,2, Amateur Senior I Pre-Champ Standard  (WTFQ),Sample,0,ons082,40438310,120,Lynn Offutt,Waltz,3
+WA,0,1,Final,Lars Linder,Holly Linder,11,1,1, Amateur Senior I Pre-Champ Standard  (WTFQ),Sample,1,ons082,40438310,113,Roland Michtchenko,Tango,1
+WA,0,1,Final,Lars Linder,Holly Linder,14,1,1, Amateur Senior I Pre-Champ Standard  (WTFQ),Sample,1,ons082,40438310,113,Yelena Zakharova,Tango,1
+WA,0,1,Final,Lars Linder,Holly Linder,16,1,1, Amateur Senior I Pre-Champ Standard  (WTFQ),Sample,1,ons082,40438310,113,Lynn Offutt,Tango,1
+BC,0,2,Final,George Pytlik,Wendy Pytlik,11,2,2, Amateur Senior I Pre-Champ Standard  (WTFQ),Sample,1,ons082,40438310,117,Roland Michtchenko,Tango,2
+BC,0,2,Final,George Pytlik,Wendy Pytlik,14,2,2, Amateur Senior I Pre-Champ Standard  (WTFQ),Sample,1,ons082,40438310,117,Yelena Zakharova,Tango,2
+BC,0,2,Final,George Pytlik,Wendy Pytlik,16,2,2, Amateur Senior I Pre-Champ Standard  (WTFQ),Sample,1,ons082,40438310,117,Lynn Offutt,Tango,2
+WA,0,3,Final,Daryl Schmidt,Michele Boyer,11,3,3, Amateur Senior I Pre-Champ Standard  (WTFQ),Sample,1,ons082,40438310,120,Roland Michtchenko,Tango,3
+WA,0,3,Final,Daryl Schmidt,Michele Boyer,14,3,3, Amateur Senior I Pre-Champ Standard  (WTFQ),Sample,1,ons082,40438310,120,Yelena Zakharova,Tango,3
+WA,0,3,Final,Daryl Schmidt,Michele Boyer,16,3,3, Amateur Senior I Pre-Champ Standard  (WTFQ),Sample,1,ons082,40438310,120,Lynn Offutt,Tango,3
+WA,0,2,Final,Lars Linder,Holly Linder,11,1,2, Amateur Senior I Pre-Champ Standard  (WTFQ),Sample,2,ons082,40438310,113,Roland Michtchenko,Foxtrot,1
+WA,0,1,Final,Lars Linder,Holly Linder,14,1,1, Amateur Senior I Pre-Champ Standard  (WTFQ),Sample,2,ons082,40438310,113,Yelena Zakharova,Foxtrot,1
+WA,0,1,Final,Lars Linder,Holly Linder,16,1,1, Amateur Senior I Pre-Champ Standard  (WTFQ),Sample,2,ons082,40438310,113,Lynn Offutt,Foxtrot,1
+BC,0,1,Final,George Pytlik,Wendy Pytlik,11,2,1, Amateur Senior I Pre-Champ Standard  (WTFQ),Sample,2,ons082,40438310,117,Roland Michtchenko,Foxtrot,2
+BC,0,2,Final,George Pytlik,Wendy Pytlik,14,2,2, Amateur Senior I Pre-Champ Standard  (WTFQ),Sample,2,ons082,40438310,117,Yelena Zakharova,Foxtrot,2
+BC,0,2,Final,George Pytlik,Wendy Pytlik,16,2,2, Amateur Senior I Pre-Champ Standard  (WTFQ),Sample,2,ons082,40438310,117,Lynn Offutt,Foxtrot,2
+WA,0,3,Final,Daryl Schmidt,Michele Boyer,11,3,3, Amateur Senior I Pre-Champ Standard  (WTFQ),Sample,2,ons082,40438310,120,Roland Michtchenko,Foxtrot,3
+WA,0,3,Final,Daryl Schmidt,Michele Boyer,14,3,3, Amateur Senior I Pre-Champ Standard  (WTFQ),Sample,2,ons082,40438310,120,Yelena Zakharova,Foxtrot,3
+WA,0,3,Final,Daryl Schmidt,Michele Boyer,16,3,3, Amateur Senior I Pre-Champ Standard  (WTFQ),Sample,2,ons082,40438310,120,Lynn Offutt,Foxtrot,3
+WA,0,1,Final,Lars Linder,Holly Linder,11,1,1, Amateur Senior I Pre-Champ Standard  (WTFQ),Sample,3,ons082,40438310,113,Roland Michtchenko,Quickstep,1
+WA,0,1,Final,Lars Linder,Holly Linder,14,1,1, Amateur Senior I Pre-Champ Standard  (WTFQ),Sample,3,ons082,40438310,113,Yelena Zakharova,Quickstep,1
+WA,0,1,Final,Lars Linder,Holly Linder,16,1,1, Amateur Senior I Pre-Champ Standard  (WTFQ),Sample,3,ons082,40438310,113,Lynn Offutt,Quickstep,1
+BC,0,2,Final,George Pytlik,Wendy Pytlik,11,2,2, Amateur Senior I Pre-Champ Standard  (WTFQ),Sample,3,ons082,40438310,117,Roland Michtchenko,Quickstep,2
+BC,0,2,Final,George Pytlik,Wendy Pytlik,14,2,2, Amateur Senior I Pre-Champ Standard  (WTFQ),Sample,3,ons082,40438310,117,Yelena Zakharova,Quickstep,2
+BC,0,2,Final,George Pytlik,Wendy Pytlik,16,2,2, Amateur Senior I Pre-Champ Standard  (WTFQ),Sample,3,ons082,40438310,117,Lynn Offutt,Quickstep,2
+WA,0,3,Final,Daryl Schmidt,Michele Boyer,11,3,3, Amateur Senior I Pre-Champ Standard  (WTFQ),Sample,3,ons082,40438310,120,Roland Michtchenko,Quickstep,3
+WA,0,3,Final,Daryl Schmidt,Michele Boyer,14,3,3, Amateur Senior I Pre-Champ Standard  (WTFQ),Sample,3,ons082,40438310,120,Yelena Zakharova,Quickstep,3
+WA,0,3,Final,Daryl Schmidt,Michele Boyer,16,3,3, Amateur Senior I Pre-Champ Standard  (WTFQ),Sample,3,ons082,40438310,120,Lynn Offutt,Quickstep,3
+OR,0,1,Final,Steven Sowell,Ann Marie Hathaway,11,1,1, Amateur Adult Silver Standard  (WTF),Sample,0,ons082,40423010,122,Roland Michtchenko,Waltz,1
+OR,0,1,Final,Steven Sowell,Ann Marie Hathaway,14,1,1, Amateur Adult Silver Standard  (WTF),Sample,0,ons082,40423010,122,Yelena Zakharova,Waltz,1
+OR,0,1,Final,Steven Sowell,Ann Marie Hathaway,16,1,1, Amateur Adult Silver Standard  (WTF),Sample,0,ons082,40423010,122,Lynn Offutt,Waltz,1
+OR,0,1,Final,Steven Sowell,Ann Marie Hathaway,11,1,1, Amateur Adult Silver Standard  (WTF),Sample,1,ons082,40423010,122,Roland Michtchenko,Tango,1
+OR,0,1,Final,Steven Sowell,Ann Marie Hathaway,14,1,1, Amateur Adult Silver Standard  (WTF),Sample,1,ons082,40423010,122,Yelena Zakharova,Tango,1
+OR,0,1,Final,Steven Sowell,Ann Marie Hathaway,16,1,1, Amateur Adult Silver Standard  (WTF),Sample,1,ons082,40423010,122,Lynn Offutt,Tango,1
+OR,0,1,Final,Steven Sowell,Ann Marie Hathaway,11,1,1, Amateur Adult Silver Standard  (WTF),Sample,2,ons082,40423010,122,Roland Michtchenko,Foxtrot,1
+OR,0,1,Final,Steven Sowell,Ann Marie Hathaway,14,1,1, Amateur Adult Silver Standard  (WTF),Sample,2,ons082,40423010,122,Yelena Zakharova,Foxtrot,1
+OR,0,1,Final,Steven Sowell,Ann Marie Hathaway,16,1,1, Amateur Adult Silver Standard  (WTF),Sample,2,ons082,40423010,122,Lynn Offutt,Foxtrot,1
+BC,0,1,Final,James Chen,Jessica Jiang,11,2,1, Amateur Pre-Teen Gold Latin  (CSRJ),Sample,0,ons082,40273820,100,Roland Michtchenko,Cha Cha,1
+BC,0,2,Final,James Chen,Jessica Jiang,14,2,2, Amateur Pre-Teen Gold Latin  (CSRJ),Sample,0,ons082,40273820,100,Yelena Zakharova,Cha Cha,1
+BC,0,2,Final,James Chen,Jessica Jiang,16,2,2, Amateur Pre-Teen Gold Latin  (CSRJ),Sample,0,ons082,40273820,100,Lynn Offutt,Cha Cha,1
+WA,0,2,Final,Erik Linder,Rickie Taylor,11,1,2, Amateur Pre-Teen Gold Latin  (CSRJ),Sample,0,ons082,40273820,112,Roland Michtchenko,Cha Cha,2
+WA,0,1,Final,Erik Linder,Rickie Taylor,14,1,1, Amateur Pre-Teen Gold Latin  (CSRJ),Sample,0,ons082,40273820,112,Yelena Zakharova,Cha Cha,2
+WA,0,1,Final,Erik Linder,Rickie Taylor,16,1,1, Amateur Pre-Teen Gold Latin  (CSRJ),Sample,0,ons082,40273820,112,Lynn Offutt,Cha Cha,2
+BC,0,1,Final,James Chen,Jessica Jiang,11,1,1, Amateur Pre-Teen Gold Latin  (CSRJ),Sample,1,ons082,40273820,100,Roland Michtchenko,Samba,1
+BC,0,2,Final,James Chen,Jessica Jiang,14,1,2, Amateur Pre-Teen Gold Latin  (CSRJ),Sample,1,ons082,40273820,100,Yelena Zakharova,Samba,1
+BC,0,1,Final,James Chen,Jessica Jiang,16,1,1, Amateur Pre-Teen Gold Latin  (CSRJ),Sample,1,ons082,40273820,100,Lynn Offutt,Samba,1
+WA,0,2,Final,Erik Linder,Rickie Taylor,11,2,2, Amateur Pre-Teen Gold Latin  (CSRJ),Sample,1,ons082,40273820,112,Roland Michtchenko,Samba,2
+WA,0,1,Final,Erik Linder,Rickie Taylor,14,2,1, Amateur Pre-Teen Gold Latin  (CSRJ),Sample,1,ons082,40273820,112,Yelena Zakharova,Samba,2
+WA,0,2,Final,Erik Linder,Rickie Taylor,16,2,2, Amateur Pre-Teen Gold Latin  (CSRJ),Sample,1,ons082,40273820,112,Lynn Offutt,Samba,2
+BC,0,1,Final,James Chen,Jessica Jiang,11,1,1, Amateur Pre-Teen Gold Latin  (CSRJ),Sample,2,ons082,40273820,100,Roland Michtchenko,Rumba,1
+BC,0,2,Final,James Chen,Jessica Jiang,14,1,2, Amateur Pre-Teen Gold Latin  (CSRJ),Sample,2,ons082,40273820,100,Yelena Zakharova,Rumba,1
+BC,0,1,Final,James Chen,Jessica Jiang,16,1,1, Amateur Pre-Teen Gold Latin  (CSRJ),Sample,2,ons082,40273820,100,Lynn Offutt,Rumba,1
+WA,0,2,Final,Erik Linder,Rickie Taylor,11,2,2, Amateur Pre-Teen Gold Latin  (CSRJ),Sample,2,ons082,40273820,112,Roland Michtchenko,Rumba,2
+WA,0,1,Final,Erik Linder,Rickie Taylor,14,2,1, Amateur Pre-Teen Gold Latin  (CSRJ),Sample,2,ons082,40273820,112,Yelena Zakharova,Rumba,2
+WA,0,2,Final,Erik Linder,Rickie Taylor,16,2,2, Amateur Pre-Teen Gold Latin  (CSRJ),Sample,2,ons082,40273820,112,Lynn Offutt,Rumba,2
+BC,0,2,Final,James Chen,Jessica Jiang,11,2,2, Amateur Pre-Teen Gold Latin  (CSRJ),Sample,3,ons082,40273820,100,Roland Michtchenko,Jive,1
+BC,0,2,Final,James Chen,Jessica Jiang,14,2,2, Amateur Pre-Teen Gold Latin  (CSRJ),Sample,3,ons082,40273820,100,Yelena Zakharova,Jive,1
+BC,0,1,Final,James Chen,Jessica Jiang,16,2,1, Amateur Pre-Teen Gold Latin  (CSRJ),Sample,3,ons082,40273820,100,Lynn Offutt,Jive,1
+WA,0,1,Final,Erik Linder,Rickie Taylor,11,1,1, Amateur Pre-Teen Gold Latin  (CSRJ),Sample,3,ons082,40273820,112,Roland Michtchenko,Jive,2
+WA,0,1,Final,Erik Linder,Rickie Taylor,14,1,1, Amateur Pre-Teen Gold Latin  (CSRJ),Sample,3,ons082,40273820,112,Yelena Zakharova,Jive,2
+WA,0,2,Final,Erik Linder,Rickie Taylor,16,1,2, Amateur Pre-Teen Gold Latin  (CSRJ),Sample,3,ons082,40273820,112,Lynn Offutt,Jive,2
+B.C.,0,1,Final,Paul Dinh,Scarlett Liaifer,11,1,1, Amateur Junior Pre-Champ Latin  (CSRJ),Sample,0,ons082,402C8320,103,Roland Michtchenko,Cha Cha,1
+B.C.,0,2,Final,Paul Dinh,Scarlett Liaifer,14,1,2, Amateur Junior Pre-Champ Latin  (CSRJ),Sample,0,ons082,402C8320,103,Yelena Zakharova,Cha Cha,1
+B.C.,0,1,Final,Paul Dinh,Scarlett Liaifer,16,1,1, Amateur Junior Pre-Champ Latin  (CSRJ),Sample,0,ons082,402C8320,103,Lynn Offutt,Cha Cha,1
+WA,0,2,Final,Paul Stovall,Maxine Taylor,11,2,2, Amateur Junior Pre-Champ Latin  (CSRJ),Sample,0,ons082,402C8320,124,Roland Michtchenko,Cha Cha,2
+WA,0,1,Final,Paul Stovall,Maxine Taylor,14,2,1, Amateur Junior Pre-Champ Latin  (CSRJ),Sample,0,ons082,402C8320,124,Yelena Zakharova,Cha Cha,2
+WA,0,2,Final,Paul Stovall,Maxine Taylor,16,2,2, Amateur Junior Pre-Champ Latin  (CSRJ),Sample,0,ons082,402C8320,124,Lynn Offutt,Cha Cha,2
+B.C.,0,1,Final,Paul Dinh,Scarlett Liaifer,11,1,1, Amateur Junior Pre-Champ Latin  (CSRJ),Sample,1,ons082,402C8320,103,Roland Michtchenko,Samba,1
+B.C.,0,2,Final,Paul Dinh,Scarlett Liaifer,14,1,2, Amateur Junior Pre-Champ Latin  (CSRJ),Sample,1,ons082,402C8320,103,Yelena Zakharova,Samba,1
+B.C.,0,1,Final,Paul Dinh,Scarlett Liaifer,16,1,1, Amateur Junior Pre-Champ Latin  (CSRJ),Sample,1,ons082,402C8320,103,Lynn Offutt,Samba,1
+WA,0,2,Final,Paul Stovall,Maxine Taylor,11,2,2, Amateur Junior Pre-Champ Latin  (CSRJ),Sample,1,ons082,402C8320,124,Roland Michtchenko,Samba,2
+WA,0,1,Final,Paul Stovall,Maxine Taylor,14,2,1, Amateur Junior Pre-Champ Latin  (CSRJ),Sample,1,ons082,402C8320,124,Yelena Zakharova,Samba,2
+WA,0,2,Final,Paul Stovall,Maxine Taylor,16,2,2, Amateur Junior Pre-Champ Latin  (CSRJ),Sample,1,ons082,402C8320,124,Lynn Offutt,Samba,2
+B.C.,0,1,Final,Paul Dinh,Scarlett Liaifer,11,1,1, Amateur Junior Pre-Champ Latin  (CSRJ),Sample,2,ons082,402C8320,103,Roland Michtchenko,Rumba,1
+B.C.,0,1,Final,Paul Dinh,Scarlett Liaifer,14,1,1, Amateur Junior Pre-Champ Latin  (CSRJ),Sample,2,ons082,402C8320,103,Yelena Zakharova,Rumba,1
+B.C.,0,1,Final,Paul Dinh,Scarlett Liaifer,16,1,1, Amateur Junior Pre-Champ Latin  (CSRJ),Sample,2,ons082,402C8320,103,Lynn Offutt,Rumba,1
+WA,0,2,Final,Paul Stovall,Maxine Taylor,11,2,2, Amateur Junior Pre-Champ Latin  (CSRJ),Sample,2,ons082,402C8320,124,Roland Michtchenko,Rumba,2
+WA,0,2,Final,Paul Stovall,Maxine Taylor,14,2,2, Amateur Junior Pre-Champ Latin  (CSRJ),Sample,2,ons082,402C8320,124,Yelena Zakharova,Rumba,2
+WA,0,2,Final,Paul Stovall,Maxine Taylor,16,2,2, Amateur Junior Pre-Champ Latin  (CSRJ),Sample,2,ons082,402C8320,124,Lynn Offutt,Rumba,2
+B.C.,0,1,Final,Paul Dinh,Scarlett Liaifer,11,1,1, Amateur Junior Pre-Champ Latin  (CSRJ),Sample,3,ons082,402C8320,103,Roland Michtchenko,Jive,1
+B.C.,0,2,Final,Paul Dinh,Scarlett Liaifer,14,1,2, Amateur Junior Pre-Champ Latin  (CSRJ),Sample,3,ons082,402C8320,103,Yelena Zakharova,Jive,1
+B.C.,0,1,Final,Paul Dinh,Scarlett Liaifer,16,1,1, Amateur Junior Pre-Champ Latin  (CSRJ),Sample,3,ons082,402C8320,103,Lynn Offutt,Jive,1
+WA,0,2,Final,Paul Stovall,Maxine Taylor,11,2,2, Amateur Junior Pre-Champ Latin  (CSRJ),Sample,3,ons082,402C8320,124,Roland Michtchenko,Jive,2
+WA,0,1,Final,Paul Stovall,Maxine Taylor,14,2,1, Amateur Junior Pre-Champ Latin  (CSRJ),Sample,3,ons082,402C8320,124,Yelena Zakharova,Jive,2
+WA,0,2,Final,Paul Stovall,Maxine Taylor,16,2,2, Amateur Junior Pre-Champ Latin  (CSRJ),Sample,3,ons082,402C8320,124,Lynn Offutt,Jive,2
+BC,0,1,Final,Jaidan Lee,Lily Miao,11,1,1, Amateur Junior Bronze Latin  (CR),Sample,0,ons082,402C2820,110,Roland Michtchenko,Cha Cha,1
+BC,0,1,Final,Jaidan Lee,Lily Miao,14,1,1, Amateur Junior Bronze Latin  (CR),Sample,0,ons082,402C2820,110,Yelena Zakharova,Cha Cha,1
+BC,0,1,Final,Jaidan Lee,Lily Miao,16,1,1, Amateur Junior Bronze Latin  (CR),Sample,0,ons082,402C2820,110,Lynn Offutt,Cha Cha,1
+BC,0,1,Final,Jaidan Lee,Lily Miao,11,1,1, Amateur Junior Bronze Latin  (CR),Sample,1,ons082,402C2820,110,Roland Michtchenko,Rumba,1
+BC,0,1,Final,Jaidan Lee,Lily Miao,14,1,1, Amateur Junior Bronze Latin  (CR),Sample,1,ons082,402C2820,110,Yelena Zakharova,Rumba,1
+BC,0,1,Final,Jaidan Lee,Lily Miao,16,1,1, Amateur Junior Bronze Latin  (CR),Sample,1,ons082,402C2820,110,Lynn Offutt,Rumba,1
+BC,0,1,Final,Jaidan Lee,Lily Miao,11,1,1, Amateur Youth Bronze Latin  (CR),Sample,0,ons082,402F2820,110,Roland Michtchenko,Cha Cha,1
+BC,0,1,Final,Jaidan Lee,Lily Miao,14,1,1, Amateur Youth Bronze Latin  (CR),Sample,0,ons082,402F2820,110,Yelena Zakharova,Cha Cha,1
+BC,0,1,Final,Jaidan Lee,Lily Miao,16,1,1, Amateur Youth Bronze Latin  (CR),Sample,0,ons082,402F2820,110,Lynn Offutt,Cha Cha,1
+BC,0,1,Final,Jaidan Lee,Lily Miao,11,1,1, Amateur Youth Bronze Latin  (CR),Sample,1,ons082,402F2820,110,Roland Michtchenko,Rumba,1
+BC,0,1,Final,Jaidan Lee,Lily Miao,14,1,1, Amateur Youth Bronze Latin  (CR),Sample,1,ons082,402F2820,110,Yelena Zakharova,Rumba,1
+BC,0,1,Final,Jaidan Lee,Lily Miao,16,1,1, Amateur Youth Bronze Latin  (CR),Sample,1,ons082,402F2820,110,Lynn Offutt,Rumba,1
+WA,0,1,Final,JAMES DRUZDZEL,LEILANI NAKAGAWA,11,1,1, Amateur Adult Bronze Latin  (CR),Sample,0,ons082,40422820,104,Roland Michtchenko,Cha Cha,1
+WA,0,1,Final,JAMES DRUZDZEL,LEILANI NAKAGAWA,14,1,1, Amateur Adult Bronze Latin  (CR),Sample,0,ons082,40422820,104,Yelena Zakharova,Cha Cha,1
+WA,0,1,Final,JAMES DRUZDZEL,LEILANI NAKAGAWA,16,1,1, Amateur Adult Bronze Latin  (CR),Sample,0,ons082,40422820,104,Lynn Offutt,Cha Cha,1
+WA,0,1,Final,JAMES DRUZDZEL,LEILANI NAKAGAWA,11,1,1, Amateur Adult Bronze Latin  (CR),Sample,1,ons082,40422820,104,Roland Michtchenko,Rumba,1
+WA,0,1,Final,JAMES DRUZDZEL,LEILANI NAKAGAWA,14,1,1, Amateur Adult Bronze Latin  (CR),Sample,1,ons082,40422820,104,Yelena Zakharova,Rumba,1
+WA,0,1,Final,JAMES DRUZDZEL,LEILANI NAKAGAWA,16,1,1, Amateur Adult Bronze Latin  (CR),Sample,1,ons082,40422820,104,Lynn Offutt,Rumba,1
+WA,0,1,Final,Danylo Kurgan,Nicole Garakanidze,11,1,1, Amateur Junior Silver Latin  (CSR),Sample,0,ons082,402C3020,109,Roland Michtchenko,Cha Cha,1
+WA,0,1,Final,Danylo Kurgan,Nicole Garakanidze,14,1,1, Amateur Junior Silver Latin  (CSR),Sample,0,ons082,402C3020,109,Yelena Zakharova,Cha Cha,1
+WA,0,1,Final,Danylo Kurgan,Nicole Garakanidze,16,1,1, Amateur Junior Silver Latin  (CSR),Sample,0,ons082,402C3020,109,Lynn Offutt,Cha Cha,1
+WA,0,6,Final,Max Levin,Margo Stepanyants,11,2,6, Amateur Junior Silver Latin  (CSR),Sample,0,ons082,402C3020,111,Roland Michtchenko,Cha Cha,2
+WA,0,3,Final,Max Levin,Margo Stepanyants,14,2,3, Amateur Junior Silver Latin  (CSR),Sample,0,ons082,402C3020,111,Yelena Zakharova,Cha Cha,2
+WA,0,2,Final,Max Levin,Margo Stepanyants,16,2,2, Amateur Junior Silver Latin  (CSR),Sample,0,ons082,402C3020,111,Lynn Offutt,Cha Cha,2
+BC,0,2,Final,James Chen,Jessica Jiang,11,5,2, Amateur Junior Silver Latin  (CSR),Sample,0,ons082,402C3020,100,Roland Michtchenko,Cha Cha,3
+BC,0,4,Final,James Chen,Jessica Jiang,14,5,4, Amateur Junior Silver Latin  (CSR),Sample,0,ons082,402C3020,100,Yelena Zakharova,Cha Cha,3
+BC,0,6,Final,James Chen,Jessica Jiang,16,5,6, Amateur Junior Silver Latin  (CSR),Sample,0,ons082,402C3020,100,Lynn Offutt,Cha Cha,3
+WA,0,4,Final,Erik Linder,Rickie Taylor,11,4,4, Amateur Junior Silver Latin  (CSR),Sample,0,ons082,402C3020,112,Roland Michtchenko,Cha Cha,4
+WA,0,2,Final,Erik Linder,Rickie Taylor,14,4,2, Amateur Junior Silver Latin  (CSR),Sample,0,ons082,402C3020,112,Yelena Zakharova,Cha Cha,4
+WA,0,5,Final,Erik Linder,Rickie Taylor,16,4,5, Amateur Junior Silver Latin  (CSR),Sample,0,ons082,402C3020,112,Lynn Offutt,Cha Cha,4
+WA,0,3,Final,David Porter,Maria Bessonova,11,3,3, Amateur Junior Silver Latin  (CSR),Sample,0,ons082,402C3020,115,Roland Michtchenko,Cha Cha,5
+WA,0,5,Final,David Porter,Maria Bessonova,14,3,5, Amateur Junior Silver Latin  (CSR),Sample,0,ons082,402C3020,115,Yelena Zakharova,Cha Cha,5
+WA,0,3,Final,David Porter,Maria Bessonova,16,3,3, Amateur Junior Silver Latin  (CSR),Sample,0,ons082,402C3020,115,Lynn Offutt,Cha Cha,5
+BC,0,5,Final,Jaidan Lee,Lily Miao,11,6,5, Amateur Junior Silver Latin  (CSR),Sample,0,ons082,402C3020,110,Roland Michtchenko,Cha Cha,6
+BC,0,6,Final,Jaidan Lee,Lily Miao,14,6,6, Amateur Junior Silver Latin  (CSR),Sample,0,ons082,402C3020,110,Yelena Zakharova,Cha Cha,6
+BC,0,4,Final,Jaidan Lee,Lily Miao,16,6,4, Amateur Junior Silver Latin  (CSR),Sample,0,ons082,402C3020,110,Lynn Offutt,Cha Cha,6
+WA,0,1,Final,Danylo Kurgan,Nicole Garakanidze,11,1,1, Amateur Junior Silver Latin  (CSR),Sample,1,ons082,402C3020,109,Roland Michtchenko,Samba,1
+WA,0,1,Final,Danylo Kurgan,Nicole Garakanidze,14,1,1, Amateur Junior Silver Latin  (CSR),Sample,1,ons082,402C3020,109,Yelena Zakharova,Samba,1
+WA,0,2,Final,Danylo Kurgan,Nicole Garakanidze,16,1,2, Amateur Junior Silver Latin  (CSR),Sample,1,ons082,402C3020,109,Lynn Offutt,Samba,1
+WA,0,6,Final,Max Levin,Margo Stepanyants,11,2,6, Amateur Junior Silver Latin  (CSR),Sample,1,ons082,402C3020,111,Roland Michtchenko,Samba,2
+WA,0,3,Final,Max Levin,Margo Stepanyants,14,2,3, Amateur Junior Silver Latin  (CSR),Sample,1,ons082,402C3020,111,Yelena Zakharova,Samba,2
+WA,0,1,Final,Max Levin,Margo Stepanyants,16,2,1, Amateur Junior Silver Latin  (CSR),Sample,1,ons082,402C3020,111,Lynn Offutt,Samba,2
+BC,0,2,Final,James Chen,Jessica Jiang,11,3,2, Amateur Junior Silver Latin  (CSR),Sample,1,ons082,402C3020,100,Roland Michtchenko,Samba,3
+BC,0,5,Final,James Chen,Jessica Jiang,14,3,5, Amateur Junior Silver Latin  (CSR),Sample,1,ons082,402C3020,100,Yelena Zakharova,Samba,3
+BC,0,3,Final,James Chen,Jessica Jiang,16,3,3, Amateur Junior Silver Latin  (CSR),Sample,1,ons082,402C3020,100,Lynn Offutt,Samba,3
+WA,0,5,Final,Erik Linder,Rickie Taylor,11,4,5, Amateur Junior Silver Latin  (CSR),Sample,1,ons082,402C3020,112,Roland Michtchenko,Samba,4
+WA,0,2,Final,Erik Linder,Rickie Taylor,14,4,2, Amateur Junior Silver Latin  (CSR),Sample,1,ons082,402C3020,112,Yelena Zakharova,Samba,4
+WA,0,4,Final,Erik Linder,Rickie Taylor,16,4,4, Amateur Junior Silver Latin  (CSR),Sample,1,ons082,402C3020,112,Lynn Offutt,Samba,4
+WA,0,3,Final,David Porter,Maria Bessonova,11,5,3, Amateur Junior Silver Latin  (CSR),Sample,1,ons082,402C3020,115,Roland Michtchenko,Samba,5
+WA,0,4,Final,David Porter,Maria Bessonova,14,5,4, Amateur Junior Silver Latin  (CSR),Sample,1,ons082,402C3020,115,Yelena Zakharova,Samba,5
+WA,0,5,Final,David Porter,Maria Bessonova,16,5,5, Amateur Junior Silver Latin  (CSR),Sample,1,ons082,402C3020,115,Lynn Offutt,Samba,5
+BC,0,4,Final,Jaidan Lee,Lily Miao,11,6,4, Amateur Junior Silver Latin  (CSR),Sample,1,ons082,402C3020,110,Roland Michtchenko,Samba,6
+BC,0,6,Final,Jaidan Lee,Lily Miao,14,6,6, Amateur Junior Silver Latin  (CSR),Sample,1,ons082,402C3020,110,Yelena Zakharova,Samba,6
+BC,0,6,Final,Jaidan Lee,Lily Miao,16,6,6, Amateur Junior Silver Latin  (CSR),Sample,1,ons082,402C3020,110,Lynn Offutt,Samba,6
+WA,0,2,Final,Danylo Kurgan,Nicole Garakanidze,11,2,2, Amateur Junior Silver Latin  (CSR),Sample,2,ons082,402C3020,109,Roland Michtchenko,Rumba,1
+WA,0,2,Final,Danylo Kurgan,Nicole Garakanidze,14,2,2, Amateur Junior Silver Latin  (CSR),Sample,2,ons082,402C3020,109,Yelena Zakharova,Rumba,1
+WA,0,4,Final,Danylo Kurgan,Nicole Garakanidze,16,2,4, Amateur Junior Silver Latin  (CSR),Sample,2,ons082,402C3020,109,Lynn Offutt,Rumba,1
+WA,0,6,Final,Max Levin,Margo Stepanyants,11,3,6, Amateur Junior Silver Latin  (CSR),Sample,2,ons082,402C3020,111,Roland Michtchenko,Rumba,2
+WA,0,3,Final,Max Levin,Margo Stepanyants,14,3,3, Amateur Junior Silver Latin  (CSR),Sample,2,ons082,402C3020,111,Yelena Zakharova,Rumba,2
+WA,0,3,Final,Max Levin,Margo Stepanyants,16,3,3, Amateur Junior Silver Latin  (CSR),Sample,2,ons082,402C3020,111,Lynn Offutt,Rumba,2
+BC,0,1,Final,James Chen,Jessica Jiang,11,1,1, Amateur Junior Silver Latin  (CSR),Sample,2,ons082,402C3020,100,Roland Michtchenko,Rumba,3
+BC,0,5,Final,James Chen,Jessica Jiang,14,1,5, Amateur Junior Silver Latin  (CSR),Sample,2,ons082,402C3020,100,Yelena Zakharova,Rumba,3
+BC,0,2,Final,James Chen,Jessica Jiang,16,1,2, Amateur Junior Silver Latin  (CSR),Sample,2,ons082,402C3020,100,Lynn Offutt,Rumba,3
+WA,0,4,Final,Erik Linder,Rickie Taylor,11,4,4, Amateur Junior Silver Latin  (CSR),Sample,2,ons082,402C3020,112,Roland Michtchenko,Rumba,4
+WA,0,1,Final,Erik Linder,Rickie Taylor,14,4,1, Amateur Junior Silver Latin  (CSR),Sample,2,ons082,402C3020,112,Yelena Zakharova,Rumba,4
+WA,0,5,Final,Erik Linder,Rickie Taylor,16,4,5, Amateur Junior Silver Latin  (CSR),Sample,2,ons082,402C3020,112,Lynn Offutt,Rumba,4
+WA,0,3,Final,David Porter,Maria Bessonova,11,5,3, Amateur Junior Silver Latin  (CSR),Sample,2,ons082,402C3020,115,Roland Michtchenko,Rumba,5
+WA,0,4,Final,David Porter,Maria Bessonova,14,5,4, Amateur Junior Silver Latin  (CSR),Sample,2,ons082,402C3020,115,Yelena Zakharova,Rumba,5
+WA,0,6,Final,David Porter,Maria Bessonova,16,5,6, Amateur Junior Silver Latin  (CSR),Sample,2,ons082,402C3020,115,Lynn Offutt,Rumba,5
+BC,0,5,Final,Jaidan Lee,Lily Miao,11,6,5, Amateur Junior Silver Latin  (CSR),Sample,2,ons082,402C3020,110,Roland Michtchenko,Rumba,6
+BC,0,6,Final,Jaidan Lee,Lily Miao,14,6,6, Amateur Junior Silver Latin  (CSR),Sample,2,ons082,402C3020,110,Yelena Zakharova,Rumba,6
+BC,0,1,Final,Jaidan Lee,Lily Miao,16,6,1, Amateur Junior Silver Latin  (CSR),Sample,2,ons082,402C3020,110,Lynn Offutt,Rumba,6
+BC,0,1,Final,Jaidan Lee,Lily Miao,11,1,1, Amateur Youth Silver Latin  (CSR),Sample,0,ons082,402F3020,110,Roland Michtchenko,Cha Cha,1
+BC,0,1,Final,Jaidan Lee,Lily Miao,14,1,1, Amateur Youth Silver Latin  (CSR),Sample,0,ons082,402F3020,110,Yelena Zakharova,Cha Cha,1
+BC,0,1,Final,Jaidan Lee,Lily Miao,16,1,1, Amateur Youth Silver Latin  (CSR),Sample,0,ons082,402F3020,110,Lynn Offutt,Cha Cha,1
+BC,0,1,Final,Jaidan Lee,Lily Miao,11,1,1, Amateur Youth Silver Latin  (CSR),Sample,1,ons082,402F3020,110,Roland Michtchenko,Samba,1
+BC,0,1,Final,Jaidan Lee,Lily Miao,14,1,1, Amateur Youth Silver Latin  (CSR),Sample,1,ons082,402F3020,110,Yelena Zakharova,Samba,1
+BC,0,1,Final,Jaidan Lee,Lily Miao,16,1,1, Amateur Youth Silver Latin  (CSR),Sample,1,ons082,402F3020,110,Lynn Offutt,Samba,1
+BC,0,1,Final,Jaidan Lee,Lily Miao,11,1,1, Amateur Youth Silver Latin  (CSR),Sample,2,ons082,402F3020,110,Roland Michtchenko,Rumba,1
+BC,0,1,Final,Jaidan Lee,Lily Miao,14,1,1, Amateur Youth Silver Latin  (CSR),Sample,2,ons082,402F3020,110,Yelena Zakharova,Rumba,1
+BC,0,1,Final,Jaidan Lee,Lily Miao,16,1,1, Amateur Youth Silver Latin  (CSR),Sample,2,ons082,402F3020,110,Lynn Offutt,Rumba,1
+BC,0,1,Final,James Chen,Jessica Jiang,11,1,1, Amateur Pre-Teen Silver Latin  (CSR),Sample,0,ons082,40273020,100,Roland Michtchenko,Cha Cha,1
+BC,0,2,Final,James Chen,Jessica Jiang,14,1,2, Amateur Pre-Teen Silver Latin  (CSR),Sample,0,ons082,40273020,100,Yelena Zakharova,Cha Cha,1
+BC,0,1,Final,James Chen,Jessica Jiang,16,1,1, Amateur Pre-Teen Silver Latin  (CSR),Sample,0,ons082,40273020,100,Lynn Offutt,Cha Cha,1
+WA,0,2,Final,Erik Linder,Rickie Taylor,11,2,2, Amateur Pre-Teen Silver Latin  (CSR),Sample,0,ons082,40273020,112,Roland Michtchenko,Cha Cha,2
+WA,0,1,Final,Erik Linder,Rickie Taylor,14,2,1, Amateur Pre-Teen Silver Latin  (CSR),Sample,0,ons082,40273020,112,Yelena Zakharova,Cha Cha,2
+WA,0,2,Final,Erik Linder,Rickie Taylor,16,2,2, Amateur Pre-Teen Silver Latin  (CSR),Sample,0,ons082,40273020,112,Lynn Offutt,Cha Cha,2
+BC,0,1,Final,James Chen,Jessica Jiang,11,1,1, Amateur Pre-Teen Silver Latin  (CSR),Sample,1,ons082,40273020,100,Roland Michtchenko,Samba,1
+BC,0,2,Final,James Chen,Jessica Jiang,14,1,2, Amateur Pre-Teen Silver Latin  (CSR),Sample,1,ons082,40273020,100,Yelena Zakharova,Samba,1
+BC,0,1,Final,James Chen,Jessica Jiang,16,1,1, Amateur Pre-Teen Silver Latin  (CSR),Sample,1,ons082,40273020,100,Lynn Offutt,Samba,1
+WA,0,2,Final,Erik Linder,Rickie Taylor,11,2,2, Amateur Pre-Teen Silver Latin  (CSR),Sample,1,ons082,40273020,112,Roland Michtchenko,Samba,2
+WA,0,1,Final,Erik Linder,Rickie Taylor,14,2,1, Amateur Pre-Teen Silver Latin  (CSR),Sample,1,ons082,40273020,112,Yelena Zakharova,Samba,2
+WA,0,2,Final,Erik Linder,Rickie Taylor,16,2,2, Amateur Pre-Teen Silver Latin  (CSR),Sample,1,ons082,40273020,112,Lynn Offutt,Samba,2
+BC,0,2,Final,James Chen,Jessica Jiang,11,2,2, Amateur Pre-Teen Silver Latin  (CSR),Sample,2,ons082,40273020,100,Roland Michtchenko,Rumba,1
+BC,0,1,Final,James Chen,Jessica Jiang,14,2,1, Amateur Pre-Teen Silver Latin  (CSR),Sample,2,ons082,40273020,100,Yelena Zakharova,Rumba,1
+BC,0,2,Final,James Chen,Jessica Jiang,16,2,2, Amateur Pre-Teen Silver Latin  (CSR),Sample,2,ons082,40273020,100,Lynn Offutt,Rumba,1
+WA,0,1,Final,Erik Linder,Rickie Taylor,11,1,1, Amateur Pre-Teen Silver Latin  (CSR),Sample,2,ons082,40273020,112,Roland Michtchenko,Rumba,2
+WA,0,2,Final,Erik Linder,Rickie Taylor,14,1,2, Amateur Pre-Teen Silver Latin  (CSR),Sample,2,ons082,40273020,112,Yelena Zakharova,Rumba,2
+WA,0,1,Final,Erik Linder,Rickie Taylor,16,1,1, Amateur Pre-Teen Silver Latin  (CSR),Sample,2,ons082,40273020,112,Lynn Offutt,Rumba,2
+WA,0,1,Final,JAMES DRUZDZEL,LEILANI NAKAGAWA,11,1,1, Amateur Adult Silver Latin  (CSR),Sample,0,ons082,40423020,104,Roland Michtchenko,Cha Cha,1
+WA,0,1,Final,JAMES DRUZDZEL,LEILANI NAKAGAWA,14,1,1, Amateur Adult Silver Latin  (CSR),Sample,0,ons082,40423020,104,Yelena Zakharova,Cha Cha,1
+WA,0,1,Final,JAMES DRUZDZEL,LEILANI NAKAGAWA,16,1,1, Amateur Adult Silver Latin  (CSR),Sample,0,ons082,40423020,104,Lynn Offutt,Cha Cha,1
+WA,0,1,Final,JAMES DRUZDZEL,LEILANI NAKAGAWA,11,1,1, Amateur Adult Silver Latin  (CSR),Sample,1,ons082,40423020,104,Roland Michtchenko,Samba,1
+WA,0,1,Final,JAMES DRUZDZEL,LEILANI NAKAGAWA,14,1,1, Amateur Adult Silver Latin  (CSR),Sample,1,ons082,40423020,104,Yelena Zakharova,Samba,1
+WA,0,1,Final,JAMES DRUZDZEL,LEILANI NAKAGAWA,16,1,1, Amateur Adult Silver Latin  (CSR),Sample,1,ons082,40423020,104,Lynn Offutt,Samba,1
+WA,0,1,Final,JAMES DRUZDZEL,LEILANI NAKAGAWA,11,1,1, Amateur Adult Silver Latin  (CSR),Sample,2,ons082,40423020,104,Roland Michtchenko,Rumba,1
+WA,0,1,Final,JAMES DRUZDZEL,LEILANI NAKAGAWA,14,1,1, Amateur Adult Silver Latin  (CSR),Sample,2,ons082,40423020,104,Yelena Zakharova,Rumba,1
+WA,0,1,Final,JAMES DRUZDZEL,LEILANI NAKAGAWA,16,1,1, Amateur Adult Silver Latin  (CSR),Sample,2,ons082,40423020,104,Lynn Offutt,Rumba,1
+B.C.,0,1,Final,Paul Dinh,Scarlett Liaifer,11,1,1, Amateur Junior Gold Latin  (CSRJ),Sample,0,ons082,402C3820,103,Roland Michtchenko,Cha Cha,1
+B.C.,0,2,Final,Paul Dinh,Scarlett Liaifer,14,1,2, Amateur Junior Gold Latin  (CSRJ),Sample,0,ons082,402C3820,103,Yelena Zakharova,Cha Cha,1
+B.C.,0,1,Final,Paul Dinh,Scarlett Liaifer,16,1,1, Amateur Junior Gold Latin  (CSRJ),Sample,0,ons082,402C3820,103,Lynn Offutt,Cha Cha,1
+WA,0,3,Final,Paul Stovall,Leah Garakanidze,11,2,3, Amateur Junior Gold Latin  (CSRJ),Sample,0,ons082,402C3820,124,Roland Michtchenko,Cha Cha,2
+WA,0,1,Final,Paul Stovall,Leah Garakanidze,14,2,1, Amateur Junior Gold Latin  (CSRJ),Sample,0,ons082,402C3820,124,Yelena Zakharova,Cha Cha,2
+WA,0,7,Final,Paul Stovall,Leah Garakanidze,16,2,7, Amateur Junior Gold Latin  (CSRJ),Sample,0,ons082,402C3820,124,Lynn Offutt,Cha Cha,2
+WA,0,2,Final,Danylo Kurgan,Nicole Garakanidze,11,3,2, Amateur Junior Gold Latin  (CSRJ),Sample,0,ons082,402C3820,109,Roland Michtchenko,Cha Cha,3
+WA,0,4,Final,Danylo Kurgan,Nicole Garakanidze,14,3,4, Amateur Junior Gold Latin  (CSRJ),Sample,0,ons082,402C3820,109,Yelena Zakharova,Cha Cha,3
+WA,0,4,Final,Danylo Kurgan,Nicole Garakanidze,16,3,4, Amateur Junior Gold Latin  (CSRJ),Sample,0,ons082,402C3820,109,Lynn Offutt,Cha Cha,3
+WA,0,6,Final,Max Levin,Margo Stepanyants,11,6,6, Amateur Junior Gold Latin  (CSRJ),Sample,0,ons082,402C3820,111,Roland Michtchenko,Cha Cha,4
+WA,0,6,Final,Max Levin,Margo Stepanyants,14,6,6, Amateur Junior Gold Latin  (CSRJ),Sample,0,ons082,402C3820,111,Yelena Zakharova,Cha Cha,4
+WA,0,2,Final,Max Levin,Margo Stepanyants,16,6,2, Amateur Junior Gold Latin  (CSRJ),Sample,0,ons082,402C3820,111,Lynn Offutt,Cha Cha,4
+BC,0,7,Final,James Chen,Jessica Jiang,11,7,7, Amateur Junior Gold Latin  (CSRJ),Sample,0,ons082,402C3820,100,Roland Michtchenko,Cha Cha,5
+BC,0,7,Final,James Chen,Jessica Jiang,14,7,7, Amateur Junior Gold Latin  (CSRJ),Sample,0,ons082,402C3820,100,Yelena Zakharova,Cha Cha,5
+BC,0,3,Final,James Chen,Jessica Jiang,16,7,3, Amateur Junior Gold Latin  (CSRJ),Sample,0,ons082,402C3820,100,Lynn Offutt,Cha Cha,5
+WA,0,4,Final,Erik Linder,Rickie Taylor,11,4,4, Amateur Junior Gold Latin  (CSRJ),Sample,0,ons082,402C3820,112,Roland Michtchenko,Cha Cha,6
+WA,0,3,Final,Erik Linder,Rickie Taylor,14,4,3, Amateur Junior Gold Latin  (CSRJ),Sample,0,ons082,402C3820,112,Yelena Zakharova,Cha Cha,6
+WA,0,5,Final,Erik Linder,Rickie Taylor,16,4,5, Amateur Junior Gold Latin  (CSRJ),Sample,0,ons082,402C3820,112,Lynn Offutt,Cha Cha,6
+WA,0,5,Final,David Porter,Maria Bessonova,11,5,5, Amateur Junior Gold Latin  (CSRJ),Sample,0,ons082,402C3820,115,Roland Michtchenko,Cha Cha,7
+WA,0,5,Final,David Porter,Maria Bessonova,14,5,5, Amateur Junior Gold Latin  (CSRJ),Sample,0,ons082,402C3820,115,Yelena Zakharova,Cha Cha,7
+WA,0,6,Final,David Porter,Maria Bessonova,16,5,6, Amateur Junior Gold Latin  (CSRJ),Sample,0,ons082,402C3820,115,Lynn Offutt,Cha Cha,7
+B.C.,0,1,Final,Paul Dinh,Scarlett Liaifer,11,1,1, Amateur Junior Gold Latin  (CSRJ),Sample,1,ons082,402C3820,103,Roland Michtchenko,Samba,1
+B.C.,0,3,Final,Paul Dinh,Scarlett Liaifer,14,1,3, Amateur Junior Gold Latin  (CSRJ),Sample,1,ons082,402C3820,103,Yelena Zakharova,Samba,1
+B.C.,0,1,Final,Paul Dinh,Scarlett Liaifer,16,1,1, Amateur Junior Gold Latin  (CSRJ),Sample,1,ons082,402C3820,103,Lynn Offutt,Samba,1
+WA,0,3,Final,Paul Stovall,Leah Garakanidze,11,2,3, Amateur Junior Gold Latin  (CSRJ),Sample,1,ons082,402C3820,124,Roland Michtchenko,Samba,2
+WA,0,1,Final,Paul Stovall,Leah Garakanidze,14,2,1, Amateur Junior Gold Latin  (CSRJ),Sample,1,ons082,402C3820,124,Yelena Zakharova,Samba,2
+WA,0,2,Final,Paul Stovall,Leah Garakanidze,16,2,2, Amateur Junior Gold Latin  (CSRJ),Sample,1,ons082,402C3820,124,Lynn Offutt,Samba,2
+WA,0,4,Final,Danylo Kurgan,Nicole Garakanidze,11,3,4, Amateur Junior Gold Latin  (CSRJ),Sample,1,ons082,402C3820,109,Roland Michtchenko,Samba,3
+WA,0,2,Final,Danylo Kurgan,Nicole Garakanidze,14,3,2, Amateur Junior Gold Latin  (CSRJ),Sample,1,ons082,402C3820,109,Yelena Zakharova,Samba,3
+WA,0,4,Final,Danylo Kurgan,Nicole Garakanidze,16,3,4, Amateur Junior Gold Latin  (CSRJ),Sample,1,ons082,402C3820,109,Lynn Offutt,Samba,3
+WA,0,7,Final,Max Levin,Margo Stepanyants,11,4,7, Amateur Junior Gold Latin  (CSRJ),Sample,1,ons082,402C3820,111,Roland Michtchenko,Samba,4
+WA,0,4,Final,Max Levin,Margo Stepanyants,14,4,4, Amateur Junior Gold Latin  (CSRJ),Sample,1,ons082,402C3820,111,Yelena Zakharova,Samba,4
+WA,0,3,Final,Max Levin,Margo Stepanyants,16,4,3, Amateur Junior Gold Latin  (CSRJ),Sample,1,ons082,402C3820,111,Lynn Offutt,Samba,4
+BC,0,2,Final,James Chen,Jessica Jiang,11,5,2, Amateur Junior Gold Latin  (CSRJ),Sample,1,ons082,402C3820,100,Roland Michtchenko,Samba,5
+BC,0,7,Final,James Chen,Jessica Jiang,14,5,7, Amateur Junior Gold Latin  (CSRJ),Sample,1,ons082,402C3820,100,Yelena Zakharova,Samba,5
+BC,0,5,Final,James Chen,Jessica Jiang,16,5,5, Amateur Junior Gold Latin  (CSRJ),Sample,1,ons082,402C3820,100,Lynn Offutt,Samba,5
+WA,0,5,Final,Erik Linder,Rickie Taylor,11,6,5, Amateur Junior Gold Latin  (CSRJ),Sample,1,ons082,402C3820,112,Roland Michtchenko,Samba,6
+WA,0,5,Final,Erik Linder,Rickie Taylor,14,6,5, Amateur Junior Gold Latin  (CSRJ),Sample,1,ons082,402C3820,112,Yelena Zakharova,Samba,6
+WA,0,6,Final,Erik Linder,Rickie Taylor,16,6,6, Amateur Junior Gold Latin  (CSRJ),Sample,1,ons082,402C3820,112,Lynn Offutt,Samba,6
+WA,0,6,Final,David Porter,Maria Bessonova,11,7,6, Amateur Junior Gold Latin  (CSRJ),Sample,1,ons082,402C3820,115,Roland Michtchenko,Samba,7
+WA,0,6,Final,David Porter,Maria Bessonova,14,7,6, Amateur Junior Gold Latin  (CSRJ),Sample,1,ons082,402C3820,115,Yelena Zakharova,Samba,7
+WA,0,7,Final,David Porter,Maria Bessonova,16,7,7, Amateur Junior Gold Latin  (CSRJ),Sample,1,ons082,402C3820,115,Lynn Offutt,Samba,7
+B.C.,0,1,Final,Paul Dinh,Scarlett Liaifer,11,1,1, Amateur Junior Gold Latin  (CSRJ),Sample,2,ons082,402C3820,103,Roland Michtchenko,Rumba,1
+B.C.,0,2,Final,Paul Dinh,Scarlett Liaifer,14,1,2, Amateur Junior Gold Latin  (CSRJ),Sample,2,ons082,402C3820,103,Yelena Zakharova,Rumba,1
+B.C.,0,1,Final,Paul Dinh,Scarlett Liaifer,16,1,1, Amateur Junior Gold Latin  (CSRJ),Sample,2,ons082,402C3820,103,Lynn Offutt,Rumba,1
+WA,0,3,Final,Paul Stovall,Leah Garakanidze,11,2,3, Amateur Junior Gold Latin  (CSRJ),Sample,2,ons082,402C3820,124,Roland Michtchenko,Rumba,2
+WA,0,1,Final,Paul Stovall,Leah Garakanidze,14,2,1, Amateur Junior Gold Latin  (CSRJ),Sample,2,ons082,402C3820,124,Yelena Zakharova,Rumba,2
+WA,0,4,Final,Paul Stovall,Leah Garakanidze,16,2,4, Amateur Junior Gold Latin  (CSRJ),Sample,2,ons082,402C3820,124,Lynn Offutt,Rumba,2
+WA,0,4,Final,Danylo Kurgan,Nicole Garakanidze,11,4,4, Amateur Junior Gold Latin  (CSRJ),Sample,2,ons082,402C3820,109,Roland Michtchenko,Rumba,3
+WA,0,3,Final,Danylo Kurgan,Nicole Garakanidze,14,4,3, Amateur Junior Gold Latin  (CSRJ),Sample,2,ons082,402C3820,109,Yelena Zakharova,Rumba,3
+WA,0,5,Final,Danylo Kurgan,Nicole Garakanidze,16,4,5, Amateur Junior Gold Latin  (CSRJ),Sample,2,ons082,402C3820,109,Lynn Offutt,Rumba,3
+WA,0,7,Final,Max Levin,Margo Stepanyants,11,6,7, Amateur Junior Gold Latin  (CSRJ),Sample,2,ons082,402C3820,111,Roland Michtchenko,Rumba,4
+WA,0,6,Final,Max Levin,Margo Stepanyants,14,6,6, Amateur Junior Gold Latin  (CSRJ),Sample,2,ons082,402C3820,111,Yelena Zakharova,Rumba,4
+WA,0,2,Final,Max Levin,Margo Stepanyants,16,6,2, Amateur Junior Gold Latin  (CSRJ),Sample,2,ons082,402C3820,111,Lynn Offutt,Rumba,4
+BC,0,2,Final,James Chen,Jessica Jiang,11,3,2, Amateur Junior Gold Latin  (CSRJ),Sample,2,ons082,402C3820,100,Roland Michtchenko,Rumba,5
+BC,0,7,Final,James Chen,Jessica Jiang,14,3,7, Amateur Junior Gold Latin  (CSRJ),Sample,2,ons082,402C3820,100,Yelena Zakharova,Rumba,5
+BC,0,3,Final,James Chen,Jessica Jiang,16,3,3, Amateur Junior Gold Latin  (CSRJ),Sample,2,ons082,402C3820,100,Lynn Offutt,Rumba,5
+WA,0,5,Final,Erik Linder,Rickie Taylor,11,5,5, Amateur Junior Gold Latin  (CSRJ),Sample,2,ons082,402C3820,112,Roland Michtchenko,Rumba,6
+WA,0,4,Final,Erik Linder,Rickie Taylor,14,5,4, Amateur Junior Gold Latin  (CSRJ),Sample,2,ons082,402C3820,112,Yelena Zakharova,Rumba,6
+WA,0,6,Final,Erik Linder,Rickie Taylor,16,5,6, Amateur Junior Gold Latin  (CSRJ),Sample,2,ons082,402C3820,112,Lynn Offutt,Rumba,6
+WA,0,6,Final,David Porter,Maria Bessonova,11,7,6, Amateur Junior Gold Latin  (CSRJ),Sample,2,ons082,402C3820,115,Roland Michtchenko,Rumba,7
+WA,0,5,Final,David Porter,Maria Bessonova,14,7,5, Amateur Junior Gold Latin  (CSRJ),Sample,2,ons082,402C3820,115,Yelena Zakharova,Rumba,7
+WA,0,7,Final,David Porter,Maria Bessonova,16,7,7, Amateur Junior Gold Latin  (CSRJ),Sample,2,ons082,402C3820,115,Lynn Offutt,Rumba,7
+B.C.,0,1,Final,Paul Dinh,Scarlett Liaifer,11,1,1, Amateur Junior Gold Latin  (CSRJ),Sample,3,ons082,402C3820,103,Roland Michtchenko,Jive,1
+B.C.,0,2,Final,Paul Dinh,Scarlett Liaifer,14,1,2, Amateur Junior Gold Latin  (CSRJ),Sample,3,ons082,402C3820,103,Yelena Zakharova,Jive,1
+B.C.,0,1,Final,Paul Dinh,Scarlett Liaifer,16,1,1, Amateur Junior Gold Latin  (CSRJ),Sample,3,ons082,402C3820,103,Lynn Offutt,Jive,1
+WA,0,5,Final,Paul Stovall,Leah Garakanidze,11,4,5, Amateur Junior Gold Latin  (CSRJ),Sample,3,ons082,402C3820,124,Roland Michtchenko,Jive,2
+WA,0,1,Final,Paul Stovall,Leah Garakanidze,14,4,1, Amateur Junior Gold Latin  (CSRJ),Sample,3,ons082,402C3820,124,Yelena Zakharova,Jive,2
+WA,0,4,Final,Paul Stovall,Leah Garakanidze,16,4,4, Amateur Junior Gold Latin  (CSRJ),Sample,3,ons082,402C3820,124,Lynn Offutt,Jive,2
+WA,0,2,Final,Danylo Kurgan,Nicole Garakanidze,11,3,2, Amateur Junior Gold Latin  (CSRJ),Sample,3,ons082,402C3820,109,Roland Michtchenko,Jive,3
+WA,0,3,Final,Danylo Kurgan,Nicole Garakanidze,14,3,3, Amateur Junior Gold Latin  (CSRJ),Sample,3,ons082,402C3820,109,Yelena Zakharova,Jive,3
+WA,0,6,Final,Danylo Kurgan,Nicole Garakanidze,16,3,6, Amateur Junior Gold Latin  (CSRJ),Sample,3,ons082,402C3820,109,Lynn Offutt,Jive,3
+WA,0,3,Final,Max Levin,Margo Stepanyants,11,2,3, Amateur Junior Gold Latin  (CSRJ),Sample,3,ons082,402C3820,111,Roland Michtchenko,Jive,4
+WA,0,4,Final,Max Levin,Margo Stepanyants,14,2,4, Amateur Junior Gold Latin  (CSRJ),Sample,3,ons082,402C3820,111,Yelena Zakharova,Jive,4
+WA,0,2,Final,Max Levin,Margo Stepanyants,16,2,2, Amateur Junior Gold Latin  (CSRJ),Sample,3,ons082,402C3820,111,Lynn Offutt,Jive,4
+BC,0,4,Final,James Chen,Jessica Jiang,11,5,4, Amateur Junior Gold Latin  (CSRJ),Sample,3,ons082,402C3820,100,Roland Michtchenko,Jive,5
+BC,0,7,Final,James Chen,Jessica Jiang,14,5,7, Amateur Junior Gold Latin  (CSRJ),Sample,3,ons082,402C3820,100,Yelena Zakharova,Jive,5
+BC,0,3,Final,James Chen,Jessica Jiang,16,5,3, Amateur Junior Gold Latin  (CSRJ),Sample,3,ons082,402C3820,100,Lynn Offutt,Jive,5
+WA,0,7,Final,Erik Linder,Rickie Taylor,11,6,7, Amateur Junior Gold Latin  (CSRJ),Sample,3,ons082,402C3820,112,Roland Michtchenko,Jive,6
+WA,0,5,Final,Erik Linder,Rickie Taylor,14,6,5, Amateur Junior Gold Latin  (CSRJ),Sample,3,ons082,402C3820,112,Yelena Zakharova,Jive,6
+WA,0,5,Final,Erik Linder,Rickie Taylor,16,6,5, Amateur Junior Gold Latin  (CSRJ),Sample,3,ons082,402C3820,112,Lynn Offutt,Jive,6
+WA,0,6,Final,David Porter,Maria Bessonova,11,7,6, Amateur Junior Gold Latin  (CSRJ),Sample,3,ons082,402C3820,115,Roland Michtchenko,Jive,7
+WA,0,6,Final,David Porter,Maria Bessonova,14,7,6, Amateur Junior Gold Latin  (CSRJ),Sample,3,ons082,402C3820,115,Yelena Zakharova,Jive,7
+WA,0,7,Final,David Porter,Maria Bessonova,16,7,7, Amateur Junior Gold Latin  (CSRJ),Sample,3,ons082,402C3820,115,Lynn Offutt,Jive,7
+WA,0,1,Final,Daryl Schmidt,Michele Boyer,11,1,1, Amateur Adult Championship Smooth  (WTFV),Sample,0,ons082,40428730,120,Roland Michtchenko,Waltz,1
+WA,0,1,Final,Daryl Schmidt,Michele Boyer,14,1,1, Amateur Adult Championship Smooth  (WTFV),Sample,0,ons082,40428730,120,Yelena Zakharova,Waltz,1
+WA,0,1,Final,Daryl Schmidt,Michele Boyer,16,1,1, Amateur Adult Championship Smooth  (WTFV),Sample,0,ons082,40428730,120,Lynn Offutt,Waltz,1
+WA,0,1,Final,Daryl Schmidt,Michele Boyer,11,1,1, Amateur Adult Championship Smooth  (WTFV),Sample,1,ons082,40428730,120,Roland Michtchenko,Tango,1
+WA,0,1,Final,Daryl Schmidt,Michele Boyer,14,1,1, Amateur Adult Championship Smooth  (WTFV),Sample,1,ons082,40428730,120,Yelena Zakharova,Tango,1
+WA,0,1,Final,Daryl Schmidt,Michele Boyer,16,1,1, Amateur Adult Championship Smooth  (WTFV),Sample,1,ons082,40428730,120,Lynn Offutt,Tango,1
+WA,0,1,Final,Daryl Schmidt,Michele Boyer,11,1,1, Amateur Adult Championship Smooth  (WTFV),Sample,2,ons082,40428730,120,Roland Michtchenko,Foxtrot,1
+WA,0,1,Final,Daryl Schmidt,Michele Boyer,14,1,1, Amateur Adult Championship Smooth  (WTFV),Sample,2,ons082,40428730,120,Yelena Zakharova,Foxtrot,1
+WA,0,1,Final,Daryl Schmidt,Michele Boyer,16,1,1, Amateur Adult Championship Smooth  (WTFV),Sample,2,ons082,40428730,120,Lynn Offutt,Foxtrot,1
+WA,0,1,Final,Daryl Schmidt,Michele Boyer,11,1,1, Amateur Adult Championship Smooth  (WTFV),Sample,3,ons082,40428730,120,Roland Michtchenko,Viennese Waltz,1
+WA,0,1,Final,Daryl Schmidt,Michele Boyer,14,1,1, Amateur Adult Championship Smooth  (WTFV),Sample,3,ons082,40428730,120,Yelena Zakharova,Viennese Waltz,1
+WA,0,1,Final,Daryl Schmidt,Michele Boyer,16,1,1, Amateur Adult Championship Smooth  (WTFV),Sample,3,ons082,40428730,120,Lynn Offutt,Viennese Waltz,1
+BC,0,1,Final,George Pytlik,Wendy Pytlik,11,1,1, Amateur Senior I Championship Latin  (CSRPJ),Sample,0,ons082,40438720,117,Roland Michtchenko,Cha Cha,1
+BC,0,1,Final,George Pytlik,Wendy Pytlik,14,1,1, Amateur Senior I Championship Latin  (CSRPJ),Sample,0,ons082,40438720,117,Yelena Zakharova,Cha Cha,1
+BC,0,1,Final,George Pytlik,Wendy Pytlik,16,1,1, Amateur Senior I Championship Latin  (CSRPJ),Sample,0,ons082,40438720,117,Lynn Offutt,Cha Cha,1
+BC,0,1,Final,George Pytlik,Wendy Pytlik,11,1,1, Amateur Senior I Championship Latin  (CSRPJ),Sample,1,ons082,40438720,117,Roland Michtchenko,Samba,1
+BC,0,1,Final,George Pytlik,Wendy Pytlik,14,1,1, Amateur Senior I Championship Latin  (CSRPJ),Sample,1,ons082,40438720,117,Yelena Zakharova,Samba,1
+BC,0,1,Final,George Pytlik,Wendy Pytlik,16,1,1, Amateur Senior I Championship Latin  (CSRPJ),Sample,1,ons082,40438720,117,Lynn Offutt,Samba,1
+BC,0,1,Final,George Pytlik,Wendy Pytlik,11,1,1, Amateur Senior I Championship Latin  (CSRPJ),Sample,2,ons082,40438720,117,Roland Michtchenko,Rumba,1
+BC,0,1,Final,George Pytlik,Wendy Pytlik,14,1,1, Amateur Senior I Championship Latin  (CSRPJ),Sample,2,ons082,40438720,117,Yelena Zakharova,Rumba,1
+BC,0,1,Final,George Pytlik,Wendy Pytlik,16,1,1, Amateur Senior I Championship Latin  (CSRPJ),Sample,2,ons082,40438720,117,Lynn Offutt,Rumba,1
+BC,0,1,Final,George Pytlik,Wendy Pytlik,11,1,1, Amateur Senior I Championship Latin  (CSRPJ),Sample,3,ons082,40438720,117,Roland Michtchenko,Paso Doble,1
+BC,0,1,Final,George Pytlik,Wendy Pytlik,14,1,1, Amateur Senior I Championship Latin  (CSRPJ),Sample,3,ons082,40438720,117,Yelena Zakharova,Paso Doble,1
+BC,0,1,Final,George Pytlik,Wendy Pytlik,16,1,1, Amateur Senior I Championship Latin  (CSRPJ),Sample,3,ons082,40438720,117,Lynn Offutt,Paso Doble,1
+BC,0,1,Final,George Pytlik,Wendy Pytlik,11,1,1, Amateur Senior I Championship Latin  (CSRPJ),Sample,4,ons082,40438720,117,Roland Michtchenko,Jive,1
+BC,0,1,Final,George Pytlik,Wendy Pytlik,14,1,1, Amateur Senior I Championship Latin  (CSRPJ),Sample,4,ons082,40438720,117,Yelena Zakharova,Jive,1
+BC,0,1,Final,George Pytlik,Wendy Pytlik,16,1,1, Amateur Senior I Championship Latin  (CSRPJ),Sample,4,ons082,40438720,117,Lynn Offutt,Jive,1
+Wa,0,1,Final,Teleryck Ianakiev,Mariya Starichenok,11,1,1, Amateur Youth Championship Latin  (CSRPJ),Sample,0,ons082,402F8720,108,Roland Michtchenko,Cha Cha,1
+Wa,0,1,Final,Teleryck Ianakiev,Mariya Starichenok,14,1,1, Amateur Youth Championship Latin  (CSRPJ),Sample,0,ons082,402F8720,108,Yelena Zakharova,Cha Cha,1
+Wa,0,1,Final,Teleryck Ianakiev,Mariya Starichenok,16,1,1, Amateur Youth Championship Latin  (CSRPJ),Sample,0,ons082,402F8720,108,Lynn Offutt,Cha Cha,1
+Wa,0,1,Final,Teleryck Ianakiev,Mariya Starichenok,11,1,1, Amateur Youth Championship Latin  (CSRPJ),Sample,1,ons082,402F8720,108,Roland Michtchenko,Samba,1
+Wa,0,1,Final,Teleryck Ianakiev,Mariya Starichenok,14,1,1, Amateur Youth Championship Latin  (CSRPJ),Sample,1,ons082,402F8720,108,Yelena Zakharova,Samba,1
+Wa,0,1,Final,Teleryck Ianakiev,Mariya Starichenok,16,1,1, Amateur Youth Championship Latin  (CSRPJ),Sample,1,ons082,402F8720,108,Lynn Offutt,Samba,1
+Wa,0,1,Final,Teleryck Ianakiev,Mariya Starichenok,11,1,1, Amateur Youth Championship Latin  (CSRPJ),Sample,2,ons082,402F8720,108,Roland Michtchenko,Rumba,1
+Wa,0,1,Final,Teleryck Ianakiev,Mariya Starichenok,14,1,1, Amateur Youth Championship Latin  (CSRPJ),Sample,2,ons082,402F8720,108,Yelena Zakharova,Rumba,1
+Wa,0,1,Final,Teleryck Ianakiev,Mariya Starichenok,16,1,1, Amateur Youth Championship Latin  (CSRPJ),Sample,2,ons082,402F8720,108,Lynn Offutt,Rumba,1
+Wa,0,1,Final,Teleryck Ianakiev,Mariya Starichenok,11,1,1, Amateur Youth Championship Latin  (CSRPJ),Sample,3,ons082,402F8720,108,Roland Michtchenko,Paso Doble,1
+Wa,0,1,Final,Teleryck Ianakiev,Mariya Starichenok,14,1,1, Amateur Youth Championship Latin  (CSRPJ),Sample,3,ons082,402F8720,108,Yelena Zakharova,Paso Doble,1
+Wa,0,1,Final,Teleryck Ianakiev,Mariya Starichenok,16,1,1, Amateur Youth Championship Latin  (CSRPJ),Sample,3,ons082,402F8720,108,Lynn Offutt,Paso Doble,1
+Wa,0,1,Final,Teleryck Ianakiev,Mariya Starichenok,11,1,1, Amateur Youth Championship Latin  (CSRPJ),Sample,4,ons082,402F8720,108,Roland Michtchenko,Jive,1
+Wa,0,1,Final,Teleryck Ianakiev,Mariya Starichenok,14,1,1, Amateur Youth Championship Latin  (CSRPJ),Sample,4,ons082,402F8720,108,Yelena Zakharova,Jive,1
+Wa,0,1,Final,Teleryck Ianakiev,Mariya Starichenok,16,1,1, Amateur Youth Championship Latin  (CSRPJ),Sample,4,ons082,402F8720,108,Lynn Offutt,Jive,1

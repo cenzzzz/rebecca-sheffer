@@ -1,0 +1,454 @@
+couple_location,round_id,mark,round_name,lead_name,follow_name,judge,result,value,heat_name,comp_name,dance_id,comp_id,heat_id,couple,judge_name,dance_name,final_result
+,0,1,Final,Eric Hayden,Laura Madison,10,1,1, Amateur Pre-Teen Newcomer Standard  (W),Sample,0,rcb08,40272010,105,Anya Klimova-Preston,Waltz,1
+,0,1,Final,Eric Hayden,Laura Madison,11,1,1, Amateur Pre-Teen Newcomer Standard  (W),Sample,0,rcb08,40272010,105,Peter Mant,Waltz,1
+,0,1,Final,Eric Hayden,Laura Madison,13,1,1, Amateur Pre-Teen Newcomer Standard  (W),Sample,0,rcb08,40272010,105,Dave Watson,Waltz,1
+OR,0,3,Final,Alexander Selchow,Anna Selchow,10,2,3, Amateur Pre-Teen Newcomer Standard  (W),Sample,0,rcb08,40272010,112,Anya Klimova-Preston,Waltz,2
+OR,0,2,Final,Alexander Selchow,Anna Selchow,11,2,2, Amateur Pre-Teen Newcomer Standard  (W),Sample,0,rcb08,40272010,112,Peter Mant,Waltz,2
+OR,0,2,Final,Alexander Selchow,Anna Selchow,13,2,2, Amateur Pre-Teen Newcomer Standard  (W),Sample,0,rcb08,40272010,112,Dave Watson,Waltz,2
+Oregon,0,2,Final,Kyle Sosa,Emilia Wolf,10,3,2, Amateur Pre-Teen Newcomer Standard  (W),Sample,0,rcb08,40272010,115,Anya Klimova-Preston,Waltz,3
+Oregon,0,3,Final,Kyle Sosa,Emilia Wolf,11,3,3, Amateur Pre-Teen Newcomer Standard  (W),Sample,0,rcb08,40272010,115,Peter Mant,Waltz,3
+Oregon,0,3,Final,Kyle Sosa,Emilia Wolf,13,3,3, Amateur Pre-Teen Newcomer Standard  (W),Sample,0,rcb08,40272010,115,Dave Watson,Waltz,3
+Oregon,0,1,Final,Chad Crader,Tonya Pevzner,10,1,1, Amateur Junior Newcomer Standard  (W),Sample,0,rcb08,402C2010,118,Anya Klimova-Preston,Waltz,1
+Oregon,0,1,Final,Chad Crader,Tonya Pevzner,11,1,1, Amateur Junior Newcomer Standard  (W),Sample,0,rcb08,402C2010,118,Peter Mant,Waltz,1
+Oregon,0,1,Final,Chad Crader,Tonya Pevzner,13,1,1, Amateur Junior Newcomer Standard  (W),Sample,0,rcb08,402C2010,118,Dave Watson,Waltz,1
+,0,1,Final,Eric Hayden,Laura Madison,10,1,1, Amateur Pre-Teen Bronze Standard  (WQ),Sample,0,rcb08,40272810,105,Anya Klimova-Preston,Waltz,1
+,0,1,Final,Eric Hayden,Laura Madison,11,1,1, Amateur Pre-Teen Bronze Standard  (WQ),Sample,0,rcb08,40272810,105,Peter Mant,Waltz,1
+,0,1,Final,Eric Hayden,Laura Madison,13,1,1, Amateur Pre-Teen Bronze Standard  (WQ),Sample,0,rcb08,40272810,105,Dave Watson,Waltz,1
+OR,0,3,Final,Alexander Selchow,Anna Selchow,10,3,3, Amateur Pre-Teen Bronze Standard  (WQ),Sample,0,rcb08,40272810,112,Anya Klimova-Preston,Waltz,2
+OR,0,2,Final,Alexander Selchow,Anna Selchow,11,3,2, Amateur Pre-Teen Bronze Standard  (WQ),Sample,0,rcb08,40272810,112,Peter Mant,Waltz,2
+OR,0,3,Final,Alexander Selchow,Anna Selchow,13,3,3, Amateur Pre-Teen Bronze Standard  (WQ),Sample,0,rcb08,40272810,112,Dave Watson,Waltz,2
+Oregon,0,2,Final,Kyle Sosa,Emilia Wolf,10,2,2, Amateur Pre-Teen Bronze Standard  (WQ),Sample,0,rcb08,40272810,115,Anya Klimova-Preston,Waltz,3
+Oregon,0,3,Final,Kyle Sosa,Emilia Wolf,11,2,3, Amateur Pre-Teen Bronze Standard  (WQ),Sample,0,rcb08,40272810,115,Peter Mant,Waltz,3
+Oregon,0,2,Final,Kyle Sosa,Emilia Wolf,13,2,2, Amateur Pre-Teen Bronze Standard  (WQ),Sample,0,rcb08,40272810,115,Dave Watson,Waltz,3
+,0,1,Final,Eric Hayden,Laura Madison,10,1,1, Amateur Pre-Teen Bronze Standard  (WQ),Sample,1,rcb08,40272810,105,Anya Klimova-Preston,Quickstep,1
+,0,1,Final,Eric Hayden,Laura Madison,11,1,1, Amateur Pre-Teen Bronze Standard  (WQ),Sample,1,rcb08,40272810,105,Peter Mant,Quickstep,1
+,0,1,Final,Eric Hayden,Laura Madison,13,1,1, Amateur Pre-Teen Bronze Standard  (WQ),Sample,1,rcb08,40272810,105,Dave Watson,Quickstep,1
+OR,0,2,Final,Alexander Selchow,Anna Selchow,10,2,2, Amateur Pre-Teen Bronze Standard  (WQ),Sample,1,rcb08,40272810,112,Anya Klimova-Preston,Quickstep,2
+OR,0,3,Final,Alexander Selchow,Anna Selchow,11,2,3, Amateur Pre-Teen Bronze Standard  (WQ),Sample,1,rcb08,40272810,112,Peter Mant,Quickstep,2
+OR,0,2,Final,Alexander Selchow,Anna Selchow,13,2,2, Amateur Pre-Teen Bronze Standard  (WQ),Sample,1,rcb08,40272810,112,Dave Watson,Quickstep,2
+Oregon,0,3,Final,Kyle Sosa,Emilia Wolf,10,3,3, Amateur Pre-Teen Bronze Standard  (WQ),Sample,1,rcb08,40272810,115,Anya Klimova-Preston,Quickstep,3
+Oregon,0,2,Final,Kyle Sosa,Emilia Wolf,11,3,2, Amateur Pre-Teen Bronze Standard  (WQ),Sample,1,rcb08,40272810,115,Peter Mant,Quickstep,3
+Oregon,0,3,Final,Kyle Sosa,Emilia Wolf,13,3,3, Amateur Pre-Teen Bronze Standard  (WQ),Sample,1,rcb08,40272810,115,Dave Watson,Quickstep,3
+oregon,0,1,Final,Cody Scharzenberger,Stormy Scharzenberger,10,1,1, Amateur Junior Bronze Standard  (WQ),Sample,0,rcb08,402C2810,111,Anya Klimova-Preston,Waltz,1
+oregon,0,1,Final,Cody Scharzenberger,Stormy Scharzenberger,11,1,1, Amateur Junior Bronze Standard  (WQ),Sample,0,rcb08,402C2810,111,Peter Mant,Waltz,1
+oregon,0,1,Final,Cody Scharzenberger,Stormy Scharzenberger,13,1,1, Amateur Junior Bronze Standard  (WQ),Sample,0,rcb08,402C2810,111,Dave Watson,Waltz,1
+oregon,0,1,Final,Cody Scharzenberger,Stormy Scharzenberger,10,1,1, Amateur Junior Bronze Standard  (WQ),Sample,1,rcb08,402C2810,111,Anya Klimova-Preston,Quickstep,1
+oregon,0,1,Final,Cody Scharzenberger,Stormy Scharzenberger,11,1,1, Amateur Junior Bronze Standard  (WQ),Sample,1,rcb08,402C2810,111,Peter Mant,Quickstep,1
+oregon,0,1,Final,Cody Scharzenberger,Stormy Scharzenberger,13,1,1, Amateur Junior Bronze Standard  (WQ),Sample,1,rcb08,402C2810,111,Dave Watson,Quickstep,1
+Wa,0,2,Final,Evan Biggs,Carla Titus,10,1,2, Amateur Adult Bronze Standard  (WQ),Sample,0,rcb08,40422810,100,Anya Klimova-Preston,Waltz,1
+Wa,0,2,Final,Evan Biggs,Carla Titus,11,1,2, Amateur Adult Bronze Standard  (WQ),Sample,0,rcb08,40422810,100,Peter Mant,Waltz,1
+Wa,0,1,Final,Evan Biggs,Carla Titus,13,1,1, Amateur Adult Bronze Standard  (WQ),Sample,0,rcb08,40422810,100,Dave Watson,Waltz,1
+Or,0,1,Final,Brice Peters,Cassandra Woods,10,2,1, Amateur Adult Bronze Standard  (WQ),Sample,0,rcb08,40422810,109,Anya Klimova-Preston,Waltz,2
+Or,0,4,Final,Brice Peters,Cassandra Woods,11,2,4, Amateur Adult Bronze Standard  (WQ),Sample,0,rcb08,40422810,109,Peter Mant,Waltz,2
+Or,0,2,Final,Brice Peters,Cassandra Woods,13,2,2, Amateur Adult Bronze Standard  (WQ),Sample,0,rcb08,40422810,109,Dave Watson,Waltz,2
+Or,0,3,Final,Jack Lim,Jesse Wong,10,3,3, Amateur Adult Bronze Standard  (WQ),Sample,0,rcb08,40422810,106,Anya Klimova-Preston,Waltz,3
+Or,0,1,Final,Jack Lim,Jesse Wong,11,3,1, Amateur Adult Bronze Standard  (WQ),Sample,0,rcb08,40422810,106,Peter Mant,Waltz,3
+Or,0,4,Final,Jack Lim,Jesse Wong,13,3,4, Amateur Adult Bronze Standard  (WQ),Sample,0,rcb08,40422810,106,Dave Watson,Waltz,3
+Wa,0,4,Final,James Hampton,Sally Wong,10,4,4, Amateur Adult Bronze Standard  (WQ),Sample,0,rcb08,40422810,104,Anya Klimova-Preston,Waltz,4
+Wa,0,3,Final,James Hampton,Sally Wong,11,4,3, Amateur Adult Bronze Standard  (WQ),Sample,0,rcb08,40422810,104,Peter Mant,Waltz,4
+Wa,0,3,Final,James Hampton,Sally Wong,13,4,3, Amateur Adult Bronze Standard  (WQ),Sample,0,rcb08,40422810,104,Dave Watson,Waltz,4
+Wa,0,1,Final,Evan Biggs,Carla Titus,10,1,1, Amateur Adult Bronze Standard  (WQ),Sample,1,rcb08,40422810,100,Anya Klimova-Preston,Quickstep,1
+Wa,0,2,Final,Evan Biggs,Carla Titus,11,1,2, Amateur Adult Bronze Standard  (WQ),Sample,1,rcb08,40422810,100,Peter Mant,Quickstep,1
+Wa,0,1,Final,Evan Biggs,Carla Titus,13,1,1, Amateur Adult Bronze Standard  (WQ),Sample,1,rcb08,40422810,100,Dave Watson,Quickstep,1
+Or,0,2,Final,Brice Peters,Cassandra Woods,10,2,2, Amateur Adult Bronze Standard  (WQ),Sample,1,rcb08,40422810,109,Anya Klimova-Preston,Quickstep,2
+Or,0,4,Final,Brice Peters,Cassandra Woods,11,2,4, Amateur Adult Bronze Standard  (WQ),Sample,1,rcb08,40422810,109,Peter Mant,Quickstep,2
+Or,0,2,Final,Brice Peters,Cassandra Woods,13,2,2, Amateur Adult Bronze Standard  (WQ),Sample,1,rcb08,40422810,109,Dave Watson,Quickstep,2
+Or,0,4,Final,Jack Lim,Jesse Wong,10,3,4, Amateur Adult Bronze Standard  (WQ),Sample,1,rcb08,40422810,106,Anya Klimova-Preston,Quickstep,3
+Or,0,1,Final,Jack Lim,Jesse Wong,11,3,1, Amateur Adult Bronze Standard  (WQ),Sample,1,rcb08,40422810,106,Peter Mant,Quickstep,3
+Or,0,3,Final,Jack Lim,Jesse Wong,13,3,3, Amateur Adult Bronze Standard  (WQ),Sample,1,rcb08,40422810,106,Dave Watson,Quickstep,3
+Wa,0,3,Final,James Hampton,Sally Wong,10,4,3, Amateur Adult Bronze Standard  (WQ),Sample,1,rcb08,40422810,104,Anya Klimova-Preston,Quickstep,4
+Wa,0,3,Final,James Hampton,Sally Wong,11,4,3, Amateur Adult Bronze Standard  (WQ),Sample,1,rcb08,40422810,104,Peter Mant,Quickstep,4
+Wa,0,4,Final,James Hampton,Sally Wong,13,4,4, Amateur Adult Bronze Standard  (WQ),Sample,1,rcb08,40422810,104,Dave Watson,Quickstep,4
+OR,0,2,Final,Jay Gilberg,Mari Schwarts,10,2,2, Amateur Senior II Bronze Standard  (WQ),Sample,0,rcb08,40442810,103,Anya Klimova-Preston,Waltz,1
+OR,0,1,Final,Jay Gilberg,Mari Schwarts,11,2,1, Amateur Senior II Bronze Standard  (WQ),Sample,0,rcb08,40442810,103,Peter Mant,Waltz,1
+OR,0,2,Final,Jay Gilberg,Mari Schwarts,13,2,2, Amateur Senior II Bronze Standard  (WQ),Sample,0,rcb08,40442810,103,Dave Watson,Waltz,1
+Or,0,1,Final,Terrance D. Nicholson,Candance M. Nicholson,10,1,1, Amateur Senior II Bronze Standard  (WQ),Sample,0,rcb08,40442810,108,Anya Klimova-Preston,Waltz,2
+Or,0,2,Final,Terrance D. Nicholson,Candance M. Nicholson,11,1,2, Amateur Senior II Bronze Standard  (WQ),Sample,0,rcb08,40442810,108,Peter Mant,Waltz,2
+Or,0,1,Final,Terrance D. Nicholson,Candance M. Nicholson,13,1,1, Amateur Senior II Bronze Standard  (WQ),Sample,0,rcb08,40442810,108,Dave Watson,Waltz,2
+Or,0,3,Final,Greg Musgrave,Nancy Musgrave,10,3,3, Amateur Senior II Bronze Standard  (WQ),Sample,0,rcb08,40442810,107,Anya Klimova-Preston,Waltz,3
+Or,0,3,Final,Greg Musgrave,Nancy Musgrave,11,3,3, Amateur Senior II Bronze Standard  (WQ),Sample,0,rcb08,40442810,107,Peter Mant,Waltz,3
+Or,0,3,Final,Greg Musgrave,Nancy Musgrave,13,3,3, Amateur Senior II Bronze Standard  (WQ),Sample,0,rcb08,40442810,107,Dave Watson,Waltz,3
+OR,0,1,Final,Jay Gilberg,Mari Schwarts,10,1,1, Amateur Senior II Bronze Standard  (WQ),Sample,1,rcb08,40442810,103,Anya Klimova-Preston,Quickstep,1
+OR,0,1,Final,Jay Gilberg,Mari Schwarts,11,1,1, Amateur Senior II Bronze Standard  (WQ),Sample,1,rcb08,40442810,103,Peter Mant,Quickstep,1
+OR,0,2,Final,Jay Gilberg,Mari Schwarts,13,1,2, Amateur Senior II Bronze Standard  (WQ),Sample,1,rcb08,40442810,103,Dave Watson,Quickstep,1
+Or,0,2,Final,Terrance D. Nicholson,Candance M. Nicholson,10,2,2, Amateur Senior II Bronze Standard  (WQ),Sample,1,rcb08,40442810,108,Anya Klimova-Preston,Quickstep,2
+Or,0,2,Final,Terrance D. Nicholson,Candance M. Nicholson,11,2,2, Amateur Senior II Bronze Standard  (WQ),Sample,1,rcb08,40442810,108,Peter Mant,Quickstep,2
+Or,0,1,Final,Terrance D. Nicholson,Candance M. Nicholson,13,2,1, Amateur Senior II Bronze Standard  (WQ),Sample,1,rcb08,40442810,108,Dave Watson,Quickstep,2
+Or,0,3,Final,Greg Musgrave,Nancy Musgrave,10,3,3, Amateur Senior II Bronze Standard  (WQ),Sample,1,rcb08,40442810,107,Anya Klimova-Preston,Quickstep,3
+Or,0,3,Final,Greg Musgrave,Nancy Musgrave,11,3,3, Amateur Senior II Bronze Standard  (WQ),Sample,1,rcb08,40442810,107,Peter Mant,Quickstep,3
+Or,0,3,Final,Greg Musgrave,Nancy Musgrave,13,3,3, Amateur Senior II Bronze Standard  (WQ),Sample,1,rcb08,40442810,107,Dave Watson,Quickstep,3
+,0,1,Final,Eric Hayden,Laura Madison,10,1,1, Amateur Pre-Teen Newcomer Latin  (C),Sample,0,rcb08,40272020,105,Anya Klimova-Preston,Cha Cha,1
+,0,2,Final,Eric Hayden,Laura Madison,11,1,2, Amateur Pre-Teen Newcomer Latin  (C),Sample,0,rcb08,40272020,105,Peter Mant,Cha Cha,1
+,0,1,Final,Eric Hayden,Laura Madison,13,1,1, Amateur Pre-Teen Newcomer Latin  (C),Sample,0,rcb08,40272020,105,Dave Watson,Cha Cha,1
+OR,0,3,Final,Alexander Selchow,Anna Selchow,10,2,3, Amateur Pre-Teen Newcomer Latin  (C),Sample,0,rcb08,40272020,112,Anya Klimova-Preston,Cha Cha,2
+OR,0,1,Final,Alexander Selchow,Anna Selchow,11,2,1, Amateur Pre-Teen Newcomer Latin  (C),Sample,0,rcb08,40272020,112,Peter Mant,Cha Cha,2
+OR,0,2,Final,Alexander Selchow,Anna Selchow,13,2,2, Amateur Pre-Teen Newcomer Latin  (C),Sample,0,rcb08,40272020,112,Dave Watson,Cha Cha,2
+Oregon,0,2,Final,Kyle Sosa,Emilia Wolf,10,3,2, Amateur Pre-Teen Newcomer Latin  (C),Sample,0,rcb08,40272020,115,Anya Klimova-Preston,Cha Cha,3
+Oregon,0,3,Final,Kyle Sosa,Emilia Wolf,11,3,3, Amateur Pre-Teen Newcomer Latin  (C),Sample,0,rcb08,40272020,115,Peter Mant,Cha Cha,3
+Oregon,0,3,Final,Kyle Sosa,Emilia Wolf,13,3,3, Amateur Pre-Teen Newcomer Latin  (C),Sample,0,rcb08,40272020,115,Dave Watson,Cha Cha,3
+oregon,0,2,Final,Cody Scharzenberger,Stormy Scharzenberger,10,1,2, Amateur Junior Newcomer Latin  (C),Sample,0,rcb08,402C2020,111,Anya Klimova-Preston,Cha Cha,1
+oregon,0,1,Final,Cody Scharzenberger,Stormy Scharzenberger,11,1,1, Amateur Junior Newcomer Latin  (C),Sample,0,rcb08,402C2020,111,Peter Mant,Cha Cha,1
+oregon,0,1,Final,Cody Scharzenberger,Stormy Scharzenberger,13,1,1, Amateur Junior Newcomer Latin  (C),Sample,0,rcb08,402C2020,111,Dave Watson,Cha Cha,1
+Oregon,0,1,Final,Chad Crader,Tonya Pevzner,10,2,1, Amateur Junior Newcomer Latin  (C),Sample,0,rcb08,402C2020,118,Anya Klimova-Preston,Cha Cha,2
+Oregon,0,2,Final,Chad Crader,Tonya Pevzner,11,2,2, Amateur Junior Newcomer Latin  (C),Sample,0,rcb08,402C2020,118,Peter Mant,Cha Cha,2
+Oregon,0,2,Final,Chad Crader,Tonya Pevzner,13,2,2, Amateur Junior Newcomer Latin  (C),Sample,0,rcb08,402C2020,118,Dave Watson,Cha Cha,2
+,0,2,Final,Eric Hayden,Laura Madison,10,2,2, Amateur Pre-Teen Bronze Latin  (CR),Sample,0,rcb08,40272820,105,Anya Klimova-Preston,Cha Cha,1
+,0,2,Final,Eric Hayden,Laura Madison,11,2,2, Amateur Pre-Teen Bronze Latin  (CR),Sample,0,rcb08,40272820,105,Peter Mant,Cha Cha,1
+,0,2,Final,Eric Hayden,Laura Madison,13,2,2, Amateur Pre-Teen Bronze Latin  (CR),Sample,0,rcb08,40272820,105,Dave Watson,Cha Cha,1
+Oregon,0,1,Final,Kyle Sosa,Emilia Wolf,10,1,1, Amateur Pre-Teen Bronze Latin  (CR),Sample,0,rcb08,40272820,115,Anya Klimova-Preston,Cha Cha,2
+Oregon,0,1,Final,Kyle Sosa,Emilia Wolf,11,1,1, Amateur Pre-Teen Bronze Latin  (CR),Sample,0,rcb08,40272820,115,Peter Mant,Cha Cha,2
+Oregon,0,1,Final,Kyle Sosa,Emilia Wolf,13,1,1, Amateur Pre-Teen Bronze Latin  (CR),Sample,0,rcb08,40272820,115,Dave Watson,Cha Cha,2
+OR,0,3,Final,Alexander Selchow,Anna Selchow,10,3,3, Amateur Pre-Teen Bronze Latin  (CR),Sample,0,rcb08,40272820,112,Anya Klimova-Preston,Cha Cha,3
+OR,0,3,Final,Alexander Selchow,Anna Selchow,11,3,3, Amateur Pre-Teen Bronze Latin  (CR),Sample,0,rcb08,40272820,112,Peter Mant,Cha Cha,3
+OR,0,3,Final,Alexander Selchow,Anna Selchow,13,3,3, Amateur Pre-Teen Bronze Latin  (CR),Sample,0,rcb08,40272820,112,Dave Watson,Cha Cha,3
+,0,1,Final,Eric Hayden,Laura Madison,10,1,1, Amateur Pre-Teen Bronze Latin  (CR),Sample,1,rcb08,40272820,105,Anya Klimova-Preston,Rumba,1
+,0,1,Final,Eric Hayden,Laura Madison,11,1,1, Amateur Pre-Teen Bronze Latin  (CR),Sample,1,rcb08,40272820,105,Peter Mant,Rumba,1
+,0,1,Final,Eric Hayden,Laura Madison,13,1,1, Amateur Pre-Teen Bronze Latin  (CR),Sample,1,rcb08,40272820,105,Dave Watson,Rumba,1
+Oregon,0,2,Final,Kyle Sosa,Emilia Wolf,10,2,2, Amateur Pre-Teen Bronze Latin  (CR),Sample,1,rcb08,40272820,115,Anya Klimova-Preston,Rumba,2
+Oregon,0,2,Final,Kyle Sosa,Emilia Wolf,11,2,2, Amateur Pre-Teen Bronze Latin  (CR),Sample,1,rcb08,40272820,115,Peter Mant,Rumba,2
+Oregon,0,2,Final,Kyle Sosa,Emilia Wolf,13,2,2, Amateur Pre-Teen Bronze Latin  (CR),Sample,1,rcb08,40272820,115,Dave Watson,Rumba,2
+OR,0,3,Final,Alexander Selchow,Anna Selchow,10,3,3, Amateur Pre-Teen Bronze Latin  (CR),Sample,1,rcb08,40272820,112,Anya Klimova-Preston,Rumba,3
+OR,0,3,Final,Alexander Selchow,Anna Selchow,11,3,3, Amateur Pre-Teen Bronze Latin  (CR),Sample,1,rcb08,40272820,112,Peter Mant,Rumba,3
+OR,0,3,Final,Alexander Selchow,Anna Selchow,13,3,3, Amateur Pre-Teen Bronze Latin  (CR),Sample,1,rcb08,40272820,112,Dave Watson,Rumba,3
+oregon,0,1,Final,Cody Scharzenberger,Stormy Scharzenberger,10,1,1, Amateur Junior Bronze Latin  (CR),Sample,0,rcb08,402C2820,111,Anya Klimova-Preston,Cha Cha,1
+oregon,0,1,Final,Cody Scharzenberger,Stormy Scharzenberger,11,1,1, Amateur Junior Bronze Latin  (CR),Sample,0,rcb08,402C2820,111,Peter Mant,Cha Cha,1
+oregon,0,1,Final,Cody Scharzenberger,Stormy Scharzenberger,13,1,1, Amateur Junior Bronze Latin  (CR),Sample,0,rcb08,402C2820,111,Dave Watson,Cha Cha,1
+oregon,0,1,Final,Cody Scharzenberger,Stormy Scharzenberger,10,1,1, Amateur Junior Bronze Latin  (CR),Sample,1,rcb08,402C2820,111,Anya Klimova-Preston,Rumba,1
+oregon,0,1,Final,Cody Scharzenberger,Stormy Scharzenberger,11,1,1, Amateur Junior Bronze Latin  (CR),Sample,1,rcb08,402C2820,111,Peter Mant,Rumba,1
+oregon,0,1,Final,Cody Scharzenberger,Stormy Scharzenberger,13,1,1, Amateur Junior Bronze Latin  (CR),Sample,1,rcb08,402C2820,111,Dave Watson,Rumba,1
+OR,0,1,Final,Jay Gilberg,Mari Schwarts,10,1,1, Amateur Senior I Bronze Standard  (WQ),Sample,0,rcb08,40432810,103,Anya Klimova-Preston,Waltz,1
+OR,0,1,Final,Jay Gilberg,Mari Schwarts,11,1,1, Amateur Senior I Bronze Standard  (WQ),Sample,0,rcb08,40432810,103,Peter Mant,Waltz,1
+OR,0,2,Final,Jay Gilberg,Mari Schwarts,13,1,2, Amateur Senior I Bronze Standard  (WQ),Sample,0,rcb08,40432810,103,Dave Watson,Waltz,1
+Or,0,2,Final,Terrance D. Nicholson,Candance M. Nicholson,10,2,2, Amateur Senior I Bronze Standard  (WQ),Sample,0,rcb08,40432810,108,Anya Klimova-Preston,Waltz,2
+Or,0,2,Final,Terrance D. Nicholson,Candance M. Nicholson,11,2,2, Amateur Senior I Bronze Standard  (WQ),Sample,0,rcb08,40432810,108,Peter Mant,Waltz,2
+Or,0,3,Final,Terrance D. Nicholson,Candance M. Nicholson,13,2,3, Amateur Senior I Bronze Standard  (WQ),Sample,0,rcb08,40432810,108,Dave Watson,Waltz,2
+Or,0,3,Final,Steven Sowell,Ann Marie Hathaway,10,3,3, Amateur Senior I Bronze Standard  (WQ),Sample,0,rcb08,40432810,113,Anya Klimova-Preston,Waltz,3
+Or,0,3,Final,Steven Sowell,Ann Marie Hathaway,11,3,3, Amateur Senior I Bronze Standard  (WQ),Sample,0,rcb08,40432810,113,Peter Mant,Waltz,3
+Or,0,1,Final,Steven Sowell,Ann Marie Hathaway,13,3,1, Amateur Senior I Bronze Standard  (WQ),Sample,0,rcb08,40432810,113,Dave Watson,Waltz,3
+Wa,0,4,Final,James Hampton,Sally Wong,10,4,4, Amateur Senior I Bronze Standard  (WQ),Sample,0,rcb08,40432810,104,Anya Klimova-Preston,Waltz,4
+Wa,0,4,Final,James Hampton,Sally Wong,11,4,4, Amateur Senior I Bronze Standard  (WQ),Sample,0,rcb08,40432810,104,Peter Mant,Waltz,4
+Wa,0,4,Final,James Hampton,Sally Wong,13,4,4, Amateur Senior I Bronze Standard  (WQ),Sample,0,rcb08,40432810,104,Dave Watson,Waltz,4
+OR,0,1,Final,Jay Gilberg,Mari Schwarts,10,1,1, Amateur Senior I Bronze Standard  (WQ),Sample,1,rcb08,40432810,103,Anya Klimova-Preston,Quickstep,1
+OR,0,1,Final,Jay Gilberg,Mari Schwarts,11,1,1, Amateur Senior I Bronze Standard  (WQ),Sample,1,rcb08,40432810,103,Peter Mant,Quickstep,1
+OR,0,3,Final,Jay Gilberg,Mari Schwarts,13,1,3, Amateur Senior I Bronze Standard  (WQ),Sample,1,rcb08,40432810,103,Dave Watson,Quickstep,1
+Or,0,3,Final,Terrance D. Nicholson,Candance M. Nicholson,10,3,3, Amateur Senior I Bronze Standard  (WQ),Sample,1,rcb08,40432810,108,Anya Klimova-Preston,Quickstep,2
+Or,0,2,Final,Terrance D. Nicholson,Candance M. Nicholson,11,3,2, Amateur Senior I Bronze Standard  (WQ),Sample,1,rcb08,40432810,108,Peter Mant,Quickstep,2
+Or,0,2,Final,Terrance D. Nicholson,Candance M. Nicholson,13,3,2, Amateur Senior I Bronze Standard  (WQ),Sample,1,rcb08,40432810,108,Dave Watson,Quickstep,2
+Or,0,2,Final,Steven Sowell,Ann Marie Hathaway,10,2,2, Amateur Senior I Bronze Standard  (WQ),Sample,1,rcb08,40432810,113,Anya Klimova-Preston,Quickstep,3
+Or,0,3,Final,Steven Sowell,Ann Marie Hathaway,11,2,3, Amateur Senior I Bronze Standard  (WQ),Sample,1,rcb08,40432810,113,Peter Mant,Quickstep,3
+Or,0,1,Final,Steven Sowell,Ann Marie Hathaway,13,2,1, Amateur Senior I Bronze Standard  (WQ),Sample,1,rcb08,40432810,113,Dave Watson,Quickstep,3
+Wa,0,4,Final,James Hampton,Sally Wong,10,4,4, Amateur Senior I Bronze Standard  (WQ),Sample,1,rcb08,40432810,104,Anya Klimova-Preston,Quickstep,4
+Wa,0,4,Final,James Hampton,Sally Wong,11,4,4, Amateur Senior I Bronze Standard  (WQ),Sample,1,rcb08,40432810,104,Peter Mant,Quickstep,4
+Wa,0,4,Final,James Hampton,Sally Wong,13,4,4, Amateur Senior I Bronze Standard  (WQ),Sample,1,rcb08,40432810,104,Dave Watson,Quickstep,4
+Or,0,1,Final,Greg Musgrave,Nancy Musgrave,10,1,1, Amateur Senior III Bronze Standard  (WQ),Sample,0,rcb08,40452810,107,Anya Klimova-Preston,Waltz,1
+Or,0,1,Final,Greg Musgrave,Nancy Musgrave,11,1,1, Amateur Senior III Bronze Standard  (WQ),Sample,0,rcb08,40452810,107,Peter Mant,Waltz,1
+Or,0,1,Final,Greg Musgrave,Nancy Musgrave,13,1,1, Amateur Senior III Bronze Standard  (WQ),Sample,0,rcb08,40452810,107,Dave Watson,Waltz,1
+Or,0,1,Final,Greg Musgrave,Nancy Musgrave,10,1,1, Amateur Senior III Bronze Standard  (WQ),Sample,1,rcb08,40452810,107,Anya Klimova-Preston,Quickstep,1
+Or,0,1,Final,Greg Musgrave,Nancy Musgrave,11,1,1, Amateur Senior III Bronze Standard  (WQ),Sample,1,rcb08,40452810,107,Peter Mant,Quickstep,1
+Or,0,1,Final,Greg Musgrave,Nancy Musgrave,13,1,1, Amateur Senior III Bronze Standard  (WQ),Sample,1,rcb08,40452810,107,Dave Watson,Quickstep,1
+OR,0,1,Final,Stephen Klein,Casey Cruse,10,1,1, Amateur Adult Newcomer Standard  (W),Sample,0,rcb08,40422010,119,Anya Klimova-Preston,Waltz,1
+OR,0,1,Final,Stephen Klein,Casey Cruse,11,1,1, Amateur Adult Newcomer Standard  (W),Sample,0,rcb08,40422010,119,Peter Mant,Waltz,1
+OR,0,1,Final,Stephen Klein,Casey Cruse,13,1,1, Amateur Adult Newcomer Standard  (W),Sample,0,rcb08,40422010,119,Dave Watson,Waltz,1
+Or,0,1,Final,Jack Lim,Jesse Wong,11,1,1, Amateur Adult Bronze Smooth  (WF),Sample,0,rcb08,40422830,106,Peter Mant,Waltz,1
+Or,0,2,Final,Jack Lim,Jesse Wong,12,1,2, Amateur Adult Bronze Smooth  (WF),Sample,0,rcb08,40422830,106,Don Walker,Waltz,1
+Or,0,1,Final,Jack Lim,Jesse Wong,13,1,1, Amateur Adult Bronze Smooth  (WF),Sample,0,rcb08,40422830,106,Dave Watson,Waltz,1
+Or,0,1,Final,Jack Lim,Jesse Wong,11,1,1, Amateur Adult Bronze Smooth  (WF),Sample,1,rcb08,40422830,106,Peter Mant,Foxtrot,1
+Or,0,2,Final,Jack Lim,Jesse Wong,12,1,2, Amateur Adult Bronze Smooth  (WF),Sample,1,rcb08,40422830,106,Don Walker,Foxtrot,1
+Or,0,1,Final,Jack Lim,Jesse Wong,13,1,1, Amateur Adult Bronze Smooth  (WF),Sample,1,rcb08,40422830,106,Dave Watson,Foxtrot,1
+Wa,0,1,Final,James Druzdzel,Jami Lee Druzdzel-zoellner,11,1,1, Amateur Adult Silver Standard  (WTF),Sample,0,rcb08,40423010,101,Peter Mant,Waltz,1
+Wa,0,1,Final,James Druzdzel,Jami Lee Druzdzel-zoellner,12,1,1, Amateur Adult Silver Standard  (WTF),Sample,0,rcb08,40423010,101,Don Walker,Waltz,1
+Wa,0,1,Final,James Druzdzel,Jami Lee Druzdzel-zoellner,13,1,1, Amateur Adult Silver Standard  (WTF),Sample,0,rcb08,40423010,101,Dave Watson,Waltz,1
+Wa,0,3,Final,Evan Biggs,Carla Titus,11,2,3, Amateur Adult Silver Standard  (WTF),Sample,0,rcb08,40423010,100,Peter Mant,Waltz,2
+Wa,0,2,Final,Evan Biggs,Carla Titus,12,2,2, Amateur Adult Silver Standard  (WTF),Sample,0,rcb08,40423010,100,Don Walker,Waltz,2
+Wa,0,2,Final,Evan Biggs,Carla Titus,13,2,2, Amateur Adult Silver Standard  (WTF),Sample,0,rcb08,40423010,100,Dave Watson,Waltz,2
+Or,0,2,Final,Brice Peters,Cassandra Woods,11,3,2, Amateur Adult Silver Standard  (WTF),Sample,0,rcb08,40423010,109,Peter Mant,Waltz,3
+Or,0,3,Final,Brice Peters,Cassandra Woods,12,3,3, Amateur Adult Silver Standard  (WTF),Sample,0,rcb08,40423010,109,Don Walker,Waltz,3
+Or,0,3,Final,Brice Peters,Cassandra Woods,13,3,3, Amateur Adult Silver Standard  (WTF),Sample,0,rcb08,40423010,109,Dave Watson,Waltz,3
+Or,0,4,Final,Jack Lim,Jesse Wong,11,4,4, Amateur Adult Silver Standard  (WTF),Sample,0,rcb08,40423010,106,Peter Mant,Waltz,4
+Or,0,4,Final,Jack Lim,Jesse Wong,12,4,4, Amateur Adult Silver Standard  (WTF),Sample,0,rcb08,40423010,106,Don Walker,Waltz,4
+Or,0,4,Final,Jack Lim,Jesse Wong,13,4,4, Amateur Adult Silver Standard  (WTF),Sample,0,rcb08,40423010,106,Dave Watson,Waltz,4
+Wa,0,1,Final,James Druzdzel,Jami Lee Druzdzel-zoellner,11,1,1, Amateur Adult Silver Standard  (WTF),Sample,1,rcb08,40423010,101,Peter Mant,Tango,1
+Wa,0,2,Final,James Druzdzel,Jami Lee Druzdzel-zoellner,12,1,2, Amateur Adult Silver Standard  (WTF),Sample,1,rcb08,40423010,101,Don Walker,Tango,1
+Wa,0,1,Final,James Druzdzel,Jami Lee Druzdzel-zoellner,13,1,1, Amateur Adult Silver Standard  (WTF),Sample,1,rcb08,40423010,101,Dave Watson,Tango,1
+Wa,0,2,Final,Evan Biggs,Carla Titus,11,2,2, Amateur Adult Silver Standard  (WTF),Sample,1,rcb08,40423010,100,Peter Mant,Tango,2
+Wa,0,1,Final,Evan Biggs,Carla Titus,12,2,1, Amateur Adult Silver Standard  (WTF),Sample,1,rcb08,40423010,100,Don Walker,Tango,2
+Wa,0,2,Final,Evan Biggs,Carla Titus,13,2,2, Amateur Adult Silver Standard  (WTF),Sample,1,rcb08,40423010,100,Dave Watson,Tango,2
+Or,0,3,Final,Brice Peters,Cassandra Woods,11,3,3, Amateur Adult Silver Standard  (WTF),Sample,1,rcb08,40423010,109,Peter Mant,Tango,3
+Or,0,4,Final,Brice Peters,Cassandra Woods,12,3,4, Amateur Adult Silver Standard  (WTF),Sample,1,rcb08,40423010,109,Don Walker,Tango,3
+Or,0,3,Final,Brice Peters,Cassandra Woods,13,3,3, Amateur Adult Silver Standard  (WTF),Sample,1,rcb08,40423010,109,Dave Watson,Tango,3
+Or,0,4,Final,Jack Lim,Jesse Wong,11,4,4, Amateur Adult Silver Standard  (WTF),Sample,1,rcb08,40423010,106,Peter Mant,Tango,4
+Or,0,3,Final,Jack Lim,Jesse Wong,12,4,3, Amateur Adult Silver Standard  (WTF),Sample,1,rcb08,40423010,106,Don Walker,Tango,4
+Or,0,4,Final,Jack Lim,Jesse Wong,13,4,4, Amateur Adult Silver Standard  (WTF),Sample,1,rcb08,40423010,106,Dave Watson,Tango,4
+Wa,0,1,Final,James Druzdzel,Jami Lee Druzdzel-zoellner,11,1,1, Amateur Adult Silver Standard  (WTF),Sample,2,rcb08,40423010,101,Peter Mant,Foxtrot,1
+Wa,0,1,Final,James Druzdzel,Jami Lee Druzdzel-zoellner,12,1,1, Amateur Adult Silver Standard  (WTF),Sample,2,rcb08,40423010,101,Don Walker,Foxtrot,1
+Wa,0,1,Final,James Druzdzel,Jami Lee Druzdzel-zoellner,13,1,1, Amateur Adult Silver Standard  (WTF),Sample,2,rcb08,40423010,101,Dave Watson,Foxtrot,1
+Wa,0,2,Final,Evan Biggs,Carla Titus,11,2,2, Amateur Adult Silver Standard  (WTF),Sample,2,rcb08,40423010,100,Peter Mant,Foxtrot,2
+Wa,0,2,Final,Evan Biggs,Carla Titus,12,2,2, Amateur Adult Silver Standard  (WTF),Sample,2,rcb08,40423010,100,Don Walker,Foxtrot,2
+Wa,0,3,Final,Evan Biggs,Carla Titus,13,2,3, Amateur Adult Silver Standard  (WTF),Sample,2,rcb08,40423010,100,Dave Watson,Foxtrot,2
+Or,0,3,Final,Brice Peters,Cassandra Woods,11,3,3, Amateur Adult Silver Standard  (WTF),Sample,2,rcb08,40423010,109,Peter Mant,Foxtrot,3
+Or,0,3,Final,Brice Peters,Cassandra Woods,12,3,3, Amateur Adult Silver Standard  (WTF),Sample,2,rcb08,40423010,109,Don Walker,Foxtrot,3
+Or,0,2,Final,Brice Peters,Cassandra Woods,13,3,2, Amateur Adult Silver Standard  (WTF),Sample,2,rcb08,40423010,109,Dave Watson,Foxtrot,3
+Or,0,4,Final,Jack Lim,Jesse Wong,11,4,4, Amateur Adult Silver Standard  (WTF),Sample,2,rcb08,40423010,106,Peter Mant,Foxtrot,4
+Or,0,4,Final,Jack Lim,Jesse Wong,12,4,4, Amateur Adult Silver Standard  (WTF),Sample,2,rcb08,40423010,106,Don Walker,Foxtrot,4
+Or,0,4,Final,Jack Lim,Jesse Wong,13,4,4, Amateur Adult Silver Standard  (WTF),Sample,2,rcb08,40423010,106,Dave Watson,Foxtrot,4
+OR,0,1,Final,Jay Gilberg,Mari Schwarts,11,1,1, Amateur Senior II Silver Standard  (WTF),Sample,0,rcb08,40443010,103,Peter Mant,Waltz,1
+OR,0,2,Final,Jay Gilberg,Mari Schwarts,12,1,2, Amateur Senior II Silver Standard  (WTF),Sample,0,rcb08,40443010,103,Don Walker,Waltz,1
+OR,0,1,Final,Jay Gilberg,Mari Schwarts,13,1,1, Amateur Senior II Silver Standard  (WTF),Sample,0,rcb08,40443010,103,Dave Watson,Waltz,1
+Or,0,2,Final,Terrance D. Nicholson,Candance M. Nicholson,11,2,2, Amateur Senior II Silver Standard  (WTF),Sample,0,rcb08,40443010,108,Peter Mant,Waltz,2
+Or,0,1,Final,Terrance D. Nicholson,Candance M. Nicholson,12,2,1, Amateur Senior II Silver Standard  (WTF),Sample,0,rcb08,40443010,108,Don Walker,Waltz,2
+Or,0,2,Final,Terrance D. Nicholson,Candance M. Nicholson,13,2,2, Amateur Senior II Silver Standard  (WTF),Sample,0,rcb08,40443010,108,Dave Watson,Waltz,2
+OR,0,1,Final,Jay Gilberg,Mari Schwarts,11,1,1, Amateur Senior II Silver Standard  (WTF),Sample,1,rcb08,40443010,103,Peter Mant,Tango,1
+OR,0,1,Final,Jay Gilberg,Mari Schwarts,12,1,1, Amateur Senior II Silver Standard  (WTF),Sample,1,rcb08,40443010,103,Don Walker,Tango,1
+OR,0,1,Final,Jay Gilberg,Mari Schwarts,13,1,1, Amateur Senior II Silver Standard  (WTF),Sample,1,rcb08,40443010,103,Dave Watson,Tango,1
+Or,0,2,Final,Terrance D. Nicholson,Candance M. Nicholson,11,2,2, Amateur Senior II Silver Standard  (WTF),Sample,1,rcb08,40443010,108,Peter Mant,Tango,2
+Or,0,2,Final,Terrance D. Nicholson,Candance M. Nicholson,12,2,2, Amateur Senior II Silver Standard  (WTF),Sample,1,rcb08,40443010,108,Don Walker,Tango,2
+Or,0,2,Final,Terrance D. Nicholson,Candance M. Nicholson,13,2,2, Amateur Senior II Silver Standard  (WTF),Sample,1,rcb08,40443010,108,Dave Watson,Tango,2
+OR,0,1,Final,Jay Gilberg,Mari Schwarts,11,1,1, Amateur Senior II Silver Standard  (WTF),Sample,2,rcb08,40443010,103,Peter Mant,Foxtrot,1
+OR,0,1,Final,Jay Gilberg,Mari Schwarts,12,1,1, Amateur Senior II Silver Standard  (WTF),Sample,2,rcb08,40443010,103,Don Walker,Foxtrot,1
+OR,0,1,Final,Jay Gilberg,Mari Schwarts,13,1,1, Amateur Senior II Silver Standard  (WTF),Sample,2,rcb08,40443010,103,Dave Watson,Foxtrot,1
+Or,0,2,Final,Terrance D. Nicholson,Candance M. Nicholson,11,2,2, Amateur Senior II Silver Standard  (WTF),Sample,2,rcb08,40443010,108,Peter Mant,Foxtrot,2
+Or,0,2,Final,Terrance D. Nicholson,Candance M. Nicholson,12,2,2, Amateur Senior II Silver Standard  (WTF),Sample,2,rcb08,40443010,108,Don Walker,Foxtrot,2
+Or,0,2,Final,Terrance D. Nicholson,Candance M. Nicholson,13,2,2, Amateur Senior II Silver Standard  (WTF),Sample,2,rcb08,40443010,108,Dave Watson,Foxtrot,2
+Wa,0,1,Final,James Druzdzel,Jami Lee Druzdzel-zoellner,11,1,1, Amateur Adult Gold Standard  (WTFQ),Sample,0,rcb08,40423810,101,Peter Mant,Waltz,1
+Wa,0,1,Final,James Druzdzel,Jami Lee Druzdzel-zoellner,12,1,1, Amateur Adult Gold Standard  (WTFQ),Sample,0,rcb08,40423810,101,Don Walker,Waltz,1
+Wa,0,1,Final,James Druzdzel,Jami Lee Druzdzel-zoellner,13,1,1, Amateur Adult Gold Standard  (WTFQ),Sample,0,rcb08,40423810,101,Dave Watson,Waltz,1
+Wa,0,1,Final,James Druzdzel,Jami Lee Druzdzel-zoellner,11,1,1, Amateur Adult Gold Standard  (WTFQ),Sample,1,rcb08,40423810,101,Peter Mant,Tango,1
+Wa,0,1,Final,James Druzdzel,Jami Lee Druzdzel-zoellner,12,1,1, Amateur Adult Gold Standard  (WTFQ),Sample,1,rcb08,40423810,101,Don Walker,Tango,1
+Wa,0,1,Final,James Druzdzel,Jami Lee Druzdzel-zoellner,13,1,1, Amateur Adult Gold Standard  (WTFQ),Sample,1,rcb08,40423810,101,Dave Watson,Tango,1
+Wa,0,1,Final,James Druzdzel,Jami Lee Druzdzel-zoellner,11,1,1, Amateur Adult Gold Standard  (WTFQ),Sample,2,rcb08,40423810,101,Peter Mant,Foxtrot,1
+Wa,0,1,Final,James Druzdzel,Jami Lee Druzdzel-zoellner,12,1,1, Amateur Adult Gold Standard  (WTFQ),Sample,2,rcb08,40423810,101,Don Walker,Foxtrot,1
+Wa,0,1,Final,James Druzdzel,Jami Lee Druzdzel-zoellner,13,1,1, Amateur Adult Gold Standard  (WTFQ),Sample,2,rcb08,40423810,101,Dave Watson,Foxtrot,1
+Wa,0,1,Final,James Druzdzel,Jami Lee Druzdzel-zoellner,11,1,1, Amateur Adult Gold Standard  (WTFQ),Sample,3,rcb08,40423810,101,Peter Mant,Quickstep,1
+Wa,0,1,Final,James Druzdzel,Jami Lee Druzdzel-zoellner,12,1,1, Amateur Adult Gold Standard  (WTFQ),Sample,3,rcb08,40423810,101,Don Walker,Quickstep,1
+Wa,0,2,Final,James Druzdzel,Jami Lee Druzdzel-zoellner,13,1,2, Amateur Adult Gold Standard  (WTFQ),Sample,3,rcb08,40423810,101,Dave Watson,Quickstep,1
+OR,0,1,Final,Jay Gilberg,Mari Schwarts,11,1,1, Amateur Senior I Silver Standard  (WTF),Sample,0,rcb08,40433010,103,Peter Mant,Waltz,1
+OR,0,1,Final,Jay Gilberg,Mari Schwarts,12,1,1, Amateur Senior I Silver Standard  (WTF),Sample,0,rcb08,40433010,103,Don Walker,Waltz,1
+OR,0,3,Final,Jay Gilberg,Mari Schwarts,13,1,3, Amateur Senior I Silver Standard  (WTF),Sample,0,rcb08,40433010,103,Dave Watson,Waltz,1
+Or,0,3,Final,Terrance D. Nicholson,Candance M. Nicholson,11,3,3, Amateur Senior I Silver Standard  (WTF),Sample,0,rcb08,40433010,108,Peter Mant,Waltz,2
+Or,0,3,Final,Terrance D. Nicholson,Candance M. Nicholson,12,3,3, Amateur Senior I Silver Standard  (WTF),Sample,0,rcb08,40433010,108,Don Walker,Waltz,2
+Or,0,2,Final,Terrance D. Nicholson,Candance M. Nicholson,13,3,2, Amateur Senior I Silver Standard  (WTF),Sample,0,rcb08,40433010,108,Dave Watson,Waltz,2
+Or,0,2,Final,Steven Sowell,Ann Marie Hathaway,11,2,2, Amateur Senior I Silver Standard  (WTF),Sample,0,rcb08,40433010,113,Peter Mant,Waltz,3
+Or,0,2,Final,Steven Sowell,Ann Marie Hathaway,12,2,2, Amateur Senior I Silver Standard  (WTF),Sample,0,rcb08,40433010,113,Don Walker,Waltz,3
+Or,0,1,Final,Steven Sowell,Ann Marie Hathaway,13,2,1, Amateur Senior I Silver Standard  (WTF),Sample,0,rcb08,40433010,113,Dave Watson,Waltz,3
+OR,0,1,Final,Jay Gilberg,Mari Schwarts,11,1,1, Amateur Senior I Silver Standard  (WTF),Sample,1,rcb08,40433010,103,Peter Mant,Tango,1
+OR,0,1,Final,Jay Gilberg,Mari Schwarts,12,1,1, Amateur Senior I Silver Standard  (WTF),Sample,1,rcb08,40433010,103,Don Walker,Tango,1
+OR,0,2,Final,Jay Gilberg,Mari Schwarts,13,1,2, Amateur Senior I Silver Standard  (WTF),Sample,1,rcb08,40433010,103,Dave Watson,Tango,1
+Or,0,2,Final,Terrance D. Nicholson,Candance M. Nicholson,11,2,2, Amateur Senior I Silver Standard  (WTF),Sample,1,rcb08,40433010,108,Peter Mant,Tango,2
+Or,0,2,Final,Terrance D. Nicholson,Candance M. Nicholson,12,2,2, Amateur Senior I Silver Standard  (WTF),Sample,1,rcb08,40433010,108,Don Walker,Tango,2
+Or,0,3,Final,Terrance D. Nicholson,Candance M. Nicholson,13,2,3, Amateur Senior I Silver Standard  (WTF),Sample,1,rcb08,40433010,108,Dave Watson,Tango,2
+Or,0,3,Final,Steven Sowell,Ann Marie Hathaway,11,3,3, Amateur Senior I Silver Standard  (WTF),Sample,1,rcb08,40433010,113,Peter Mant,Tango,3
+Or,0,3,Final,Steven Sowell,Ann Marie Hathaway,12,3,3, Amateur Senior I Silver Standard  (WTF),Sample,1,rcb08,40433010,113,Don Walker,Tango,3
+Or,0,1,Final,Steven Sowell,Ann Marie Hathaway,13,3,1, Amateur Senior I Silver Standard  (WTF),Sample,1,rcb08,40433010,113,Dave Watson,Tango,3
+OR,0,1,Final,Jay Gilberg,Mari Schwarts,11,1,1, Amateur Senior I Silver Standard  (WTF),Sample,2,rcb08,40433010,103,Peter Mant,Foxtrot,1
+OR,0,1,Final,Jay Gilberg,Mari Schwarts,12,1,1, Amateur Senior I Silver Standard  (WTF),Sample,2,rcb08,40433010,103,Don Walker,Foxtrot,1
+OR,0,2,Final,Jay Gilberg,Mari Schwarts,13,1,2, Amateur Senior I Silver Standard  (WTF),Sample,2,rcb08,40433010,103,Dave Watson,Foxtrot,1
+Or,0,2,Final,Terrance D. Nicholson,Candance M. Nicholson,11,2,2, Amateur Senior I Silver Standard  (WTF),Sample,2,rcb08,40433010,108,Peter Mant,Foxtrot,2
+Or,0,2,Final,Terrance D. Nicholson,Candance M. Nicholson,12,2,2, Amateur Senior I Silver Standard  (WTF),Sample,2,rcb08,40433010,108,Don Walker,Foxtrot,2
+Or,0,3,Final,Terrance D. Nicholson,Candance M. Nicholson,13,2,3, Amateur Senior I Silver Standard  (WTF),Sample,2,rcb08,40433010,108,Dave Watson,Foxtrot,2
+Or,0,3,Final,Steven Sowell,Ann Marie Hathaway,11,3,3, Amateur Senior I Silver Standard  (WTF),Sample,2,rcb08,40433010,113,Peter Mant,Foxtrot,3
+Or,0,3,Final,Steven Sowell,Ann Marie Hathaway,12,3,3, Amateur Senior I Silver Standard  (WTF),Sample,2,rcb08,40433010,113,Don Walker,Foxtrot,3
+Or,0,1,Final,Steven Sowell,Ann Marie Hathaway,13,3,1, Amateur Senior I Silver Standard  (WTF),Sample,2,rcb08,40433010,113,Dave Watson,Foxtrot,3
+Or,0,1,Final,Jack Lim,Jesse Wong,11,1,1, Amateur Adult Silver Smooth  (WF),Sample,0,rcb08,40423030,106,Peter Mant,Waltz,1
+Or,0,1,Final,Jack Lim,Jesse Wong,12,1,1, Amateur Adult Silver Smooth  (WF),Sample,0,rcb08,40423030,106,Don Walker,Waltz,1
+Or,0,2,Final,Jack Lim,Jesse Wong,13,1,2, Amateur Adult Silver Smooth  (WF),Sample,0,rcb08,40423030,106,Dave Watson,Waltz,1
+Or,0,1,Final,Jack Lim,Jesse Wong,11,1,1, Amateur Adult Silver Smooth  (WF),Sample,1,rcb08,40423030,106,Peter Mant,Foxtrot,1
+Or,0,1,Final,Jack Lim,Jesse Wong,12,1,1, Amateur Adult Silver Smooth  (WF),Sample,1,rcb08,40423030,106,Don Walker,Foxtrot,1
+Or,0,1,Final,Jack Lim,Jesse Wong,13,1,1, Amateur Adult Silver Smooth  (WF),Sample,1,rcb08,40423030,106,Dave Watson,Foxtrot,1
+,0,2,Final,In Motion,Trickle Trickle,10,1,2, Formation Team  Open Showdance  (#),Sample,0,rcb08,43018554,20,Anya Klimova-Preston,Showdance,1
+,0,1,Final,In Motion,Trickle Trickle,12,1,1, Formation Team  Open Showdance  (#),Sample,0,rcb08,43018554,20,Don Walker,Showdance,1
+,0,1,Final,In Motion,Trickle Trickle,13,1,1, Formation Team  Open Showdance  (#),Sample,0,rcb08,43018554,20,Dave Watson,Showdance,1
+,0,1,Final,The Ballroom Dance Company For,International Waltz,10,2,1, Formation Team  Open Showdance  (#),Sample,0,rcb08,43018554,10,Anya Klimova-Preston,Showdance,2
+,0,2,Final,The Ballroom Dance Company For,International Waltz,12,2,2, Formation Team  Open Showdance  (#),Sample,0,rcb08,43018554,10,Don Walker,Showdance,2
+,0,2,Final,The Ballroom Dance Company For,International Waltz,13,2,2, Formation Team  Open Showdance  (#),Sample,0,rcb08,43018554,10,Dave Watson,Showdance,2
+Wa,0,1,Final,Evan Biggs,Carla Titus,10,1,1, Amateur Adult Bronze Latin  (CR),Sample,0,rcb08,40422820,100,Anya Klimova-Preston,Cha Cha,1
+Wa,0,2,Final,Evan Biggs,Carla Titus,12,1,2, Amateur Adult Bronze Latin  (CR),Sample,0,rcb08,40422820,100,Don Walker,Cha Cha,1
+Wa,0,1,Final,Evan Biggs,Carla Titus,13,1,1, Amateur Adult Bronze Latin  (CR),Sample,0,rcb08,40422820,100,Dave Watson,Cha Cha,1
+Wa,0,2,Final,James Druzdzel,Leilani Nakagawa,10,2,2, Amateur Adult Bronze Latin  (CR),Sample,0,rcb08,40422820,101,Anya Klimova-Preston,Cha Cha,2
+Wa,0,1,Final,James Druzdzel,Leilani Nakagawa,12,2,1, Amateur Adult Bronze Latin  (CR),Sample,0,rcb08,40422820,101,Don Walker,Cha Cha,2
+Wa,0,2,Final,James Druzdzel,Leilani Nakagawa,13,2,2, Amateur Adult Bronze Latin  (CR),Sample,0,rcb08,40422820,101,Dave Watson,Cha Cha,2
+Or,0,4,Final,Jack Lim,Jesse Wong,10,3,4, Amateur Adult Bronze Latin  (CR),Sample,0,rcb08,40422820,106,Anya Klimova-Preston,Cha Cha,3
+Or,0,3,Final,Jack Lim,Jesse Wong,12,3,3, Amateur Adult Bronze Latin  (CR),Sample,0,rcb08,40422820,106,Don Walker,Cha Cha,3
+Or,0,3,Final,Jack Lim,Jesse Wong,13,3,3, Amateur Adult Bronze Latin  (CR),Sample,0,rcb08,40422820,106,Dave Watson,Cha Cha,3
+Or,0,3,Final,Brice Peters,Cassandra Woods,10,4,3, Amateur Adult Bronze Latin  (CR),Sample,0,rcb08,40422820,109,Anya Klimova-Preston,Cha Cha,4
+Or,0,4,Final,Brice Peters,Cassandra Woods,12,4,4, Amateur Adult Bronze Latin  (CR),Sample,0,rcb08,40422820,109,Don Walker,Cha Cha,4
+Or,0,4,Final,Brice Peters,Cassandra Woods,13,4,4, Amateur Adult Bronze Latin  (CR),Sample,0,rcb08,40422820,109,Dave Watson,Cha Cha,4
+Wa,0,5,Final,James Hampton,Sally Wong,10,5,5, Amateur Adult Bronze Latin  (CR),Sample,0,rcb08,40422820,104,Anya Klimova-Preston,Cha Cha,5
+Wa,0,5,Final,James Hampton,Sally Wong,12,5,5, Amateur Adult Bronze Latin  (CR),Sample,0,rcb08,40422820,104,Don Walker,Cha Cha,5
+Wa,0,5,Final,James Hampton,Sally Wong,13,5,5, Amateur Adult Bronze Latin  (CR),Sample,0,rcb08,40422820,104,Dave Watson,Cha Cha,5
+Wa,0,2,Final,Evan Biggs,Carla Titus,10,2,2, Amateur Adult Bronze Latin  (CR),Sample,1,rcb08,40422820,100,Anya Klimova-Preston,Rumba,1
+Wa,0,2,Final,Evan Biggs,Carla Titus,12,2,2, Amateur Adult Bronze Latin  (CR),Sample,1,rcb08,40422820,100,Don Walker,Rumba,1
+Wa,0,1,Final,Evan Biggs,Carla Titus,13,2,1, Amateur Adult Bronze Latin  (CR),Sample,1,rcb08,40422820,100,Dave Watson,Rumba,1
+Wa,0,1,Final,James Druzdzel,Leilani Nakagawa,10,1,1, Amateur Adult Bronze Latin  (CR),Sample,1,rcb08,40422820,101,Anya Klimova-Preston,Rumba,2
+Wa,0,1,Final,James Druzdzel,Leilani Nakagawa,12,1,1, Amateur Adult Bronze Latin  (CR),Sample,1,rcb08,40422820,101,Don Walker,Rumba,2
+Wa,0,2,Final,James Druzdzel,Leilani Nakagawa,13,1,2, Amateur Adult Bronze Latin  (CR),Sample,1,rcb08,40422820,101,Dave Watson,Rumba,2
+Or,0,4,Final,Jack Lim,Jesse Wong,10,3,4, Amateur Adult Bronze Latin  (CR),Sample,1,rcb08,40422820,106,Anya Klimova-Preston,Rumba,3
+Or,0,3,Final,Jack Lim,Jesse Wong,12,3,3, Amateur Adult Bronze Latin  (CR),Sample,1,rcb08,40422820,106,Don Walker,Rumba,3
+Or,0,3,Final,Jack Lim,Jesse Wong,13,3,3, Amateur Adult Bronze Latin  (CR),Sample,1,rcb08,40422820,106,Dave Watson,Rumba,3
+Or,0,3,Final,Brice Peters,Cassandra Woods,10,4,3, Amateur Adult Bronze Latin  (CR),Sample,1,rcb08,40422820,109,Anya Klimova-Preston,Rumba,4
+Or,0,4,Final,Brice Peters,Cassandra Woods,12,4,4, Amateur Adult Bronze Latin  (CR),Sample,1,rcb08,40422820,109,Don Walker,Rumba,4
+Or,0,4,Final,Brice Peters,Cassandra Woods,13,4,4, Amateur Adult Bronze Latin  (CR),Sample,1,rcb08,40422820,109,Dave Watson,Rumba,4
+Wa,0,5,Final,James Hampton,Sally Wong,10,5,5, Amateur Adult Bronze Latin  (CR),Sample,1,rcb08,40422820,104,Anya Klimova-Preston,Rumba,5
+Wa,0,5,Final,James Hampton,Sally Wong,12,5,5, Amateur Adult Bronze Latin  (CR),Sample,1,rcb08,40422820,104,Don Walker,Rumba,5
+Wa,0,5,Final,James Hampton,Sally Wong,13,5,5, Amateur Adult Bronze Latin  (CR),Sample,1,rcb08,40422820,104,Dave Watson,Rumba,5
+Or,0,1,Final,Greg Musgrave,Nancy Musgrave,10,1,1, Amateur Senior II Bronze Latin  (CR),Sample,0,rcb08,40442820,107,Anya Klimova-Preston,Cha Cha,1
+Or,0,1,Final,Greg Musgrave,Nancy Musgrave,12,1,1, Amateur Senior II Bronze Latin  (CR),Sample,0,rcb08,40442820,107,Don Walker,Cha Cha,1
+Or,0,2,Final,Greg Musgrave,Nancy Musgrave,13,1,2, Amateur Senior II Bronze Latin  (CR),Sample,0,rcb08,40442820,107,Dave Watson,Cha Cha,1
+Or,0,2,Final,Donald A. Fechner,Mari Schwarts,10,2,2, Amateur Senior II Bronze Latin  (CR),Sample,0,rcb08,40442820,102,Anya Klimova-Preston,Cha Cha,2
+Or,0,2,Final,Donald A. Fechner,Mari Schwarts,12,2,2, Amateur Senior II Bronze Latin  (CR),Sample,0,rcb08,40442820,102,Don Walker,Cha Cha,2
+Or,0,1,Final,Donald A. Fechner,Mari Schwarts,13,2,1, Amateur Senior II Bronze Latin  (CR),Sample,0,rcb08,40442820,102,Dave Watson,Cha Cha,2
+Or,0,1,Final,Greg Musgrave,Nancy Musgrave,10,1,1, Amateur Senior II Bronze Latin  (CR),Sample,1,rcb08,40442820,107,Anya Klimova-Preston,Rumba,1
+Or,0,1,Final,Greg Musgrave,Nancy Musgrave,12,1,1, Amateur Senior II Bronze Latin  (CR),Sample,1,rcb08,40442820,107,Don Walker,Rumba,1
+Or,0,1,Final,Greg Musgrave,Nancy Musgrave,13,1,1, Amateur Senior II Bronze Latin  (CR),Sample,1,rcb08,40442820,107,Dave Watson,Rumba,1
+Or,0,2,Final,Donald A. Fechner,Mari Schwarts,10,2,2, Amateur Senior II Bronze Latin  (CR),Sample,1,rcb08,40442820,102,Anya Klimova-Preston,Rumba,2
+Or,0,2,Final,Donald A. Fechner,Mari Schwarts,12,2,2, Amateur Senior II Bronze Latin  (CR),Sample,1,rcb08,40442820,102,Don Walker,Rumba,2
+Or,0,2,Final,Donald A. Fechner,Mari Schwarts,13,2,2, Amateur Senior II Bronze Latin  (CR),Sample,1,rcb08,40442820,102,Dave Watson,Rumba,2
+Wa,0,1,Final,James Hampton,Sally Wong,10,1,1, Amateur Senior I Bronze Latin  (CR),Sample,0,rcb08,40432820,104,Anya Klimova-Preston,Cha Cha,1
+Wa,0,1,Final,James Hampton,Sally Wong,12,1,1, Amateur Senior I Bronze Latin  (CR),Sample,0,rcb08,40432820,104,Don Walker,Cha Cha,1
+Wa,0,1,Final,James Hampton,Sally Wong,13,1,1, Amateur Senior I Bronze Latin  (CR),Sample,0,rcb08,40432820,104,Dave Watson,Cha Cha,1
+Wa,0,1,Final,James Hampton,Sally Wong,10,1,1, Amateur Senior I Bronze Latin  (CR),Sample,1,rcb08,40432820,104,Anya Klimova-Preston,Rumba,1
+Wa,0,2,Final,James Hampton,Sally Wong,12,1,2, Amateur Senior I Bronze Latin  (CR),Sample,1,rcb08,40432820,104,Don Walker,Rumba,1
+Wa,0,1,Final,James Hampton,Sally Wong,13,1,1, Amateur Senior I Bronze Latin  (CR),Sample,1,rcb08,40432820,104,Dave Watson,Rumba,1
+Or,0,2,Final,Donald A. Fechner,Mari Schwarts,10,1,2, Amateur Senior III Bronze Latin  (CR),Sample,0,rcb08,40452820,102,Anya Klimova-Preston,Cha Cha,1
+Or,0,1,Final,Donald A. Fechner,Mari Schwarts,12,1,1, Amateur Senior III Bronze Latin  (CR),Sample,0,rcb08,40452820,102,Don Walker,Cha Cha,1
+Or,0,1,Final,Donald A. Fechner,Mari Schwarts,13,1,1, Amateur Senior III Bronze Latin  (CR),Sample,0,rcb08,40452820,102,Dave Watson,Cha Cha,1
+Or,0,1,Final,Greg Musgrave,Nancy Musgrave,10,2,1, Amateur Senior III Bronze Latin  (CR),Sample,0,rcb08,40452820,107,Anya Klimova-Preston,Cha Cha,2
+Or,0,2,Final,Greg Musgrave,Nancy Musgrave,12,2,2, Amateur Senior III Bronze Latin  (CR),Sample,0,rcb08,40452820,107,Don Walker,Cha Cha,2
+Or,0,2,Final,Greg Musgrave,Nancy Musgrave,13,2,2, Amateur Senior III Bronze Latin  (CR),Sample,0,rcb08,40452820,107,Dave Watson,Cha Cha,2
+Or,0,2,Final,Donald A. Fechner,Mari Schwarts,10,2,2, Amateur Senior III Bronze Latin  (CR),Sample,1,rcb08,40452820,102,Anya Klimova-Preston,Rumba,1
+Or,0,1,Final,Donald A. Fechner,Mari Schwarts,12,2,1, Amateur Senior III Bronze Latin  (CR),Sample,1,rcb08,40452820,102,Don Walker,Rumba,1
+Or,0,2,Final,Donald A. Fechner,Mari Schwarts,13,2,2, Amateur Senior III Bronze Latin  (CR),Sample,1,rcb08,40452820,102,Dave Watson,Rumba,1
+Or,0,1,Final,Greg Musgrave,Nancy Musgrave,10,1,1, Amateur Senior III Bronze Latin  (CR),Sample,1,rcb08,40452820,107,Anya Klimova-Preston,Rumba,2
+Or,0,2,Final,Greg Musgrave,Nancy Musgrave,12,1,2, Amateur Senior III Bronze Latin  (CR),Sample,1,rcb08,40452820,107,Don Walker,Rumba,2
+Or,0,1,Final,Greg Musgrave,Nancy Musgrave,13,1,1, Amateur Senior III Bronze Latin  (CR),Sample,1,rcb08,40452820,107,Dave Watson,Rumba,2
+Wa,0,1,Final,James Druzdzel,Leilani Nakagawa,10,1,1, Amateur Adult Silver Latin  (CSR),Sample,0,rcb08,40423020,101,Anya Klimova-Preston,Cha Cha,1
+Wa,0,1,Final,James Druzdzel,Leilani Nakagawa,12,1,1, Amateur Adult Silver Latin  (CSR),Sample,0,rcb08,40423020,101,Don Walker,Cha Cha,1
+Wa,0,2,Final,James Druzdzel,Leilani Nakagawa,13,1,2, Amateur Adult Silver Latin  (CSR),Sample,0,rcb08,40423020,101,Dave Watson,Cha Cha,1
+Wa,0,2,Final,Evan Biggs,Carla Titus,10,2,2, Amateur Adult Silver Latin  (CSR),Sample,0,rcb08,40423020,100,Anya Klimova-Preston,Cha Cha,2
+Wa,0,2,Final,Evan Biggs,Carla Titus,12,2,2, Amateur Adult Silver Latin  (CSR),Sample,0,rcb08,40423020,100,Don Walker,Cha Cha,2
+Wa,0,1,Final,Evan Biggs,Carla Titus,13,2,1, Amateur Adult Silver Latin  (CSR),Sample,0,rcb08,40423020,100,Dave Watson,Cha Cha,2
+Or,0,3,Final,Jack Lim,Jesse Wong,10,3,3, Amateur Adult Silver Latin  (CSR),Sample,0,rcb08,40423020,106,Anya Klimova-Preston,Cha Cha,3
+Or,0,3,Final,Jack Lim,Jesse Wong,12,3,3, Amateur Adult Silver Latin  (CSR),Sample,0,rcb08,40423020,106,Don Walker,Cha Cha,3
+Or,0,3,Final,Jack Lim,Jesse Wong,13,3,3, Amateur Adult Silver Latin  (CSR),Sample,0,rcb08,40423020,106,Dave Watson,Cha Cha,3
+Or,0,4,Final,Brice Peters,Cassandra Woods,10,4,4, Amateur Adult Silver Latin  (CSR),Sample,0,rcb08,40423020,109,Anya Klimova-Preston,Cha Cha,4
+Or,0,4,Final,Brice Peters,Cassandra Woods,12,4,4, Amateur Adult Silver Latin  (CSR),Sample,0,rcb08,40423020,109,Don Walker,Cha Cha,4
+Or,0,4,Final,Brice Peters,Cassandra Woods,13,4,4, Amateur Adult Silver Latin  (CSR),Sample,0,rcb08,40423020,109,Dave Watson,Cha Cha,4
+Wa,0,1,Final,James Druzdzel,Leilani Nakagawa,10,1,1, Amateur Adult Silver Latin  (CSR),Sample,1,rcb08,40423020,101,Anya Klimova-Preston,Samba,1
+Wa,0,2,Final,James Druzdzel,Leilani Nakagawa,12,1,2, Amateur Adult Silver Latin  (CSR),Sample,1,rcb08,40423020,101,Don Walker,Samba,1
+Wa,0,1,Final,James Druzdzel,Leilani Nakagawa,13,1,1, Amateur Adult Silver Latin  (CSR),Sample,1,rcb08,40423020,101,Dave Watson,Samba,1
+Wa,0,2,Final,Evan Biggs,Carla Titus,10,2,2, Amateur Adult Silver Latin  (CSR),Sample,1,rcb08,40423020,100,Anya Klimova-Preston,Samba,2
+Wa,0,1,Final,Evan Biggs,Carla Titus,12,2,1, Amateur Adult Silver Latin  (CSR),Sample,1,rcb08,40423020,100,Don Walker,Samba,2
+Wa,0,2,Final,Evan Biggs,Carla Titus,13,2,2, Amateur Adult Silver Latin  (CSR),Sample,1,rcb08,40423020,100,Dave Watson,Samba,2
+Or,0,4,Final,Jack Lim,Jesse Wong,10,4,4, Amateur Adult Silver Latin  (CSR),Sample,1,rcb08,40423020,106,Anya Klimova-Preston,Samba,3
+Or,0,3,Final,Jack Lim,Jesse Wong,12,4,3, Amateur Adult Silver Latin  (CSR),Sample,1,rcb08,40423020,106,Don Walker,Samba,3
+Or,0,4,Final,Jack Lim,Jesse Wong,13,4,4, Amateur Adult Silver Latin  (CSR),Sample,1,rcb08,40423020,106,Dave Watson,Samba,3
+Or,0,3,Final,Brice Peters,Cassandra Woods,10,3,3, Amateur Adult Silver Latin  (CSR),Sample,1,rcb08,40423020,109,Anya Klimova-Preston,Samba,4
+Or,0,4,Final,Brice Peters,Cassandra Woods,12,3,4, Amateur Adult Silver Latin  (CSR),Sample,1,rcb08,40423020,109,Don Walker,Samba,4
+Or,0,3,Final,Brice Peters,Cassandra Woods,13,3,3, Amateur Adult Silver Latin  (CSR),Sample,1,rcb08,40423020,109,Dave Watson,Samba,4
+Wa,0,2,Final,James Druzdzel,Leilani Nakagawa,10,2,2, Amateur Adult Silver Latin  (CSR),Sample,2,rcb08,40423020,101,Anya Klimova-Preston,Rumba,1
+Wa,0,1,Final,James Druzdzel,Leilani Nakagawa,12,2,1, Amateur Adult Silver Latin  (CSR),Sample,2,rcb08,40423020,101,Don Walker,Rumba,1
+Wa,0,2,Final,James Druzdzel,Leilani Nakagawa,13,2,2, Amateur Adult Silver Latin  (CSR),Sample,2,rcb08,40423020,101,Dave Watson,Rumba,1
+Wa,0,1,Final,Evan Biggs,Carla Titus,10,1,1, Amateur Adult Silver Latin  (CSR),Sample,2,rcb08,40423020,100,Anya Klimova-Preston,Rumba,2
+Wa,0,2,Final,Evan Biggs,Carla Titus,12,1,2, Amateur Adult Silver Latin  (CSR),Sample,2,rcb08,40423020,100,Don Walker,Rumba,2
+Wa,0,1,Final,Evan Biggs,Carla Titus,13,1,1, Amateur Adult Silver Latin  (CSR),Sample,2,rcb08,40423020,100,Dave Watson,Rumba,2
+Or,0,4,Final,Jack Lim,Jesse Wong,10,3,4, Amateur Adult Silver Latin  (CSR),Sample,2,rcb08,40423020,106,Anya Klimova-Preston,Rumba,3
+Or,0,3,Final,Jack Lim,Jesse Wong,12,3,3, Amateur Adult Silver Latin  (CSR),Sample,2,rcb08,40423020,106,Don Walker,Rumba,3
+Or,0,3,Final,Jack Lim,Jesse Wong,13,3,3, Amateur Adult Silver Latin  (CSR),Sample,2,rcb08,40423020,106,Dave Watson,Rumba,3
+Or,0,3,Final,Brice Peters,Cassandra Woods,10,4,3, Amateur Adult Silver Latin  (CSR),Sample,2,rcb08,40423020,109,Anya Klimova-Preston,Rumba,4
+Or,0,4,Final,Brice Peters,Cassandra Woods,12,4,4, Amateur Adult Silver Latin  (CSR),Sample,2,rcb08,40423020,109,Don Walker,Rumba,4
+Or,0,4,Final,Brice Peters,Cassandra Woods,13,4,4, Amateur Adult Silver Latin  (CSR),Sample,2,rcb08,40423020,109,Dave Watson,Rumba,4
+Or,0,1,Final,Donald A. Fechner,Mari Schwarts,10,1,1, Amateur Senior II Silver Latin  (CSR),Sample,0,rcb08,40443020,102,Anya Klimova-Preston,Cha Cha,1
+Or,0,1,Final,Donald A. Fechner,Mari Schwarts,12,1,1, Amateur Senior II Silver Latin  (CSR),Sample,0,rcb08,40443020,102,Don Walker,Cha Cha,1
+Or,0,1,Final,Donald A. Fechner,Mari Schwarts,13,1,1, Amateur Senior II Silver Latin  (CSR),Sample,0,rcb08,40443020,102,Dave Watson,Cha Cha,1
+Or,0,1,Final,Donald A. Fechner,Mari Schwarts,10,1,1, Amateur Senior II Silver Latin  (CSR),Sample,1,rcb08,40443020,102,Anya Klimova-Preston,Samba,1
+Or,0,1,Final,Donald A. Fechner,Mari Schwarts,12,1,1, Amateur Senior II Silver Latin  (CSR),Sample,1,rcb08,40443020,102,Don Walker,Samba,1
+Or,0,1,Final,Donald A. Fechner,Mari Schwarts,13,1,1, Amateur Senior II Silver Latin  (CSR),Sample,1,rcb08,40443020,102,Dave Watson,Samba,1
+Or,0,1,Final,Donald A. Fechner,Mari Schwarts,10,1,1, Amateur Senior II Silver Latin  (CSR),Sample,2,rcb08,40443020,102,Anya Klimova-Preston,Rumba,1
+Or,0,1,Final,Donald A. Fechner,Mari Schwarts,12,1,1, Amateur Senior II Silver Latin  (CSR),Sample,2,rcb08,40443020,102,Don Walker,Rumba,1
+Or,0,1,Final,Donald A. Fechner,Mari Schwarts,13,1,1, Amateur Senior II Silver Latin  (CSR),Sample,2,rcb08,40443020,102,Dave Watson,Rumba,1
+Or,0,1,Final,Mark Richman,Vanessa Kapinus,10,1,1, Amateur Adult Pre-Champ Latin  (CSRJ),Sample,0,rcb08,40428320,110,Anya Klimova-Preston,Cha Cha,1
+Or,0,2,Final,Mark Richman,Vanessa Kapinus,11,1,2, Amateur Adult Pre-Champ Latin  (CSRJ),Sample,0,rcb08,40428320,110,Peter Mant,Cha Cha,1
+Or,0,1,Final,Mark Richman,Vanessa Kapinus,12,1,1, Amateur Adult Pre-Champ Latin  (CSRJ),Sample,0,rcb08,40428320,110,Don Walker,Cha Cha,1
+OR,0,2,Final,norbert teston,Jessica Lindsey,10,2,2, Amateur Adult Pre-Champ Latin  (CSRJ),Sample,0,rcb08,40428320,114,Anya Klimova-Preston,Cha Cha,2
+OR,0,1,Final,norbert teston,Jessica Lindsey,11,2,1, Amateur Adult Pre-Champ Latin  (CSRJ),Sample,0,rcb08,40428320,114,Peter Mant,Cha Cha,2
+OR,0,2,Final,norbert teston,Jessica Lindsey,12,2,2, Amateur Adult Pre-Champ Latin  (CSRJ),Sample,0,rcb08,40428320,114,Don Walker,Cha Cha,2
+Or,0,1,Final,Mark Richman,Vanessa Kapinus,10,1,1, Amateur Adult Pre-Champ Latin  (CSRJ),Sample,1,rcb08,40428320,110,Anya Klimova-Preston,Samba,1
+Or,0,1,Final,Mark Richman,Vanessa Kapinus,11,1,1, Amateur Adult Pre-Champ Latin  (CSRJ),Sample,1,rcb08,40428320,110,Peter Mant,Samba,1
+Or,0,1,Final,Mark Richman,Vanessa Kapinus,12,1,1, Amateur Adult Pre-Champ Latin  (CSRJ),Sample,1,rcb08,40428320,110,Don Walker,Samba,1
+OR,0,2,Final,norbert teston,Jessica Lindsey,10,2,2, Amateur Adult Pre-Champ Latin  (CSRJ),Sample,1,rcb08,40428320,114,Anya Klimova-Preston,Samba,2
+OR,0,2,Final,norbert teston,Jessica Lindsey,11,2,2, Amateur Adult Pre-Champ Latin  (CSRJ),Sample,1,rcb08,40428320,114,Peter Mant,Samba,2
+OR,0,2,Final,norbert teston,Jessica Lindsey,12,2,2, Amateur Adult Pre-Champ Latin  (CSRJ),Sample,1,rcb08,40428320,114,Don Walker,Samba,2
+Or,0,1,Final,Mark Richman,Vanessa Kapinus,10,1,1, Amateur Adult Pre-Champ Latin  (CSRJ),Sample,2,rcb08,40428320,110,Anya Klimova-Preston,Rumba,1
+Or,0,1,Final,Mark Richman,Vanessa Kapinus,11,1,1, Amateur Adult Pre-Champ Latin  (CSRJ),Sample,2,rcb08,40428320,110,Peter Mant,Rumba,1
+Or,0,2,Final,Mark Richman,Vanessa Kapinus,12,1,2, Amateur Adult Pre-Champ Latin  (CSRJ),Sample,2,rcb08,40428320,110,Don Walker,Rumba,1
+OR,0,2,Final,norbert teston,Jessica Lindsey,10,2,2, Amateur Adult Pre-Champ Latin  (CSRJ),Sample,2,rcb08,40428320,114,Anya Klimova-Preston,Rumba,2
+OR,0,2,Final,norbert teston,Jessica Lindsey,11,2,2, Amateur Adult Pre-Champ Latin  (CSRJ),Sample,2,rcb08,40428320,114,Peter Mant,Rumba,2
+OR,0,1,Final,norbert teston,Jessica Lindsey,12,2,1, Amateur Adult Pre-Champ Latin  (CSRJ),Sample,2,rcb08,40428320,114,Don Walker,Rumba,2
+Or,0,1,Final,Mark Richman,Vanessa Kapinus,10,1,1, Amateur Adult Pre-Champ Latin  (CSRJ),Sample,3,rcb08,40428320,110,Anya Klimova-Preston,Jive,1
+Or,0,1,Final,Mark Richman,Vanessa Kapinus,11,1,1, Amateur Adult Pre-Champ Latin  (CSRJ),Sample,3,rcb08,40428320,110,Peter Mant,Jive,1
+Or,0,2,Final,Mark Richman,Vanessa Kapinus,12,1,2, Amateur Adult Pre-Champ Latin  (CSRJ),Sample,3,rcb08,40428320,110,Don Walker,Jive,1
+OR,0,2,Final,norbert teston,Jessica Lindsey,10,2,2, Amateur Adult Pre-Champ Latin  (CSRJ),Sample,3,rcb08,40428320,114,Anya Klimova-Preston,Jive,2
+OR,0,2,Final,norbert teston,Jessica Lindsey,11,2,2, Amateur Adult Pre-Champ Latin  (CSRJ),Sample,3,rcb08,40428320,114,Peter Mant,Jive,2
+OR,0,1,Final,norbert teston,Jessica Lindsey,12,2,1, Amateur Adult Pre-Champ Latin  (CSRJ),Sample,3,rcb08,40428320,114,Don Walker,Jive,2
+Or,0,1,Final,Donald A. Fechner,Mari Schwarts,10,1,1, Amateur Senior III Silver Latin  (CSR),Sample,0,rcb08,40453020,102,Anya Klimova-Preston,Cha Cha,1
+Or,0,1,Final,Donald A. Fechner,Mari Schwarts,11,1,1, Amateur Senior III Silver Latin  (CSR),Sample,0,rcb08,40453020,102,Peter Mant,Cha Cha,1
+Or,0,1,Final,Donald A. Fechner,Mari Schwarts,12,1,1, Amateur Senior III Silver Latin  (CSR),Sample,0,rcb08,40453020,102,Don Walker,Cha Cha,1
+Or,0,1,Final,Donald A. Fechner,Mari Schwarts,10,1,1, Amateur Senior III Silver Latin  (CSR),Sample,1,rcb08,40453020,102,Anya Klimova-Preston,Samba,1
+Or,0,1,Final,Donald A. Fechner,Mari Schwarts,11,1,1, Amateur Senior III Silver Latin  (CSR),Sample,1,rcb08,40453020,102,Peter Mant,Samba,1
+Or,0,1,Final,Donald A. Fechner,Mari Schwarts,12,1,1, Amateur Senior III Silver Latin  (CSR),Sample,1,rcb08,40453020,102,Don Walker,Samba,1
+Or,0,1,Final,Donald A. Fechner,Mari Schwarts,10,1,1, Amateur Senior III Silver Latin  (CSR),Sample,2,rcb08,40453020,102,Anya Klimova-Preston,Rumba,1
+Or,0,1,Final,Donald A. Fechner,Mari Schwarts,11,1,1, Amateur Senior III Silver Latin  (CSR),Sample,2,rcb08,40453020,102,Peter Mant,Rumba,1
+Or,0,1,Final,Donald A. Fechner,Mari Schwarts,12,1,1, Amateur Senior III Silver Latin  (CSR),Sample,2,rcb08,40453020,102,Don Walker,Rumba,1
+Or,0,1,Final,Jack Lim,Jesse Wong,10,1,1, Amateur Adult Bronze Rhythm  (CR),Sample,0,rcb08,40422840,106,Anya Klimova-Preston,Cha Cha,1
+Or,0,1,Final,Jack Lim,Jesse Wong,11,1,1, Amateur Adult Bronze Rhythm  (CR),Sample,0,rcb08,40422840,106,Peter Mant,Cha Cha,1
+Or,0,1,Final,Jack Lim,Jesse Wong,12,1,1, Amateur Adult Bronze Rhythm  (CR),Sample,0,rcb08,40422840,106,Don Walker,Cha Cha,1
+Or,0,1,Final,Jack Lim,Jesse Wong,10,1,1, Amateur Adult Bronze Rhythm  (CR),Sample,1,rcb08,40422840,106,Anya Klimova-Preston,Rumba,1
+Or,0,1,Final,Jack Lim,Jesse Wong,11,1,1, Amateur Adult Bronze Rhythm  (CR),Sample,1,rcb08,40422840,106,Peter Mant,Rumba,1
+Or,0,1,Final,Jack Lim,Jesse Wong,12,1,1, Amateur Adult Bronze Rhythm  (CR),Sample,1,rcb08,40422840,106,Don Walker,Rumba,1
+Or,0,1,Final,Mark Richman,Vanessa Kapinus,10,1,1, Amateur Adult Championship Latin  (CSRPJ),Sample,0,rcb08,40428720,110,Anya Klimova-Preston,Cha Cha,1
+Or,0,2,Final,Mark Richman,Vanessa Kapinus,11,1,2, Amateur Adult Championship Latin  (CSRPJ),Sample,0,rcb08,40428720,110,Peter Mant,Cha Cha,1
+Or,0,1,Final,Mark Richman,Vanessa Kapinus,12,1,1, Amateur Adult Championship Latin  (CSRPJ),Sample,0,rcb08,40428720,110,Don Walker,Cha Cha,1
+OR,0,2,Final,norbert teston,Jessica Lindsey,10,2,2, Amateur Adult Championship Latin  (CSRPJ),Sample,0,rcb08,40428720,114,Anya Klimova-Preston,Cha Cha,2
+OR,0,1,Final,norbert teston,Jessica Lindsey,11,2,1, Amateur Adult Championship Latin  (CSRPJ),Sample,0,rcb08,40428720,114,Peter Mant,Cha Cha,2
+OR,0,2,Final,norbert teston,Jessica Lindsey,12,2,2, Amateur Adult Championship Latin  (CSRPJ),Sample,0,rcb08,40428720,114,Don Walker,Cha Cha,2
+Or,0,1,Final,Mark Richman,Vanessa Kapinus,10,1,1, Amateur Adult Championship Latin  (CSRPJ),Sample,1,rcb08,40428720,110,Anya Klimova-Preston,Samba,1
+Or,0,2,Final,Mark Richman,Vanessa Kapinus,11,1,2, Amateur Adult Championship Latin  (CSRPJ),Sample,1,rcb08,40428720,110,Peter Mant,Samba,1
+Or,0,1,Final,Mark Richman,Vanessa Kapinus,12,1,1, Amateur Adult Championship Latin  (CSRPJ),Sample,1,rcb08,40428720,110,Don Walker,Samba,1
+OR,0,2,Final,norbert teston,Jessica Lindsey,10,2,2, Amateur Adult Championship Latin  (CSRPJ),Sample,1,rcb08,40428720,114,Anya Klimova-Preston,Samba,2
+OR,0,1,Final,norbert teston,Jessica Lindsey,11,2,1, Amateur Adult Championship Latin  (CSRPJ),Sample,1,rcb08,40428720,114,Peter Mant,Samba,2
+OR,0,2,Final,norbert teston,Jessica Lindsey,12,2,2, Amateur Adult Championship Latin  (CSRPJ),Sample,1,rcb08,40428720,114,Don Walker,Samba,2
+Or,0,1,Final,Mark Richman,Vanessa Kapinus,10,1,1, Amateur Adult Championship Latin  (CSRPJ),Sample,2,rcb08,40428720,110,Anya Klimova-Preston,Rumba,1
+Or,0,2,Final,Mark Richman,Vanessa Kapinus,11,1,2, Amateur Adult Championship Latin  (CSRPJ),Sample,2,rcb08,40428720,110,Peter Mant,Rumba,1
+Or,0,1,Final,Mark Richman,Vanessa Kapinus,12,1,1, Amateur Adult Championship Latin  (CSRPJ),Sample,2,rcb08,40428720,110,Don Walker,Rumba,1
+OR,0,2,Final,norbert teston,Jessica Lindsey,10,2,2, Amateur Adult Championship Latin  (CSRPJ),Sample,2,rcb08,40428720,114,Anya Klimova-Preston,Rumba,2
+OR,0,1,Final,norbert teston,Jessica Lindsey,11,2,1, Amateur Adult Championship Latin  (CSRPJ),Sample,2,rcb08,40428720,114,Peter Mant,Rumba,2
+OR,0,2,Final,norbert teston,Jessica Lindsey,12,2,2, Amateur Adult Championship Latin  (CSRPJ),Sample,2,rcb08,40428720,114,Don Walker,Rumba,2
+Or,0,1,Final,Mark Richman,Vanessa Kapinus,10,1,1, Amateur Adult Championship Latin  (CSRPJ),Sample,3,rcb08,40428720,110,Anya Klimova-Preston,Paso Doble,1
+Or,0,2,Final,Mark Richman,Vanessa Kapinus,11,1,2, Amateur Adult Championship Latin  (CSRPJ),Sample,3,rcb08,40428720,110,Peter Mant,Paso Doble,1
+Or,0,1,Final,Mark Richman,Vanessa Kapinus,12,1,1, Amateur Adult Championship Latin  (CSRPJ),Sample,3,rcb08,40428720,110,Don Walker,Paso Doble,1
+OR,0,2,Final,norbert teston,Jessica Lindsey,10,2,2, Amateur Adult Championship Latin  (CSRPJ),Sample,3,rcb08,40428720,114,Anya Klimova-Preston,Paso Doble,2
+OR,0,1,Final,norbert teston,Jessica Lindsey,11,2,1, Amateur Adult Championship Latin  (CSRPJ),Sample,3,rcb08,40428720,114,Peter Mant,Paso Doble,2
+OR,0,2,Final,norbert teston,Jessica Lindsey,12,2,2, Amateur Adult Championship Latin  (CSRPJ),Sample,3,rcb08,40428720,114,Don Walker,Paso Doble,2
+Or,0,1,Final,Mark Richman,Vanessa Kapinus,10,1,1, Amateur Adult Championship Latin  (CSRPJ),Sample,4,rcb08,40428720,110,Anya Klimova-Preston,Jive,1
+Or,0,2,Final,Mark Richman,Vanessa Kapinus,11,1,2, Amateur Adult Championship Latin  (CSRPJ),Sample,4,rcb08,40428720,110,Peter Mant,Jive,1
+Or,0,1,Final,Mark Richman,Vanessa Kapinus,12,1,1, Amateur Adult Championship Latin  (CSRPJ),Sample,4,rcb08,40428720,110,Don Walker,Jive,1
+OR,0,2,Final,norbert teston,Jessica Lindsey,10,2,2, Amateur Adult Championship Latin  (CSRPJ),Sample,4,rcb08,40428720,114,Anya Klimova-Preston,Jive,2
+OR,0,1,Final,norbert teston,Jessica Lindsey,11,2,1, Amateur Adult Championship Latin  (CSRPJ),Sample,4,rcb08,40428720,114,Peter Mant,Jive,2
+OR,0,2,Final,norbert teston,Jessica Lindsey,12,2,2, Amateur Adult Championship Latin  (CSRPJ),Sample,4,rcb08,40428720,114,Don Walker,Jive,2
+Or,0,2,Final,Jack Lim,Jesse Wong,10,2,2, Amateur Adult Silver Rhythm  (CRS),Sample,0,rcb08,40423040,106,Anya Klimova-Preston,Cha Cha,1
+Or,0,2,Final,Jack Lim,Jesse Wong,11,2,2, Amateur Adult Silver Rhythm  (CRS),Sample,0,rcb08,40423040,106,Peter Mant,Cha Cha,1
+Or,0,1,Final,Jack Lim,Jesse Wong,12,2,1, Amateur Adult Silver Rhythm  (CRS),Sample,0,rcb08,40423040,106,Don Walker,Cha Cha,1
+OR,0,1,Final,Ramey Danielson,Stefanie Reid,10,1,1, Amateur Adult Silver Rhythm  (CRS),Sample,0,rcb08,40423040,116,Anya Klimova-Preston,Cha Cha,2
+OR,0,1,Final,Ramey Danielson,Stefanie Reid,11,1,1, Amateur Adult Silver Rhythm  (CRS),Sample,0,rcb08,40423040,116,Peter Mant,Cha Cha,2
+OR,0,2,Final,Ramey Danielson,Stefanie Reid,12,1,2, Amateur Adult Silver Rhythm  (CRS),Sample,0,rcb08,40423040,116,Don Walker,Cha Cha,2
+Or,0,1,Final,Jack Lim,Jesse Wong,10,1,1, Amateur Adult Silver Rhythm  (CRS),Sample,1,rcb08,40423040,106,Anya Klimova-Preston,Rumba,1
+Or,0,2,Final,Jack Lim,Jesse Wong,11,1,2, Amateur Adult Silver Rhythm  (CRS),Sample,1,rcb08,40423040,106,Peter Mant,Rumba,1
+Or,0,1,Final,Jack Lim,Jesse Wong,12,1,1, Amateur Adult Silver Rhythm  (CRS),Sample,1,rcb08,40423040,106,Don Walker,Rumba,1
+OR,0,2,Final,Ramey Danielson,Stefanie Reid,10,2,2, Amateur Adult Silver Rhythm  (CRS),Sample,1,rcb08,40423040,116,Anya Klimova-Preston,Rumba,2
+OR,0,1,Final,Ramey Danielson,Stefanie Reid,11,2,1, Amateur Adult Silver Rhythm  (CRS),Sample,1,rcb08,40423040,116,Peter Mant,Rumba,2
+OR,0,2,Final,Ramey Danielson,Stefanie Reid,12,2,2, Amateur Adult Silver Rhythm  (CRS),Sample,1,rcb08,40423040,116,Don Walker,Rumba,2
+Or,0,2,Final,Jack Lim,Jesse Wong,10,1,2, Amateur Adult Silver Rhythm  (CRS),Sample,2,rcb08,40423040,106,Anya Klimova-Preston,Swing,1
+Or,0,1,Final,Jack Lim,Jesse Wong,11,1,1, Amateur Adult Silver Rhythm  (CRS),Sample,2,rcb08,40423040,106,Peter Mant,Swing,1
+Or,0,1,Final,Jack Lim,Jesse Wong,12,1,1, Amateur Adult Silver Rhythm  (CRS),Sample,2,rcb08,40423040,106,Don Walker,Swing,1
+OR,0,1,Final,Ramey Danielson,Stefanie Reid,10,2,1, Amateur Adult Silver Rhythm  (CRS),Sample,2,rcb08,40423040,116,Anya Klimova-Preston,Swing,2
+OR,0,2,Final,Ramey Danielson,Stefanie Reid,11,2,2, Amateur Adult Silver Rhythm  (CRS),Sample,2,rcb08,40423040,116,Peter Mant,Swing,2
+OR,0,2,Final,Ramey Danielson,Stefanie Reid,12,2,2, Amateur Adult Silver Rhythm  (CRS),Sample,2,rcb08,40423040,116,Don Walker,Swing,2

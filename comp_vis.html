@@ -41,12 +41,21 @@
             alignment-baseline: middle;
             opacity:0;
         }
+        
+        div.special_panel {
+            background: lightgrey;
+            padding:4px;
+        }
 
     </style>
 
 </head>
 <body>
     <h1 id="comp_name">Ballroom Results Explorer</h1>
+    <div class="special_panel">
+    Change View: <button class="panes" xp="1" yp="1">1x1</button> <button class="panes" xp="2" yp="1">2x1</button> <button class="panes" xp="2" yp="2">2x2</button> <button class="panes" xp="3" yp="2">3x2</button><br/>
+    <input type="checkbox">Selected dancers at top <button id="clear_sel">Clear Selection</button>Stored Selections: <button id="hbdt">Harvard Team</button></div>
+    <br/>
     <table><tr></tr></table>
     
         
@@ -57,7 +66,8 @@
     </div>
     <div id="about">
         (c) 2014 Ross Rheingans-Yoo, rry@eecs.harvard.edu<br/>
-        source: <a href="http://www.o2cm.com/Results/event3.asp?event=hid14">O2CM: HI14</a><br/>
+        source: <a href="http://www.o2cm.com/Results/">O2CM</a><br/>
+        HBDT roster used by permission<br/>
         built on <a href="http://d3js.org/">d3</a>
     </div>
 	<script src="comp_vis.js"></script>

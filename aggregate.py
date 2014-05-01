@@ -12,6 +12,7 @@ n_marks = 0
 n_couples = 0
 n_heats = 0
 n_events = 0
+
 def log_status() :
     print(str(n_comps)+' comps')
     print(str(n_marks)+' marks')
@@ -25,9 +26,11 @@ def names(line) :
 if (not os.path.isdir('data')) :
     os.mkdir('data')
 
-init()
-for link in comp_links() :
-    n_comps += 1
+def scrape_link(link,try_again) :
+    global n_marks
+    global n_couples
+    global n_heats
+    global n_events
     
     comp_id = comp_id_from_link(link[1])
     print('NEXT: '+link[0])
@@ -37,7 +40,7 @@ for link in comp_links() :
     
     results = {}
     # res_data.json
-    if (os.path.isfile('data/'+comp_id+'/res_data.json') and SHORTCUT_FILES) :
+    if (os.path.isfile('data/'+comp_id+'/res_data.json') and SHORTCUT_FILES and False) :
         #with open('data/'+comp_id+'/res_data.json', 'r') as f:
         #    results = json.load(f)
         print('used existing res_data.json')
@@ -45,14 +48,28 @@ for link in comp_links() :
         
         flat_comp = []
         # flat_comp.csv
-        if (os.path.isfile('data/'+comp_id+'/flat_comp.csv')) :
+        if (os.path.isfile('data/'+comp_id+'/flat_comp.csv') and SHORTCUT_FILES) :
             with open('data/'+comp_id+'/flat_comp.csv', 'r') as f:
                 reader = csv.DictReader(f)
-                for line in reader :
-                    flat_comp.append(line)
+                try :
+                    for line in reader :
+                        flat_comp.append(line)
+                except :
+                    if (try_again) :
+                        os.remove('data/'+comp_id+'/flat_comp.csv')
+                        return scrape_link(link,False)
+                    else :
+                        print('failed on '+comp_id)
+                        exit(1)
+                
             print('used existing flat_comp.csv')
         else:
-            comp = competition_document('Sample',link[1])
+            try :
+                comp = competition_document('Sample',link[1])
+            except :
+                os.rmdir('data/'+comp_id)
+                print('faulty link, skipped')
+                return
             flat_comp = flatten_comp(comp)
             
             n_marks += len(flat_comp)
@@ -71,36 +88,50 @@ for link in comp_links() :
         
         # let's aggregate our data:
         ## { event_id:{ 'name':name , 'num_judges':[(total_this_round,req_for_recall)] , str(couple) :(best_round_id,[final_marks,semi_marks,...]) } , event2_id:{...} }
-        for line in flat_comp :
-            if (not line['heat_id'] in results) :
-                results[line['heat_id']] = {'.name':line['heat_name'],'.judges':[],'.all_judges':[set()]}
-                n_events += 1
-            heat = results[line['heat_id']]
-            if (not names(line) in heat) :
-                heat[names(line)] = [-1,[[]]]
-                n_couples += 1
+        try :
+            for line in flat_comp :
+                n_marks += 1
+                if (not line['heat_id'] in results) :
+                    results[line['heat_id']] = {'.name':line['heat_name'],'.judges':[],'.all_judges':[set()]}
+                    n_events += 1
+                heat = results[line['heat_id']]
+                if (not names(line) in heat) :
+                    heat[names(line)] = [-1,[[]]]
+                    n_couples += 1
+                    
+                round_id = int(line['round_id'])
                 
-            round_id = int(line['round_id'])
-            
-            while (round_id >= len(heat['.all_judges'])) :
-                heat['.all_judges'].append(set())
-            heat['.all_judges'][round_id].add(line['judge'])
-            
-            if (round_id == 0) :
-                heat[names(line)][1][0].append(int(line['value']))
-                heat[names(line)][0] = 0
-            else:
-                while (round_id >= len(heat[names(line)][1])) :
-                    heat[names(line)][1].append(0)
-                heat[names(line)][1][round_id] += int(line['value'])
+                while (round_id >= len(heat['.all_judges'])) :
+                    heat['.all_judges'].append(set())
+                heat['.all_judges'][round_id].add(line['judge'])
                 
-                if (round_id < heat[names(line)][0] or heat[names(line)][0] == -1) :
-                    heat[names(line)][0] = round_id
+                if (round_id == 0) :
+                    heat[names(line)][1][0].append(int(line['value']))
+                    heat[names(line)][0] = 0
+                else:
+                    while (round_id >= len(heat[names(line)][1])) :
+                        heat[names(line)][1].append(0)
+                    heat[names(line)][1][round_id] += int(line['value'])
+                    
+                    if (round_id < heat[names(line)][0] or heat[names(line)][0] == -1) :
+                        heat[names(line)][0] = round_id
+        except :
+            if (try_again) :
+                os.remove('data/'+comp_id+'/flat_comp.csv')
+                return scrape_link(link,False)
+            else :
+                print('failed on '+comp_id)
+                exit(1)
         
         ret_results = []
         for heat_name in results :
             heat = results[heat_name]
+            if (heat['.name'][1] == '-') :
+                continue
             n_rounds = len(heat['.all_judges'])
+            if (n_rounds == 1) :
+                continue
+            
             n_heats += n_rounds
             n_dances = 0
             min_call = [-1] * n_rounds
@@ -138,12 +169,16 @@ for link in comp_links() :
                     ret_heat[1].append((k,v))
             
             ret_results.append(ret_heat)
-        
         # we write this as json, so we can get at it easier later
         with open('data/'+comp_id+'/res_data.json', 'w') as f:
             json.dump(ret_results, f)
         print('wrote new res_data.json')
-    log_status()
+        log_status()
+
+init()
+for link in comp_links() :
+    n_comps += 1
+    scrape_link(link,True)
 
 xx = 0
 if (not os.path.isfile('comps.json') or True) :
@@ -161,7 +196,7 @@ if (not os.path.isfile('comps.json') or True) :
             continue
         
         comps[comp_id_from_link(link[1])] = [link[0],link[2][:-2]+', '+str(year)]
-        print(str(year)+'  '+comp_id)
+        #print(str(year)+'  '+comp_id)
         xx += 1
     with open('comps.json', 'w') as f:
         json.dump(comps, f)
