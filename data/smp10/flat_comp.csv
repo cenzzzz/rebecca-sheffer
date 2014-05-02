@@ -1,0 +1,544 @@
+couple_location,round_id,mark,round_name,lead_name,follow_name,judge,result,value,heat_name,comp_name,dance_id,comp_id,heat_id,couple,judge_name,dance_name,final_result
+TN,0,1,Final,Tim Elliott,Mandy Preston,10,1,1, Pro/Am Ladies Adult A1 Int. Bronze Intl. Waltz  (W),Sample,0,smp10,88C12A18,155,Marie Crowder,Intl. Waltz,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,11,1,1, Pro/Am Ladies Adult A1 Int. Bronze Intl. Waltz  (W),Sample,0,smp10,88C12A18,155,Wayne Crowder,Intl. Waltz,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,12,1,1, Pro/Am Ladies Adult A1 Int. Bronze Intl. Waltz  (W),Sample,0,smp10,88C12A18,155,Charles Jones,Intl. Waltz,1
+TN,0,1,Final,Mark Becker,Jane Keteringham,10,1,1, Pro/Am Ladies Adult B1 Pre-Bronze Intl. Waltz  (W),Sample,0,smp10,88C42918,153,Marie Crowder,Intl. Waltz,1
+TN,0,1,Final,Mark Becker,Jane Keteringham,11,1,1, Pro/Am Ladies Adult B1 Pre-Bronze Intl. Waltz  (W),Sample,0,smp10,88C42918,153,Wayne Crowder,Intl. Waltz,1
+TN,0,1,Final,Mark Becker,Jane Keteringham,12,1,1, Pro/Am Ladies Adult B1 Pre-Bronze Intl. Waltz  (W),Sample,0,smp10,88C42918,153,Charles Jones,Intl. Waltz,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,10,1,1, Pro/Am Ladies Adult A1 Int. Bronze Intl. Tango  (T),Sample,0,smp10,88C12A19,155,Marie Crowder,Intl. Tango,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,11,1,1, Pro/Am Ladies Adult A1 Int. Bronze Intl. Tango  (T),Sample,0,smp10,88C12A19,155,Wayne Crowder,Intl. Tango,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,12,1,1, Pro/Am Ladies Adult A1 Int. Bronze Intl. Tango  (T),Sample,0,smp10,88C12A19,155,Charles Jones,Intl. Tango,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,10,1,1, Pro/Am Ladies Adult A1 Int. Bronze Intl. V. Waltz  (V),Sample,0,smp10,88C12A1A,155,Marie Crowder,Intl. V. Waltz,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,11,1,1, Pro/Am Ladies Adult A1 Int. Bronze Intl. V. Waltz  (V),Sample,0,smp10,88C12A1A,155,Wayne Crowder,Intl. V. Waltz,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,12,1,1, Pro/Am Ladies Adult A1 Int. Bronze Intl. V. Waltz  (V),Sample,0,smp10,88C12A1A,155,Charles Jones,Intl. V. Waltz,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,10,1,1, Pro/Am Ladies Adult A1 Int. Bronze Intl. Foxtrot  (F),Sample,0,smp10,88C12A1B,155,Marie Crowder,Intl. Foxtrot,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,11,1,1, Pro/Am Ladies Adult A1 Int. Bronze Intl. Foxtrot  (F),Sample,0,smp10,88C12A1B,155,Wayne Crowder,Intl. Foxtrot,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,12,1,1, Pro/Am Ladies Adult A1 Int. Bronze Intl. Foxtrot  (F),Sample,0,smp10,88C12A1B,155,Charles Jones,Intl. Foxtrot,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,10,1,1, Pro/Am Ladies Adult A1 Int. Bronze Intl. Quickstep  (Q),Sample,0,smp10,88C12A1C,155,Marie Crowder,Intl. Quickstep,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,11,1,1, Pro/Am Ladies Adult A1 Int. Bronze Intl. Quickstep  (Q),Sample,0,smp10,88C12A1C,155,Wayne Crowder,Intl. Quickstep,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,12,1,1, Pro/Am Ladies Adult A1 Int. Bronze Intl. Quickstep  (Q),Sample,0,smp10,88C12A1C,155,Charles Jones,Intl. Quickstep,1
+TN,0,1,Final,Mark Becker,Jane Keteringham,10,1,1, Pro/Am Ladies Adult B1 Pre-Bronze Intl. Quickstep  (Q),Sample,0,smp10,88C4291C,153,Marie Crowder,Intl. Quickstep,1
+TN,0,1,Final,Mark Becker,Jane Keteringham,11,1,1, Pro/Am Ladies Adult B1 Pre-Bronze Intl. Quickstep  (Q),Sample,0,smp10,88C4291C,153,Wayne Crowder,Intl. Quickstep,1
+TN,0,1,Final,Mark Becker,Jane Keteringham,12,1,1, Pro/Am Ladies Adult B1 Pre-Bronze Intl. Quickstep  (Q),Sample,0,smp10,88C4291C,153,Charles Jones,Intl. Quickstep,1
+TN,0,1,Final,Mark Becker,Jane Keteringham,10,1,1, Pro/Am Ladies Adult B1 Int. Bronze Intl. Waltz  (W),Sample,0,smp10,88C42A18,153,Marie Crowder,Intl. Waltz,1
+TN,0,1,Final,Mark Becker,Jane Keteringham,11,1,1, Pro/Am Ladies Adult B1 Int. Bronze Intl. Waltz  (W),Sample,0,smp10,88C42A18,153,Wayne Crowder,Intl. Waltz,1
+TN,0,1,Final,Mark Becker,Jane Keteringham,12,1,1, Pro/Am Ladies Adult B1 Int. Bronze Intl. Waltz  (W),Sample,0,smp10,88C42A18,153,Charles Jones,Intl. Waltz,1
+TN,0,1,Final,Mark Becker,Jane Keteringham,10,1,1, Pro/Am Ladies Adult B1 Int. Bronze Intl. Quickstep  (Q),Sample,0,smp10,88C42A1C,153,Marie Crowder,Intl. Quickstep,1
+TN,0,1,Final,Mark Becker,Jane Keteringham,11,1,1, Pro/Am Ladies Adult B1 Int. Bronze Intl. Quickstep  (Q),Sample,0,smp10,88C42A1C,153,Wayne Crowder,Intl. Quickstep,1
+TN,0,1,Final,Mark Becker,Jane Keteringham,12,1,1, Pro/Am Ladies Adult B1 Int. Bronze Intl. Quickstep  (Q),Sample,0,smp10,88C42A1C,153,Charles Jones,Intl. Quickstep,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,10,1,1, Pro/Am Ladies Adult A1 Open Bronze Standard  (WTF),Sample,0,smp10,88C12D10,155,Marie Crowder,Waltz,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,11,1,1, Pro/Am Ladies Adult A1 Open Bronze Standard  (WTF),Sample,0,smp10,88C12D10,155,Wayne Crowder,Waltz,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,12,1,1, Pro/Am Ladies Adult A1 Open Bronze Standard  (WTF),Sample,0,smp10,88C12D10,155,Charles Jones,Waltz,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,10,1,1, Pro/Am Ladies Adult A1 Open Bronze Standard  (WTF),Sample,1,smp10,88C12D10,155,Marie Crowder,Tango,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,11,1,1, Pro/Am Ladies Adult A1 Open Bronze Standard  (WTF),Sample,1,smp10,88C12D10,155,Wayne Crowder,Tango,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,12,1,1, Pro/Am Ladies Adult A1 Open Bronze Standard  (WTF),Sample,1,smp10,88C12D10,155,Charles Jones,Tango,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,10,1,1, Pro/Am Ladies Adult A1 Open Bronze Standard  (WTF),Sample,2,smp10,88C12D10,155,Marie Crowder,Foxtrot,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,11,1,1, Pro/Am Ladies Adult A1 Open Bronze Standard  (WTF),Sample,2,smp10,88C12D10,155,Wayne Crowder,Foxtrot,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,12,1,1, Pro/Am Ladies Adult A1 Open Bronze Standard  (WTF),Sample,2,smp10,88C12D10,155,Charles Jones,Foxtrot,1
+TN,0,1,Final,Mark Becker,Suszn Uzzle,10,1,1, Pro/Am Ladies Adult A1 Newcomer Am. Waltz  (W),Sample,0,smp10,88C12038,153,Marie Crowder,Am. Waltz,1
+TN,0,1,Final,Mark Becker,Suszn Uzzle,11,1,1, Pro/Am Ladies Adult A1 Newcomer Am. Waltz  (W),Sample,0,smp10,88C12038,153,Wayne Crowder,Am. Waltz,1
+TN,0,1,Final,Mark Becker,Suszn Uzzle,12,1,1, Pro/Am Ladies Adult A1 Newcomer Am. Waltz  (W),Sample,0,smp10,88C12038,153,Charles Jones,Am. Waltz,1
+,0,1,Final,Chuck Konetsky,Louise Cote,10,1,1, Pro/Am Gents Adult A2 Pre-Bronze Am. Waltz  (W),Sample,0,smp10,90C22938,243,Marie Crowder,Am. Waltz,1
+,0,1,Final,Chuck Konetsky,Louise Cote,11,1,1, Pro/Am Gents Adult A2 Pre-Bronze Am. Waltz  (W),Sample,0,smp10,90C22938,243,Wayne Crowder,Am. Waltz,1
+,0,1,Final,Chuck Konetsky,Louise Cote,12,1,1, Pro/Am Gents Adult A2 Pre-Bronze Am. Waltz  (W),Sample,0,smp10,90C22938,243,Charles Jones,Am. Waltz,1
+TN,0,1,Final,Mark Becker,Suszn Uzzle,10,1,1, Pro/Am Ladies Adult A1 Newcomer Am. Tango  (T),Sample,0,smp10,88C12039,153,Marie Crowder,Am. Tango,1
+TN,0,1,Final,Mark Becker,Suszn Uzzle,11,1,1, Pro/Am Ladies Adult A1 Newcomer Am. Tango  (T),Sample,0,smp10,88C12039,153,Wayne Crowder,Am. Tango,1
+TN,0,1,Final,Mark Becker,Suszn Uzzle,12,1,1, Pro/Am Ladies Adult A1 Newcomer Am. Tango  (T),Sample,0,smp10,88C12039,153,Charles Jones,Am. Tango,1
+,0,1,Final,Chuck Konetsky,Louise Cote,10,1,1, Pro/Am Gents Adult A2 Pre-Bronze Am. Tango  (T),Sample,0,smp10,90C22939,243,Marie Crowder,Am. Tango,1
+,0,1,Final,Chuck Konetsky,Louise Cote,11,1,1, Pro/Am Gents Adult A2 Pre-Bronze Am. Tango  (T),Sample,0,smp10,90C22939,243,Wayne Crowder,Am. Tango,1
+,0,1,Final,Chuck Konetsky,Louise Cote,12,1,1, Pro/Am Gents Adult A2 Pre-Bronze Am. Tango  (T),Sample,0,smp10,90C22939,243,Charles Jones,Am. Tango,1
+TN,0,1,Final,Mark Becker,Suszn Uzzle,10,1,1, Pro/Am Ladies Adult A1 Newcomer Am. Foxtrot  (F),Sample,0,smp10,88C1203A,153,Marie Crowder,Am. Foxtrot,1
+TN,0,1,Final,Mark Becker,Suszn Uzzle,11,1,1, Pro/Am Ladies Adult A1 Newcomer Am. Foxtrot  (F),Sample,0,smp10,88C1203A,153,Wayne Crowder,Am. Foxtrot,1
+TN,0,1,Final,Mark Becker,Suszn Uzzle,12,1,1, Pro/Am Ladies Adult A1 Newcomer Am. Foxtrot  (F),Sample,0,smp10,88C1203A,153,Charles Jones,Am. Foxtrot,1
+,0,1,Final,Chuck Konetsky,Louise Cote,10,1,1, Pro/Am Gents Adult A2 Pre-Bronze Am. Foxtrot  (F),Sample,0,smp10,90C2293A,243,Marie Crowder,Am. Foxtrot,1
+,0,1,Final,Chuck Konetsky,Louise Cote,11,1,1, Pro/Am Gents Adult A2 Pre-Bronze Am. Foxtrot  (F),Sample,0,smp10,90C2293A,243,Wayne Crowder,Am. Foxtrot,1
+,0,1,Final,Chuck Konetsky,Louise Cote,12,1,1, Pro/Am Gents Adult A2 Pre-Bronze Am. Foxtrot  (F),Sample,0,smp10,90C2293A,243,Charles Jones,Am. Foxtrot,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,10,1,1, Pro/Am Ladies Adult B1 Int. Silver Am. Waltz  (W),Sample,0,smp10,88C43238,153,Marie Crowder,Am. Waltz,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,11,1,1, Pro/Am Ladies Adult B1 Int. Silver Am. Waltz  (W),Sample,0,smp10,88C43238,153,Wayne Crowder,Am. Waltz,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,12,1,1, Pro/Am Ladies Adult B1 Int. Silver Am. Waltz  (W),Sample,0,smp10,88C43238,153,Charles Jones,Am. Waltz,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,10,1,1, Pro/Am Ladies Adult A1 Full Bronze Am. Waltz  (W),Sample,0,smp10,88C12B38,155,Marie Crowder,Am. Waltz,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,11,1,1, Pro/Am Ladies Adult A1 Full Bronze Am. Waltz  (W),Sample,0,smp10,88C12B38,155,Wayne Crowder,Am. Waltz,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,12,1,1, Pro/Am Ladies Adult A1 Full Bronze Am. Waltz  (W),Sample,0,smp10,88C12B38,155,Charles Jones,Am. Waltz,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,10,1,1, Pro/Am Ladies Adult B1 Int. Silver Am. Tango  (T),Sample,0,smp10,88C43239,153,Marie Crowder,Am. Tango,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,11,1,1, Pro/Am Ladies Adult B1 Int. Silver Am. Tango  (T),Sample,0,smp10,88C43239,153,Wayne Crowder,Am. Tango,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,12,1,1, Pro/Am Ladies Adult B1 Int. Silver Am. Tango  (T),Sample,0,smp10,88C43239,153,Charles Jones,Am. Tango,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,10,1,1, Pro/Am Ladies Adult A1 Full Bronze Am. Tango  (T),Sample,0,smp10,88C12B39,155,Marie Crowder,Am. Tango,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,11,1,1, Pro/Am Ladies Adult A1 Full Bronze Am. Tango  (T),Sample,0,smp10,88C12B39,155,Wayne Crowder,Am. Tango,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,12,1,1, Pro/Am Ladies Adult A1 Full Bronze Am. Tango  (T),Sample,0,smp10,88C12B39,155,Charles Jones,Am. Tango,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,10,1,1, Pro/Am Ladies Adult B1 Int. Silver Am. Foxtrot  (F),Sample,0,smp10,88C4323A,153,Marie Crowder,Am. Foxtrot,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,11,1,1, Pro/Am Ladies Adult B1 Int. Silver Am. Foxtrot  (F),Sample,0,smp10,88C4323A,153,Wayne Crowder,Am. Foxtrot,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,12,1,1, Pro/Am Ladies Adult B1 Int. Silver Am. Foxtrot  (F),Sample,0,smp10,88C4323A,153,Charles Jones,Am. Foxtrot,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,10,1,1, Pro/Am Ladies Adult A1 Full Bronze Am. Foxtrot  (F),Sample,0,smp10,88C12B3A,155,Marie Crowder,Am. Foxtrot,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,11,1,1, Pro/Am Ladies Adult A1 Full Bronze Am. Foxtrot  (F),Sample,0,smp10,88C12B3A,155,Wayne Crowder,Am. Foxtrot,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,12,1,1, Pro/Am Ladies Adult A1 Full Bronze Am. Foxtrot  (F),Sample,0,smp10,88C12B3A,155,Charles Jones,Am. Foxtrot,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,10,1,1, Pro/Am Ladies Adult B1 Int. Silver Am. V. Waltz  (V),Sample,0,smp10,88C4323B,153,Marie Crowder,Am. V. Waltz,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,11,1,1, Pro/Am Ladies Adult B1 Int. Silver Am. V. Waltz  (V),Sample,0,smp10,88C4323B,153,Wayne Crowder,Am. V. Waltz,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,12,1,1, Pro/Am Ladies Adult B1 Int. Silver Am. V. Waltz  (V),Sample,0,smp10,88C4323B,153,Charles Jones,Am. V. Waltz,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,10,1,1, Pro/Am Ladies Adult A1 Full Bronze Am. V. Waltz  (V),Sample,0,smp10,88C12B3B,155,Marie Crowder,Am. V. Waltz,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,11,1,1, Pro/Am Ladies Adult A1 Full Bronze Am. V. Waltz  (V),Sample,0,smp10,88C12B3B,155,Wayne Crowder,Am. V. Waltz,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,12,1,1, Pro/Am Ladies Adult A1 Full Bronze Am. V. Waltz  (V),Sample,0,smp10,88C12B3B,155,Charles Jones,Am. V. Waltz,1
+TN,0,1,Final,Mark Becker,Suszn Uzzle,10,1,1, Pro/Am Ladies Adult A1 Pre-Bronze Am. Waltz  (W),Sample,0,smp10,88C12938,153,Marie Crowder,Am. Waltz,1
+TN,0,1,Final,Mark Becker,Suszn Uzzle,11,1,1, Pro/Am Ladies Adult A1 Pre-Bronze Am. Waltz  (W),Sample,0,smp10,88C12938,153,Wayne Crowder,Am. Waltz,1
+TN,0,1,Final,Mark Becker,Suszn Uzzle,12,1,1, Pro/Am Ladies Adult A1 Pre-Bronze Am. Waltz  (W),Sample,0,smp10,88C12938,153,Charles Jones,Am. Waltz,1
+,0,1,Final,Chuck Konetsky,Louise Cote,10,1,1, Pro/Am Gents Adult A2 Int. Bronze Am. Waltz  (W),Sample,0,smp10,90C22A38,243,Marie Crowder,Am. Waltz,1
+,0,1,Final,Chuck Konetsky,Louise Cote,11,1,1, Pro/Am Gents Adult A2 Int. Bronze Am. Waltz  (W),Sample,0,smp10,90C22A38,243,Wayne Crowder,Am. Waltz,1
+,0,1,Final,Chuck Konetsky,Louise Cote,12,1,1, Pro/Am Gents Adult A2 Int. Bronze Am. Waltz  (W),Sample,0,smp10,90C22A38,243,Charles Jones,Am. Waltz,1
+TN,0,1,Final,Mark Becker,Suszn Uzzle,10,1,1, Pro/Am Ladies Adult A1 Pre-Bronze Am. Tango  (T),Sample,0,smp10,88C12939,153,Marie Crowder,Am. Tango,1
+TN,0,1,Final,Mark Becker,Suszn Uzzle,11,1,1, Pro/Am Ladies Adult A1 Pre-Bronze Am. Tango  (T),Sample,0,smp10,88C12939,153,Wayne Crowder,Am. Tango,1
+TN,0,1,Final,Mark Becker,Suszn Uzzle,12,1,1, Pro/Am Ladies Adult A1 Pre-Bronze Am. Tango  (T),Sample,0,smp10,88C12939,153,Charles Jones,Am. Tango,1
+,0,1,Final,Chuck Konetsky,Louise Cote,10,1,1, Pro/Am Gents Adult A2 Int. Bronze Am. Tango  (T),Sample,0,smp10,90C22A39,243,Marie Crowder,Am. Tango,1
+,0,1,Final,Chuck Konetsky,Louise Cote,11,1,1, Pro/Am Gents Adult A2 Int. Bronze Am. Tango  (T),Sample,0,smp10,90C22A39,243,Wayne Crowder,Am. Tango,1
+,0,1,Final,Chuck Konetsky,Louise Cote,12,1,1, Pro/Am Gents Adult A2 Int. Bronze Am. Tango  (T),Sample,0,smp10,90C22A39,243,Charles Jones,Am. Tango,1
+TN,0,1,Final,Mark Becker,Suszn Uzzle,10,1,1, Pro/Am Ladies Adult A1 Pre-Bronze Am. Foxtrot  (F),Sample,0,smp10,88C1293A,153,Marie Crowder,Am. Foxtrot,1
+TN,0,1,Final,Mark Becker,Suszn Uzzle,11,1,1, Pro/Am Ladies Adult A1 Pre-Bronze Am. Foxtrot  (F),Sample,0,smp10,88C1293A,153,Wayne Crowder,Am. Foxtrot,1
+TN,0,1,Final,Mark Becker,Suszn Uzzle,12,1,1, Pro/Am Ladies Adult A1 Pre-Bronze Am. Foxtrot  (F),Sample,0,smp10,88C1293A,153,Charles Jones,Am. Foxtrot,1
+,0,1,Final,Chuck Konetsky,Louise Cote,10,1,1, Pro/Am Gents Adult A2 Int. Bronze Am. Foxtrot  (F),Sample,0,smp10,90C22A3A,243,Marie Crowder,Am. Foxtrot,1
+,0,1,Final,Chuck Konetsky,Louise Cote,11,1,1, Pro/Am Gents Adult A2 Int. Bronze Am. Foxtrot  (F),Sample,0,smp10,90C22A3A,243,Wayne Crowder,Am. Foxtrot,1
+,0,1,Final,Chuck Konetsky,Louise Cote,12,1,1, Pro/Am Gents Adult A2 Int. Bronze Am. Foxtrot  (F),Sample,0,smp10,90C22A3A,243,Charles Jones,Am. Foxtrot,1
+TN,0,1,Final,Mark Becker,Cathy McCarter,10,1,1, Pro/Am Ladies Adult B2 Pre-Bronze Am. Waltz  (W),Sample,0,smp10,88C52938,153,Marie Crowder,Am. Waltz,1
+TN,0,1,Final,Mark Becker,Cathy McCarter,11,1,1, Pro/Am Ladies Adult B2 Pre-Bronze Am. Waltz  (W),Sample,0,smp10,88C52938,153,Wayne Crowder,Am. Waltz,1
+TN,0,1,Final,Mark Becker,Cathy McCarter,12,1,1, Pro/Am Ladies Adult B2 Pre-Bronze Am. Waltz  (W),Sample,0,smp10,88C52938,153,Charles Jones,Am. Waltz,1
+,0,1,Final,Robert Potter,Louise Cote,10,1,1, Pro/Am Gents Adult A2 Full Bronze Am. Waltz  (W),Sample,0,smp10,90C22B38,244,Marie Crowder,Am. Waltz,1
+,0,1,Final,Robert Potter,Louise Cote,11,1,1, Pro/Am Gents Adult A2 Full Bronze Am. Waltz  (W),Sample,0,smp10,90C22B38,244,Wayne Crowder,Am. Waltz,1
+,0,1,Final,Robert Potter,Louise Cote,12,1,1, Pro/Am Gents Adult A2 Full Bronze Am. Waltz  (W),Sample,0,smp10,90C22B38,244,Charles Jones,Am. Waltz,1
+TN,0,1,Final,Mark Becker,Cathy McCarter,10,1,1, Pro/Am Ladies Adult B2 Pre-Bronze Am. Tango  (T),Sample,0,smp10,88C52939,153,Marie Crowder,Am. Tango,1
+TN,0,1,Final,Mark Becker,Cathy McCarter,11,1,1, Pro/Am Ladies Adult B2 Pre-Bronze Am. Tango  (T),Sample,0,smp10,88C52939,153,Wayne Crowder,Am. Tango,1
+TN,0,1,Final,Mark Becker,Cathy McCarter,12,1,1, Pro/Am Ladies Adult B2 Pre-Bronze Am. Tango  (T),Sample,0,smp10,88C52939,153,Charles Jones,Am. Tango,1
+,0,1,Final,Robert Potter,Louise Cote,10,1,1, Pro/Am Gents Adult A2 Full Bronze Am. Tango  (T),Sample,0,smp10,90C22B39,244,Marie Crowder,Am. Tango,1
+,0,1,Final,Robert Potter,Louise Cote,11,1,1, Pro/Am Gents Adult A2 Full Bronze Am. Tango  (T),Sample,0,smp10,90C22B39,244,Wayne Crowder,Am. Tango,1
+,0,1,Final,Robert Potter,Louise Cote,12,1,1, Pro/Am Gents Adult A2 Full Bronze Am. Tango  (T),Sample,0,smp10,90C22B39,244,Charles Jones,Am. Tango,1
+TN,0,1,Final,Mark Becker,Cathy McCarter,10,1,1, Pro/Am Ladies Adult B2 Pre-Bronze Am. Foxtrot  (F),Sample,0,smp10,88C5293A,153,Marie Crowder,Am. Foxtrot,1
+TN,0,1,Final,Mark Becker,Cathy McCarter,11,1,1, Pro/Am Ladies Adult B2 Pre-Bronze Am. Foxtrot  (F),Sample,0,smp10,88C5293A,153,Wayne Crowder,Am. Foxtrot,1
+TN,0,1,Final,Mark Becker,Cathy McCarter,12,1,1, Pro/Am Ladies Adult B2 Pre-Bronze Am. Foxtrot  (F),Sample,0,smp10,88C5293A,153,Charles Jones,Am. Foxtrot,1
+,0,1,Final,Robert Potter,Louise Cote,10,1,1, Pro/Am Gents Adult A2 Full Bronze Am. Foxtrot  (F),Sample,0,smp10,90C22B3A,244,Marie Crowder,Am. Foxtrot,1
+,0,1,Final,Robert Potter,Louise Cote,11,1,1, Pro/Am Gents Adult A2 Full Bronze Am. Foxtrot  (F),Sample,0,smp10,90C22B3A,244,Wayne Crowder,Am. Foxtrot,1
+,0,1,Final,Robert Potter,Louise Cote,12,1,1, Pro/Am Gents Adult A2 Full Bronze Am. Foxtrot  (F),Sample,0,smp10,90C22B3A,244,Charles Jones,Am. Foxtrot,1
+TN,0,1,Final,Tim Elliott,Cathy Potter,10,1,1, Pro/Am Ladies Adult B1 Full Bronze Am. Waltz  (W),Sample,0,smp10,88C42B38,155,Marie Crowder,Am. Waltz,1
+TN,0,1,Final,Tim Elliott,Cathy Potter,11,1,1, Pro/Am Ladies Adult B1 Full Bronze Am. Waltz  (W),Sample,0,smp10,88C42B38,155,Wayne Crowder,Am. Waltz,1
+TN,0,1,Final,Tim Elliott,Cathy Potter,12,1,1, Pro/Am Ladies Adult B1 Full Bronze Am. Waltz  (W),Sample,0,smp10,88C42B38,155,Charles Jones,Am. Waltz,1
+TN,0,2,Final,Mark Becker,Jane Keteringham,10,2,2, Pro/Am Ladies Adult B1 Full Bronze Am. Waltz  (W),Sample,0,smp10,88C42B38,153,Marie Crowder,Am. Waltz,2
+TN,0,2,Final,Mark Becker,Jane Keteringham,11,2,2, Pro/Am Ladies Adult B1 Full Bronze Am. Waltz  (W),Sample,0,smp10,88C42B38,153,Wayne Crowder,Am. Waltz,2
+TN,0,2,Final,Mark Becker,Jane Keteringham,12,2,2, Pro/Am Ladies Adult B1 Full Bronze Am. Waltz  (W),Sample,0,smp10,88C42B38,153,Charles Jones,Am. Waltz,2
+TN,0,1,Final,Mark Becker,Jane Keteringham,10,1,1, Pro/Am Ladies Adult B1 Full Bronze Am. Tango  (T),Sample,0,smp10,88C42B39,153,Marie Crowder,Am. Tango,1
+TN,0,2,Final,Mark Becker,Jane Keteringham,11,1,2, Pro/Am Ladies Adult B1 Full Bronze Am. Tango  (T),Sample,0,smp10,88C42B39,153,Wayne Crowder,Am. Tango,1
+TN,0,1,Final,Mark Becker,Jane Keteringham,12,1,1, Pro/Am Ladies Adult B1 Full Bronze Am. Tango  (T),Sample,0,smp10,88C42B39,153,Charles Jones,Am. Tango,1
+TN,0,2,Final,Tim Elliott,Cathy Potter,10,2,2, Pro/Am Ladies Adult B1 Full Bronze Am. Tango  (T),Sample,0,smp10,88C42B39,155,Marie Crowder,Am. Tango,2
+TN,0,1,Final,Tim Elliott,Cathy Potter,11,2,1, Pro/Am Ladies Adult B1 Full Bronze Am. Tango  (T),Sample,0,smp10,88C42B39,155,Wayne Crowder,Am. Tango,2
+TN,0,2,Final,Tim Elliott,Cathy Potter,12,2,2, Pro/Am Ladies Adult B1 Full Bronze Am. Tango  (T),Sample,0,smp10,88C42B39,155,Charles Jones,Am. Tango,2
+TN,0,2,Final,Tim Elliott,Cathy Potter,10,1,2, Pro/Am Ladies Adult B1 Full Bronze Am. Foxtrot  (F),Sample,0,smp10,88C42B3A,155,Marie Crowder,Am. Foxtrot,1
+TN,0,1,Final,Tim Elliott,Cathy Potter,11,1,1, Pro/Am Ladies Adult B1 Full Bronze Am. Foxtrot  (F),Sample,0,smp10,88C42B3A,155,Wayne Crowder,Am. Foxtrot,1
+TN,0,1,Final,Tim Elliott,Cathy Potter,12,1,1, Pro/Am Ladies Adult B1 Full Bronze Am. Foxtrot  (F),Sample,0,smp10,88C42B3A,155,Charles Jones,Am. Foxtrot,1
+TN,0,1,Final,Mark Becker,Jane Keteringham,10,2,1, Pro/Am Ladies Adult B1 Full Bronze Am. Foxtrot  (F),Sample,0,smp10,88C42B3A,153,Marie Crowder,Am. Foxtrot,2
+TN,0,2,Final,Mark Becker,Jane Keteringham,11,2,2, Pro/Am Ladies Adult B1 Full Bronze Am. Foxtrot  (F),Sample,0,smp10,88C42B3A,153,Wayne Crowder,Am. Foxtrot,2
+TN,0,2,Final,Mark Becker,Jane Keteringham,12,2,2, Pro/Am Ladies Adult B1 Full Bronze Am. Foxtrot  (F),Sample,0,smp10,88C42B3A,153,Charles Jones,Am. Foxtrot,2
+TN,0,1,Final,Mark Becker,Stephanie Ryan,10,1,1, Pro/Am Ladies Adult B1 Full Silver Am. V. Waltz  (V),Sample,0,smp10,88C4333B,153,Marie Crowder,Am. V. Waltz,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,11,1,1, Pro/Am Ladies Adult B1 Full Silver Am. V. Waltz  (V),Sample,0,smp10,88C4333B,153,Wayne Crowder,Am. V. Waltz,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,12,1,1, Pro/Am Ladies Adult B1 Full Silver Am. V. Waltz  (V),Sample,0,smp10,88C4333B,153,Charles Jones,Am. V. Waltz,1
+TN,0,1,Final,Tim Elliott,Cathy Potter,10,1,1, Pro/Am Ladies Adult B1 Full Bronze Am. V. Waltz  (V),Sample,0,smp10,88C42B3B,155,Marie Crowder,Am. V. Waltz,1
+TN,0,1,Final,Tim Elliott,Cathy Potter,11,1,1, Pro/Am Ladies Adult B1 Full Bronze Am. V. Waltz  (V),Sample,0,smp10,88C42B3B,155,Wayne Crowder,Am. V. Waltz,1
+TN,0,1,Final,Tim Elliott,Cathy Potter,12,1,1, Pro/Am Ladies Adult B1 Full Bronze Am. V. Waltz  (V),Sample,0,smp10,88C42B3B,155,Charles Jones,Am. V. Waltz,1
+TN,0,1,Final,Daniel Wilder,Rhonda Becker,10,1,1, Pro/Am Gents Adult A1 Full Bronze Am. Waltz  (W),Sample,0,smp10,90C12B38,245,Marie Crowder,Am. Waltz,1
+TN,0,1,Final,Daniel Wilder,Rhonda Becker,11,1,1, Pro/Am Gents Adult A1 Full Bronze Am. Waltz  (W),Sample,0,smp10,90C12B38,245,Wayne Crowder,Am. Waltz,1
+TN,0,1,Final,Daniel Wilder,Rhonda Becker,12,1,1, Pro/Am Gents Adult A1 Full Bronze Am. Waltz  (W),Sample,0,smp10,90C12B38,245,Charles Jones,Am. Waltz,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,10,1,1, Pro/Am Ladies Adult B1 Full Silver Am. Waltz  (W),Sample,0,smp10,88C43338,153,Marie Crowder,Am. Waltz,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,11,1,1, Pro/Am Ladies Adult B1 Full Silver Am. Waltz  (W),Sample,0,smp10,88C43338,153,Wayne Crowder,Am. Waltz,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,12,1,1, Pro/Am Ladies Adult B1 Full Silver Am. Waltz  (W),Sample,0,smp10,88C43338,153,Charles Jones,Am. Waltz,1
+TN,0,1,Final,Daniel Wilder,Rhonda Becker,10,1,1, Pro/Am Gents Adult A1 Full Bronze Am. Tango  (T),Sample,0,smp10,90C12B39,245,Marie Crowder,Am. Tango,1
+TN,0,1,Final,Daniel Wilder,Rhonda Becker,11,1,1, Pro/Am Gents Adult A1 Full Bronze Am. Tango  (T),Sample,0,smp10,90C12B39,245,Wayne Crowder,Am. Tango,1
+TN,0,1,Final,Daniel Wilder,Rhonda Becker,12,1,1, Pro/Am Gents Adult A1 Full Bronze Am. Tango  (T),Sample,0,smp10,90C12B39,245,Charles Jones,Am. Tango,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,10,1,1, Pro/Am Ladies Adult B1 Full Silver Am. Tango  (T),Sample,0,smp10,88C43339,153,Marie Crowder,Am. Tango,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,11,1,1, Pro/Am Ladies Adult B1 Full Silver Am. Tango  (T),Sample,0,smp10,88C43339,153,Wayne Crowder,Am. Tango,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,12,1,1, Pro/Am Ladies Adult B1 Full Silver Am. Tango  (T),Sample,0,smp10,88C43339,153,Charles Jones,Am. Tango,1
+TN,0,1,Final,Daniel Wilder,Rhonda Becker,10,1,1, Pro/Am Gents Adult A1 Full Bronze Am. Foxtrot  (F),Sample,0,smp10,90C12B3A,245,Marie Crowder,Am. Foxtrot,1
+TN,0,1,Final,Daniel Wilder,Rhonda Becker,11,1,1, Pro/Am Gents Adult A1 Full Bronze Am. Foxtrot  (F),Sample,0,smp10,90C12B3A,245,Wayne Crowder,Am. Foxtrot,1
+TN,0,1,Final,Daniel Wilder,Rhonda Becker,12,1,1, Pro/Am Gents Adult A1 Full Bronze Am. Foxtrot  (F),Sample,0,smp10,90C12B3A,245,Charles Jones,Am. Foxtrot,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,10,1,1, Pro/Am Ladies Adult B1 Full Silver Am. Foxtrot  (F),Sample,0,smp10,88C4333A,153,Marie Crowder,Am. Foxtrot,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,11,1,1, Pro/Am Ladies Adult B1 Full Silver Am. Foxtrot  (F),Sample,0,smp10,88C4333A,153,Wayne Crowder,Am. Foxtrot,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,12,1,1, Pro/Am Ladies Adult B1 Full Silver Am. Foxtrot  (F),Sample,0,smp10,88C4333A,153,Charles Jones,Am. Foxtrot,1
+TN,0,1,Final,Mark Becker,Jane Keteringham,10,1,1, Pro/Am Ladies Adult B1 Int. Bronze Am. Waltz  (W),Sample,0,smp10,88C42A38,153,Marie Crowder,Am. Waltz,1
+TN,0,1,Final,Mark Becker,Jane Keteringham,11,1,1, Pro/Am Ladies Adult B1 Int. Bronze Am. Waltz  (W),Sample,0,smp10,88C42A38,153,Wayne Crowder,Am. Waltz,1
+TN,0,1,Final,Mark Becker,Jane Keteringham,12,1,1, Pro/Am Ladies Adult B1 Int. Bronze Am. Waltz  (W),Sample,0,smp10,88C42A38,153,Charles Jones,Am. Waltz,1
+,0,1,Final,Robert Potter,Louise Cote,10,1,1, Pro/Am Gents Adult B1 Full Bronze Am. Waltz  (W),Sample,0,smp10,90C42B38,244,Marie Crowder,Am. Waltz,1
+,0,1,Final,Robert Potter,Louise Cote,11,1,1, Pro/Am Gents Adult B1 Full Bronze Am. Waltz  (W),Sample,0,smp10,90C42B38,244,Wayne Crowder,Am. Waltz,1
+,0,1,Final,Robert Potter,Louise Cote,12,1,1, Pro/Am Gents Adult B1 Full Bronze Am. Waltz  (W),Sample,0,smp10,90C42B38,244,Charles Jones,Am. Waltz,1
+TN,0,1,Final,Mark Becker,Jane Keteringham,10,1,1, Pro/Am Ladies Adult B1 Int. Bronze Am. Tango  (T),Sample,0,smp10,88C42A39,153,Marie Crowder,Am. Tango,1
+TN,0,1,Final,Mark Becker,Jane Keteringham,11,1,1, Pro/Am Ladies Adult B1 Int. Bronze Am. Tango  (T),Sample,0,smp10,88C42A39,153,Wayne Crowder,Am. Tango,1
+TN,0,1,Final,Mark Becker,Jane Keteringham,12,1,1, Pro/Am Ladies Adult B1 Int. Bronze Am. Tango  (T),Sample,0,smp10,88C42A39,153,Charles Jones,Am. Tango,1
+,0,1,Final,Robert Potter,Louise Cote,10,1,1, Pro/Am Gents Adult B1 Full Bronze Am. Tango  (T),Sample,0,smp10,90C42B39,244,Marie Crowder,Am. Tango,1
+,0,1,Final,Robert Potter,Louise Cote,11,1,1, Pro/Am Gents Adult B1 Full Bronze Am. Tango  (T),Sample,0,smp10,90C42B39,244,Wayne Crowder,Am. Tango,1
+,0,1,Final,Robert Potter,Louise Cote,12,1,1, Pro/Am Gents Adult B1 Full Bronze Am. Tango  (T),Sample,0,smp10,90C42B39,244,Charles Jones,Am. Tango,1
+TN,0,1,Final,Mark Becker,Jane Keteringham,10,1,1, Pro/Am Ladies Adult B1 Int. Bronze Am. Foxtrot  (F),Sample,0,smp10,88C42A3A,153,Marie Crowder,Am. Foxtrot,1
+TN,0,1,Final,Mark Becker,Jane Keteringham,11,1,1, Pro/Am Ladies Adult B1 Int. Bronze Am. Foxtrot  (F),Sample,0,smp10,88C42A3A,153,Wayne Crowder,Am. Foxtrot,1
+TN,0,1,Final,Mark Becker,Jane Keteringham,12,1,1, Pro/Am Ladies Adult B1 Int. Bronze Am. Foxtrot  (F),Sample,0,smp10,88C42A3A,153,Charles Jones,Am. Foxtrot,1
+,0,1,Final,Robert Potter,Louise Cote,10,1,1, Pro/Am Gents Adult B1 Full Bronze Am. Foxtrot  (F),Sample,0,smp10,90C42B3A,244,Marie Crowder,Am. Foxtrot,1
+,0,1,Final,Robert Potter,Louise Cote,11,1,1, Pro/Am Gents Adult B1 Full Bronze Am. Foxtrot  (F),Sample,0,smp10,90C42B3A,244,Wayne Crowder,Am. Foxtrot,1
+,0,1,Final,Robert Potter,Louise Cote,12,1,1, Pro/Am Gents Adult B1 Full Bronze Am. Foxtrot  (F),Sample,0,smp10,90C42B3A,244,Charles Jones,Am. Foxtrot,1
+TN,0,1,Final,Mark Becker,Cathy McCarter,10,1,1, Pro/Am Ladies Adult B2 Int. Bronze Am. Waltz  (W),Sample,0,smp10,88C52A38,153,Marie Crowder,Am. Waltz,1
+TN,0,1,Final,Mark Becker,Cathy McCarter,11,1,1, Pro/Am Ladies Adult B2 Int. Bronze Am. Waltz  (W),Sample,0,smp10,88C52A38,153,Wayne Crowder,Am. Waltz,1
+TN,0,1,Final,Mark Becker,Cathy McCarter,12,1,1, Pro/Am Ladies Adult B2 Int. Bronze Am. Waltz  (W),Sample,0,smp10,88C52A38,153,Charles Jones,Am. Waltz,1
+,0,1,Final,Gary Clark,Louise Cote,10,1,1, Pro/Am Gents Adult B2 Full Bronze Am. Waltz  (W),Sample,0,smp10,90C52B38,242,Marie Crowder,Am. Waltz,1
+,0,1,Final,Gary Clark,Louise Cote,11,1,1, Pro/Am Gents Adult B2 Full Bronze Am. Waltz  (W),Sample,0,smp10,90C52B38,242,Wayne Crowder,Am. Waltz,1
+,0,1,Final,Gary Clark,Louise Cote,12,1,1, Pro/Am Gents Adult B2 Full Bronze Am. Waltz  (W),Sample,0,smp10,90C52B38,242,Charles Jones,Am. Waltz,1
+TN,0,1,Final,Mark Becker,Cathy McCarter,10,1,1, Pro/Am Ladies Adult B2 Int. Bronze Am. Tango  (T),Sample,0,smp10,88C52A39,153,Marie Crowder,Am. Tango,1
+TN,0,1,Final,Mark Becker,Cathy McCarter,11,1,1, Pro/Am Ladies Adult B2 Int. Bronze Am. Tango  (T),Sample,0,smp10,88C52A39,153,Wayne Crowder,Am. Tango,1
+TN,0,1,Final,Mark Becker,Cathy McCarter,12,1,1, Pro/Am Ladies Adult B2 Int. Bronze Am. Tango  (T),Sample,0,smp10,88C52A39,153,Charles Jones,Am. Tango,1
+,0,1,Final,Gary Clark,Louise Cote,10,1,1, Pro/Am Gents Adult B2 Full Bronze Am. Tango  (T),Sample,0,smp10,90C52B39,242,Marie Crowder,Am. Tango,1
+,0,1,Final,Gary Clark,Louise Cote,11,1,1, Pro/Am Gents Adult B2 Full Bronze Am. Tango  (T),Sample,0,smp10,90C52B39,242,Wayne Crowder,Am. Tango,1
+,0,1,Final,Gary Clark,Louise Cote,12,1,1, Pro/Am Gents Adult B2 Full Bronze Am. Tango  (T),Sample,0,smp10,90C52B39,242,Charles Jones,Am. Tango,1
+TN,0,1,Final,Mark Becker,Cathy McCarter,10,1,1, Pro/Am Ladies Adult B2 Int. Bronze Am. Foxtrot  (F),Sample,0,smp10,88C52A3A,153,Marie Crowder,Am. Foxtrot,1
+TN,0,1,Final,Mark Becker,Cathy McCarter,11,1,1, Pro/Am Ladies Adult B2 Int. Bronze Am. Foxtrot  (F),Sample,0,smp10,88C52A3A,153,Wayne Crowder,Am. Foxtrot,1
+TN,0,1,Final,Mark Becker,Cathy McCarter,12,1,1, Pro/Am Ladies Adult B2 Int. Bronze Am. Foxtrot  (F),Sample,0,smp10,88C52A3A,153,Charles Jones,Am. Foxtrot,1
+,0,1,Final,Gary Clark,Louise Cote,10,1,1, Pro/Am Gents Adult B2 Full Bronze Am. Foxtrot  (F),Sample,0,smp10,90C52B3A,242,Marie Crowder,Am. Foxtrot,1
+,0,1,Final,Gary Clark,Louise Cote,11,1,1, Pro/Am Gents Adult B2 Full Bronze Am. Foxtrot  (F),Sample,0,smp10,90C52B3A,242,Wayne Crowder,Am. Foxtrot,1
+,0,1,Final,Gary Clark,Louise Cote,12,1,1, Pro/Am Gents Adult B2 Full Bronze Am. Foxtrot  (F),Sample,0,smp10,90C52B3A,242,Charles Jones,Am. Foxtrot,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,10,1,1, Pro/Am Ladies Adult A1 Open Bronze Smooth  (WTF),Sample,0,smp10,88C12D30,155,Marie Crowder,Waltz,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,11,1,1, Pro/Am Ladies Adult A1 Open Bronze Smooth  (WTF),Sample,0,smp10,88C12D30,155,Wayne Crowder,Waltz,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,12,1,1, Pro/Am Ladies Adult A1 Open Bronze Smooth  (WTF),Sample,0,smp10,88C12D30,155,Charles Jones,Waltz,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,10,1,1, Pro/Am Ladies Adult A1 Open Bronze Smooth  (WTF),Sample,1,smp10,88C12D30,155,Marie Crowder,Tango,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,11,1,1, Pro/Am Ladies Adult A1 Open Bronze Smooth  (WTF),Sample,1,smp10,88C12D30,155,Wayne Crowder,Tango,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,12,1,1, Pro/Am Ladies Adult A1 Open Bronze Smooth  (WTF),Sample,1,smp10,88C12D30,155,Charles Jones,Tango,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,10,1,1, Pro/Am Ladies Adult A1 Open Bronze Smooth  (WTF),Sample,2,smp10,88C12D30,155,Marie Crowder,Foxtrot,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,11,1,1, Pro/Am Ladies Adult A1 Open Bronze Smooth  (WTF),Sample,2,smp10,88C12D30,155,Wayne Crowder,Foxtrot,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,12,1,1, Pro/Am Ladies Adult A1 Open Bronze Smooth  (WTF),Sample,2,smp10,88C12D30,155,Charles Jones,Foxtrot,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,10,1,1, Pro/Am Senior Closed Silver Smooth  (WTF),Sample,0,smp10,80CA3430,153,Marie Crowder,Waltz,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,11,1,1, Pro/Am Senior Closed Silver Smooth  (WTF),Sample,0,smp10,80CA3430,153,Wayne Crowder,Waltz,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,12,1,1, Pro/Am Senior Closed Silver Smooth  (WTF),Sample,0,smp10,80CA3430,153,Charles Jones,Waltz,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,10,1,1, Pro/Am Senior Closed Silver Smooth  (WTF),Sample,1,smp10,80CA3430,153,Marie Crowder,Tango,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,11,1,1, Pro/Am Senior Closed Silver Smooth  (WTF),Sample,1,smp10,80CA3430,153,Wayne Crowder,Tango,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,12,1,1, Pro/Am Senior Closed Silver Smooth  (WTF),Sample,1,smp10,80CA3430,153,Charles Jones,Tango,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,10,1,1, Pro/Am Senior Closed Silver Smooth  (WTF),Sample,2,smp10,80CA3430,153,Marie Crowder,Foxtrot,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,11,1,1, Pro/Am Senior Closed Silver Smooth  (WTF),Sample,2,smp10,80CA3430,153,Wayne Crowder,Foxtrot,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,12,1,1, Pro/Am Senior Closed Silver Smooth  (WTF),Sample,2,smp10,80CA3430,153,Charles Jones,Foxtrot,1
+TN,0,1,Final,Daniel Wilder,Rhonda Becker,10,1,1, Pro/Am Adult Closed Bronze Smooth  (WTF),Sample,0,smp10,80C92C30,245,Marie Crowder,Waltz,1
+TN,0,2,Final,Daniel Wilder,Rhonda Becker,11,1,2, Pro/Am Adult Closed Bronze Smooth  (WTF),Sample,0,smp10,80C92C30,245,Wayne Crowder,Waltz,1
+TN,0,1,Final,Daniel Wilder,Rhonda Becker,12,1,1, Pro/Am Adult Closed Bronze Smooth  (WTF),Sample,0,smp10,80C92C30,245,Charles Jones,Waltz,1
+TN,0,3,Final,Tim Elliott,Mandy Preston,10,2,3, Pro/Am Adult Closed Bronze Smooth  (WTF),Sample,0,smp10,80C92C30,155,Marie Crowder,Waltz,2
+TN,0,1,Final,Tim Elliott,Mandy Preston,11,2,1, Pro/Am Adult Closed Bronze Smooth  (WTF),Sample,0,smp10,80C92C30,155,Wayne Crowder,Waltz,2
+TN,0,2,Final,Tim Elliott,Mandy Preston,12,2,2, Pro/Am Adult Closed Bronze Smooth  (WTF),Sample,0,smp10,80C92C30,155,Charles Jones,Waltz,2
+TN,0,2,Final,Mark Becker,Suszn Uzzle,10,3,2, Pro/Am Adult Closed Bronze Smooth  (WTF),Sample,0,smp10,80C92C30,153,Marie Crowder,Waltz,3
+TN,0,3,Final,Mark Becker,Suszn Uzzle,11,3,3, Pro/Am Adult Closed Bronze Smooth  (WTF),Sample,0,smp10,80C92C30,153,Wayne Crowder,Waltz,3
+TN,0,3,Final,Mark Becker,Suszn Uzzle,12,3,3, Pro/Am Adult Closed Bronze Smooth  (WTF),Sample,0,smp10,80C92C30,153,Charles Jones,Waltz,3
+TN,0,1,Final,Daniel Wilder,Rhonda Becker,10,1,1, Pro/Am Adult Closed Bronze Smooth  (WTF),Sample,1,smp10,80C92C30,245,Marie Crowder,Tango,1
+TN,0,2,Final,Daniel Wilder,Rhonda Becker,11,1,2, Pro/Am Adult Closed Bronze Smooth  (WTF),Sample,1,smp10,80C92C30,245,Wayne Crowder,Tango,1
+TN,0,1,Final,Daniel Wilder,Rhonda Becker,12,1,1, Pro/Am Adult Closed Bronze Smooth  (WTF),Sample,1,smp10,80C92C30,245,Charles Jones,Tango,1
+TN,0,3,Final,Tim Elliott,Mandy Preston,10,2,3, Pro/Am Adult Closed Bronze Smooth  (WTF),Sample,1,smp10,80C92C30,155,Marie Crowder,Tango,2
+TN,0,1,Final,Tim Elliott,Mandy Preston,11,2,1, Pro/Am Adult Closed Bronze Smooth  (WTF),Sample,1,smp10,80C92C30,155,Wayne Crowder,Tango,2
+TN,0,2,Final,Tim Elliott,Mandy Preston,12,2,2, Pro/Am Adult Closed Bronze Smooth  (WTF),Sample,1,smp10,80C92C30,155,Charles Jones,Tango,2
+TN,0,2,Final,Mark Becker,Suszn Uzzle,10,3,2, Pro/Am Adult Closed Bronze Smooth  (WTF),Sample,1,smp10,80C92C30,153,Marie Crowder,Tango,3
+TN,0,3,Final,Mark Becker,Suszn Uzzle,11,3,3, Pro/Am Adult Closed Bronze Smooth  (WTF),Sample,1,smp10,80C92C30,153,Wayne Crowder,Tango,3
+TN,0,3,Final,Mark Becker,Suszn Uzzle,12,3,3, Pro/Am Adult Closed Bronze Smooth  (WTF),Sample,1,smp10,80C92C30,153,Charles Jones,Tango,3
+TN,0,1,Final,Daniel Wilder,Rhonda Becker,10,1,1, Pro/Am Adult Closed Bronze Smooth  (WTF),Sample,2,smp10,80C92C30,245,Marie Crowder,Foxtrot,1
+TN,0,1,Final,Daniel Wilder,Rhonda Becker,11,1,1, Pro/Am Adult Closed Bronze Smooth  (WTF),Sample,2,smp10,80C92C30,245,Wayne Crowder,Foxtrot,1
+TN,0,1,Final,Daniel Wilder,Rhonda Becker,12,1,1, Pro/Am Adult Closed Bronze Smooth  (WTF),Sample,2,smp10,80C92C30,245,Charles Jones,Foxtrot,1
+TN,0,3,Final,Tim Elliott,Mandy Preston,10,2,3, Pro/Am Adult Closed Bronze Smooth  (WTF),Sample,2,smp10,80C92C30,155,Marie Crowder,Foxtrot,2
+TN,0,2,Final,Tim Elliott,Mandy Preston,11,2,2, Pro/Am Adult Closed Bronze Smooth  (WTF),Sample,2,smp10,80C92C30,155,Wayne Crowder,Foxtrot,2
+TN,0,2,Final,Tim Elliott,Mandy Preston,12,2,2, Pro/Am Adult Closed Bronze Smooth  (WTF),Sample,2,smp10,80C92C30,155,Charles Jones,Foxtrot,2
+TN,0,2,Final,Mark Becker,Suszn Uzzle,10,3,2, Pro/Am Adult Closed Bronze Smooth  (WTF),Sample,2,smp10,80C92C30,153,Marie Crowder,Foxtrot,3
+TN,0,3,Final,Mark Becker,Suszn Uzzle,11,3,3, Pro/Am Adult Closed Bronze Smooth  (WTF),Sample,2,smp10,80C92C30,153,Wayne Crowder,Foxtrot,3
+TN,0,3,Final,Mark Becker,Suszn Uzzle,12,3,3, Pro/Am Adult Closed Bronze Smooth  (WTF),Sample,2,smp10,80C92C30,153,Charles Jones,Foxtrot,3
+TN,0,1,Final,Mark Becker,Jane Keteringham,10,2,1, Pro/Am Senior Closed Bronze Smooth  (WTF),Sample,0,smp10,80CA2C30,153,Marie Crowder,Waltz,1
+TN,0,2,Final,Mark Becker,Jane Keteringham,11,2,2, Pro/Am Senior Closed Bronze Smooth  (WTF),Sample,0,smp10,80CA2C30,153,Wayne Crowder,Waltz,1
+TN,0,2,Final,Mark Becker,Jane Keteringham,12,2,2, Pro/Am Senior Closed Bronze Smooth  (WTF),Sample,0,smp10,80CA2C30,153,Charles Jones,Waltz,1
+TN,0,3,Final,Tim Elliott,Cathy Potter,10,1,3, Pro/Am Senior Closed Bronze Smooth  (WTF),Sample,0,smp10,80CA2C30,155,Marie Crowder,Waltz,2
+TN,0,1,Final,Tim Elliott,Cathy Potter,11,1,1, Pro/Am Senior Closed Bronze Smooth  (WTF),Sample,0,smp10,80CA2C30,155,Wayne Crowder,Waltz,2
+TN,0,1,Final,Tim Elliott,Cathy Potter,12,1,1, Pro/Am Senior Closed Bronze Smooth  (WTF),Sample,0,smp10,80CA2C30,155,Charles Jones,Waltz,2
+,0,2,Final,Gary Clark,Louise Cote,10,3,2, Pro/Am Senior Closed Bronze Smooth  (WTF),Sample,0,smp10,80CA2C30,242,Marie Crowder,Waltz,3
+,0,3,Final,Gary Clark,Louise Cote,11,3,3, Pro/Am Senior Closed Bronze Smooth  (WTF),Sample,0,smp10,80CA2C30,242,Wayne Crowder,Waltz,3
+,0,3,Final,Gary Clark,Louise Cote,12,3,3, Pro/Am Senior Closed Bronze Smooth  (WTF),Sample,0,smp10,80CA2C30,242,Charles Jones,Waltz,3
+TN,0,2,Final,Mark Becker,Jane Keteringham,10,2,2, Pro/Am Senior Closed Bronze Smooth  (WTF),Sample,1,smp10,80CA2C30,153,Marie Crowder,Tango,1
+TN,0,2,Final,Mark Becker,Jane Keteringham,11,2,2, Pro/Am Senior Closed Bronze Smooth  (WTF),Sample,1,smp10,80CA2C30,153,Wayne Crowder,Tango,1
+TN,0,1,Final,Mark Becker,Jane Keteringham,12,2,1, Pro/Am Senior Closed Bronze Smooth  (WTF),Sample,1,smp10,80CA2C30,153,Charles Jones,Tango,1
+TN,0,3,Final,Tim Elliott,Cathy Potter,10,3,3, Pro/Am Senior Closed Bronze Smooth  (WTF),Sample,1,smp10,80CA2C30,155,Marie Crowder,Tango,2
+TN,0,3,Final,Tim Elliott,Cathy Potter,11,3,3, Pro/Am Senior Closed Bronze Smooth  (WTF),Sample,1,smp10,80CA2C30,155,Wayne Crowder,Tango,2
+TN,0,2,Final,Tim Elliott,Cathy Potter,12,3,2, Pro/Am Senior Closed Bronze Smooth  (WTF),Sample,1,smp10,80CA2C30,155,Charles Jones,Tango,2
+,0,1,Final,Gary Clark,Louise Cote,10,1,1, Pro/Am Senior Closed Bronze Smooth  (WTF),Sample,1,smp10,80CA2C30,242,Marie Crowder,Tango,3
+,0,1,Final,Gary Clark,Louise Cote,11,1,1, Pro/Am Senior Closed Bronze Smooth  (WTF),Sample,1,smp10,80CA2C30,242,Wayne Crowder,Tango,3
+,0,3,Final,Gary Clark,Louise Cote,12,1,3, Pro/Am Senior Closed Bronze Smooth  (WTF),Sample,1,smp10,80CA2C30,242,Charles Jones,Tango,3
+TN,0,1,Final,Mark Becker,Jane Keteringham,10,1,1, Pro/Am Senior Closed Bronze Smooth  (WTF),Sample,2,smp10,80CA2C30,153,Marie Crowder,Foxtrot,1
+TN,0,1,Final,Mark Becker,Jane Keteringham,11,1,1, Pro/Am Senior Closed Bronze Smooth  (WTF),Sample,2,smp10,80CA2C30,153,Wayne Crowder,Foxtrot,1
+TN,0,2,Final,Mark Becker,Jane Keteringham,12,1,2, Pro/Am Senior Closed Bronze Smooth  (WTF),Sample,2,smp10,80CA2C30,153,Charles Jones,Foxtrot,1
+TN,0,3,Final,Tim Elliott,Cathy Potter,10,2,3, Pro/Am Senior Closed Bronze Smooth  (WTF),Sample,2,smp10,80CA2C30,155,Marie Crowder,Foxtrot,2
+TN,0,2,Final,Tim Elliott,Cathy Potter,11,2,2, Pro/Am Senior Closed Bronze Smooth  (WTF),Sample,2,smp10,80CA2C30,155,Wayne Crowder,Foxtrot,2
+TN,0,1,Final,Tim Elliott,Cathy Potter,12,2,1, Pro/Am Senior Closed Bronze Smooth  (WTF),Sample,2,smp10,80CA2C30,155,Charles Jones,Foxtrot,2
+,0,2,Final,Gary Clark,Louise Cote,10,3,2, Pro/Am Senior Closed Bronze Smooth  (WTF),Sample,2,smp10,80CA2C30,242,Marie Crowder,Foxtrot,3
+,0,3,Final,Gary Clark,Louise Cote,11,3,3, Pro/Am Senior Closed Bronze Smooth  (WTF),Sample,2,smp10,80CA2C30,242,Wayne Crowder,Foxtrot,3
+,0,3,Final,Gary Clark,Louise Cote,12,3,3, Pro/Am Senior Closed Bronze Smooth  (WTF),Sample,2,smp10,80CA2C30,242,Charles Jones,Foxtrot,3
+TN,0,1,Final,Mark Becker,Suszn Uzzle,10,1,1, Pro/Am Ladies Adult A1 Newcomer Am. Cha Cha  (C),Sample,0,smp10,88C12048,153,Marie Crowder,Am. Cha Cha,1
+TN,0,1,Final,Mark Becker,Suszn Uzzle,11,1,1, Pro/Am Ladies Adult A1 Newcomer Am. Cha Cha  (C),Sample,0,smp10,88C12048,153,Wayne Crowder,Am. Cha Cha,1
+TN,0,1,Final,Mark Becker,Suszn Uzzle,12,1,1, Pro/Am Ladies Adult A1 Newcomer Am. Cha Cha  (C),Sample,0,smp10,88C12048,153,Charles Jones,Am. Cha Cha,1
+,0,1,Final,Chuck Konetsky,Louise Cote,10,1,1, Pro/Am Gents Adult A2 Pre-Bronze Am. Cha Cha  (C),Sample,0,smp10,90C22948,243,Marie Crowder,Am. Cha Cha,1
+,0,1,Final,Chuck Konetsky,Louise Cote,11,1,1, Pro/Am Gents Adult A2 Pre-Bronze Am. Cha Cha  (C),Sample,0,smp10,90C22948,243,Wayne Crowder,Am. Cha Cha,1
+,0,1,Final,Chuck Konetsky,Louise Cote,12,1,1, Pro/Am Gents Adult A2 Pre-Bronze Am. Cha Cha  (C),Sample,0,smp10,90C22948,243,Charles Jones,Am. Cha Cha,1
+TN,0,1,Final,Mark Becker,Suszn Uzzle,10,1,1, Pro/Am Ladies Adult A1 Newcomer Am. Rumba  (R),Sample,0,smp10,88C12049,153,Marie Crowder,Am. Rumba,1
+TN,0,1,Final,Mark Becker,Suszn Uzzle,11,1,1, Pro/Am Ladies Adult A1 Newcomer Am. Rumba  (R),Sample,0,smp10,88C12049,153,Wayne Crowder,Am. Rumba,1
+TN,0,1,Final,Mark Becker,Suszn Uzzle,12,1,1, Pro/Am Ladies Adult A1 Newcomer Am. Rumba  (R),Sample,0,smp10,88C12049,153,Charles Jones,Am. Rumba,1
+,0,1,Final,Chuck Konetsky,Louise Cote,10,1,1, Pro/Am Gents Adult A2 Pre-Bronze Am. Rumba  (R),Sample,0,smp10,90C22949,243,Marie Crowder,Am. Rumba,1
+,0,1,Final,Chuck Konetsky,Louise Cote,11,1,1, Pro/Am Gents Adult A2 Pre-Bronze Am. Rumba  (R),Sample,0,smp10,90C22949,243,Wayne Crowder,Am. Rumba,1
+,0,1,Final,Chuck Konetsky,Louise Cote,12,1,1, Pro/Am Gents Adult A2 Pre-Bronze Am. Rumba  (R),Sample,0,smp10,90C22949,243,Charles Jones,Am. Rumba,1
+TN,0,1,Final,Mark Becker,Suszn Uzzle,10,1,1, Pro/Am Ladies Adult A1 Newcomer Am. Swing  (S),Sample,0,smp10,88C1204A,153,Marie Crowder,Am. Swing,1
+TN,0,1,Final,Mark Becker,Suszn Uzzle,11,1,1, Pro/Am Ladies Adult A1 Newcomer Am. Swing  (S),Sample,0,smp10,88C1204A,153,Wayne Crowder,Am. Swing,1
+TN,0,1,Final,Mark Becker,Suszn Uzzle,12,1,1, Pro/Am Ladies Adult A1 Newcomer Am. Swing  (S),Sample,0,smp10,88C1204A,153,Charles Jones,Am. Swing,1
+,0,1,Final,Chuck Konetsky,Louise Cote,10,1,1, Pro/Am Gents Adult A2 Pre-Bronze Am. Swing  (S),Sample,0,smp10,90C2294A,243,Marie Crowder,Am. Swing,1
+,0,1,Final,Chuck Konetsky,Louise Cote,11,1,1, Pro/Am Gents Adult A2 Pre-Bronze Am. Swing  (S),Sample,0,smp10,90C2294A,243,Wayne Crowder,Am. Swing,1
+,0,1,Final,Chuck Konetsky,Louise Cote,12,1,1, Pro/Am Gents Adult A2 Pre-Bronze Am. Swing  (S),Sample,0,smp10,90C2294A,243,Charles Jones,Am. Swing,1
+TN,0,1,Final,Mark Becker,Suszn Uzzle,10,1,1, Pro/Am Ladies Adult A1 Newcomer Am. Bolero  (B),Sample,0,smp10,88C1204B,153,Marie Crowder,Am. Bolero,1
+TN,0,1,Final,Mark Becker,Suszn Uzzle,11,1,1, Pro/Am Ladies Adult A1 Newcomer Am. Bolero  (B),Sample,0,smp10,88C1204B,153,Wayne Crowder,Am. Bolero,1
+TN,0,1,Final,Mark Becker,Suszn Uzzle,12,1,1, Pro/Am Ladies Adult A1 Newcomer Am. Bolero  (B),Sample,0,smp10,88C1204B,153,Charles Jones,Am. Bolero,1
+TN,0,1,Final,Mark Becker,Cathy McCarter,10,1,1, Pro/Am Ladies Adult B2 Pre-Bronze Am. Cha Cha  (C),Sample,0,smp10,88C52948,153,Marie Crowder,Am. Cha Cha,1
+TN,0,1,Final,Mark Becker,Cathy McCarter,11,1,1, Pro/Am Ladies Adult B2 Pre-Bronze Am. Cha Cha  (C),Sample,0,smp10,88C52948,153,Wayne Crowder,Am. Cha Cha,1
+TN,0,1,Final,Mark Becker,Cathy McCarter,12,1,1, Pro/Am Ladies Adult B2 Pre-Bronze Am. Cha Cha  (C),Sample,0,smp10,88C52948,153,Charles Jones,Am. Cha Cha,1
+TN,0,1,Final,Mark Becker,Cathy McCarter,10,1,1, Pro/Am Ladies Adult B2 Pre-Bronze Am. Rumba  (R),Sample,0,smp10,88C52949,153,Marie Crowder,Am. Rumba,1
+TN,0,1,Final,Mark Becker,Cathy McCarter,11,1,1, Pro/Am Ladies Adult B2 Pre-Bronze Am. Rumba  (R),Sample,0,smp10,88C52949,153,Wayne Crowder,Am. Rumba,1
+TN,0,1,Final,Mark Becker,Cathy McCarter,12,1,1, Pro/Am Ladies Adult B2 Pre-Bronze Am. Rumba  (R),Sample,0,smp10,88C52949,153,Charles Jones,Am. Rumba,1
+TN,0,1,Final,Mark Becker,Cathy McCarter,10,1,1, Pro/Am Ladies Adult B2 Pre-Bronze Am. Swing  (S),Sample,0,smp10,88C5294A,153,Marie Crowder,Am. Swing,1
+TN,0,1,Final,Mark Becker,Cathy McCarter,11,1,1, Pro/Am Ladies Adult B2 Pre-Bronze Am. Swing  (S),Sample,0,smp10,88C5294A,153,Wayne Crowder,Am. Swing,1
+TN,0,1,Final,Mark Becker,Cathy McCarter,12,1,1, Pro/Am Ladies Adult B2 Pre-Bronze Am. Swing  (S),Sample,0,smp10,88C5294A,153,Charles Jones,Am. Swing,1
+TN,0,1,Final,Mark Becker,Cathy McCarter,10,1,1, Pro/Am Ladies Adult B2 Pre-Bronze Am. Bolero  (B),Sample,0,smp10,88C5294B,153,Marie Crowder,Am. Bolero,1
+TN,0,1,Final,Mark Becker,Cathy McCarter,11,1,1, Pro/Am Ladies Adult B2 Pre-Bronze Am. Bolero  (B),Sample,0,smp10,88C5294B,153,Wayne Crowder,Am. Bolero,1
+TN,0,1,Final,Mark Becker,Cathy McCarter,12,1,1, Pro/Am Ladies Adult B2 Pre-Bronze Am. Bolero  (B),Sample,0,smp10,88C5294B,153,Charles Jones,Am. Bolero,1
+TN,0,1,Final,Mark Becker,Chrissy Graves,10,1,1, Pro/Am Ladies Adult A1 Int. Bronze Am. Cha Cha  (C),Sample,0,smp10,88C12A48,153,Marie Crowder,Am. Cha Cha,1
+TN,0,1,Final,Mark Becker,Chrissy Graves,11,1,1, Pro/Am Ladies Adult A1 Int. Bronze Am. Cha Cha  (C),Sample,0,smp10,88C12A48,153,Wayne Crowder,Am. Cha Cha,1
+TN,0,1,Final,Mark Becker,Chrissy Graves,12,1,1, Pro/Am Ladies Adult A1 Int. Bronze Am. Cha Cha  (C),Sample,0,smp10,88C12A48,153,Charles Jones,Am. Cha Cha,1
+,0,1,Final,Chuck Konetsky,Louise Cote,10,1,1, Pro/Am Gents Adult A2 Int. Bronze Am. Cha Cha  (C),Sample,0,smp10,90C22A48,243,Marie Crowder,Am. Cha Cha,1
+,0,1,Final,Chuck Konetsky,Louise Cote,11,1,1, Pro/Am Gents Adult A2 Int. Bronze Am. Cha Cha  (C),Sample,0,smp10,90C22A48,243,Wayne Crowder,Am. Cha Cha,1
+,0,1,Final,Chuck Konetsky,Louise Cote,12,1,1, Pro/Am Gents Adult A2 Int. Bronze Am. Cha Cha  (C),Sample,0,smp10,90C22A48,243,Charles Jones,Am. Cha Cha,1
+TN,0,1,Final,Mark Becker,Chrissy Graves,10,1,1, Pro/Am Ladies Adult A1 Int. Bronze Am. Rumba  (R),Sample,0,smp10,88C12A49,153,Marie Crowder,Am. Rumba,1
+TN,0,1,Final,Mark Becker,Chrissy Graves,11,1,1, Pro/Am Ladies Adult A1 Int. Bronze Am. Rumba  (R),Sample,0,smp10,88C12A49,153,Wayne Crowder,Am. Rumba,1
+TN,0,1,Final,Mark Becker,Chrissy Graves,12,1,1, Pro/Am Ladies Adult A1 Int. Bronze Am. Rumba  (R),Sample,0,smp10,88C12A49,153,Charles Jones,Am. Rumba,1
+,0,1,Final,Chuck Konetsky,Louise Cote,10,1,1, Pro/Am Gents Adult A2 Int. Bronze Am. Rumba  (R),Sample,0,smp10,90C22A49,243,Marie Crowder,Am. Rumba,1
+,0,1,Final,Chuck Konetsky,Louise Cote,11,1,1, Pro/Am Gents Adult A2 Int. Bronze Am. Rumba  (R),Sample,0,smp10,90C22A49,243,Wayne Crowder,Am. Rumba,1
+,0,1,Final,Chuck Konetsky,Louise Cote,12,1,1, Pro/Am Gents Adult A2 Int. Bronze Am. Rumba  (R),Sample,0,smp10,90C22A49,243,Charles Jones,Am. Rumba,1
+TN,0,1,Final,Mark Becker,Chrissy Graves,10,1,1, Pro/Am Ladies Adult A1 Int. Bronze Am. Swing  (S),Sample,0,smp10,88C12A4A,153,Marie Crowder,Am. Swing,1
+TN,0,1,Final,Mark Becker,Chrissy Graves,11,1,1, Pro/Am Ladies Adult A1 Int. Bronze Am. Swing  (S),Sample,0,smp10,88C12A4A,153,Wayne Crowder,Am. Swing,1
+TN,0,1,Final,Mark Becker,Chrissy Graves,12,1,1, Pro/Am Ladies Adult A1 Int. Bronze Am. Swing  (S),Sample,0,smp10,88C12A4A,153,Charles Jones,Am. Swing,1
+,0,1,Final,Chuck Konetsky,Louise Cote,10,1,1, Pro/Am Gents Adult A2 Int. Bronze Am. Swing  (S),Sample,0,smp10,90C22A4A,243,Marie Crowder,Am. Swing,1
+,0,1,Final,Chuck Konetsky,Louise Cote,11,1,1, Pro/Am Gents Adult A2 Int. Bronze Am. Swing  (S),Sample,0,smp10,90C22A4A,243,Wayne Crowder,Am. Swing,1
+,0,1,Final,Chuck Konetsky,Louise Cote,12,1,1, Pro/Am Gents Adult A2 Int. Bronze Am. Swing  (S),Sample,0,smp10,90C22A4A,243,Charles Jones,Am. Swing,1
+TN,0,1,Final,Mark Becker,Chrissy Graves,10,1,1, Pro/Am Ladies Adult A1 Int. Bronze Am. Mambo  (M),Sample,0,smp10,88C12A4C,153,Marie Crowder,Am. Mambo,1
+TN,0,1,Final,Mark Becker,Chrissy Graves,11,1,1, Pro/Am Ladies Adult A1 Int. Bronze Am. Mambo  (M),Sample,0,smp10,88C12A4C,153,Wayne Crowder,Am. Mambo,1
+TN,0,1,Final,Mark Becker,Chrissy Graves,12,1,1, Pro/Am Ladies Adult A1 Int. Bronze Am. Mambo  (M),Sample,0,smp10,88C12A4C,153,Charles Jones,Am. Mambo,1
+,0,1,Final,Robert Potter,Louise Cote,10,1,1, Pro/Am Gents Adult A2 Full Bronze Am. Samba  (S),Sample,0,smp10,90C22B4D,244,Marie Crowder,Am. Samba,1
+,0,1,Final,Robert Potter,Louise Cote,11,1,1, Pro/Am Gents Adult A2 Full Bronze Am. Samba  (S),Sample,0,smp10,90C22B4D,244,Wayne Crowder,Am. Samba,1
+,0,1,Final,Robert Potter,Louise Cote,12,1,1, Pro/Am Gents Adult A2 Full Bronze Am. Samba  (S),Sample,0,smp10,90C22B4D,244,Charles Jones,Am. Samba,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,10,1,1, Pro/Am Ladies Adult B1 Int. Silver Am. Samba  (S),Sample,0,smp10,88C4324D,153,Marie Crowder,Am. Samba,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,11,1,1, Pro/Am Ladies Adult B1 Int. Silver Am. Samba  (S),Sample,0,smp10,88C4324D,153,Wayne Crowder,Am. Samba,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,12,1,1, Pro/Am Ladies Adult B1 Int. Silver Am. Samba  (S),Sample,0,smp10,88C4324D,153,Charles Jones,Am. Samba,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,10,1,1, Pro/Am Ladies Adult B1 Int. Silver Am. Cha Cha  (C),Sample,0,smp10,88C43248,153,Marie Crowder,Am. Cha Cha,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,11,1,1, Pro/Am Ladies Adult B1 Int. Silver Am. Cha Cha  (C),Sample,0,smp10,88C43248,153,Wayne Crowder,Am. Cha Cha,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,12,1,1, Pro/Am Ladies Adult B1 Int. Silver Am. Cha Cha  (C),Sample,0,smp10,88C43248,153,Charles Jones,Am. Cha Cha,1
+TN,0,1,Final,Daniel Wilder,Rhonda Becker,10,1,1, Pro/Am Gents Adult A1 Full Bronze Am. Cha Cha  (C),Sample,0,smp10,90C12B48,245,Marie Crowder,Am. Cha Cha,1
+TN,0,1,Final,Daniel Wilder,Rhonda Becker,11,1,1, Pro/Am Gents Adult A1 Full Bronze Am. Cha Cha  (C),Sample,0,smp10,90C12B48,245,Wayne Crowder,Am. Cha Cha,1
+TN,0,1,Final,Daniel Wilder,Rhonda Becker,12,1,1, Pro/Am Gents Adult A1 Full Bronze Am. Cha Cha  (C),Sample,0,smp10,90C12B48,245,Charles Jones,Am. Cha Cha,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,10,1,1, Pro/Am Ladies Adult B1 Int. Silver Am. Rumba  (R),Sample,0,smp10,88C43249,153,Marie Crowder,Am. Rumba,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,11,1,1, Pro/Am Ladies Adult B1 Int. Silver Am. Rumba  (R),Sample,0,smp10,88C43249,153,Wayne Crowder,Am. Rumba,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,12,1,1, Pro/Am Ladies Adult B1 Int. Silver Am. Rumba  (R),Sample,0,smp10,88C43249,153,Charles Jones,Am. Rumba,1
+TN,0,1,Final,Daniel Wilder,Rhonda Becker,10,1,1, Pro/Am Gents Adult A1 Full Bronze Am. Rumba  (R),Sample,0,smp10,90C12B49,245,Marie Crowder,Am. Rumba,1
+TN,0,1,Final,Daniel Wilder,Rhonda Becker,11,1,1, Pro/Am Gents Adult A1 Full Bronze Am. Rumba  (R),Sample,0,smp10,90C12B49,245,Wayne Crowder,Am. Rumba,1
+TN,0,1,Final,Daniel Wilder,Rhonda Becker,12,1,1, Pro/Am Gents Adult A1 Full Bronze Am. Rumba  (R),Sample,0,smp10,90C12B49,245,Charles Jones,Am. Rumba,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,10,1,1, Pro/Am Ladies Adult B1 Int. Silver Am. Swing  (S),Sample,0,smp10,88C4324A,153,Marie Crowder,Am. Swing,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,11,1,1, Pro/Am Ladies Adult B1 Int. Silver Am. Swing  (S),Sample,0,smp10,88C4324A,153,Wayne Crowder,Am. Swing,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,12,1,1, Pro/Am Ladies Adult B1 Int. Silver Am. Swing  (S),Sample,0,smp10,88C4324A,153,Charles Jones,Am. Swing,1
+TN,0,1,Final,Daniel Wilder,Rhonda Becker,10,1,1, Pro/Am Gents Adult A1 Full Bronze Am. Swing  (S),Sample,0,smp10,90C12B4A,245,Marie Crowder,Am. Swing,1
+TN,0,1,Final,Daniel Wilder,Rhonda Becker,11,1,1, Pro/Am Gents Adult A1 Full Bronze Am. Swing  (S),Sample,0,smp10,90C12B4A,245,Wayne Crowder,Am. Swing,1
+TN,0,1,Final,Daniel Wilder,Rhonda Becker,12,1,1, Pro/Am Gents Adult A1 Full Bronze Am. Swing  (S),Sample,0,smp10,90C12B4A,245,Charles Jones,Am. Swing,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,10,1,1, Pro/Am Ladies Adult B1 Int. Silver Am. Bolero  (B),Sample,0,smp10,88C4324B,153,Marie Crowder,Am. Bolero,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,11,1,1, Pro/Am Ladies Adult B1 Int. Silver Am. Bolero  (B),Sample,0,smp10,88C4324B,153,Wayne Crowder,Am. Bolero,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,12,1,1, Pro/Am Ladies Adult B1 Int. Silver Am. Bolero  (B),Sample,0,smp10,88C4324B,153,Charles Jones,Am. Bolero,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,10,1,1, Pro/Am Ladies Adult B1 Int. Silver Am. Mambo  (M),Sample,0,smp10,88C4324C,153,Marie Crowder,Am. Mambo,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,11,1,1, Pro/Am Ladies Adult B1 Int. Silver Am. Mambo  (M),Sample,0,smp10,88C4324C,153,Wayne Crowder,Am. Mambo,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,12,1,1, Pro/Am Ladies Adult B1 Int. Silver Am. Mambo  (M),Sample,0,smp10,88C4324C,153,Charles Jones,Am. Mambo,1
+TN,0,1,Final,Mark Becker,Suszn Uzzle,10,1,1, Pro/Am Ladies Adult A1 Pre-Bronze Am. Cha Cha  (C),Sample,0,smp10,88C12948,153,Marie Crowder,Am. Cha Cha,1
+TN,0,1,Final,Mark Becker,Suszn Uzzle,11,1,1, Pro/Am Ladies Adult A1 Pre-Bronze Am. Cha Cha  (C),Sample,0,smp10,88C12948,153,Wayne Crowder,Am. Cha Cha,1
+TN,0,1,Final,Mark Becker,Suszn Uzzle,12,1,1, Pro/Am Ladies Adult A1 Pre-Bronze Am. Cha Cha  (C),Sample,0,smp10,88C12948,153,Charles Jones,Am. Cha Cha,1
+,0,1,Final,Gary Clark,Louise Cote,10,1,1, Pro/Am Gents Adult B2 Full Bronze Am. Cha Cha  (C),Sample,0,smp10,90C52B48,242,Marie Crowder,Am. Cha Cha,1
+,0,1,Final,Gary Clark,Louise Cote,11,1,1, Pro/Am Gents Adult B2 Full Bronze Am. Cha Cha  (C),Sample,0,smp10,90C52B48,242,Wayne Crowder,Am. Cha Cha,1
+,0,1,Final,Gary Clark,Louise Cote,12,1,1, Pro/Am Gents Adult B2 Full Bronze Am. Cha Cha  (C),Sample,0,smp10,90C52B48,242,Charles Jones,Am. Cha Cha,1
+TN,0,1,Final,Mark Becker,Suszn Uzzle,10,1,1, Pro/Am Ladies Adult A1 Pre-Bronze Am. Rumba  (R),Sample,0,smp10,88C12949,153,Marie Crowder,Am. Rumba,1
+TN,0,1,Final,Mark Becker,Suszn Uzzle,11,1,1, Pro/Am Ladies Adult A1 Pre-Bronze Am. Rumba  (R),Sample,0,smp10,88C12949,153,Wayne Crowder,Am. Rumba,1
+TN,0,1,Final,Mark Becker,Suszn Uzzle,12,1,1, Pro/Am Ladies Adult A1 Pre-Bronze Am. Rumba  (R),Sample,0,smp10,88C12949,153,Charles Jones,Am. Rumba,1
+,0,1,Final,Gary Clark,Louise Cote,10,1,1, Pro/Am Gents Adult B2 Full Bronze Am. Rumba  (R),Sample,0,smp10,90C52B49,242,Marie Crowder,Am. Rumba,1
+,0,1,Final,Gary Clark,Louise Cote,11,1,1, Pro/Am Gents Adult B2 Full Bronze Am. Rumba  (R),Sample,0,smp10,90C52B49,242,Wayne Crowder,Am. Rumba,1
+,0,1,Final,Gary Clark,Louise Cote,12,1,1, Pro/Am Gents Adult B2 Full Bronze Am. Rumba  (R),Sample,0,smp10,90C52B49,242,Charles Jones,Am. Rumba,1
+TN,0,1,Final,Mark Becker,Suszn Uzzle,10,1,1, Pro/Am Ladies Adult A1 Pre-Bronze Am. Swing  (S),Sample,0,smp10,88C1294A,153,Marie Crowder,Am. Swing,1
+TN,0,1,Final,Mark Becker,Suszn Uzzle,11,1,1, Pro/Am Ladies Adult A1 Pre-Bronze Am. Swing  (S),Sample,0,smp10,88C1294A,153,Wayne Crowder,Am. Swing,1
+TN,0,1,Final,Mark Becker,Suszn Uzzle,12,1,1, Pro/Am Ladies Adult A1 Pre-Bronze Am. Swing  (S),Sample,0,smp10,88C1294A,153,Charles Jones,Am. Swing,1
+,0,1,Final,Gary Clark,Louise Cote,10,1,1, Pro/Am Gents Adult B2 Full Bronze Am. Swing  (S),Sample,0,smp10,90C52B4A,242,Marie Crowder,Am. Swing,1
+,0,1,Final,Gary Clark,Louise Cote,11,1,1, Pro/Am Gents Adult B2 Full Bronze Am. Swing  (S),Sample,0,smp10,90C52B4A,242,Wayne Crowder,Am. Swing,1
+,0,1,Final,Gary Clark,Louise Cote,12,1,1, Pro/Am Gents Adult B2 Full Bronze Am. Swing  (S),Sample,0,smp10,90C52B4A,242,Charles Jones,Am. Swing,1
+TN,0,1,Final,Mark Becker,Suszn Uzzle,10,1,1, Pro/Am Ladies Adult A1 Pre-Bronze Am. Bolero  (B),Sample,0,smp10,88C1294B,153,Marie Crowder,Am. Bolero,1
+TN,0,1,Final,Mark Becker,Suszn Uzzle,11,1,1, Pro/Am Ladies Adult A1 Pre-Bronze Am. Bolero  (B),Sample,0,smp10,88C1294B,153,Wayne Crowder,Am. Bolero,1
+TN,0,1,Final,Mark Becker,Suszn Uzzle,12,1,1, Pro/Am Ladies Adult A1 Pre-Bronze Am. Bolero  (B),Sample,0,smp10,88C1294B,153,Charles Jones,Am. Bolero,1
+TN,0,1,Final,Mark Becker,Cathy McCarter,10,1,1, Pro/Am Ladies Adult B2 Int. Bronze Am. Cha Cha  (C),Sample,0,smp10,88C52A48,153,Marie Crowder,Am. Cha Cha,1
+TN,0,1,Final,Mark Becker,Cathy McCarter,11,1,1, Pro/Am Ladies Adult B2 Int. Bronze Am. Cha Cha  (C),Sample,0,smp10,88C52A48,153,Wayne Crowder,Am. Cha Cha,1
+TN,0,1,Final,Mark Becker,Cathy McCarter,12,1,1, Pro/Am Ladies Adult B2 Int. Bronze Am. Cha Cha  (C),Sample,0,smp10,88C52A48,153,Charles Jones,Am. Cha Cha,1
+,0,1,Final,Justin Brochetti,Cathy Potter,10,1,1, Pro/Am Ladies Adult A2 Full Bronze Am. Cha Cha  (C),Sample,0,smp10,88C22B48,154,Marie Crowder,Am. Cha Cha,1
+,0,1,Final,Justin Brochetti,Cathy Potter,11,1,1, Pro/Am Ladies Adult A2 Full Bronze Am. Cha Cha  (C),Sample,0,smp10,88C22B48,154,Wayne Crowder,Am. Cha Cha,1
+,0,1,Final,Justin Brochetti,Cathy Potter,12,1,1, Pro/Am Ladies Adult A2 Full Bronze Am. Cha Cha  (C),Sample,0,smp10,88C22B48,154,Charles Jones,Am. Cha Cha,1
+TN,0,1,Final,Mark Becker,Cathy McCarter,10,1,1, Pro/Am Ladies Adult B2 Int. Bronze Am. Rumba  (R),Sample,0,smp10,88C52A49,153,Marie Crowder,Am. Rumba,1
+TN,0,1,Final,Mark Becker,Cathy McCarter,11,1,1, Pro/Am Ladies Adult B2 Int. Bronze Am. Rumba  (R),Sample,0,smp10,88C52A49,153,Wayne Crowder,Am. Rumba,1
+TN,0,1,Final,Mark Becker,Cathy McCarter,12,1,1, Pro/Am Ladies Adult B2 Int. Bronze Am. Rumba  (R),Sample,0,smp10,88C52A49,153,Charles Jones,Am. Rumba,1
+,0,1,Final,Justin Brochetti,Cathy Potter,10,1,1, Pro/Am Ladies Adult A2 Full Bronze Am. Rumba  (R),Sample,0,smp10,88C22B49,154,Marie Crowder,Am. Rumba,1
+,0,1,Final,Justin Brochetti,Cathy Potter,11,1,1, Pro/Am Ladies Adult A2 Full Bronze Am. Rumba  (R),Sample,0,smp10,88C22B49,154,Wayne Crowder,Am. Rumba,1
+,0,1,Final,Justin Brochetti,Cathy Potter,12,1,1, Pro/Am Ladies Adult A2 Full Bronze Am. Rumba  (R),Sample,0,smp10,88C22B49,154,Charles Jones,Am. Rumba,1
+TN,0,1,Final,Mark Becker,Cathy McCarter,10,1,1, Pro/Am Ladies Adult B2 Int. Bronze Am. Swing  (S),Sample,0,smp10,88C52A4A,153,Marie Crowder,Am. Swing,1
+TN,0,1,Final,Mark Becker,Cathy McCarter,11,1,1, Pro/Am Ladies Adult B2 Int. Bronze Am. Swing  (S),Sample,0,smp10,88C52A4A,153,Wayne Crowder,Am. Swing,1
+TN,0,1,Final,Mark Becker,Cathy McCarter,12,1,1, Pro/Am Ladies Adult B2 Int. Bronze Am. Swing  (S),Sample,0,smp10,88C52A4A,153,Charles Jones,Am. Swing,1
+,0,1,Final,Justin Brochetti,Cathy Potter,10,1,1, Pro/Am Ladies Adult A2 Full Bronze Am. Swing  (S),Sample,0,smp10,88C22B4A,154,Marie Crowder,Am. Swing,1
+,0,1,Final,Justin Brochetti,Cathy Potter,11,1,1, Pro/Am Ladies Adult A2 Full Bronze Am. Swing  (S),Sample,0,smp10,88C22B4A,154,Wayne Crowder,Am. Swing,1
+,0,1,Final,Justin Brochetti,Cathy Potter,12,1,1, Pro/Am Ladies Adult A2 Full Bronze Am. Swing  (S),Sample,0,smp10,88C22B4A,154,Charles Jones,Am. Swing,1
+TN,0,1,Final,Mark Becker,Cathy McCarter,10,1,1, Pro/Am Ladies Adult B2 Int. Bronze Am. Bolero  (B),Sample,0,smp10,88C52A4B,153,Marie Crowder,Am. Bolero,1
+TN,0,1,Final,Mark Becker,Cathy McCarter,11,1,1, Pro/Am Ladies Adult B2 Int. Bronze Am. Bolero  (B),Sample,0,smp10,88C52A4B,153,Wayne Crowder,Am. Bolero,1
+TN,0,1,Final,Mark Becker,Cathy McCarter,12,1,1, Pro/Am Ladies Adult B2 Int. Bronze Am. Bolero  (B),Sample,0,smp10,88C52A4B,153,Charles Jones,Am. Bolero,1
+,0,1,Final,Justin Brochetti,Cathy Potter,10,1,1, Pro/Am Ladies Adult A2 Full Bronze Am. Bolero  (B),Sample,0,smp10,88C22B4B,154,Marie Crowder,Am. Bolero,1
+,0,1,Final,Justin Brochetti,Cathy Potter,11,1,1, Pro/Am Ladies Adult A2 Full Bronze Am. Bolero  (B),Sample,0,smp10,88C22B4B,154,Wayne Crowder,Am. Bolero,1
+,0,1,Final,Justin Brochetti,Cathy Potter,12,1,1, Pro/Am Ladies Adult A2 Full Bronze Am. Bolero  (B),Sample,0,smp10,88C22B4B,154,Charles Jones,Am. Bolero,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,10,1,1, Pro/Am Ladies Adult A1 Full Bronze Am. Bolero  (B),Sample,0,smp10,88C12B4B,155,Marie Crowder,Am. Bolero,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,11,1,1, Pro/Am Ladies Adult A1 Full Bronze Am. Bolero  (B),Sample,0,smp10,88C12B4B,155,Wayne Crowder,Am. Bolero,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,12,1,1, Pro/Am Ladies Adult A1 Full Bronze Am. Bolero  (B),Sample,0,smp10,88C12B4B,155,Charles Jones,Am. Bolero,1
+TN,0,1,Final,Mark Becker,Chrissy Graves,10,1,1, Pro/Am Ladies Adult A1 Full Bronze Am. Cha Cha  (C),Sample,0,smp10,88C12B48,153,Marie Crowder,Am. Cha Cha,1
+TN,0,1,Final,Mark Becker,Chrissy Graves,11,1,1, Pro/Am Ladies Adult A1 Full Bronze Am. Cha Cha  (C),Sample,0,smp10,88C12B48,153,Wayne Crowder,Am. Cha Cha,1
+TN,0,1,Final,Mark Becker,Chrissy Graves,12,1,1, Pro/Am Ladies Adult A1 Full Bronze Am. Cha Cha  (C),Sample,0,smp10,88C12B48,153,Charles Jones,Am. Cha Cha,1
+TN,0,2,Final,Tim Elliott,Mandy Preston,10,2,2, Pro/Am Ladies Adult A1 Full Bronze Am. Cha Cha  (C),Sample,0,smp10,88C12B48,155,Marie Crowder,Am. Cha Cha,2
+TN,0,2,Final,Tim Elliott,Mandy Preston,11,2,2, Pro/Am Ladies Adult A1 Full Bronze Am. Cha Cha  (C),Sample,0,smp10,88C12B48,155,Wayne Crowder,Am. Cha Cha,2
+TN,0,2,Final,Tim Elliott,Mandy Preston,12,2,2, Pro/Am Ladies Adult A1 Full Bronze Am. Cha Cha  (C),Sample,0,smp10,88C12B48,155,Charles Jones,Am. Cha Cha,2
+TN,0,1,Final,Mark Becker,Chrissy Graves,10,1,1, Pro/Am Ladies Adult A1 Full Bronze Am. Rumba  (R),Sample,0,smp10,88C12B49,153,Marie Crowder,Am. Rumba,1
+TN,0,1,Final,Mark Becker,Chrissy Graves,11,1,1, Pro/Am Ladies Adult A1 Full Bronze Am. Rumba  (R),Sample,0,smp10,88C12B49,153,Wayne Crowder,Am. Rumba,1
+TN,0,1,Final,Mark Becker,Chrissy Graves,12,1,1, Pro/Am Ladies Adult A1 Full Bronze Am. Rumba  (R),Sample,0,smp10,88C12B49,153,Charles Jones,Am. Rumba,1
+TN,0,2,Final,Tim Elliott,Mandy Preston,10,2,2, Pro/Am Ladies Adult A1 Full Bronze Am. Rumba  (R),Sample,0,smp10,88C12B49,155,Marie Crowder,Am. Rumba,2
+TN,0,2,Final,Tim Elliott,Mandy Preston,11,2,2, Pro/Am Ladies Adult A1 Full Bronze Am. Rumba  (R),Sample,0,smp10,88C12B49,155,Wayne Crowder,Am. Rumba,2
+TN,0,2,Final,Tim Elliott,Mandy Preston,12,2,2, Pro/Am Ladies Adult A1 Full Bronze Am. Rumba  (R),Sample,0,smp10,88C12B49,155,Charles Jones,Am. Rumba,2
+TN,0,1,Final,Mark Becker,Chrissy Graves,10,1,1, Pro/Am Ladies Adult A1 Full Bronze Am. Swing  (S),Sample,0,smp10,88C12B4A,153,Marie Crowder,Am. Swing,1
+TN,0,1,Final,Mark Becker,Chrissy Graves,11,1,1, Pro/Am Ladies Adult A1 Full Bronze Am. Swing  (S),Sample,0,smp10,88C12B4A,153,Wayne Crowder,Am. Swing,1
+TN,0,1,Final,Mark Becker,Chrissy Graves,12,1,1, Pro/Am Ladies Adult A1 Full Bronze Am. Swing  (S),Sample,0,smp10,88C12B4A,153,Charles Jones,Am. Swing,1
+TN,0,2,Final,Tim Elliott,Mandy Preston,10,2,2, Pro/Am Ladies Adult A1 Full Bronze Am. Swing  (S),Sample,0,smp10,88C12B4A,155,Marie Crowder,Am. Swing,2
+TN,0,2,Final,Tim Elliott,Mandy Preston,11,2,2, Pro/Am Ladies Adult A1 Full Bronze Am. Swing  (S),Sample,0,smp10,88C12B4A,155,Wayne Crowder,Am. Swing,2
+TN,0,2,Final,Tim Elliott,Mandy Preston,12,2,2, Pro/Am Ladies Adult A1 Full Bronze Am. Swing  (S),Sample,0,smp10,88C12B4A,155,Charles Jones,Am. Swing,2
+TN,0,1,Final,Mark Becker,Chrissy Graves,10,1,1, Pro/Am Ladies Adult A1 Full Bronze Am. Mambo  (M),Sample,0,smp10,88C12B4C,153,Marie Crowder,Am. Mambo,1
+TN,0,1,Final,Mark Becker,Chrissy Graves,11,1,1, Pro/Am Ladies Adult A1 Full Bronze Am. Mambo  (M),Sample,0,smp10,88C12B4C,153,Wayne Crowder,Am. Mambo,1
+TN,0,1,Final,Mark Becker,Chrissy Graves,12,1,1, Pro/Am Ladies Adult A1 Full Bronze Am. Mambo  (M),Sample,0,smp10,88C12B4C,153,Charles Jones,Am. Mambo,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,10,1,1, Pro/Am Ladies Adult A1 Full Bronze West Coast Swing  (W),Sample,0,smp10,88C12B62,155,Marie Crowder,West Coast Swing,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,11,1,1, Pro/Am Ladies Adult A1 Full Bronze West Coast Swing  (W),Sample,0,smp10,88C12B62,155,Wayne Crowder,West Coast Swing,1
+TN,0,1,Final,Tim Elliott,Mandy Preston,12,1,1, Pro/Am Ladies Adult A1 Full Bronze West Coast Swing  (W),Sample,0,smp10,88C12B62,155,Charles Jones,West Coast Swing,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,10,1,1, Pro/Am Ladies Adult B1 Full Silver Am. Cha Cha  (C),Sample,0,smp10,88C43348,153,Marie Crowder,Am. Cha Cha,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,11,1,1, Pro/Am Ladies Adult B1 Full Silver Am. Cha Cha  (C),Sample,0,smp10,88C43348,153,Wayne Crowder,Am. Cha Cha,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,12,1,1, Pro/Am Ladies Adult B1 Full Silver Am. Cha Cha  (C),Sample,0,smp10,88C43348,153,Charles Jones,Am. Cha Cha,1
+,0,1,Final,Justin Brochetti,Cathy Potter,10,1,1, Pro/Am Ladies Adult B1 Full Bronze Am. Cha Cha  (C),Sample,0,smp10,88C42B48,154,Marie Crowder,Am. Cha Cha,1
+,0,1,Final,Justin Brochetti,Cathy Potter,11,1,1, Pro/Am Ladies Adult B1 Full Bronze Am. Cha Cha  (C),Sample,0,smp10,88C42B48,154,Wayne Crowder,Am. Cha Cha,1
+,0,1,Final,Justin Brochetti,Cathy Potter,12,1,1, Pro/Am Ladies Adult B1 Full Bronze Am. Cha Cha  (C),Sample,0,smp10,88C42B48,154,Charles Jones,Am. Cha Cha,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,10,1,1, Pro/Am Ladies Adult B1 Full Silver Am. Rumba  (R),Sample,0,smp10,88C43349,153,Marie Crowder,Am. Rumba,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,11,1,1, Pro/Am Ladies Adult B1 Full Silver Am. Rumba  (R),Sample,0,smp10,88C43349,153,Wayne Crowder,Am. Rumba,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,12,1,1, Pro/Am Ladies Adult B1 Full Silver Am. Rumba  (R),Sample,0,smp10,88C43349,153,Charles Jones,Am. Rumba,1
+,0,1,Final,Justin Brochetti,Cathy Potter,10,1,1, Pro/Am Ladies Adult B1 Full Bronze Am. Rumba  (R),Sample,0,smp10,88C42B49,154,Marie Crowder,Am. Rumba,1
+,0,1,Final,Justin Brochetti,Cathy Potter,11,1,1, Pro/Am Ladies Adult B1 Full Bronze Am. Rumba  (R),Sample,0,smp10,88C42B49,154,Wayne Crowder,Am. Rumba,1
+,0,1,Final,Justin Brochetti,Cathy Potter,12,1,1, Pro/Am Ladies Adult B1 Full Bronze Am. Rumba  (R),Sample,0,smp10,88C42B49,154,Charles Jones,Am. Rumba,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,10,1,1, Pro/Am Ladies Adult B1 Full Silver Am. Swing  (S),Sample,0,smp10,88C4334A,153,Marie Crowder,Am. Swing,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,11,1,1, Pro/Am Ladies Adult B1 Full Silver Am. Swing  (S),Sample,0,smp10,88C4334A,153,Wayne Crowder,Am. Swing,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,12,1,1, Pro/Am Ladies Adult B1 Full Silver Am. Swing  (S),Sample,0,smp10,88C4334A,153,Charles Jones,Am. Swing,1
+,0,1,Final,Justin Brochetti,Cathy Potter,10,1,1, Pro/Am Ladies Adult B1 Full Bronze Am. Swing  (S),Sample,0,smp10,88C42B4A,154,Marie Crowder,Am. Swing,1
+,0,1,Final,Justin Brochetti,Cathy Potter,11,1,1, Pro/Am Ladies Adult B1 Full Bronze Am. Swing  (S),Sample,0,smp10,88C42B4A,154,Wayne Crowder,Am. Swing,1
+,0,1,Final,Justin Brochetti,Cathy Potter,12,1,1, Pro/Am Ladies Adult B1 Full Bronze Am. Swing  (S),Sample,0,smp10,88C42B4A,154,Charles Jones,Am. Swing,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,10,1,1, Pro/Am Ladies Adult B1 Full Silver Am. Bolero  (B),Sample,0,smp10,88C4334B,153,Marie Crowder,Am. Bolero,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,11,1,1, Pro/Am Ladies Adult B1 Full Silver Am. Bolero  (B),Sample,0,smp10,88C4334B,153,Wayne Crowder,Am. Bolero,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,12,1,1, Pro/Am Ladies Adult B1 Full Silver Am. Bolero  (B),Sample,0,smp10,88C4334B,153,Charles Jones,Am. Bolero,1
+,0,1,Final,Justin Brochetti,Cathy Potter,10,1,1, Pro/Am Ladies Adult B1 Full Bronze Am. Bolero  (B),Sample,0,smp10,88C42B4B,154,Marie Crowder,Am. Bolero,1
+,0,1,Final,Justin Brochetti,Cathy Potter,11,1,1, Pro/Am Ladies Adult B1 Full Bronze Am. Bolero  (B),Sample,0,smp10,88C42B4B,154,Wayne Crowder,Am. Bolero,1
+,0,1,Final,Justin Brochetti,Cathy Potter,12,1,1, Pro/Am Ladies Adult B1 Full Bronze Am. Bolero  (B),Sample,0,smp10,88C42B4B,154,Charles Jones,Am. Bolero,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,10,1,1, Pro/Am Ladies Adult B1 Full Silver Am. Mambo  (M),Sample,0,smp10,88C4334C,153,Marie Crowder,Am. Mambo,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,11,1,1, Pro/Am Ladies Adult B1 Full Silver Am. Mambo  (M),Sample,0,smp10,88C4334C,153,Wayne Crowder,Am. Mambo,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,12,1,1, Pro/Am Ladies Adult B1 Full Silver Am. Mambo  (M),Sample,0,smp10,88C4334C,153,Charles Jones,Am. Mambo,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,10,1,1, Pro/Am Ladies Adult B1 Full Silver Am. Samba  (S),Sample,0,smp10,88C4334D,153,Marie Crowder,Am. Samba,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,11,1,1, Pro/Am Ladies Adult B1 Full Silver Am. Samba  (S),Sample,0,smp10,88C4334D,153,Wayne Crowder,Am. Samba,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,12,1,1, Pro/Am Ladies Adult B1 Full Silver Am. Samba  (S),Sample,0,smp10,88C4334D,153,Charles Jones,Am. Samba,1
+,0,1,Final,Robert Potter,Louise Cote,10,1,1, Pro/Am Gents Adult B1 Full Bronze Am. Samba  (S),Sample,0,smp10,90C42B4D,244,Marie Crowder,Am. Samba,1
+,0,1,Final,Robert Potter,Louise Cote,11,1,1, Pro/Am Gents Adult B1 Full Bronze Am. Samba  (S),Sample,0,smp10,90C42B4D,244,Wayne Crowder,Am. Samba,1
+,0,1,Final,Robert Potter,Louise Cote,12,1,1, Pro/Am Gents Adult B1 Full Bronze Am. Samba  (S),Sample,0,smp10,90C42B4D,244,Charles Jones,Am. Samba,1
+TN,0,1,Final,Mark Becker,Chrissy Graves,10,1,1, Pro/Am Ladies Adult A1 Open Bronze Rhythm  (CRS),Sample,0,smp10,88C12D40,153,Marie Crowder,Cha Cha,1
+TN,0,1,Final,Mark Becker,Chrissy Graves,11,1,1, Pro/Am Ladies Adult A1 Open Bronze Rhythm  (CRS),Sample,0,smp10,88C12D40,153,Wayne Crowder,Cha Cha,1
+TN,0,1,Final,Mark Becker,Chrissy Graves,12,1,1, Pro/Am Ladies Adult A1 Open Bronze Rhythm  (CRS),Sample,0,smp10,88C12D40,153,Charles Jones,Cha Cha,1
+TN,0,2,Final,Tim Elliott,Mandy Preston,10,2,2, Pro/Am Ladies Adult A1 Open Bronze Rhythm  (CRS),Sample,0,smp10,88C12D40,155,Marie Crowder,Cha Cha,2
+TN,0,2,Final,Tim Elliott,Mandy Preston,11,2,2, Pro/Am Ladies Adult A1 Open Bronze Rhythm  (CRS),Sample,0,smp10,88C12D40,155,Wayne Crowder,Cha Cha,2
+TN,0,2,Final,Tim Elliott,Mandy Preston,12,2,2, Pro/Am Ladies Adult A1 Open Bronze Rhythm  (CRS),Sample,0,smp10,88C12D40,155,Charles Jones,Cha Cha,2
+TN,0,1,Final,Mark Becker,Chrissy Graves,10,1,1, Pro/Am Ladies Adult A1 Open Bronze Rhythm  (CRS),Sample,1,smp10,88C12D40,153,Marie Crowder,Rumba,1
+TN,0,1,Final,Mark Becker,Chrissy Graves,11,1,1, Pro/Am Ladies Adult A1 Open Bronze Rhythm  (CRS),Sample,1,smp10,88C12D40,153,Wayne Crowder,Rumba,1
+TN,0,1,Final,Mark Becker,Chrissy Graves,12,1,1, Pro/Am Ladies Adult A1 Open Bronze Rhythm  (CRS),Sample,1,smp10,88C12D40,153,Charles Jones,Rumba,1
+TN,0,2,Final,Tim Elliott,Mandy Preston,10,2,2, Pro/Am Ladies Adult A1 Open Bronze Rhythm  (CRS),Sample,1,smp10,88C12D40,155,Marie Crowder,Rumba,2
+TN,0,2,Final,Tim Elliott,Mandy Preston,11,2,2, Pro/Am Ladies Adult A1 Open Bronze Rhythm  (CRS),Sample,1,smp10,88C12D40,155,Wayne Crowder,Rumba,2
+TN,0,2,Final,Tim Elliott,Mandy Preston,12,2,2, Pro/Am Ladies Adult A1 Open Bronze Rhythm  (CRS),Sample,1,smp10,88C12D40,155,Charles Jones,Rumba,2
+TN,0,1,Final,Mark Becker,Chrissy Graves,10,1,1, Pro/Am Ladies Adult A1 Open Bronze Rhythm  (CRS),Sample,2,smp10,88C12D40,153,Marie Crowder,Swing,1
+TN,0,1,Final,Mark Becker,Chrissy Graves,11,1,1, Pro/Am Ladies Adult A1 Open Bronze Rhythm  (CRS),Sample,2,smp10,88C12D40,153,Wayne Crowder,Swing,1
+TN,0,1,Final,Mark Becker,Chrissy Graves,12,1,1, Pro/Am Ladies Adult A1 Open Bronze Rhythm  (CRS),Sample,2,smp10,88C12D40,153,Charles Jones,Swing,1
+TN,0,2,Final,Tim Elliott,Mandy Preston,10,2,2, Pro/Am Ladies Adult A1 Open Bronze Rhythm  (CRS),Sample,2,smp10,88C12D40,155,Marie Crowder,Swing,2
+TN,0,2,Final,Tim Elliott,Mandy Preston,11,2,2, Pro/Am Ladies Adult A1 Open Bronze Rhythm  (CRS),Sample,2,smp10,88C12D40,155,Wayne Crowder,Swing,2
+TN,0,2,Final,Tim Elliott,Mandy Preston,12,2,2, Pro/Am Ladies Adult A1 Open Bronze Rhythm  (CRS),Sample,2,smp10,88C12D40,155,Charles Jones,Swing,2
+TN,0,1,Final,Mark Becker,Stephanie Ryan,10,1,1, Pro/Am Ladies Adult A2 Open Silver Rhythm  (CRS),Sample,0,smp10,88C23540,153,Marie Crowder,Cha Cha,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,11,1,1, Pro/Am Ladies Adult A2 Open Silver Rhythm  (CRS),Sample,0,smp10,88C23540,153,Wayne Crowder,Cha Cha,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,12,1,1, Pro/Am Ladies Adult A2 Open Silver Rhythm  (CRS),Sample,0,smp10,88C23540,153,Charles Jones,Cha Cha,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,10,1,1, Pro/Am Ladies Adult A2 Open Silver Rhythm  (CRS),Sample,1,smp10,88C23540,153,Marie Crowder,Rumba,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,11,1,1, Pro/Am Ladies Adult A2 Open Silver Rhythm  (CRS),Sample,1,smp10,88C23540,153,Wayne Crowder,Rumba,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,12,1,1, Pro/Am Ladies Adult A2 Open Silver Rhythm  (CRS),Sample,1,smp10,88C23540,153,Charles Jones,Rumba,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,10,1,1, Pro/Am Ladies Adult A2 Open Silver Rhythm  (CRS),Sample,2,smp10,88C23540,153,Marie Crowder,Swing,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,11,1,1, Pro/Am Ladies Adult A2 Open Silver Rhythm  (CRS),Sample,2,smp10,88C23540,153,Wayne Crowder,Swing,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,12,1,1, Pro/Am Ladies Adult A2 Open Silver Rhythm  (CRS),Sample,2,smp10,88C23540,153,Charles Jones,Swing,1
+TN,0,2,Final,Mark Becker,Chrissy Graves,10,2,2, Pro/Am Adult Closed Bronze Rhythm  (CRS),Sample,0,smp10,80C92C40,153,Marie Crowder,Cha Cha,1
+TN,0,2,Final,Mark Becker,Chrissy Graves,11,2,2, Pro/Am Adult Closed Bronze Rhythm  (CRS),Sample,0,smp10,80C92C40,153,Wayne Crowder,Cha Cha,1
+TN,0,1,Final,Mark Becker,Chrissy Graves,12,2,1, Pro/Am Adult Closed Bronze Rhythm  (CRS),Sample,0,smp10,80C92C40,153,Charles Jones,Cha Cha,1
+TN,0,1,Final,Daniel Wilder,Rhonda Becker,10,1,1, Pro/Am Adult Closed Bronze Rhythm  (CRS),Sample,0,smp10,80C92C40,245,Marie Crowder,Cha Cha,2
+TN,0,1,Final,Daniel Wilder,Rhonda Becker,11,1,1, Pro/Am Adult Closed Bronze Rhythm  (CRS),Sample,0,smp10,80C92C40,245,Wayne Crowder,Cha Cha,2
+TN,0,2,Final,Daniel Wilder,Rhonda Becker,12,1,2, Pro/Am Adult Closed Bronze Rhythm  (CRS),Sample,0,smp10,80C92C40,245,Charles Jones,Cha Cha,2
+TN,0,3,Final,Tim Elliott,Mandy Preston,10,3,3, Pro/Am Adult Closed Bronze Rhythm  (CRS),Sample,0,smp10,80C92C40,155,Marie Crowder,Cha Cha,3
+TN,0,3,Final,Tim Elliott,Mandy Preston,11,3,3, Pro/Am Adult Closed Bronze Rhythm  (CRS),Sample,0,smp10,80C92C40,155,Wayne Crowder,Cha Cha,3
+TN,0,3,Final,Tim Elliott,Mandy Preston,12,3,3, Pro/Am Adult Closed Bronze Rhythm  (CRS),Sample,0,smp10,80C92C40,155,Charles Jones,Cha Cha,3
+TN,0,2,Final,Mark Becker,Chrissy Graves,10,1,2, Pro/Am Adult Closed Bronze Rhythm  (CRS),Sample,1,smp10,80C92C40,153,Marie Crowder,Rumba,1
+TN,0,1,Final,Mark Becker,Chrissy Graves,11,1,1, Pro/Am Adult Closed Bronze Rhythm  (CRS),Sample,1,smp10,80C92C40,153,Wayne Crowder,Rumba,1
+TN,0,1,Final,Mark Becker,Chrissy Graves,12,1,1, Pro/Am Adult Closed Bronze Rhythm  (CRS),Sample,1,smp10,80C92C40,153,Charles Jones,Rumba,1
+TN,0,1,Final,Daniel Wilder,Rhonda Becker,10,2,1, Pro/Am Adult Closed Bronze Rhythm  (CRS),Sample,1,smp10,80C92C40,245,Marie Crowder,Rumba,2
+TN,0,2,Final,Daniel Wilder,Rhonda Becker,11,2,2, Pro/Am Adult Closed Bronze Rhythm  (CRS),Sample,1,smp10,80C92C40,245,Wayne Crowder,Rumba,2
+TN,0,2,Final,Daniel Wilder,Rhonda Becker,12,2,2, Pro/Am Adult Closed Bronze Rhythm  (CRS),Sample,1,smp10,80C92C40,245,Charles Jones,Rumba,2
+TN,0,3,Final,Tim Elliott,Mandy Preston,10,3,3, Pro/Am Adult Closed Bronze Rhythm  (CRS),Sample,1,smp10,80C92C40,155,Marie Crowder,Rumba,3
+TN,0,3,Final,Tim Elliott,Mandy Preston,11,3,3, Pro/Am Adult Closed Bronze Rhythm  (CRS),Sample,1,smp10,80C92C40,155,Wayne Crowder,Rumba,3
+TN,0,3,Final,Tim Elliott,Mandy Preston,12,3,3, Pro/Am Adult Closed Bronze Rhythm  (CRS),Sample,1,smp10,80C92C40,155,Charles Jones,Rumba,3
+TN,0,1,Final,Mark Becker,Chrissy Graves,10,1,1, Pro/Am Adult Closed Bronze Rhythm  (CRS),Sample,2,smp10,80C92C40,153,Marie Crowder,Swing,1
+TN,0,1,Final,Mark Becker,Chrissy Graves,11,1,1, Pro/Am Adult Closed Bronze Rhythm  (CRS),Sample,2,smp10,80C92C40,153,Wayne Crowder,Swing,1
+TN,0,1,Final,Mark Becker,Chrissy Graves,12,1,1, Pro/Am Adult Closed Bronze Rhythm  (CRS),Sample,2,smp10,80C92C40,153,Charles Jones,Swing,1
+TN,0,2,Final,Daniel Wilder,Rhonda Becker,10,2,2, Pro/Am Adult Closed Bronze Rhythm  (CRS),Sample,2,smp10,80C92C40,245,Marie Crowder,Swing,2
+TN,0,2,Final,Daniel Wilder,Rhonda Becker,11,2,2, Pro/Am Adult Closed Bronze Rhythm  (CRS),Sample,2,smp10,80C92C40,245,Wayne Crowder,Swing,2
+TN,0,2,Final,Daniel Wilder,Rhonda Becker,12,2,2, Pro/Am Adult Closed Bronze Rhythm  (CRS),Sample,2,smp10,80C92C40,245,Charles Jones,Swing,2
+TN,0,3,Final,Tim Elliott,Mandy Preston,10,3,3, Pro/Am Adult Closed Bronze Rhythm  (CRS),Sample,2,smp10,80C92C40,155,Marie Crowder,Swing,3
+TN,0,3,Final,Tim Elliott,Mandy Preston,11,3,3, Pro/Am Adult Closed Bronze Rhythm  (CRS),Sample,2,smp10,80C92C40,155,Wayne Crowder,Swing,3
+TN,0,3,Final,Tim Elliott,Mandy Preston,12,3,3, Pro/Am Adult Closed Bronze Rhythm  (CRS),Sample,2,smp10,80C92C40,155,Charles Jones,Swing,3
+,0,1,Final,Justin Brochetti,Cathy Potter,10,1,1, Pro/Am Senior Closed Bronze Rhythm  (CRS),Sample,0,smp10,80CA2C40,154,Marie Crowder,Cha Cha,1
+,0,1,Final,Justin Brochetti,Cathy Potter,11,1,1, Pro/Am Senior Closed Bronze Rhythm  (CRS),Sample,0,smp10,80CA2C40,154,Wayne Crowder,Cha Cha,1
+,0,1,Final,Justin Brochetti,Cathy Potter,12,1,1, Pro/Am Senior Closed Bronze Rhythm  (CRS),Sample,0,smp10,80CA2C40,154,Charles Jones,Cha Cha,1
+,0,2,Final,Gary Clark,Louise Cote,10,2,2, Pro/Am Senior Closed Bronze Rhythm  (CRS),Sample,0,smp10,80CA2C40,242,Marie Crowder,Cha Cha,2
+,0,2,Final,Gary Clark,Louise Cote,11,2,2, Pro/Am Senior Closed Bronze Rhythm  (CRS),Sample,0,smp10,80CA2C40,242,Wayne Crowder,Cha Cha,2
+,0,2,Final,Gary Clark,Louise Cote,12,2,2, Pro/Am Senior Closed Bronze Rhythm  (CRS),Sample,0,smp10,80CA2C40,242,Charles Jones,Cha Cha,2
+,0,1,Final,Justin Brochetti,Cathy Potter,10,1,1, Pro/Am Senior Closed Bronze Rhythm  (CRS),Sample,1,smp10,80CA2C40,154,Marie Crowder,Rumba,1
+,0,1,Final,Justin Brochetti,Cathy Potter,11,1,1, Pro/Am Senior Closed Bronze Rhythm  (CRS),Sample,1,smp10,80CA2C40,154,Wayne Crowder,Rumba,1
+,0,1,Final,Justin Brochetti,Cathy Potter,12,1,1, Pro/Am Senior Closed Bronze Rhythm  (CRS),Sample,1,smp10,80CA2C40,154,Charles Jones,Rumba,1
+,0,2,Final,Gary Clark,Louise Cote,10,2,2, Pro/Am Senior Closed Bronze Rhythm  (CRS),Sample,1,smp10,80CA2C40,242,Marie Crowder,Rumba,2
+,0,2,Final,Gary Clark,Louise Cote,11,2,2, Pro/Am Senior Closed Bronze Rhythm  (CRS),Sample,1,smp10,80CA2C40,242,Wayne Crowder,Rumba,2
+,0,2,Final,Gary Clark,Louise Cote,12,2,2, Pro/Am Senior Closed Bronze Rhythm  (CRS),Sample,1,smp10,80CA2C40,242,Charles Jones,Rumba,2
+,0,1,Final,Justin Brochetti,Cathy Potter,10,1,1, Pro/Am Senior Closed Bronze Rhythm  (CRS),Sample,2,smp10,80CA2C40,154,Marie Crowder,Swing,1
+,0,1,Final,Justin Brochetti,Cathy Potter,11,1,1, Pro/Am Senior Closed Bronze Rhythm  (CRS),Sample,2,smp10,80CA2C40,154,Wayne Crowder,Swing,1
+,0,1,Final,Justin Brochetti,Cathy Potter,12,1,1, Pro/Am Senior Closed Bronze Rhythm  (CRS),Sample,2,smp10,80CA2C40,154,Charles Jones,Swing,1
+,0,2,Final,Gary Clark,Louise Cote,10,2,2, Pro/Am Senior Closed Bronze Rhythm  (CRS),Sample,2,smp10,80CA2C40,242,Marie Crowder,Swing,2
+,0,2,Final,Gary Clark,Louise Cote,11,2,2, Pro/Am Senior Closed Bronze Rhythm  (CRS),Sample,2,smp10,80CA2C40,242,Wayne Crowder,Swing,2
+,0,2,Final,Gary Clark,Louise Cote,12,2,2, Pro/Am Senior Closed Bronze Rhythm  (CRS),Sample,2,smp10,80CA2C40,242,Charles Jones,Swing,2
+TN,0,1,Final,Mark Becker,Stephanie Ryan,10,1,1, Pro/Am Senior Closed Silver Rhythm  (CRS),Sample,0,smp10,80CA3440,153,Marie Crowder,Cha Cha,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,11,1,1, Pro/Am Senior Closed Silver Rhythm  (CRS),Sample,0,smp10,80CA3440,153,Wayne Crowder,Cha Cha,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,12,1,1, Pro/Am Senior Closed Silver Rhythm  (CRS),Sample,0,smp10,80CA3440,153,Charles Jones,Cha Cha,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,10,1,1, Pro/Am Senior Closed Silver Rhythm  (CRS),Sample,1,smp10,80CA3440,153,Marie Crowder,Rumba,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,11,1,1, Pro/Am Senior Closed Silver Rhythm  (CRS),Sample,1,smp10,80CA3440,153,Wayne Crowder,Rumba,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,12,1,1, Pro/Am Senior Closed Silver Rhythm  (CRS),Sample,1,smp10,80CA3440,153,Charles Jones,Rumba,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,10,1,1, Pro/Am Senior Closed Silver Rhythm  (CRS),Sample,2,smp10,80CA3440,153,Marie Crowder,Swing,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,11,1,1, Pro/Am Senior Closed Silver Rhythm  (CRS),Sample,2,smp10,80CA3440,153,Wayne Crowder,Swing,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,12,1,1, Pro/Am Senior Closed Silver Rhythm  (CRS),Sample,2,smp10,80CA3440,153,Charles Jones,Swing,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,10,1,1, Pro/Am Ladies Adult B1 Open Silver Rhythm  (CRS),Sample,0,smp10,88C43540,153,Marie Crowder,Cha Cha,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,11,1,1, Pro/Am Ladies Adult B1 Open Silver Rhythm  (CRS),Sample,0,smp10,88C43540,153,Wayne Crowder,Cha Cha,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,12,1,1, Pro/Am Ladies Adult B1 Open Silver Rhythm  (CRS),Sample,0,smp10,88C43540,153,Charles Jones,Cha Cha,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,10,1,1, Pro/Am Ladies Adult B1 Open Silver Rhythm  (CRS),Sample,1,smp10,88C43540,153,Marie Crowder,Rumba,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,11,1,1, Pro/Am Ladies Adult B1 Open Silver Rhythm  (CRS),Sample,1,smp10,88C43540,153,Wayne Crowder,Rumba,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,12,1,1, Pro/Am Ladies Adult B1 Open Silver Rhythm  (CRS),Sample,1,smp10,88C43540,153,Charles Jones,Rumba,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,10,1,1, Pro/Am Ladies Adult B1 Open Silver Rhythm  (CRS),Sample,2,smp10,88C43540,153,Marie Crowder,Swing,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,11,1,1, Pro/Am Ladies Adult B1 Open Silver Rhythm  (CRS),Sample,2,smp10,88C43540,153,Wayne Crowder,Swing,1
+TN,0,1,Final,Mark Becker,Stephanie Ryan,12,1,1, Pro/Am Ladies Adult B1 Open Silver Rhythm  (CRS),Sample,2,smp10,88C43540,153,Charles Jones,Swing,1

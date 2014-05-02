@@ -1,0 +1,556 @@
+couple_location,round_id,mark,round_name,lead_name,follow_name,judge,result,value,heat_name,comp_name,dance_id,comp_id,heat_id,couple,judge_name,dance_name,final_result
+Wa,0,1,Final,Erik Linder,Dascha Jayne Wright,10,1,1, Pre-Teen Newcomer Standard  (W),Sample,0,qfb073,40272010,101,Anya Klimova-Preston,Waltz,1
+Wa,0,2,Final,Erik Linder,Dascha Jayne Wright,11,1,2, Pre-Teen Newcomer Standard  (W),Sample,0,qfb073,40272010,101,Ludmila Popova,Waltz,1
+Wa,0,1,Final,Erik Linder,Dascha Jayne Wright,12,1,1, Pre-Teen Newcomer Standard  (W),Sample,0,qfb073,40272010,101,Yelena Zakharova,Waltz,1
+WA,0,2,Final,Octavian Culiac,Ruxandra Culiac,10,2,2, Pre-Teen Newcomer Standard  (W),Sample,0,qfb073,40272010,117,Anya Klimova-Preston,Waltz,2
+WA,0,3,Final,Octavian Culiac,Ruxandra Culiac,11,2,3, Pre-Teen Newcomer Standard  (W),Sample,0,qfb073,40272010,117,Ludmila Popova,Waltz,2
+WA,0,2,Final,Octavian Culiac,Ruxandra Culiac,12,2,2, Pre-Teen Newcomer Standard  (W),Sample,0,qfb073,40272010,117,Yelena Zakharova,Waltz,2
+WA,0,3,Final,Allen Ivanov,Christina Oganova,10,3,3, Pre-Teen Newcomer Standard  (W),Sample,0,qfb073,40272010,121,Anya Klimova-Preston,Waltz,3
+WA,0,1,Final,Allen Ivanov,Christina Oganova,11,3,1, Pre-Teen Newcomer Standard  (W),Sample,0,qfb073,40272010,121,Ludmila Popova,Waltz,3
+WA,0,4,Final,Allen Ivanov,Christina Oganova,12,3,4, Pre-Teen Newcomer Standard  (W),Sample,0,qfb073,40272010,121,Yelena Zakharova,Waltz,3
+WA,0,4,Final,Nick Minkin,Katya Belokrylova,10,4,4, Pre-Teen Newcomer Standard  (W),Sample,0,qfb073,40272010,115,Anya Klimova-Preston,Waltz,4
+WA,0,4,Final,Nick Minkin,Katya Belokrylova,11,4,4, Pre-Teen Newcomer Standard  (W),Sample,0,qfb073,40272010,115,Ludmila Popova,Waltz,4
+WA,0,3,Final,Nick Minkin,Katya Belokrylova,12,4,3, Pre-Teen Newcomer Standard  (W),Sample,0,qfb073,40272010,115,Yelena Zakharova,Waltz,4
+Wa,0,1,Final,Paul Stovall,Maxine Taylor,10,1,1, Pre-Teen Silver Standard  (WTQ),Sample,0,qfb073,40273010,112,Anya Klimova-Preston,Waltz,1
+Wa,0,1,Final,Paul Stovall,Maxine Taylor,11,1,1, Pre-Teen Silver Standard  (WTQ),Sample,0,qfb073,40273010,112,Ludmila Popova,Waltz,1
+Wa,0,1,Final,Paul Stovall,Maxine Taylor,12,1,1, Pre-Teen Silver Standard  (WTQ),Sample,0,qfb073,40273010,112,Yelena Zakharova,Waltz,1
+Wa,0,2,Final,Danyo Kurgan,Nicole Garakanidze,10,2,2, Pre-Teen Silver Standard  (WTQ),Sample,0,qfb073,40273010,102,Anya Klimova-Preston,Waltz,2
+Wa,0,2,Final,Danyo Kurgan,Nicole Garakanidze,11,2,2, Pre-Teen Silver Standard  (WTQ),Sample,0,qfb073,40273010,102,Ludmila Popova,Waltz,2
+Wa,0,3,Final,Danyo Kurgan,Nicole Garakanidze,12,2,3, Pre-Teen Silver Standard  (WTQ),Sample,0,qfb073,40273010,102,Yelena Zakharova,Waltz,2
+Wa,0,3,Final,David Porter,Maria Bessonova,10,3,3, Pre-Teen Silver Standard  (WTQ),Sample,0,qfb073,40273010,100,Anya Klimova-Preston,Waltz,3
+Wa,0,3,Final,David Porter,Maria Bessonova,11,3,3, Pre-Teen Silver Standard  (WTQ),Sample,0,qfb073,40273010,100,Ludmila Popova,Waltz,3
+Wa,0,2,Final,David Porter,Maria Bessonova,12,3,2, Pre-Teen Silver Standard  (WTQ),Sample,0,qfb073,40273010,100,Yelena Zakharova,Waltz,3
+Wa,0,2,Final,Paul Stovall,Maxine Taylor,10,1,2, Pre-Teen Silver Standard  (WTQ),Sample,1,qfb073,40273010,112,Anya Klimova-Preston,Tango,1
+Wa,0,1,Final,Paul Stovall,Maxine Taylor,11,1,1, Pre-Teen Silver Standard  (WTQ),Sample,1,qfb073,40273010,112,Ludmila Popova,Tango,1
+Wa,0,1,Final,Paul Stovall,Maxine Taylor,12,1,1, Pre-Teen Silver Standard  (WTQ),Sample,1,qfb073,40273010,112,Yelena Zakharova,Tango,1
+Wa,0,3,Final,Danyo Kurgan,Nicole Garakanidze,10,3,3, Pre-Teen Silver Standard  (WTQ),Sample,1,qfb073,40273010,102,Anya Klimova-Preston,Tango,2
+Wa,0,3,Final,Danyo Kurgan,Nicole Garakanidze,11,3,3, Pre-Teen Silver Standard  (WTQ),Sample,1,qfb073,40273010,102,Ludmila Popova,Tango,2
+Wa,0,3,Final,Danyo Kurgan,Nicole Garakanidze,12,3,3, Pre-Teen Silver Standard  (WTQ),Sample,1,qfb073,40273010,102,Yelena Zakharova,Tango,2
+Wa,0,1,Final,David Porter,Maria Bessonova,10,2,1, Pre-Teen Silver Standard  (WTQ),Sample,1,qfb073,40273010,100,Anya Klimova-Preston,Tango,3
+Wa,0,2,Final,David Porter,Maria Bessonova,11,2,2, Pre-Teen Silver Standard  (WTQ),Sample,1,qfb073,40273010,100,Ludmila Popova,Tango,3
+Wa,0,2,Final,David Porter,Maria Bessonova,12,2,2, Pre-Teen Silver Standard  (WTQ),Sample,1,qfb073,40273010,100,Yelena Zakharova,Tango,3
+Wa,0,1,Final,Paul Stovall,Maxine Taylor,10,1,1, Pre-Teen Silver Standard  (WTQ),Sample,2,qfb073,40273010,112,Anya Klimova-Preston,Quickstep,1
+Wa,0,1,Final,Paul Stovall,Maxine Taylor,11,1,1, Pre-Teen Silver Standard  (WTQ),Sample,2,qfb073,40273010,112,Ludmila Popova,Quickstep,1
+Wa,0,1,Final,Paul Stovall,Maxine Taylor,12,1,1, Pre-Teen Silver Standard  (WTQ),Sample,2,qfb073,40273010,112,Yelena Zakharova,Quickstep,1
+Wa,0,3,Final,Danyo Kurgan,Nicole Garakanidze,10,2,3, Pre-Teen Silver Standard  (WTQ),Sample,2,qfb073,40273010,102,Anya Klimova-Preston,Quickstep,2
+Wa,0,2,Final,Danyo Kurgan,Nicole Garakanidze,11,2,2, Pre-Teen Silver Standard  (WTQ),Sample,2,qfb073,40273010,102,Ludmila Popova,Quickstep,2
+Wa,0,2,Final,Danyo Kurgan,Nicole Garakanidze,12,2,2, Pre-Teen Silver Standard  (WTQ),Sample,2,qfb073,40273010,102,Yelena Zakharova,Quickstep,2
+Wa,0,2,Final,David Porter,Maria Bessonova,10,3,2, Pre-Teen Silver Standard  (WTQ),Sample,2,qfb073,40273010,100,Anya Klimova-Preston,Quickstep,3
+Wa,0,3,Final,David Porter,Maria Bessonova,11,3,3, Pre-Teen Silver Standard  (WTQ),Sample,2,qfb073,40273010,100,Ludmila Popova,Quickstep,3
+Wa,0,3,Final,David Porter,Maria Bessonova,12,3,3, Pre-Teen Silver Standard  (WTQ),Sample,2,qfb073,40273010,100,Yelena Zakharova,Quickstep,3
+Wa,0,3,Final,Erik Linder,Dascha Jayne Wright,10,1,3, Junior Newcomer Standard  (W),Sample,0,qfb073,402C2010,101,Anya Klimova-Preston,Waltz,1
+Wa,0,1,Final,Erik Linder,Dascha Jayne Wright,11,1,1, Junior Newcomer Standard  (W),Sample,0,qfb073,402C2010,101,Ludmila Popova,Waltz,1
+Wa,0,1,Final,Erik Linder,Dascha Jayne Wright,12,1,1, Junior Newcomer Standard  (W),Sample,0,qfb073,402C2010,101,Yelena Zakharova,Waltz,1
+WA,0,1,Final,Nick Minkin,Katya Belokrylova,10,2,1, Junior Newcomer Standard  (W),Sample,0,qfb073,402C2010,115,Anya Klimova-Preston,Waltz,2
+WA,0,2,Final,Nick Minkin,Katya Belokrylova,11,2,2, Junior Newcomer Standard  (W),Sample,0,qfb073,402C2010,115,Ludmila Popova,Waltz,2
+WA,0,2,Final,Nick Minkin,Katya Belokrylova,12,2,2, Junior Newcomer Standard  (W),Sample,0,qfb073,402C2010,115,Yelena Zakharova,Waltz,2
+WA,0,4,Final,Octavian Culiac,Ruxandra Culiac,10,3,4, Junior Newcomer Standard  (W),Sample,0,qfb073,402C2010,117,Anya Klimova-Preston,Waltz,3
+WA,0,3,Final,Octavian Culiac,Ruxandra Culiac,11,3,3, Junior Newcomer Standard  (W),Sample,0,qfb073,402C2010,117,Ludmila Popova,Waltz,3
+WA,0,3,Final,Octavian Culiac,Ruxandra Culiac,12,3,3, Junior Newcomer Standard  (W),Sample,0,qfb073,402C2010,117,Yelena Zakharova,Waltz,3
+WA,0,2,Final,Allen Ivanov,Christina Oganova,10,4,2, Junior Newcomer Standard  (W),Sample,0,qfb073,402C2010,121,Anya Klimova-Preston,Waltz,4
+WA,0,4,Final,Allen Ivanov,Christina Oganova,11,4,4, Junior Newcomer Standard  (W),Sample,0,qfb073,402C2010,121,Ludmila Popova,Waltz,4
+WA,0,4,Final,Allen Ivanov,Christina Oganova,12,4,4, Junior Newcomer Standard  (W),Sample,0,qfb073,402C2010,121,Yelena Zakharova,Waltz,4
+Wa,0,1,Final,Paul Stovall,Leah Garakanidze,10,1,1, Junior Silver Standard  (WTQ),Sample,0,qfb073,402C3010,112,Anya Klimova-Preston,Waltz,1
+Wa,0,1,Final,Paul Stovall,Leah Garakanidze,11,1,1, Junior Silver Standard  (WTQ),Sample,0,qfb073,402C3010,112,Ludmila Popova,Waltz,1
+Wa,0,1,Final,Paul Stovall,Leah Garakanidze,12,1,1, Junior Silver Standard  (WTQ),Sample,0,qfb073,402C3010,112,Yelena Zakharova,Waltz,1
+Wa,0,2,Final,David Porter,Maria Bessonova,10,2,2, Junior Silver Standard  (WTQ),Sample,0,qfb073,402C3010,100,Anya Klimova-Preston,Waltz,2
+Wa,0,2,Final,David Porter,Maria Bessonova,11,2,2, Junior Silver Standard  (WTQ),Sample,0,qfb073,402C3010,100,Ludmila Popova,Waltz,2
+Wa,0,2,Final,David Porter,Maria Bessonova,12,2,2, Junior Silver Standard  (WTQ),Sample,0,qfb073,402C3010,100,Yelena Zakharova,Waltz,2
+Wa,0,3,Final,Danyo Kurgan,Nicole Garakanidze,10,3,3, Junior Silver Standard  (WTQ),Sample,0,qfb073,402C3010,102,Anya Klimova-Preston,Waltz,3
+Wa,0,3,Final,Danyo Kurgan,Nicole Garakanidze,11,3,3, Junior Silver Standard  (WTQ),Sample,0,qfb073,402C3010,102,Ludmila Popova,Waltz,3
+Wa,0,3,Final,Danyo Kurgan,Nicole Garakanidze,12,3,3, Junior Silver Standard  (WTQ),Sample,0,qfb073,402C3010,102,Yelena Zakharova,Waltz,3
+Wa,0,1,Final,Paul Stovall,Leah Garakanidze,10,1,1, Junior Silver Standard  (WTQ),Sample,1,qfb073,402C3010,112,Anya Klimova-Preston,Tango,1
+Wa,0,1,Final,Paul Stovall,Leah Garakanidze,11,1,1, Junior Silver Standard  (WTQ),Sample,1,qfb073,402C3010,112,Ludmila Popova,Tango,1
+Wa,0,1,Final,Paul Stovall,Leah Garakanidze,12,1,1, Junior Silver Standard  (WTQ),Sample,1,qfb073,402C3010,112,Yelena Zakharova,Tango,1
+Wa,0,2,Final,David Porter,Maria Bessonova,10,2,2, Junior Silver Standard  (WTQ),Sample,1,qfb073,402C3010,100,Anya Klimova-Preston,Tango,2
+Wa,0,2,Final,David Porter,Maria Bessonova,11,2,2, Junior Silver Standard  (WTQ),Sample,1,qfb073,402C3010,100,Ludmila Popova,Tango,2
+Wa,0,2,Final,David Porter,Maria Bessonova,12,2,2, Junior Silver Standard  (WTQ),Sample,1,qfb073,402C3010,100,Yelena Zakharova,Tango,2
+Wa,0,3,Final,Danyo Kurgan,Nicole Garakanidze,10,3,3, Junior Silver Standard  (WTQ),Sample,1,qfb073,402C3010,102,Anya Klimova-Preston,Tango,3
+Wa,0,3,Final,Danyo Kurgan,Nicole Garakanidze,11,3,3, Junior Silver Standard  (WTQ),Sample,1,qfb073,402C3010,102,Ludmila Popova,Tango,3
+Wa,0,3,Final,Danyo Kurgan,Nicole Garakanidze,12,3,3, Junior Silver Standard  (WTQ),Sample,1,qfb073,402C3010,102,Yelena Zakharova,Tango,3
+Wa,0,3,Final,Paul Stovall,Leah Garakanidze,10,1,3, Junior Silver Standard  (WTQ),Sample,2,qfb073,402C3010,112,Anya Klimova-Preston,Quickstep,1
+Wa,0,1,Final,Paul Stovall,Leah Garakanidze,11,1,1, Junior Silver Standard  (WTQ),Sample,2,qfb073,402C3010,112,Ludmila Popova,Quickstep,1
+Wa,0,1,Final,Paul Stovall,Leah Garakanidze,12,1,1, Junior Silver Standard  (WTQ),Sample,2,qfb073,402C3010,112,Yelena Zakharova,Quickstep,1
+Wa,0,1,Final,David Porter,Maria Bessonova,10,3,1, Junior Silver Standard  (WTQ),Sample,2,qfb073,402C3010,100,Anya Klimova-Preston,Quickstep,2
+Wa,0,3,Final,David Porter,Maria Bessonova,11,3,3, Junior Silver Standard  (WTQ),Sample,2,qfb073,402C3010,100,Ludmila Popova,Quickstep,2
+Wa,0,3,Final,David Porter,Maria Bessonova,12,3,3, Junior Silver Standard  (WTQ),Sample,2,qfb073,402C3010,100,Yelena Zakharova,Quickstep,2
+Wa,0,2,Final,Danyo Kurgan,Nicole Garakanidze,10,2,2, Junior Silver Standard  (WTQ),Sample,2,qfb073,402C3010,102,Anya Klimova-Preston,Quickstep,3
+Wa,0,2,Final,Danyo Kurgan,Nicole Garakanidze,11,2,2, Junior Silver Standard  (WTQ),Sample,2,qfb073,402C3010,102,Ludmila Popova,Quickstep,3
+Wa,0,2,Final,Danyo Kurgan,Nicole Garakanidze,12,2,2, Junior Silver Standard  (WTQ),Sample,2,qfb073,402C3010,102,Yelena Zakharova,Quickstep,3
+Wa,0,1,Final,Erik Linder,Rickie Taylor,10,1,1, Pre-Teen Bronze Standard  (WQ),Sample,0,qfb073,40272810,101,Anya Klimova-Preston,Waltz,1
+Wa,0,1,Final,Erik Linder,Rickie Taylor,11,1,1, Pre-Teen Bronze Standard  (WQ),Sample,0,qfb073,40272810,101,Ludmila Popova,Waltz,1
+Wa,0,1,Final,Erik Linder,Rickie Taylor,12,1,1, Pre-Teen Bronze Standard  (WQ),Sample,0,qfb073,40272810,101,Yelena Zakharova,Waltz,1
+Wa,0,2,Final,David Porter,Maria Bessonova,10,2,2, Pre-Teen Bronze Standard  (WQ),Sample,0,qfb073,40272810,100,Anya Klimova-Preston,Waltz,2
+Wa,0,2,Final,David Porter,Maria Bessonova,11,2,2, Pre-Teen Bronze Standard  (WQ),Sample,0,qfb073,40272810,100,Ludmila Popova,Waltz,2
+Wa,0,2,Final,David Porter,Maria Bessonova,12,2,2, Pre-Teen Bronze Standard  (WQ),Sample,0,qfb073,40272810,100,Yelena Zakharova,Waltz,2
+Wa,0,5,Final,Danyo Kurgan,Nicole Garakanidze,10,4,5, Pre-Teen Bronze Standard  (WQ),Sample,0,qfb073,40272810,102,Anya Klimova-Preston,Waltz,3
+Wa,0,4,Final,Danyo Kurgan,Nicole Garakanidze,11,4,4, Pre-Teen Bronze Standard  (WQ),Sample,0,qfb073,40272810,102,Ludmila Popova,Waltz,3
+Wa,0,3,Final,Danyo Kurgan,Nicole Garakanidze,12,4,3, Pre-Teen Bronze Standard  (WQ),Sample,0,qfb073,40272810,102,Yelena Zakharova,Waltz,3
+WA,0,3,Final,Octavian Culiac,Ruxandra Culiac,10,3,3, Pre-Teen Bronze Standard  (WQ),Sample,0,qfb073,40272810,117,Anya Klimova-Preston,Waltz,4
+WA,0,3,Final,Octavian Culiac,Ruxandra Culiac,11,3,3, Pre-Teen Bronze Standard  (WQ),Sample,0,qfb073,40272810,117,Ludmila Popova,Waltz,4
+WA,0,5,Final,Octavian Culiac,Ruxandra Culiac,12,3,5, Pre-Teen Bronze Standard  (WQ),Sample,0,qfb073,40272810,117,Yelena Zakharova,Waltz,4
+WA,0,6,Final,Nick Minkin,Katya Belokrylova,10,6,6, Pre-Teen Bronze Standard  (WQ),Sample,0,qfb073,40272810,115,Anya Klimova-Preston,Waltz,5
+WA,0,6,Final,Nick Minkin,Katya Belokrylova,11,6,6, Pre-Teen Bronze Standard  (WQ),Sample,0,qfb073,40272810,115,Ludmila Popova,Waltz,5
+WA,0,4,Final,Nick Minkin,Katya Belokrylova,12,6,4, Pre-Teen Bronze Standard  (WQ),Sample,0,qfb073,40272810,115,Yelena Zakharova,Waltz,5
+WA,0,4,Final,Allen Ivanov,Christina Oganova,10,5,4, Pre-Teen Bronze Standard  (WQ),Sample,0,qfb073,40272810,121,Anya Klimova-Preston,Waltz,6
+WA,0,5,Final,Allen Ivanov,Christina Oganova,11,5,5, Pre-Teen Bronze Standard  (WQ),Sample,0,qfb073,40272810,121,Ludmila Popova,Waltz,6
+WA,0,6,Final,Allen Ivanov,Christina Oganova,12,5,6, Pre-Teen Bronze Standard  (WQ),Sample,0,qfb073,40272810,121,Yelena Zakharova,Waltz,6
+Wa,0,1,Final,Erik Linder,Rickie Taylor,10,1,1, Pre-Teen Bronze Standard  (WQ),Sample,1,qfb073,40272810,101,Anya Klimova-Preston,Quickstep,1
+Wa,0,1,Final,Erik Linder,Rickie Taylor,11,1,1, Pre-Teen Bronze Standard  (WQ),Sample,1,qfb073,40272810,101,Ludmila Popova,Quickstep,1
+Wa,0,1,Final,Erik Linder,Rickie Taylor,12,1,1, Pre-Teen Bronze Standard  (WQ),Sample,1,qfb073,40272810,101,Yelena Zakharova,Quickstep,1
+Wa,0,2,Final,David Porter,Maria Bessonova,10,3,2, Pre-Teen Bronze Standard  (WQ),Sample,1,qfb073,40272810,100,Anya Klimova-Preston,Quickstep,2
+Wa,0,3,Final,David Porter,Maria Bessonova,11,3,3, Pre-Teen Bronze Standard  (WQ),Sample,1,qfb073,40272810,100,Ludmila Popova,Quickstep,2
+Wa,0,3,Final,David Porter,Maria Bessonova,12,3,3, Pre-Teen Bronze Standard  (WQ),Sample,1,qfb073,40272810,100,Yelena Zakharova,Quickstep,2
+Wa,0,3,Final,Danyo Kurgan,Nicole Garakanidze,10,2,3, Pre-Teen Bronze Standard  (WQ),Sample,1,qfb073,40272810,102,Anya Klimova-Preston,Quickstep,3
+Wa,0,2,Final,Danyo Kurgan,Nicole Garakanidze,11,2,2, Pre-Teen Bronze Standard  (WQ),Sample,1,qfb073,40272810,102,Ludmila Popova,Quickstep,3
+Wa,0,2,Final,Danyo Kurgan,Nicole Garakanidze,12,2,2, Pre-Teen Bronze Standard  (WQ),Sample,1,qfb073,40272810,102,Yelena Zakharova,Quickstep,3
+WA,0,5,Final,Octavian Culiac,Ruxandra Culiac,10,4,5, Pre-Teen Bronze Standard  (WQ),Sample,1,qfb073,40272810,117,Anya Klimova-Preston,Quickstep,4
+WA,0,4,Final,Octavian Culiac,Ruxandra Culiac,11,4,4, Pre-Teen Bronze Standard  (WQ),Sample,1,qfb073,40272810,117,Ludmila Popova,Quickstep,4
+WA,0,4,Final,Octavian Culiac,Ruxandra Culiac,12,4,4, Pre-Teen Bronze Standard  (WQ),Sample,1,qfb073,40272810,117,Yelena Zakharova,Quickstep,4
+WA,0,4,Final,Nick Minkin,Katya Belokrylova,10,5,4, Pre-Teen Bronze Standard  (WQ),Sample,1,qfb073,40272810,115,Anya Klimova-Preston,Quickstep,5
+WA,0,5,Final,Nick Minkin,Katya Belokrylova,11,5,5, Pre-Teen Bronze Standard  (WQ),Sample,1,qfb073,40272810,115,Ludmila Popova,Quickstep,5
+WA,0,5,Final,Nick Minkin,Katya Belokrylova,12,5,5, Pre-Teen Bronze Standard  (WQ),Sample,1,qfb073,40272810,115,Yelena Zakharova,Quickstep,5
+WA,0,6,Final,Allen Ivanov,Christina Oganova,10,6,6, Pre-Teen Bronze Standard  (WQ),Sample,1,qfb073,40272810,121,Anya Klimova-Preston,Quickstep,6
+WA,0,6,Final,Allen Ivanov,Christina Oganova,11,6,6, Pre-Teen Bronze Standard  (WQ),Sample,1,qfb073,40272810,121,Ludmila Popova,Quickstep,6
+WA,0,6,Final,Allen Ivanov,Christina Oganova,12,6,6, Pre-Teen Bronze Standard  (WQ),Sample,1,qfb073,40272810,121,Yelena Zakharova,Quickstep,6
+Wa,0,1,Final,Paul Stovall,Maxine Taylor,10,1,1, Pre-Teen Gold Standard  (WTFQ),Sample,0,qfb073,40273810,112,Anya Klimova-Preston,Waltz,1
+Wa,0,1,Final,Paul Stovall,Maxine Taylor,11,1,1, Pre-Teen Gold Standard  (WTFQ),Sample,0,qfb073,40273810,112,Ludmila Popova,Waltz,1
+Wa,0,1,Final,Paul Stovall,Maxine Taylor,12,1,1, Pre-Teen Gold Standard  (WTFQ),Sample,0,qfb073,40273810,112,Yelena Zakharova,Waltz,1
+Wa,0,1,Final,Paul Stovall,Maxine Taylor,10,1,1, Pre-Teen Gold Standard  (WTFQ),Sample,1,qfb073,40273810,112,Anya Klimova-Preston,Tango,1
+Wa,0,1,Final,Paul Stovall,Maxine Taylor,11,1,1, Pre-Teen Gold Standard  (WTFQ),Sample,1,qfb073,40273810,112,Ludmila Popova,Tango,1
+Wa,0,1,Final,Paul Stovall,Maxine Taylor,12,1,1, Pre-Teen Gold Standard  (WTFQ),Sample,1,qfb073,40273810,112,Yelena Zakharova,Tango,1
+Wa,0,1,Final,Paul Stovall,Maxine Taylor,10,1,1, Pre-Teen Gold Standard  (WTFQ),Sample,2,qfb073,40273810,112,Anya Klimova-Preston,Foxtrot,1
+Wa,0,1,Final,Paul Stovall,Maxine Taylor,11,1,1, Pre-Teen Gold Standard  (WTFQ),Sample,2,qfb073,40273810,112,Ludmila Popova,Foxtrot,1
+Wa,0,1,Final,Paul Stovall,Maxine Taylor,12,1,1, Pre-Teen Gold Standard  (WTFQ),Sample,2,qfb073,40273810,112,Yelena Zakharova,Foxtrot,1
+Wa,0,1,Final,Paul Stovall,Maxine Taylor,10,1,1, Pre-Teen Gold Standard  (WTFQ),Sample,3,qfb073,40273810,112,Anya Klimova-Preston,Quickstep,1
+Wa,0,1,Final,Paul Stovall,Maxine Taylor,11,1,1, Pre-Teen Gold Standard  (WTFQ),Sample,3,qfb073,40273810,112,Ludmila Popova,Quickstep,1
+Wa,0,1,Final,Paul Stovall,Maxine Taylor,12,1,1, Pre-Teen Gold Standard  (WTFQ),Sample,3,qfb073,40273810,112,Yelena Zakharova,Quickstep,1
+Wa,0,1,Final,Erik Linder,Rickie Taylor,10,1,1, Junior Bronze Standard  (WQ),Sample,0,qfb073,402C2810,101,Anya Klimova-Preston,Waltz,1
+Wa,0,1,Final,Erik Linder,Rickie Taylor,11,1,1, Junior Bronze Standard  (WQ),Sample,0,qfb073,402C2810,101,Ludmila Popova,Waltz,1
+Wa,0,1,Final,Erik Linder,Rickie Taylor,12,1,1, Junior Bronze Standard  (WQ),Sample,0,qfb073,402C2810,101,Yelena Zakharova,Waltz,1
+Wa,0,2,Final,David Porter,Maria Bessonova,10,2,2, Junior Bronze Standard  (WQ),Sample,0,qfb073,402C2810,100,Anya Klimova-Preston,Waltz,2
+Wa,0,2,Final,David Porter,Maria Bessonova,11,2,2, Junior Bronze Standard  (WQ),Sample,0,qfb073,402C2810,100,Ludmila Popova,Waltz,2
+Wa,0,2,Final,David Porter,Maria Bessonova,12,2,2, Junior Bronze Standard  (WQ),Sample,0,qfb073,402C2810,100,Yelena Zakharova,Waltz,2
+Wa,0,4,Final,Danyo Kurgan,Nicole Garakanidze,10,4,4, Junior Bronze Standard  (WQ),Sample,0,qfb073,402C2810,102,Anya Klimova-Preston,Waltz,3
+Wa,0,5,Final,Danyo Kurgan,Nicole Garakanidze,11,4,5, Junior Bronze Standard  (WQ),Sample,0,qfb073,402C2810,102,Ludmila Popova,Waltz,3
+Wa,0,3,Final,Danyo Kurgan,Nicole Garakanidze,12,4,3, Junior Bronze Standard  (WQ),Sample,0,qfb073,402C2810,102,Yelena Zakharova,Waltz,3
+WA,0,3,Final,Nick Minkin,Katya Belokrylova,10,3,3, Junior Bronze Standard  (WQ),Sample,0,qfb073,402C2810,115,Anya Klimova-Preston,Waltz,4
+WA,0,3,Final,Nick Minkin,Katya Belokrylova,11,3,3, Junior Bronze Standard  (WQ),Sample,0,qfb073,402C2810,115,Ludmila Popova,Waltz,4
+WA,0,4,Final,Nick Minkin,Katya Belokrylova,12,3,4, Junior Bronze Standard  (WQ),Sample,0,qfb073,402C2810,115,Yelena Zakharova,Waltz,4
+WA,0,5,Final,Octavian Culiac,Ruxandra Culiac,10,5,5, Junior Bronze Standard  (WQ),Sample,0,qfb073,402C2810,117,Anya Klimova-Preston,Waltz,5
+WA,0,4,Final,Octavian Culiac,Ruxandra Culiac,11,5,4, Junior Bronze Standard  (WQ),Sample,0,qfb073,402C2810,117,Ludmila Popova,Waltz,5
+WA,0,5,Final,Octavian Culiac,Ruxandra Culiac,12,5,5, Junior Bronze Standard  (WQ),Sample,0,qfb073,402C2810,117,Yelena Zakharova,Waltz,5
+WA,0,6,Final,Allen Ivanov,Christina Oganova,10,6,6, Junior Bronze Standard  (WQ),Sample,0,qfb073,402C2810,121,Anya Klimova-Preston,Waltz,6
+WA,0,6,Final,Allen Ivanov,Christina Oganova,11,6,6, Junior Bronze Standard  (WQ),Sample,0,qfb073,402C2810,121,Ludmila Popova,Waltz,6
+WA,0,6,Final,Allen Ivanov,Christina Oganova,12,6,6, Junior Bronze Standard  (WQ),Sample,0,qfb073,402C2810,121,Yelena Zakharova,Waltz,6
+Wa,0,1,Final,Erik Linder,Rickie Taylor,10,1,1, Junior Bronze Standard  (WQ),Sample,1,qfb073,402C2810,101,Anya Klimova-Preston,Quickstep,1
+Wa,0,1,Final,Erik Linder,Rickie Taylor,11,1,1, Junior Bronze Standard  (WQ),Sample,1,qfb073,402C2810,101,Ludmila Popova,Quickstep,1
+Wa,0,1,Final,Erik Linder,Rickie Taylor,12,1,1, Junior Bronze Standard  (WQ),Sample,1,qfb073,402C2810,101,Yelena Zakharova,Quickstep,1
+Wa,0,3,Final,David Porter,Maria Bessonova,10,2,3, Junior Bronze Standard  (WQ),Sample,1,qfb073,402C2810,100,Anya Klimova-Preston,Quickstep,2
+Wa,0,2,Final,David Porter,Maria Bessonova,11,2,2, Junior Bronze Standard  (WQ),Sample,1,qfb073,402C2810,100,Ludmila Popova,Quickstep,2
+Wa,0,2,Final,David Porter,Maria Bessonova,12,2,2, Junior Bronze Standard  (WQ),Sample,1,qfb073,402C2810,100,Yelena Zakharova,Quickstep,2
+Wa,0,2,Final,Danyo Kurgan,Nicole Garakanidze,10,3,2, Junior Bronze Standard  (WQ),Sample,1,qfb073,402C2810,102,Anya Klimova-Preston,Quickstep,3
+Wa,0,3,Final,Danyo Kurgan,Nicole Garakanidze,11,3,3, Junior Bronze Standard  (WQ),Sample,1,qfb073,402C2810,102,Ludmila Popova,Quickstep,3
+Wa,0,3,Final,Danyo Kurgan,Nicole Garakanidze,12,3,3, Junior Bronze Standard  (WQ),Sample,1,qfb073,402C2810,102,Yelena Zakharova,Quickstep,3
+WA,0,4,Final,Nick Minkin,Katya Belokrylova,10,4,4, Junior Bronze Standard  (WQ),Sample,1,qfb073,402C2810,115,Anya Klimova-Preston,Quickstep,4
+WA,0,5,Final,Nick Minkin,Katya Belokrylova,11,4,5, Junior Bronze Standard  (WQ),Sample,1,qfb073,402C2810,115,Ludmila Popova,Quickstep,4
+WA,0,4,Final,Nick Minkin,Katya Belokrylova,12,4,4, Junior Bronze Standard  (WQ),Sample,1,qfb073,402C2810,115,Yelena Zakharova,Quickstep,4
+WA,0,5,Final,Octavian Culiac,Ruxandra Culiac,10,5,5, Junior Bronze Standard  (WQ),Sample,1,qfb073,402C2810,117,Anya Klimova-Preston,Quickstep,5
+WA,0,4,Final,Octavian Culiac,Ruxandra Culiac,11,5,4, Junior Bronze Standard  (WQ),Sample,1,qfb073,402C2810,117,Ludmila Popova,Quickstep,5
+WA,0,5,Final,Octavian Culiac,Ruxandra Culiac,12,5,5, Junior Bronze Standard  (WQ),Sample,1,qfb073,402C2810,117,Yelena Zakharova,Quickstep,5
+WA,0,6,Final,Allen Ivanov,Christina Oganova,10,6,6, Junior Bronze Standard  (WQ),Sample,1,qfb073,402C2810,121,Anya Klimova-Preston,Quickstep,6
+WA,0,6,Final,Allen Ivanov,Christina Oganova,11,6,6, Junior Bronze Standard  (WQ),Sample,1,qfb073,402C2810,121,Ludmila Popova,Quickstep,6
+WA,0,6,Final,Allen Ivanov,Christina Oganova,12,6,6, Junior Bronze Standard  (WQ),Sample,1,qfb073,402C2810,121,Yelena Zakharova,Quickstep,6
+Wa,0,1,Final,Paul Stovall,Leah Garakanidze,10,1,1, Junior Gold Standard  (WTFQ),Sample,0,qfb073,402C3810,112,Anya Klimova-Preston,Waltz,1
+Wa,0,1,Final,Paul Stovall,Leah Garakanidze,11,1,1, Junior Gold Standard  (WTFQ),Sample,0,qfb073,402C3810,112,Ludmila Popova,Waltz,1
+Wa,0,1,Final,Paul Stovall,Leah Garakanidze,12,1,1, Junior Gold Standard  (WTFQ),Sample,0,qfb073,402C3810,112,Yelena Zakharova,Waltz,1
+Wa,0,1,Final,Paul Stovall,Leah Garakanidze,10,1,1, Junior Gold Standard  (WTFQ),Sample,1,qfb073,402C3810,112,Anya Klimova-Preston,Tango,1
+Wa,0,1,Final,Paul Stovall,Leah Garakanidze,11,1,1, Junior Gold Standard  (WTFQ),Sample,1,qfb073,402C3810,112,Ludmila Popova,Tango,1
+Wa,0,1,Final,Paul Stovall,Leah Garakanidze,12,1,1, Junior Gold Standard  (WTFQ),Sample,1,qfb073,402C3810,112,Yelena Zakharova,Tango,1
+Wa,0,1,Final,Paul Stovall,Leah Garakanidze,10,1,1, Junior Gold Standard  (WTFQ),Sample,2,qfb073,402C3810,112,Anya Klimova-Preston,Foxtrot,1
+Wa,0,1,Final,Paul Stovall,Leah Garakanidze,11,1,1, Junior Gold Standard  (WTFQ),Sample,2,qfb073,402C3810,112,Ludmila Popova,Foxtrot,1
+Wa,0,1,Final,Paul Stovall,Leah Garakanidze,12,1,1, Junior Gold Standard  (WTFQ),Sample,2,qfb073,402C3810,112,Yelena Zakharova,Foxtrot,1
+Wa,0,1,Final,Paul Stovall,Leah Garakanidze,10,1,1, Junior Gold Standard  (WTFQ),Sample,3,qfb073,402C3810,112,Anya Klimova-Preston,Quickstep,1
+Wa,0,1,Final,Paul Stovall,Leah Garakanidze,11,1,1, Junior Gold Standard  (WTFQ),Sample,3,qfb073,402C3810,112,Ludmila Popova,Quickstep,1
+Wa,0,1,Final,Paul Stovall,Leah Garakanidze,12,1,1, Junior Gold Standard  (WTFQ),Sample,3,qfb073,402C3810,112,Yelena Zakharova,Quickstep,1
+Or,0,1,Final,Sean Carrigg,Heather Mattole,10,1,1, Junior Pre-Champ Standard  (WTFQ),Sample,0,qfb073,402C8310,107,Anya Klimova-Preston,Waltz,1
+Or,0,1,Final,Sean Carrigg,Heather Mattole,11,1,1, Junior Pre-Champ Standard  (WTFQ),Sample,0,qfb073,402C8310,107,Ludmila Popova,Waltz,1
+Or,0,1,Final,Sean Carrigg,Heather Mattole,12,1,1, Junior Pre-Champ Standard  (WTFQ),Sample,0,qfb073,402C8310,107,Yelena Zakharova,Waltz,1
+Or,0,1,Final,Sean Carrigg,Heather Mattole,10,1,1, Junior Pre-Champ Standard  (WTFQ),Sample,1,qfb073,402C8310,107,Anya Klimova-Preston,Tango,1
+Or,0,1,Final,Sean Carrigg,Heather Mattole,11,1,1, Junior Pre-Champ Standard  (WTFQ),Sample,1,qfb073,402C8310,107,Ludmila Popova,Tango,1
+Or,0,1,Final,Sean Carrigg,Heather Mattole,12,1,1, Junior Pre-Champ Standard  (WTFQ),Sample,1,qfb073,402C8310,107,Yelena Zakharova,Tango,1
+Or,0,1,Final,Sean Carrigg,Heather Mattole,10,1,1, Junior Pre-Champ Standard  (WTFQ),Sample,2,qfb073,402C8310,107,Anya Klimova-Preston,Foxtrot,1
+Or,0,1,Final,Sean Carrigg,Heather Mattole,11,1,1, Junior Pre-Champ Standard  (WTFQ),Sample,2,qfb073,402C8310,107,Ludmila Popova,Foxtrot,1
+Or,0,1,Final,Sean Carrigg,Heather Mattole,12,1,1, Junior Pre-Champ Standard  (WTFQ),Sample,2,qfb073,402C8310,107,Yelena Zakharova,Foxtrot,1
+Or,0,1,Final,Sean Carrigg,Heather Mattole,10,1,1, Junior Pre-Champ Standard  (WTFQ),Sample,3,qfb073,402C8310,107,Anya Klimova-Preston,Quickstep,1
+Or,0,1,Final,Sean Carrigg,Heather Mattole,11,1,1, Junior Pre-Champ Standard  (WTFQ),Sample,3,qfb073,402C8310,107,Ludmila Popova,Quickstep,1
+Or,0,1,Final,Sean Carrigg,Heather Mattole,12,1,1, Junior Pre-Champ Standard  (WTFQ),Sample,3,qfb073,402C8310,107,Yelena Zakharova,Quickstep,1
+Wa,0,2,Final,Erik Linder,Dascha Jayne Wright,10,1,2, Pre-Teen Newcomer Latin  (C),Sample,0,qfb073,40272020,101,Anya Klimova-Preston,Cha Cha,1
+Wa,0,1,Final,Erik Linder,Dascha Jayne Wright,11,1,1, Pre-Teen Newcomer Latin  (C),Sample,0,qfb073,40272020,101,Ludmila Popova,Cha Cha,1
+Wa,0,1,Final,Erik Linder,Dascha Jayne Wright,12,1,1, Pre-Teen Newcomer Latin  (C),Sample,0,qfb073,40272020,101,Yelena Zakharova,Cha Cha,1
+WA,0,3,Final,Nick Minkin,Katya Belokrylova,10,2,3, Pre-Teen Newcomer Latin  (C),Sample,0,qfb073,40272020,115,Anya Klimova-Preston,Cha Cha,2
+WA,0,2,Final,Nick Minkin,Katya Belokrylova,11,2,2, Pre-Teen Newcomer Latin  (C),Sample,0,qfb073,40272020,115,Ludmila Popova,Cha Cha,2
+WA,0,2,Final,Nick Minkin,Katya Belokrylova,12,2,2, Pre-Teen Newcomer Latin  (C),Sample,0,qfb073,40272020,115,Yelena Zakharova,Cha Cha,2
+WA,0,1,Final,Octavian Culiac,Ruxandra Culiac,10,3,1, Pre-Teen Newcomer Latin  (C),Sample,0,qfb073,40272020,117,Anya Klimova-Preston,Cha Cha,3
+WA,0,3,Final,Octavian Culiac,Ruxandra Culiac,11,3,3, Pre-Teen Newcomer Latin  (C),Sample,0,qfb073,40272020,117,Ludmila Popova,Cha Cha,3
+WA,0,3,Final,Octavian Culiac,Ruxandra Culiac,12,3,3, Pre-Teen Newcomer Latin  (C),Sample,0,qfb073,40272020,117,Yelena Zakharova,Cha Cha,3
+WA,0,4,Final,Allen Ivanov,Christina Oganova,10,4,4, Pre-Teen Newcomer Latin  (C),Sample,0,qfb073,40272020,121,Anya Klimova-Preston,Cha Cha,4
+WA,0,4,Final,Allen Ivanov,Christina Oganova,11,4,4, Pre-Teen Newcomer Latin  (C),Sample,0,qfb073,40272020,121,Ludmila Popova,Cha Cha,4
+WA,0,4,Final,Allen Ivanov,Christina Oganova,12,4,4, Pre-Teen Newcomer Latin  (C),Sample,0,qfb073,40272020,121,Yelena Zakharova,Cha Cha,4
+Wa,0,1,Final,Paul Stovall,Maxine Taylor,10,1,1, Pre-Teen Silver Latin  (CSR),Sample,0,qfb073,40273020,112,Anya Klimova-Preston,Cha Cha,1
+Wa,0,1,Final,Paul Stovall,Maxine Taylor,11,1,1, Pre-Teen Silver Latin  (CSR),Sample,0,qfb073,40273020,112,Ludmila Popova,Cha Cha,1
+Wa,0,1,Final,Paul Stovall,Maxine Taylor,12,1,1, Pre-Teen Silver Latin  (CSR),Sample,0,qfb073,40273020,112,Yelena Zakharova,Cha Cha,1
+Wa,0,2,Final,David Porter,Maria Bessonova,10,2,2, Pre-Teen Silver Latin  (CSR),Sample,0,qfb073,40273020,100,Anya Klimova-Preston,Cha Cha,2
+Wa,0,2,Final,David Porter,Maria Bessonova,11,2,2, Pre-Teen Silver Latin  (CSR),Sample,0,qfb073,40273020,100,Ludmila Popova,Cha Cha,2
+Wa,0,2,Final,David Porter,Maria Bessonova,12,2,2, Pre-Teen Silver Latin  (CSR),Sample,0,qfb073,40273020,100,Yelena Zakharova,Cha Cha,2
+Wa,0,3,Final,Danyo Kurgan,Nicole Garakanidze,10,3,3, Pre-Teen Silver Latin  (CSR),Sample,0,qfb073,40273020,102,Anya Klimova-Preston,Cha Cha,3
+Wa,0,3,Final,Danyo Kurgan,Nicole Garakanidze,11,3,3, Pre-Teen Silver Latin  (CSR),Sample,0,qfb073,40273020,102,Ludmila Popova,Cha Cha,3
+Wa,0,3,Final,Danyo Kurgan,Nicole Garakanidze,12,3,3, Pre-Teen Silver Latin  (CSR),Sample,0,qfb073,40273020,102,Yelena Zakharova,Cha Cha,3
+Wa,0,1,Final,Paul Stovall,Maxine Taylor,10,1,1, Pre-Teen Silver Latin  (CSR),Sample,1,qfb073,40273020,112,Anya Klimova-Preston,Samba,1
+Wa,0,2,Final,Paul Stovall,Maxine Taylor,11,1,2, Pre-Teen Silver Latin  (CSR),Sample,1,qfb073,40273020,112,Ludmila Popova,Samba,1
+Wa,0,1,Final,Paul Stovall,Maxine Taylor,12,1,1, Pre-Teen Silver Latin  (CSR),Sample,1,qfb073,40273020,112,Yelena Zakharova,Samba,1
+Wa,0,2,Final,David Porter,Maria Bessonova,10,2,2, Pre-Teen Silver Latin  (CSR),Sample,1,qfb073,40273020,100,Anya Klimova-Preston,Samba,2
+Wa,0,1,Final,David Porter,Maria Bessonova,11,2,1, Pre-Teen Silver Latin  (CSR),Sample,1,qfb073,40273020,100,Ludmila Popova,Samba,2
+Wa,0,3,Final,David Porter,Maria Bessonova,12,2,3, Pre-Teen Silver Latin  (CSR),Sample,1,qfb073,40273020,100,Yelena Zakharova,Samba,2
+Wa,0,3,Final,Danyo Kurgan,Nicole Garakanidze,10,3,3, Pre-Teen Silver Latin  (CSR),Sample,1,qfb073,40273020,102,Anya Klimova-Preston,Samba,3
+Wa,0,3,Final,Danyo Kurgan,Nicole Garakanidze,11,3,3, Pre-Teen Silver Latin  (CSR),Sample,1,qfb073,40273020,102,Ludmila Popova,Samba,3
+Wa,0,2,Final,Danyo Kurgan,Nicole Garakanidze,12,3,2, Pre-Teen Silver Latin  (CSR),Sample,1,qfb073,40273020,102,Yelena Zakharova,Samba,3
+Wa,0,1,Final,Paul Stovall,Maxine Taylor,10,1,1, Pre-Teen Silver Latin  (CSR),Sample,2,qfb073,40273020,112,Anya Klimova-Preston,Rumba,1
+Wa,0,1,Final,Paul Stovall,Maxine Taylor,11,1,1, Pre-Teen Silver Latin  (CSR),Sample,2,qfb073,40273020,112,Ludmila Popova,Rumba,1
+Wa,0,1,Final,Paul Stovall,Maxine Taylor,12,1,1, Pre-Teen Silver Latin  (CSR),Sample,2,qfb073,40273020,112,Yelena Zakharova,Rumba,1
+Wa,0,2,Final,David Porter,Maria Bessonova,10,2,2, Pre-Teen Silver Latin  (CSR),Sample,2,qfb073,40273020,100,Anya Klimova-Preston,Rumba,2
+Wa,0,2,Final,David Porter,Maria Bessonova,11,2,2, Pre-Teen Silver Latin  (CSR),Sample,2,qfb073,40273020,100,Ludmila Popova,Rumba,2
+Wa,0,2,Final,David Porter,Maria Bessonova,12,2,2, Pre-Teen Silver Latin  (CSR),Sample,2,qfb073,40273020,100,Yelena Zakharova,Rumba,2
+Wa,0,3,Final,Danyo Kurgan,Nicole Garakanidze,10,3,3, Pre-Teen Silver Latin  (CSR),Sample,2,qfb073,40273020,102,Anya Klimova-Preston,Rumba,3
+Wa,0,3,Final,Danyo Kurgan,Nicole Garakanidze,11,3,3, Pre-Teen Silver Latin  (CSR),Sample,2,qfb073,40273020,102,Ludmila Popova,Rumba,3
+Wa,0,3,Final,Danyo Kurgan,Nicole Garakanidze,12,3,3, Pre-Teen Silver Latin  (CSR),Sample,2,qfb073,40273020,102,Yelena Zakharova,Rumba,3
+Wa,0,1,Final,Erik Linder,Dascha Jayne Wright,10,1,1, Junior Newcomer Latin  (C),Sample,0,qfb073,402C2020,101,Anya Klimova-Preston,Cha Cha,1
+Wa,0,1,Final,Erik Linder,Dascha Jayne Wright,11,1,1, Junior Newcomer Latin  (C),Sample,0,qfb073,402C2020,101,Ludmila Popova,Cha Cha,1
+Wa,0,1,Final,Erik Linder,Dascha Jayne Wright,12,1,1, Junior Newcomer Latin  (C),Sample,0,qfb073,402C2020,101,Yelena Zakharova,Cha Cha,1
+WA,0,2,Final,Nick Minkin,Katya Belokrylova,10,2,2, Junior Newcomer Latin  (C),Sample,0,qfb073,402C2020,115,Anya Klimova-Preston,Cha Cha,2
+WA,0,2,Final,Nick Minkin,Katya Belokrylova,11,2,2, Junior Newcomer Latin  (C),Sample,0,qfb073,402C2020,115,Ludmila Popova,Cha Cha,2
+WA,0,2,Final,Nick Minkin,Katya Belokrylova,12,2,2, Junior Newcomer Latin  (C),Sample,0,qfb073,402C2020,115,Yelena Zakharova,Cha Cha,2
+WA,0,3,Final,Octavian Culiac,Ruxandra Culiac,10,3,3, Junior Newcomer Latin  (C),Sample,0,qfb073,402C2020,117,Anya Klimova-Preston,Cha Cha,3
+WA,0,3,Final,Octavian Culiac,Ruxandra Culiac,11,3,3, Junior Newcomer Latin  (C),Sample,0,qfb073,402C2020,117,Ludmila Popova,Cha Cha,3
+WA,0,3,Final,Octavian Culiac,Ruxandra Culiac,12,3,3, Junior Newcomer Latin  (C),Sample,0,qfb073,402C2020,117,Yelena Zakharova,Cha Cha,3
+WA,0,4,Final,Allen Ivanov,Christina Oganova,10,4,4, Junior Newcomer Latin  (C),Sample,0,qfb073,402C2020,121,Anya Klimova-Preston,Cha Cha,4
+WA,0,4,Final,Allen Ivanov,Christina Oganova,11,4,4, Junior Newcomer Latin  (C),Sample,0,qfb073,402C2020,121,Ludmila Popova,Cha Cha,4
+WA,0,4,Final,Allen Ivanov,Christina Oganova,12,4,4, Junior Newcomer Latin  (C),Sample,0,qfb073,402C2020,121,Yelena Zakharova,Cha Cha,4
+Wa,0,2,Final,Erik Linder,Rickie Taylor,10,1,2, Junior Bronze Latin  (CR),Sample,0,qfb073,402C2820,101,Anya Klimova-Preston,Cha Cha,1
+Wa,0,1,Final,Erik Linder,Rickie Taylor,11,1,1, Junior Bronze Latin  (CR),Sample,0,qfb073,402C2820,101,Ludmila Popova,Cha Cha,1
+Wa,0,1,Final,Erik Linder,Rickie Taylor,12,1,1, Junior Bronze Latin  (CR),Sample,0,qfb073,402C2820,101,Yelena Zakharova,Cha Cha,1
+Wa,0,1,Final,Danyo Kurgan,Nicole Garakanidze,10,2,1, Junior Bronze Latin  (CR),Sample,0,qfb073,402C2820,102,Anya Klimova-Preston,Cha Cha,2
+Wa,0,3,Final,Danyo Kurgan,Nicole Garakanidze,11,2,3, Junior Bronze Latin  (CR),Sample,0,qfb073,402C2820,102,Ludmila Popova,Cha Cha,2
+Wa,0,3,Final,Danyo Kurgan,Nicole Garakanidze,12,2,3, Junior Bronze Latin  (CR),Sample,0,qfb073,402C2820,102,Yelena Zakharova,Cha Cha,2
+Wa,0,3,Final,David Porter,Maria Bessonova,10,3,3, Junior Bronze Latin  (CR),Sample,0,qfb073,402C2820,100,Anya Klimova-Preston,Cha Cha,3
+Wa,0,4,Final,David Porter,Maria Bessonova,11,3,4, Junior Bronze Latin  (CR),Sample,0,qfb073,402C2820,100,Ludmila Popova,Cha Cha,3
+Wa,0,2,Final,David Porter,Maria Bessonova,12,3,2, Junior Bronze Latin  (CR),Sample,0,qfb073,402C2820,100,Yelena Zakharova,Cha Cha,3
+WA,0,4,Final,Nick Minkin,Katya Belokrylova,10,4,4, Junior Bronze Latin  (CR),Sample,0,qfb073,402C2820,115,Anya Klimova-Preston,Cha Cha,4
+WA,0,2,Final,Nick Minkin,Katya Belokrylova,11,4,2, Junior Bronze Latin  (CR),Sample,0,qfb073,402C2820,115,Ludmila Popova,Cha Cha,4
+WA,0,4,Final,Nick Minkin,Katya Belokrylova,12,4,4, Junior Bronze Latin  (CR),Sample,0,qfb073,402C2820,115,Yelena Zakharova,Cha Cha,4
+WA,0,5,Final,Octavian Culiac,Ruxandra Culiac,10,5,5, Junior Bronze Latin  (CR),Sample,0,qfb073,402C2820,117,Anya Klimova-Preston,Cha Cha,5
+WA,0,5,Final,Octavian Culiac,Ruxandra Culiac,11,5,5, Junior Bronze Latin  (CR),Sample,0,qfb073,402C2820,117,Ludmila Popova,Cha Cha,5
+WA,0,5,Final,Octavian Culiac,Ruxandra Culiac,12,5,5, Junior Bronze Latin  (CR),Sample,0,qfb073,402C2820,117,Yelena Zakharova,Cha Cha,5
+WA,0,6,Final,Allen Ivanov,Christina Oganova,10,6,6, Junior Bronze Latin  (CR),Sample,0,qfb073,402C2820,121,Anya Klimova-Preston,Cha Cha,6
+WA,0,6,Final,Allen Ivanov,Christina Oganova,11,6,6, Junior Bronze Latin  (CR),Sample,0,qfb073,402C2820,121,Ludmila Popova,Cha Cha,6
+WA,0,6,Final,Allen Ivanov,Christina Oganova,12,6,6, Junior Bronze Latin  (CR),Sample,0,qfb073,402C2820,121,Yelena Zakharova,Cha Cha,6
+Wa,0,2,Final,Erik Linder,Rickie Taylor,10,1,2, Junior Bronze Latin  (CR),Sample,1,qfb073,402C2820,101,Anya Klimova-Preston,Rumba,1
+Wa,0,1,Final,Erik Linder,Rickie Taylor,11,1,1, Junior Bronze Latin  (CR),Sample,1,qfb073,402C2820,101,Ludmila Popova,Rumba,1
+Wa,0,1,Final,Erik Linder,Rickie Taylor,12,1,1, Junior Bronze Latin  (CR),Sample,1,qfb073,402C2820,101,Yelena Zakharova,Rumba,1
+Wa,0,1,Final,Danyo Kurgan,Nicole Garakanidze,10,2,1, Junior Bronze Latin  (CR),Sample,1,qfb073,402C2820,102,Anya Klimova-Preston,Rumba,2
+Wa,0,2,Final,Danyo Kurgan,Nicole Garakanidze,11,2,2, Junior Bronze Latin  (CR),Sample,1,qfb073,402C2820,102,Ludmila Popova,Rumba,2
+Wa,0,3,Final,Danyo Kurgan,Nicole Garakanidze,12,2,3, Junior Bronze Latin  (CR),Sample,1,qfb073,402C2820,102,Yelena Zakharova,Rumba,2
+Wa,0,3,Final,David Porter,Maria Bessonova,10,3,3, Junior Bronze Latin  (CR),Sample,1,qfb073,402C2820,100,Anya Klimova-Preston,Rumba,3
+Wa,0,3,Final,David Porter,Maria Bessonova,11,3,3, Junior Bronze Latin  (CR),Sample,1,qfb073,402C2820,100,Ludmila Popova,Rumba,3
+Wa,0,2,Final,David Porter,Maria Bessonova,12,3,2, Junior Bronze Latin  (CR),Sample,1,qfb073,402C2820,100,Yelena Zakharova,Rumba,3
+WA,0,4,Final,Nick Minkin,Katya Belokrylova,10,5,4, Junior Bronze Latin  (CR),Sample,1,qfb073,402C2820,115,Anya Klimova-Preston,Rumba,4
+WA,0,5,Final,Nick Minkin,Katya Belokrylova,11,5,5, Junior Bronze Latin  (CR),Sample,1,qfb073,402C2820,115,Ludmila Popova,Rumba,4
+WA,0,6,Final,Nick Minkin,Katya Belokrylova,12,5,6, Junior Bronze Latin  (CR),Sample,1,qfb073,402C2820,115,Yelena Zakharova,Rumba,4
+WA,0,5,Final,Octavian Culiac,Ruxandra Culiac,10,4,5, Junior Bronze Latin  (CR),Sample,1,qfb073,402C2820,117,Anya Klimova-Preston,Rumba,5
+WA,0,4,Final,Octavian Culiac,Ruxandra Culiac,11,4,4, Junior Bronze Latin  (CR),Sample,1,qfb073,402C2820,117,Ludmila Popova,Rumba,5
+WA,0,4,Final,Octavian Culiac,Ruxandra Culiac,12,4,4, Junior Bronze Latin  (CR),Sample,1,qfb073,402C2820,117,Yelena Zakharova,Rumba,5
+WA,0,6,Final,Allen Ivanov,Christina Oganova,10,6,6, Junior Bronze Latin  (CR),Sample,1,qfb073,402C2820,121,Anya Klimova-Preston,Rumba,6
+WA,0,6,Final,Allen Ivanov,Christina Oganova,11,6,6, Junior Bronze Latin  (CR),Sample,1,qfb073,402C2820,121,Ludmila Popova,Rumba,6
+WA,0,5,Final,Allen Ivanov,Christina Oganova,12,6,5, Junior Bronze Latin  (CR),Sample,1,qfb073,402C2820,121,Yelena Zakharova,Rumba,6
+Wa,0,2,Final,Paul Stovall,Leah Garakanidze,10,1,2, Junior Silver Latin  (CSR),Sample,0,qfb073,402C3020,112,Anya Klimova-Preston,Cha Cha,1
+Wa,0,1,Final,Paul Stovall,Leah Garakanidze,11,1,1, Junior Silver Latin  (CSR),Sample,0,qfb073,402C3020,112,Ludmila Popova,Cha Cha,1
+Wa,0,1,Final,Paul Stovall,Leah Garakanidze,12,1,1, Junior Silver Latin  (CSR),Sample,0,qfb073,402C3020,112,Yelena Zakharova,Cha Cha,1
+Wa,0,1,Final,Danyo Kurgan,Nicole Garakanidze,10,2,1, Junior Silver Latin  (CSR),Sample,0,qfb073,402C3020,102,Anya Klimova-Preston,Cha Cha,2
+Wa,0,2,Final,Danyo Kurgan,Nicole Garakanidze,11,2,2, Junior Silver Latin  (CSR),Sample,0,qfb073,402C3020,102,Ludmila Popova,Cha Cha,2
+Wa,0,2,Final,Danyo Kurgan,Nicole Garakanidze,12,2,2, Junior Silver Latin  (CSR),Sample,0,qfb073,402C3020,102,Yelena Zakharova,Cha Cha,2
+Wa,0,3,Final,David Porter,Maria Bessonova,10,3,3, Junior Silver Latin  (CSR),Sample,0,qfb073,402C3020,100,Anya Klimova-Preston,Cha Cha,3
+Wa,0,3,Final,David Porter,Maria Bessonova,11,3,3, Junior Silver Latin  (CSR),Sample,0,qfb073,402C3020,100,Ludmila Popova,Cha Cha,3
+Wa,0,3,Final,David Porter,Maria Bessonova,12,3,3, Junior Silver Latin  (CSR),Sample,0,qfb073,402C3020,100,Yelena Zakharova,Cha Cha,3
+Wa,0,1,Final,Paul Stovall,Leah Garakanidze,10,1,1, Junior Silver Latin  (CSR),Sample,1,qfb073,402C3020,112,Anya Klimova-Preston,Samba,1
+Wa,0,1,Final,Paul Stovall,Leah Garakanidze,11,1,1, Junior Silver Latin  (CSR),Sample,1,qfb073,402C3020,112,Ludmila Popova,Samba,1
+Wa,0,1,Final,Paul Stovall,Leah Garakanidze,12,1,1, Junior Silver Latin  (CSR),Sample,1,qfb073,402C3020,112,Yelena Zakharova,Samba,1
+Wa,0,2,Final,Danyo Kurgan,Nicole Garakanidze,10,2,2, Junior Silver Latin  (CSR),Sample,1,qfb073,402C3020,102,Anya Klimova-Preston,Samba,2
+Wa,0,3,Final,Danyo Kurgan,Nicole Garakanidze,11,2,3, Junior Silver Latin  (CSR),Sample,1,qfb073,402C3020,102,Ludmila Popova,Samba,2
+Wa,0,2,Final,Danyo Kurgan,Nicole Garakanidze,12,2,2, Junior Silver Latin  (CSR),Sample,1,qfb073,402C3020,102,Yelena Zakharova,Samba,2
+Wa,0,3,Final,David Porter,Maria Bessonova,10,3,3, Junior Silver Latin  (CSR),Sample,1,qfb073,402C3020,100,Anya Klimova-Preston,Samba,3
+Wa,0,2,Final,David Porter,Maria Bessonova,11,3,2, Junior Silver Latin  (CSR),Sample,1,qfb073,402C3020,100,Ludmila Popova,Samba,3
+Wa,0,3,Final,David Porter,Maria Bessonova,12,3,3, Junior Silver Latin  (CSR),Sample,1,qfb073,402C3020,100,Yelena Zakharova,Samba,3
+Wa,0,1,Final,Paul Stovall,Leah Garakanidze,10,1,1, Junior Silver Latin  (CSR),Sample,2,qfb073,402C3020,112,Anya Klimova-Preston,Rumba,1
+Wa,0,1,Final,Paul Stovall,Leah Garakanidze,11,1,1, Junior Silver Latin  (CSR),Sample,2,qfb073,402C3020,112,Ludmila Popova,Rumba,1
+Wa,0,1,Final,Paul Stovall,Leah Garakanidze,12,1,1, Junior Silver Latin  (CSR),Sample,2,qfb073,402C3020,112,Yelena Zakharova,Rumba,1
+Wa,0,2,Final,Danyo Kurgan,Nicole Garakanidze,10,2,2, Junior Silver Latin  (CSR),Sample,2,qfb073,402C3020,102,Anya Klimova-Preston,Rumba,2
+Wa,0,2,Final,Danyo Kurgan,Nicole Garakanidze,11,2,2, Junior Silver Latin  (CSR),Sample,2,qfb073,402C3020,102,Ludmila Popova,Rumba,2
+Wa,0,3,Final,Danyo Kurgan,Nicole Garakanidze,12,2,3, Junior Silver Latin  (CSR),Sample,2,qfb073,402C3020,102,Yelena Zakharova,Rumba,2
+Wa,0,3,Final,David Porter,Maria Bessonova,10,3,3, Junior Silver Latin  (CSR),Sample,2,qfb073,402C3020,100,Anya Klimova-Preston,Rumba,3
+Wa,0,3,Final,David Porter,Maria Bessonova,11,3,3, Junior Silver Latin  (CSR),Sample,2,qfb073,402C3020,100,Ludmila Popova,Rumba,3
+Wa,0,2,Final,David Porter,Maria Bessonova,12,3,2, Junior Silver Latin  (CSR),Sample,2,qfb073,402C3020,100,Yelena Zakharova,Rumba,3
+Wa,0,2,Final,Erik Linder,Rickie Taylor,10,2,2, Pre-Teen Bronze Latin  (CR),Sample,0,qfb073,40272820,101,Anya Klimova-Preston,Cha Cha,1
+Wa,0,2,Final,Erik Linder,Rickie Taylor,11,2,2, Pre-Teen Bronze Latin  (CR),Sample,0,qfb073,40272820,101,Ludmila Popova,Cha Cha,1
+Wa,0,2,Final,Erik Linder,Rickie Taylor,12,2,2, Pre-Teen Bronze Latin  (CR),Sample,0,qfb073,40272820,101,Yelena Zakharova,Cha Cha,1
+WA,0,1,Final,Octavian Culiac,Ruxandra Culiac,10,1,1, Pre-Teen Bronze Latin  (CR),Sample,0,qfb073,40272820,117,Anya Klimova-Preston,Cha Cha,2
+WA,0,1,Final,Octavian Culiac,Ruxandra Culiac,11,1,1, Pre-Teen Bronze Latin  (CR),Sample,0,qfb073,40272820,117,Ludmila Popova,Cha Cha,2
+WA,0,1,Final,Octavian Culiac,Ruxandra Culiac,12,1,1, Pre-Teen Bronze Latin  (CR),Sample,0,qfb073,40272820,117,Yelena Zakharova,Cha Cha,2
+WA,0,3,Final,Nick Minkin,Katya Belokrylova,10,3,3, Pre-Teen Bronze Latin  (CR),Sample,0,qfb073,40272820,115,Anya Klimova-Preston,Cha Cha,3
+WA,0,3,Final,Nick Minkin,Katya Belokrylova,11,3,3, Pre-Teen Bronze Latin  (CR),Sample,0,qfb073,40272820,115,Ludmila Popova,Cha Cha,3
+WA,0,3,Final,Nick Minkin,Katya Belokrylova,12,3,3, Pre-Teen Bronze Latin  (CR),Sample,0,qfb073,40272820,115,Yelena Zakharova,Cha Cha,3
+WA,0,4,Final,Allen Ivanov,Christina Oganova,10,4,4, Pre-Teen Bronze Latin  (CR),Sample,0,qfb073,40272820,121,Anya Klimova-Preston,Cha Cha,4
+WA,0,4,Final,Allen Ivanov,Christina Oganova,11,4,4, Pre-Teen Bronze Latin  (CR),Sample,0,qfb073,40272820,121,Ludmila Popova,Cha Cha,4
+WA,0,4,Final,Allen Ivanov,Christina Oganova,12,4,4, Pre-Teen Bronze Latin  (CR),Sample,0,qfb073,40272820,121,Yelena Zakharova,Cha Cha,4
+Wa,0,1,Final,Erik Linder,Rickie Taylor,10,1,1, Pre-Teen Bronze Latin  (CR),Sample,1,qfb073,40272820,101,Anya Klimova-Preston,Rumba,1
+Wa,0,1,Final,Erik Linder,Rickie Taylor,11,1,1, Pre-Teen Bronze Latin  (CR),Sample,1,qfb073,40272820,101,Ludmila Popova,Rumba,1
+Wa,0,1,Final,Erik Linder,Rickie Taylor,12,1,1, Pre-Teen Bronze Latin  (CR),Sample,1,qfb073,40272820,101,Yelena Zakharova,Rumba,1
+WA,0,3,Final,Octavian Culiac,Ruxandra Culiac,10,2,3, Pre-Teen Bronze Latin  (CR),Sample,1,qfb073,40272820,117,Anya Klimova-Preston,Rumba,2
+WA,0,2,Final,Octavian Culiac,Ruxandra Culiac,11,2,2, Pre-Teen Bronze Latin  (CR),Sample,1,qfb073,40272820,117,Ludmila Popova,Rumba,2
+WA,0,2,Final,Octavian Culiac,Ruxandra Culiac,12,2,2, Pre-Teen Bronze Latin  (CR),Sample,1,qfb073,40272820,117,Yelena Zakharova,Rumba,2
+WA,0,2,Final,Nick Minkin,Katya Belokrylova,10,3,2, Pre-Teen Bronze Latin  (CR),Sample,1,qfb073,40272820,115,Anya Klimova-Preston,Rumba,3
+WA,0,3,Final,Nick Minkin,Katya Belokrylova,11,3,3, Pre-Teen Bronze Latin  (CR),Sample,1,qfb073,40272820,115,Ludmila Popova,Rumba,3
+WA,0,3,Final,Nick Minkin,Katya Belokrylova,12,3,3, Pre-Teen Bronze Latin  (CR),Sample,1,qfb073,40272820,115,Yelena Zakharova,Rumba,3
+WA,0,4,Final,Allen Ivanov,Christina Oganova,10,4,4, Pre-Teen Bronze Latin  (CR),Sample,1,qfb073,40272820,121,Anya Klimova-Preston,Rumba,4
+WA,0,4,Final,Allen Ivanov,Christina Oganova,11,4,4, Pre-Teen Bronze Latin  (CR),Sample,1,qfb073,40272820,121,Ludmila Popova,Rumba,4
+WA,0,4,Final,Allen Ivanov,Christina Oganova,12,4,4, Pre-Teen Bronze Latin  (CR),Sample,1,qfb073,40272820,121,Yelena Zakharova,Rumba,4
+Wa,0,2,Final,Paul Stovall,Maxine Taylor,10,1,2, Pre-Teen Gold Latin  (CSRJ),Sample,0,qfb073,40273820,112,Anya Klimova-Preston,Cha Cha,1
+Wa,0,1,Final,Paul Stovall,Maxine Taylor,11,1,1, Pre-Teen Gold Latin  (CSRJ),Sample,0,qfb073,40273820,112,Ludmila Popova,Cha Cha,1
+Wa,0,1,Final,Paul Stovall,Maxine Taylor,12,1,1, Pre-Teen Gold Latin  (CSRJ),Sample,0,qfb073,40273820,112,Yelena Zakharova,Cha Cha,1
+Wa,0,3,Final,David Porter,Maria Bessonova,10,3,3, Pre-Teen Gold Latin  (CSRJ),Sample,0,qfb073,40273820,100,Anya Klimova-Preston,Cha Cha,2
+Wa,0,3,Final,David Porter,Maria Bessonova,11,3,3, Pre-Teen Gold Latin  (CSRJ),Sample,0,qfb073,40273820,100,Ludmila Popova,Cha Cha,2
+Wa,0,2,Final,David Porter,Maria Bessonova,12,3,2, Pre-Teen Gold Latin  (CSRJ),Sample,0,qfb073,40273820,100,Yelena Zakharova,Cha Cha,2
+Wa,0,1,Final,Danyo Kurgan,Nicole Garakanidze,10,2,1, Pre-Teen Gold Latin  (CSRJ),Sample,0,qfb073,40273820,102,Anya Klimova-Preston,Cha Cha,3
+Wa,0,2,Final,Danyo Kurgan,Nicole Garakanidze,11,2,2, Pre-Teen Gold Latin  (CSRJ),Sample,0,qfb073,40273820,102,Ludmila Popova,Cha Cha,3
+Wa,0,3,Final,Danyo Kurgan,Nicole Garakanidze,12,2,3, Pre-Teen Gold Latin  (CSRJ),Sample,0,qfb073,40273820,102,Yelena Zakharova,Cha Cha,3
+Wa,0,1,Final,Paul Stovall,Maxine Taylor,10,1,1, Pre-Teen Gold Latin  (CSRJ),Sample,1,qfb073,40273820,112,Anya Klimova-Preston,Samba,1
+Wa,0,1,Final,Paul Stovall,Maxine Taylor,11,1,1, Pre-Teen Gold Latin  (CSRJ),Sample,1,qfb073,40273820,112,Ludmila Popova,Samba,1
+Wa,0,1,Final,Paul Stovall,Maxine Taylor,12,1,1, Pre-Teen Gold Latin  (CSRJ),Sample,1,qfb073,40273820,112,Yelena Zakharova,Samba,1
+Wa,0,3,Final,David Porter,Maria Bessonova,10,2,3, Pre-Teen Gold Latin  (CSRJ),Sample,1,qfb073,40273820,100,Anya Klimova-Preston,Samba,2
+Wa,0,2,Final,David Porter,Maria Bessonova,11,2,2, Pre-Teen Gold Latin  (CSRJ),Sample,1,qfb073,40273820,100,Ludmila Popova,Samba,2
+Wa,0,2,Final,David Porter,Maria Bessonova,12,2,2, Pre-Teen Gold Latin  (CSRJ),Sample,1,qfb073,40273820,100,Yelena Zakharova,Samba,2
+Wa,0,2,Final,Danyo Kurgan,Nicole Garakanidze,10,3,2, Pre-Teen Gold Latin  (CSRJ),Sample,1,qfb073,40273820,102,Anya Klimova-Preston,Samba,3
+Wa,0,3,Final,Danyo Kurgan,Nicole Garakanidze,11,3,3, Pre-Teen Gold Latin  (CSRJ),Sample,1,qfb073,40273820,102,Ludmila Popova,Samba,3
+Wa,0,3,Final,Danyo Kurgan,Nicole Garakanidze,12,3,3, Pre-Teen Gold Latin  (CSRJ),Sample,1,qfb073,40273820,102,Yelena Zakharova,Samba,3
+Wa,0,1,Final,Paul Stovall,Maxine Taylor,10,1,1, Pre-Teen Gold Latin  (CSRJ),Sample,2,qfb073,40273820,112,Anya Klimova-Preston,Rumba,1
+Wa,0,1,Final,Paul Stovall,Maxine Taylor,11,1,1, Pre-Teen Gold Latin  (CSRJ),Sample,2,qfb073,40273820,112,Ludmila Popova,Rumba,1
+Wa,0,1,Final,Paul Stovall,Maxine Taylor,12,1,1, Pre-Teen Gold Latin  (CSRJ),Sample,2,qfb073,40273820,112,Yelena Zakharova,Rumba,1
+Wa,0,3,Final,David Porter,Maria Bessonova,10,3,3, Pre-Teen Gold Latin  (CSRJ),Sample,2,qfb073,40273820,100,Anya Klimova-Preston,Rumba,2
+Wa,0,3,Final,David Porter,Maria Bessonova,11,3,3, Pre-Teen Gold Latin  (CSRJ),Sample,2,qfb073,40273820,100,Ludmila Popova,Rumba,2
+Wa,0,2,Final,David Porter,Maria Bessonova,12,3,2, Pre-Teen Gold Latin  (CSRJ),Sample,2,qfb073,40273820,100,Yelena Zakharova,Rumba,2
+Wa,0,2,Final,Danyo Kurgan,Nicole Garakanidze,10,2,2, Pre-Teen Gold Latin  (CSRJ),Sample,2,qfb073,40273820,102,Anya Klimova-Preston,Rumba,3
+Wa,0,2,Final,Danyo Kurgan,Nicole Garakanidze,11,2,2, Pre-Teen Gold Latin  (CSRJ),Sample,2,qfb073,40273820,102,Ludmila Popova,Rumba,3
+Wa,0,3,Final,Danyo Kurgan,Nicole Garakanidze,12,2,3, Pre-Teen Gold Latin  (CSRJ),Sample,2,qfb073,40273820,102,Yelena Zakharova,Rumba,3
+Wa,0,3,Final,Paul Stovall,Maxine Taylor,10,1,3, Pre-Teen Gold Latin  (CSRJ),Sample,3,qfb073,40273820,112,Anya Klimova-Preston,Jive,1
+Wa,0,1,Final,Paul Stovall,Maxine Taylor,11,1,1, Pre-Teen Gold Latin  (CSRJ),Sample,3,qfb073,40273820,112,Ludmila Popova,Jive,1
+Wa,0,1,Final,Paul Stovall,Maxine Taylor,12,1,1, Pre-Teen Gold Latin  (CSRJ),Sample,3,qfb073,40273820,112,Yelena Zakharova,Jive,1
+Wa,0,2,Final,David Porter,Maria Bessonova,10,2,2, Pre-Teen Gold Latin  (CSRJ),Sample,3,qfb073,40273820,100,Anya Klimova-Preston,Jive,2
+Wa,0,2,Final,David Porter,Maria Bessonova,11,2,2, Pre-Teen Gold Latin  (CSRJ),Sample,3,qfb073,40273820,100,Ludmila Popova,Jive,2
+Wa,0,2,Final,David Porter,Maria Bessonova,12,2,2, Pre-Teen Gold Latin  (CSRJ),Sample,3,qfb073,40273820,100,Yelena Zakharova,Jive,2
+Wa,0,1,Final,Danyo Kurgan,Nicole Garakanidze,10,3,1, Pre-Teen Gold Latin  (CSRJ),Sample,3,qfb073,40273820,102,Anya Klimova-Preston,Jive,3
+Wa,0,3,Final,Danyo Kurgan,Nicole Garakanidze,11,3,3, Pre-Teen Gold Latin  (CSRJ),Sample,3,qfb073,40273820,102,Ludmila Popova,Jive,3
+Wa,0,3,Final,Danyo Kurgan,Nicole Garakanidze,12,3,3, Pre-Teen Gold Latin  (CSRJ),Sample,3,qfb073,40273820,102,Yelena Zakharova,Jive,3
+Wa,0,1,Final,Paul Stovall,Leah Garakanidze,10,1,1, Junior Gold Latin  (CSRJ),Sample,0,qfb073,402C3820,112,Anya Klimova-Preston,Cha Cha,1
+Wa,0,1,Final,Paul Stovall,Leah Garakanidze,11,1,1, Junior Gold Latin  (CSRJ),Sample,0,qfb073,402C3820,112,Ludmila Popova,Cha Cha,1
+Wa,0,1,Final,Paul Stovall,Leah Garakanidze,12,1,1, Junior Gold Latin  (CSRJ),Sample,0,qfb073,402C3820,112,Yelena Zakharova,Cha Cha,1
+Wa,0,1,Final,Paul Stovall,Leah Garakanidze,10,1,1, Junior Gold Latin  (CSRJ),Sample,1,qfb073,402C3820,112,Anya Klimova-Preston,Samba,1
+Wa,0,1,Final,Paul Stovall,Leah Garakanidze,11,1,1, Junior Gold Latin  (CSRJ),Sample,1,qfb073,402C3820,112,Ludmila Popova,Samba,1
+Wa,0,1,Final,Paul Stovall,Leah Garakanidze,12,1,1, Junior Gold Latin  (CSRJ),Sample,1,qfb073,402C3820,112,Yelena Zakharova,Samba,1
+Wa,0,1,Final,Paul Stovall,Leah Garakanidze,10,1,1, Junior Gold Latin  (CSRJ),Sample,2,qfb073,402C3820,112,Anya Klimova-Preston,Rumba,1
+Wa,0,1,Final,Paul Stovall,Leah Garakanidze,11,1,1, Junior Gold Latin  (CSRJ),Sample,2,qfb073,402C3820,112,Ludmila Popova,Rumba,1
+Wa,0,1,Final,Paul Stovall,Leah Garakanidze,12,1,1, Junior Gold Latin  (CSRJ),Sample,2,qfb073,402C3820,112,Yelena Zakharova,Rumba,1
+Wa,0,1,Final,Paul Stovall,Leah Garakanidze,10,1,1, Junior Gold Latin  (CSRJ),Sample,3,qfb073,402C3820,112,Anya Klimova-Preston,Jive,1
+Wa,0,1,Final,Paul Stovall,Leah Garakanidze,11,1,1, Junior Gold Latin  (CSRJ),Sample,3,qfb073,402C3820,112,Ludmila Popova,Jive,1
+Wa,0,1,Final,Paul Stovall,Leah Garakanidze,12,1,1, Junior Gold Latin  (CSRJ),Sample,3,qfb073,402C3820,112,Yelena Zakharova,Jive,1
+WA,0,1,Final,Paul Hill,Anneliese Hill,10,1,1, Senior I Newcomer Standard  (W),Sample,0,qfb073,40432010,110,Anya Klimova-Preston,Waltz,1
+WA,0,1,Final,Paul Hill,Anneliese Hill,11,1,1, Senior I Newcomer Standard  (W),Sample,0,qfb073,40432010,110,Ludmila Popova,Waltz,1
+WA,0,1,Final,Paul Hill,Anneliese Hill,12,1,1, Senior I Newcomer Standard  (W),Sample,0,qfb073,40432010,110,Yelena Zakharova,Waltz,1
+WA,0,1,Final,David Crawford,Amanda Moore,10,1,1, Adult Gold Standard  (WTFQ),Sample,0,qfb073,40423810,105,Anya Klimova-Preston,Waltz,1
+WA,0,1,Final,David Crawford,Amanda Moore,11,1,1, Adult Gold Standard  (WTFQ),Sample,0,qfb073,40423810,105,Ludmila Popova,Waltz,1
+WA,0,2,Final,David Crawford,Amanda Moore,12,1,2, Adult Gold Standard  (WTFQ),Sample,0,qfb073,40423810,105,Yelena Zakharova,Waltz,1
+Or,0,2,Final,Mark Richman,Vanessa Kapinus,10,2,2, Adult Gold Standard  (WTFQ),Sample,0,qfb073,40423810,123,Anya Klimova-Preston,Waltz,2
+Or,0,2,Final,Mark Richman,Vanessa Kapinus,11,2,2, Adult Gold Standard  (WTFQ),Sample,0,qfb073,40423810,123,Ludmila Popova,Waltz,2
+Or,0,1,Final,Mark Richman,Vanessa Kapinus,12,2,1, Adult Gold Standard  (WTFQ),Sample,0,qfb073,40423810,123,Yelena Zakharova,Waltz,2
+WA,0,2,Final,David Crawford,Amanda Moore,10,2,2, Adult Gold Standard  (WTFQ),Sample,1,qfb073,40423810,105,Anya Klimova-Preston,Tango,1
+WA,0,2,Final,David Crawford,Amanda Moore,11,2,2, Adult Gold Standard  (WTFQ),Sample,1,qfb073,40423810,105,Ludmila Popova,Tango,1
+WA,0,2,Final,David Crawford,Amanda Moore,12,2,2, Adult Gold Standard  (WTFQ),Sample,1,qfb073,40423810,105,Yelena Zakharova,Tango,1
+Or,0,1,Final,Mark Richman,Vanessa Kapinus,10,1,1, Adult Gold Standard  (WTFQ),Sample,1,qfb073,40423810,123,Anya Klimova-Preston,Tango,2
+Or,0,1,Final,Mark Richman,Vanessa Kapinus,11,1,1, Adult Gold Standard  (WTFQ),Sample,1,qfb073,40423810,123,Ludmila Popova,Tango,2
+Or,0,1,Final,Mark Richman,Vanessa Kapinus,12,1,1, Adult Gold Standard  (WTFQ),Sample,1,qfb073,40423810,123,Yelena Zakharova,Tango,2
+WA,0,1,Final,David Crawford,Amanda Moore,10,1,1, Adult Gold Standard  (WTFQ),Sample,2,qfb073,40423810,105,Anya Klimova-Preston,Foxtrot,1
+WA,0,1,Final,David Crawford,Amanda Moore,11,1,1, Adult Gold Standard  (WTFQ),Sample,2,qfb073,40423810,105,Ludmila Popova,Foxtrot,1
+WA,0,2,Final,David Crawford,Amanda Moore,12,1,2, Adult Gold Standard  (WTFQ),Sample,2,qfb073,40423810,105,Yelena Zakharova,Foxtrot,1
+Or,0,2,Final,Mark Richman,Vanessa Kapinus,10,2,2, Adult Gold Standard  (WTFQ),Sample,2,qfb073,40423810,123,Anya Klimova-Preston,Foxtrot,2
+Or,0,2,Final,Mark Richman,Vanessa Kapinus,11,2,2, Adult Gold Standard  (WTFQ),Sample,2,qfb073,40423810,123,Ludmila Popova,Foxtrot,2
+Or,0,1,Final,Mark Richman,Vanessa Kapinus,12,2,1, Adult Gold Standard  (WTFQ),Sample,2,qfb073,40423810,123,Yelena Zakharova,Foxtrot,2
+WA,0,1,Final,David Crawford,Amanda Moore,10,1,1, Adult Gold Standard  (WTFQ),Sample,3,qfb073,40423810,105,Anya Klimova-Preston,Quickstep,1
+WA,0,1,Final,David Crawford,Amanda Moore,11,1,1, Adult Gold Standard  (WTFQ),Sample,3,qfb073,40423810,105,Ludmila Popova,Quickstep,1
+WA,0,1,Final,David Crawford,Amanda Moore,12,1,1, Adult Gold Standard  (WTFQ),Sample,3,qfb073,40423810,105,Yelena Zakharova,Quickstep,1
+Or,0,2,Final,Mark Richman,Vanessa Kapinus,10,2,2, Adult Gold Standard  (WTFQ),Sample,3,qfb073,40423810,123,Anya Klimova-Preston,Quickstep,2
+Or,0,2,Final,Mark Richman,Vanessa Kapinus,11,2,2, Adult Gold Standard  (WTFQ),Sample,3,qfb073,40423810,123,Ludmila Popova,Quickstep,2
+Or,0,2,Final,Mark Richman,Vanessa Kapinus,12,2,2, Adult Gold Standard  (WTFQ),Sample,3,qfb073,40423810,123,Yelena Zakharova,Quickstep,2
+WA,0,1,Final,Paul Hill,Anneliese Hill,10,1,1, Adult Bronze Standard  (WQ),Sample,0,qfb073,40422810,110,Anya Klimova-Preston,Waltz,1
+WA,0,1,Final,Paul Hill,Anneliese Hill,11,1,1, Adult Bronze Standard  (WQ),Sample,0,qfb073,40422810,110,Ludmila Popova,Waltz,1
+WA,0,1,Final,Paul Hill,Anneliese Hill,12,1,1, Adult Bronze Standard  (WQ),Sample,0,qfb073,40422810,110,Yelena Zakharova,Waltz,1
+WA,0,1,Final,Paul Hill,Anneliese Hill,10,1,1, Adult Bronze Standard  (WQ),Sample,1,qfb073,40422810,110,Anya Klimova-Preston,Quickstep,1
+WA,0,1,Final,Paul Hill,Anneliese Hill,11,1,1, Adult Bronze Standard  (WQ),Sample,1,qfb073,40422810,110,Ludmila Popova,Quickstep,1
+WA,0,1,Final,Paul Hill,Anneliese Hill,12,1,1, Adult Bronze Standard  (WQ),Sample,1,qfb073,40422810,110,Yelena Zakharova,Quickstep,1
+Wa,0,1,Final,Alex Kalinin,Gail Sherman,10,1,1, Senior I Pre-Champ Standard  (WTFQ),Sample,0,qfb073,40438310,114,Anya Klimova-Preston,Waltz,1
+Wa,0,1,Final,Alex Kalinin,Gail Sherman,11,1,1, Senior I Pre-Champ Standard  (WTFQ),Sample,0,qfb073,40438310,114,Ludmila Popova,Waltz,1
+Wa,0,1,Final,Alex Kalinin,Gail Sherman,12,1,1, Senior I Pre-Champ Standard  (WTFQ),Sample,0,qfb073,40438310,114,Yelena Zakharova,Waltz,1
+Wa,0,2,Final,John Chittenden,Suzanne Hunter,10,2,2, Senior I Pre-Champ Standard  (WTFQ),Sample,0,qfb073,40438310,119,Anya Klimova-Preston,Waltz,2
+Wa,0,2,Final,John Chittenden,Suzanne Hunter,11,2,2, Senior I Pre-Champ Standard  (WTFQ),Sample,0,qfb073,40438310,119,Ludmila Popova,Waltz,2
+Wa,0,2,Final,John Chittenden,Suzanne Hunter,12,2,2, Senior I Pre-Champ Standard  (WTFQ),Sample,0,qfb073,40438310,119,Yelena Zakharova,Waltz,2
+Wa,0,1,Final,Alex Kalinin,Gail Sherman,10,1,1, Senior I Pre-Champ Standard  (WTFQ),Sample,1,qfb073,40438310,114,Anya Klimova-Preston,Tango,1
+Wa,0,1,Final,Alex Kalinin,Gail Sherman,11,1,1, Senior I Pre-Champ Standard  (WTFQ),Sample,1,qfb073,40438310,114,Ludmila Popova,Tango,1
+Wa,0,1,Final,Alex Kalinin,Gail Sherman,12,1,1, Senior I Pre-Champ Standard  (WTFQ),Sample,1,qfb073,40438310,114,Yelena Zakharova,Tango,1
+Wa,0,2,Final,John Chittenden,Suzanne Hunter,10,2,2, Senior I Pre-Champ Standard  (WTFQ),Sample,1,qfb073,40438310,119,Anya Klimova-Preston,Tango,2
+Wa,0,2,Final,John Chittenden,Suzanne Hunter,11,2,2, Senior I Pre-Champ Standard  (WTFQ),Sample,1,qfb073,40438310,119,Ludmila Popova,Tango,2
+Wa,0,2,Final,John Chittenden,Suzanne Hunter,12,2,2, Senior I Pre-Champ Standard  (WTFQ),Sample,1,qfb073,40438310,119,Yelena Zakharova,Tango,2
+Wa,0,1,Final,Alex Kalinin,Gail Sherman,10,1,1, Senior I Pre-Champ Standard  (WTFQ),Sample,2,qfb073,40438310,114,Anya Klimova-Preston,Foxtrot,1
+Wa,0,2,Final,Alex Kalinin,Gail Sherman,11,1,2, Senior I Pre-Champ Standard  (WTFQ),Sample,2,qfb073,40438310,114,Ludmila Popova,Foxtrot,1
+Wa,0,1,Final,Alex Kalinin,Gail Sherman,12,1,1, Senior I Pre-Champ Standard  (WTFQ),Sample,2,qfb073,40438310,114,Yelena Zakharova,Foxtrot,1
+Wa,0,2,Final,John Chittenden,Suzanne Hunter,10,2,2, Senior I Pre-Champ Standard  (WTFQ),Sample,2,qfb073,40438310,119,Anya Klimova-Preston,Foxtrot,2
+Wa,0,1,Final,John Chittenden,Suzanne Hunter,11,2,1, Senior I Pre-Champ Standard  (WTFQ),Sample,2,qfb073,40438310,119,Ludmila Popova,Foxtrot,2
+Wa,0,2,Final,John Chittenden,Suzanne Hunter,12,2,2, Senior I Pre-Champ Standard  (WTFQ),Sample,2,qfb073,40438310,119,Yelena Zakharova,Foxtrot,2
+Wa,0,1,Final,Alex Kalinin,Gail Sherman,10,1,1, Senior I Pre-Champ Standard  (WTFQ),Sample,3,qfb073,40438310,114,Anya Klimova-Preston,Quickstep,1
+Wa,0,2,Final,Alex Kalinin,Gail Sherman,11,1,2, Senior I Pre-Champ Standard  (WTFQ),Sample,3,qfb073,40438310,114,Ludmila Popova,Quickstep,1
+Wa,0,1,Final,Alex Kalinin,Gail Sherman,12,1,1, Senior I Pre-Champ Standard  (WTFQ),Sample,3,qfb073,40438310,114,Yelena Zakharova,Quickstep,1
+Wa,0,2,Final,John Chittenden,Suzanne Hunter,10,2,2, Senior I Pre-Champ Standard  (WTFQ),Sample,3,qfb073,40438310,119,Anya Klimova-Preston,Quickstep,2
+Wa,0,1,Final,John Chittenden,Suzanne Hunter,11,2,1, Senior I Pre-Champ Standard  (WTFQ),Sample,3,qfb073,40438310,119,Ludmila Popova,Quickstep,2
+Wa,0,2,Final,John Chittenden,Suzanne Hunter,12,2,2, Senior I Pre-Champ Standard  (WTFQ),Sample,3,qfb073,40438310,119,Yelena Zakharova,Quickstep,2
+WA,0,1,Final,David Crawford,Amanda Moore,10,1,1, Adult Novice Standard  (WFQ),Sample,0,qfb073,40428110,105,Anya Klimova-Preston,Waltz,1
+WA,0,2,Final,David Crawford,Amanda Moore,11,1,2, Adult Novice Standard  (WFQ),Sample,0,qfb073,40428110,105,Ludmila Popova,Waltz,1
+WA,0,1,Final,David Crawford,Amanda Moore,12,1,1, Adult Novice Standard  (WFQ),Sample,0,qfb073,40428110,105,Yelena Zakharova,Waltz,1
+Or,0,2,Final,Rick Davis,Carla Titus,10,2,2, Adult Novice Standard  (WFQ),Sample,0,qfb073,40428110,116,Anya Klimova-Preston,Waltz,2
+Or,0,1,Final,Rick Davis,Carla Titus,11,2,1, Adult Novice Standard  (WFQ),Sample,0,qfb073,40428110,116,Ludmila Popova,Waltz,2
+Or,0,2,Final,Rick Davis,Carla Titus,12,2,2, Adult Novice Standard  (WFQ),Sample,0,qfb073,40428110,116,Yelena Zakharova,Waltz,2
+WA,0,1,Final,David Crawford,Amanda Moore,10,1,1, Adult Novice Standard  (WFQ),Sample,1,qfb073,40428110,105,Anya Klimova-Preston,Foxtrot,1
+WA,0,1,Final,David Crawford,Amanda Moore,11,1,1, Adult Novice Standard  (WFQ),Sample,1,qfb073,40428110,105,Ludmila Popova,Foxtrot,1
+WA,0,1,Final,David Crawford,Amanda Moore,12,1,1, Adult Novice Standard  (WFQ),Sample,1,qfb073,40428110,105,Yelena Zakharova,Foxtrot,1
+Or,0,2,Final,Rick Davis,Carla Titus,10,2,2, Adult Novice Standard  (WFQ),Sample,1,qfb073,40428110,116,Anya Klimova-Preston,Foxtrot,2
+Or,0,2,Final,Rick Davis,Carla Titus,11,2,2, Adult Novice Standard  (WFQ),Sample,1,qfb073,40428110,116,Ludmila Popova,Foxtrot,2
+Or,0,2,Final,Rick Davis,Carla Titus,12,2,2, Adult Novice Standard  (WFQ),Sample,1,qfb073,40428110,116,Yelena Zakharova,Foxtrot,2
+WA,0,1,Final,David Crawford,Amanda Moore,10,1,1, Adult Novice Standard  (WFQ),Sample,2,qfb073,40428110,105,Anya Klimova-Preston,Quickstep,1
+WA,0,1,Final,David Crawford,Amanda Moore,11,1,1, Adult Novice Standard  (WFQ),Sample,2,qfb073,40428110,105,Ludmila Popova,Quickstep,1
+WA,0,1,Final,David Crawford,Amanda Moore,12,1,1, Adult Novice Standard  (WFQ),Sample,2,qfb073,40428110,105,Yelena Zakharova,Quickstep,1
+Or,0,2,Final,Rick Davis,Carla Titus,10,2,2, Adult Novice Standard  (WFQ),Sample,2,qfb073,40428110,116,Anya Klimova-Preston,Quickstep,2
+Or,0,2,Final,Rick Davis,Carla Titus,11,2,2, Adult Novice Standard  (WFQ),Sample,2,qfb073,40428110,116,Ludmila Popova,Quickstep,2
+Or,0,2,Final,Rick Davis,Carla Titus,12,2,2, Adult Novice Standard  (WFQ),Sample,2,qfb073,40428110,116,Yelena Zakharova,Quickstep,2
+WA,0,1,Final,Paul Hill,Anneliese Hill,10,1,1, Senior I Bronze Standard  (W_Q),Sample,0,qfb073,40432810,110,Anya Klimova-Preston,Waltz,1
+WA,0,1,Final,Paul Hill,Anneliese Hill,11,1,1, Senior I Bronze Standard  (W_Q),Sample,0,qfb073,40432810,110,Ludmila Popova,Waltz,1
+WA,0,1,Final,Paul Hill,Anneliese Hill,12,1,1, Senior I Bronze Standard  (W_Q),Sample,0,qfb073,40432810,110,Yelena Zakharova,Waltz,1
+WA,0,1,Final,Paul Hill,Anneliese Hill,10,2,1, Senior I Bronze Standard  (W_Q),Sample,1,qfb073,40432810,110,Anya Klimova-Preston,Other,1
+WA,0,2,Final,Paul Hill,Anneliese Hill,11,2,2, Senior I Bronze Standard  (W_Q),Sample,1,qfb073,40432810,110,Ludmila Popova,Other,1
+WA,0,2,Final,Paul Hill,Anneliese Hill,12,2,2, Senior I Bronze Standard  (W_Q),Sample,1,qfb073,40432810,110,Yelena Zakharova,Other,1
+WA,0,1,Final,Paul Hill,Anneliese Hill,10,1,1, Senior I Bronze Standard  (W_Q),Sample,2,qfb073,40432810,110,Anya Klimova-Preston,Quickstep,1
+WA,0,1,Final,Paul Hill,Anneliese Hill,11,1,1, Senior I Bronze Standard  (W_Q),Sample,2,qfb073,40432810,110,Ludmila Popova,Quickstep,1
+WA,0,1,Final,Paul Hill,Anneliese Hill,12,1,1, Senior I Bronze Standard  (W_Q),Sample,2,qfb073,40432810,110,Yelena Zakharova,Quickstep,1
+Or,0,1,Final,Sean Carrigg,Heather Mattole,10,1,1, Junior Championship Standard  (WTVFQ),Sample,0,qfb073,402C8710,107,Anya Klimova-Preston,Waltz,1
+Or,0,1,Final,Sean Carrigg,Heather Mattole,11,1,1, Junior Championship Standard  (WTVFQ),Sample,0,qfb073,402C8710,107,Ludmila Popova,Waltz,1
+Or,0,1,Final,Sean Carrigg,Heather Mattole,12,1,1, Junior Championship Standard  (WTVFQ),Sample,0,qfb073,402C8710,107,Yelena Zakharova,Waltz,1
+Or,0,1,Final,Sean Carrigg,Heather Mattole,10,1,1, Junior Championship Standard  (WTVFQ),Sample,1,qfb073,402C8710,107,Anya Klimova-Preston,Tango,1
+Or,0,1,Final,Sean Carrigg,Heather Mattole,11,1,1, Junior Championship Standard  (WTVFQ),Sample,1,qfb073,402C8710,107,Ludmila Popova,Tango,1
+Or,0,1,Final,Sean Carrigg,Heather Mattole,12,1,1, Junior Championship Standard  (WTVFQ),Sample,1,qfb073,402C8710,107,Yelena Zakharova,Tango,1
+Or,0,1,Final,Sean Carrigg,Heather Mattole,10,1,1, Junior Championship Standard  (WTVFQ),Sample,2,qfb073,402C8710,107,Anya Klimova-Preston,Viennese Waltz,1
+Or,0,1,Final,Sean Carrigg,Heather Mattole,11,1,1, Junior Championship Standard  (WTVFQ),Sample,2,qfb073,402C8710,107,Ludmila Popova,Viennese Waltz,1
+Or,0,1,Final,Sean Carrigg,Heather Mattole,12,1,1, Junior Championship Standard  (WTVFQ),Sample,2,qfb073,402C8710,107,Yelena Zakharova,Viennese Waltz,1
+Or,0,1,Final,Sean Carrigg,Heather Mattole,10,1,1, Junior Championship Standard  (WTVFQ),Sample,3,qfb073,402C8710,107,Anya Klimova-Preston,Foxtrot,1
+Or,0,1,Final,Sean Carrigg,Heather Mattole,11,1,1, Junior Championship Standard  (WTVFQ),Sample,3,qfb073,402C8710,107,Ludmila Popova,Foxtrot,1
+Or,0,1,Final,Sean Carrigg,Heather Mattole,12,1,1, Junior Championship Standard  (WTVFQ),Sample,3,qfb073,402C8710,107,Yelena Zakharova,Foxtrot,1
+Or,0,1,Final,Sean Carrigg,Heather Mattole,10,1,1, Junior Championship Standard  (WTVFQ),Sample,4,qfb073,402C8710,107,Anya Klimova-Preston,Quickstep,1
+Or,0,1,Final,Sean Carrigg,Heather Mattole,11,1,1, Junior Championship Standard  (WTVFQ),Sample,4,qfb073,402C8710,107,Ludmila Popova,Quickstep,1
+Or,0,1,Final,Sean Carrigg,Heather Mattole,12,1,1, Junior Championship Standard  (WTVFQ),Sample,4,qfb073,402C8710,107,Yelena Zakharova,Quickstep,1
+Wa,0,1,Final,Alex Kalinin,Gail Sherman,10,1,1, Senior I Championship Standard  (WTVFQ),Sample,0,qfb073,40438710,114,Anya Klimova-Preston,Waltz,1
+Wa,0,1,Final,Alex Kalinin,Gail Sherman,11,1,1, Senior I Championship Standard  (WTVFQ),Sample,0,qfb073,40438710,114,Ludmila Popova,Waltz,1
+Wa,0,1,Final,Alex Kalinin,Gail Sherman,12,1,1, Senior I Championship Standard  (WTVFQ),Sample,0,qfb073,40438710,114,Yelena Zakharova,Waltz,1
+Wa,0,3,Final,John Chittenden,Suzanne Hunter,10,3,3, Senior I Championship Standard  (WTVFQ),Sample,0,qfb073,40438710,119,Anya Klimova-Preston,Waltz,2
+Wa,0,2,Final,John Chittenden,Suzanne Hunter,11,3,2, Senior I Championship Standard  (WTVFQ),Sample,0,qfb073,40438710,119,Ludmila Popova,Waltz,2
+Wa,0,3,Final,John Chittenden,Suzanne Hunter,12,3,3, Senior I Championship Standard  (WTVFQ),Sample,0,qfb073,40438710,119,Yelena Zakharova,Waltz,2
+Wa,0,2,Final,Thio A.yao Budiman,Fanny H. Budiman,10,2,2, Senior I Championship Standard  (WTVFQ),Sample,0,qfb073,40438710,103,Anya Klimova-Preston,Waltz,3
+Wa,0,3,Final,Thio A.yao Budiman,Fanny H. Budiman,11,2,3, Senior I Championship Standard  (WTVFQ),Sample,0,qfb073,40438710,103,Ludmila Popova,Waltz,3
+Wa,0,2,Final,Thio A.yao Budiman,Fanny H. Budiman,12,2,2, Senior I Championship Standard  (WTVFQ),Sample,0,qfb073,40438710,103,Yelena Zakharova,Waltz,3
+Wa,0,1,Final,Alex Kalinin,Gail Sherman,10,1,1, Senior I Championship Standard  (WTVFQ),Sample,1,qfb073,40438710,114,Anya Klimova-Preston,Tango,1
+Wa,0,1,Final,Alex Kalinin,Gail Sherman,11,1,1, Senior I Championship Standard  (WTVFQ),Sample,1,qfb073,40438710,114,Ludmila Popova,Tango,1
+Wa,0,1,Final,Alex Kalinin,Gail Sherman,12,1,1, Senior I Championship Standard  (WTVFQ),Sample,1,qfb073,40438710,114,Yelena Zakharova,Tango,1
+Wa,0,2,Final,John Chittenden,Suzanne Hunter,10,2,2, Senior I Championship Standard  (WTVFQ),Sample,1,qfb073,40438710,119,Anya Klimova-Preston,Tango,2
+Wa,0,2,Final,John Chittenden,Suzanne Hunter,11,2,2, Senior I Championship Standard  (WTVFQ),Sample,1,qfb073,40438710,119,Ludmila Popova,Tango,2
+Wa,0,3,Final,John Chittenden,Suzanne Hunter,12,2,3, Senior I Championship Standard  (WTVFQ),Sample,1,qfb073,40438710,119,Yelena Zakharova,Tango,2
+Wa,0,3,Final,Thio A.yao Budiman,Fanny H. Budiman,10,3,3, Senior I Championship Standard  (WTVFQ),Sample,1,qfb073,40438710,103,Anya Klimova-Preston,Tango,3
+Wa,0,3,Final,Thio A.yao Budiman,Fanny H. Budiman,11,3,3, Senior I Championship Standard  (WTVFQ),Sample,1,qfb073,40438710,103,Ludmila Popova,Tango,3
+Wa,0,2,Final,Thio A.yao Budiman,Fanny H. Budiman,12,3,2, Senior I Championship Standard  (WTVFQ),Sample,1,qfb073,40438710,103,Yelena Zakharova,Tango,3
+Wa,0,1,Final,Alex Kalinin,Gail Sherman,10,1,1, Senior I Championship Standard  (WTVFQ),Sample,2,qfb073,40438710,114,Anya Klimova-Preston,Viennese Waltz,1
+Wa,0,3,Final,Alex Kalinin,Gail Sherman,11,1,3, Senior I Championship Standard  (WTVFQ),Sample,2,qfb073,40438710,114,Ludmila Popova,Viennese Waltz,1
+Wa,0,1,Final,Alex Kalinin,Gail Sherman,12,1,1, Senior I Championship Standard  (WTVFQ),Sample,2,qfb073,40438710,114,Yelena Zakharova,Viennese Waltz,1
+Wa,0,3,Final,John Chittenden,Suzanne Hunter,10,3,3, Senior I Championship Standard  (WTVFQ),Sample,2,qfb073,40438710,119,Anya Klimova-Preston,Viennese Waltz,2
+Wa,0,2,Final,John Chittenden,Suzanne Hunter,11,3,2, Senior I Championship Standard  (WTVFQ),Sample,2,qfb073,40438710,119,Ludmila Popova,Viennese Waltz,2
+Wa,0,3,Final,John Chittenden,Suzanne Hunter,12,3,3, Senior I Championship Standard  (WTVFQ),Sample,2,qfb073,40438710,119,Yelena Zakharova,Viennese Waltz,2
+Wa,0,2,Final,Thio A.yao Budiman,Fanny H. Budiman,10,2,2, Senior I Championship Standard  (WTVFQ),Sample,2,qfb073,40438710,103,Anya Klimova-Preston,Viennese Waltz,3
+Wa,0,1,Final,Thio A.yao Budiman,Fanny H. Budiman,11,2,1, Senior I Championship Standard  (WTVFQ),Sample,2,qfb073,40438710,103,Ludmila Popova,Viennese Waltz,3
+Wa,0,2,Final,Thio A.yao Budiman,Fanny H. Budiman,12,2,2, Senior I Championship Standard  (WTVFQ),Sample,2,qfb073,40438710,103,Yelena Zakharova,Viennese Waltz,3
+Wa,0,1,Final,Alex Kalinin,Gail Sherman,10,1,1, Senior I Championship Standard  (WTVFQ),Sample,3,qfb073,40438710,114,Anya Klimova-Preston,Foxtrot,1
+Wa,0,1,Final,Alex Kalinin,Gail Sherman,11,1,1, Senior I Championship Standard  (WTVFQ),Sample,3,qfb073,40438710,114,Ludmila Popova,Foxtrot,1
+Wa,0,1,Final,Alex Kalinin,Gail Sherman,12,1,1, Senior I Championship Standard  (WTVFQ),Sample,3,qfb073,40438710,114,Yelena Zakharova,Foxtrot,1
+Wa,0,2,Final,John Chittenden,Suzanne Hunter,10,2,2, Senior I Championship Standard  (WTVFQ),Sample,3,qfb073,40438710,119,Anya Klimova-Preston,Foxtrot,2
+Wa,0,2,Final,John Chittenden,Suzanne Hunter,11,2,2, Senior I Championship Standard  (WTVFQ),Sample,3,qfb073,40438710,119,Ludmila Popova,Foxtrot,2
+Wa,0,3,Final,John Chittenden,Suzanne Hunter,12,2,3, Senior I Championship Standard  (WTVFQ),Sample,3,qfb073,40438710,119,Yelena Zakharova,Foxtrot,2
+Wa,0,3,Final,Thio A.yao Budiman,Fanny H. Budiman,10,3,3, Senior I Championship Standard  (WTVFQ),Sample,3,qfb073,40438710,103,Anya Klimova-Preston,Foxtrot,3
+Wa,0,3,Final,Thio A.yao Budiman,Fanny H. Budiman,11,3,3, Senior I Championship Standard  (WTVFQ),Sample,3,qfb073,40438710,103,Ludmila Popova,Foxtrot,3
+Wa,0,2,Final,Thio A.yao Budiman,Fanny H. Budiman,12,3,2, Senior I Championship Standard  (WTVFQ),Sample,3,qfb073,40438710,103,Yelena Zakharova,Foxtrot,3
+Wa,0,1,Final,Alex Kalinin,Gail Sherman,10,1,1, Senior I Championship Standard  (WTVFQ),Sample,4,qfb073,40438710,114,Anya Klimova-Preston,Quickstep,1
+Wa,0,1,Final,Alex Kalinin,Gail Sherman,11,1,1, Senior I Championship Standard  (WTVFQ),Sample,4,qfb073,40438710,114,Ludmila Popova,Quickstep,1
+Wa,0,1,Final,Alex Kalinin,Gail Sherman,12,1,1, Senior I Championship Standard  (WTVFQ),Sample,4,qfb073,40438710,114,Yelena Zakharova,Quickstep,1
+Wa,0,2,Final,John Chittenden,Suzanne Hunter,10,2,2, Senior I Championship Standard  (WTVFQ),Sample,4,qfb073,40438710,119,Anya Klimova-Preston,Quickstep,2
+Wa,0,2,Final,John Chittenden,Suzanne Hunter,11,2,2, Senior I Championship Standard  (WTVFQ),Sample,4,qfb073,40438710,119,Ludmila Popova,Quickstep,2
+Wa,0,3,Final,John Chittenden,Suzanne Hunter,12,2,3, Senior I Championship Standard  (WTVFQ),Sample,4,qfb073,40438710,119,Yelena Zakharova,Quickstep,2
+Wa,0,3,Final,Thio A.yao Budiman,Fanny H. Budiman,10,3,3, Senior I Championship Standard  (WTVFQ),Sample,4,qfb073,40438710,103,Anya Klimova-Preston,Quickstep,3
+Wa,0,3,Final,Thio A.yao Budiman,Fanny H. Budiman,11,3,3, Senior I Championship Standard  (WTVFQ),Sample,4,qfb073,40438710,103,Ludmila Popova,Quickstep,3
+Wa,0,2,Final,Thio A.yao Budiman,Fanny H. Budiman,12,3,2, Senior I Championship Standard  (WTVFQ),Sample,4,qfb073,40438710,103,Yelena Zakharova,Quickstep,3
+Or,0,2,Final,Mark Richman,Vanessa Kapinus,10,1,2, Adult Novice Latin  (CSR),Sample,0,qfb073,40428120,123,Anya Klimova-Preston,Cha Cha,1
+Or,0,1,Final,Mark Richman,Vanessa Kapinus,11,1,1, Adult Novice Latin  (CSR),Sample,0,qfb073,40428120,123,Ludmila Popova,Cha Cha,1
+Or,0,1,Final,Mark Richman,Vanessa Kapinus,12,1,1, Adult Novice Latin  (CSR),Sample,0,qfb073,40428120,123,Yelena Zakharova,Cha Cha,1
+Or,0,1,Final,Rick Davis,Carla Titus,10,2,1, Adult Novice Latin  (CSR),Sample,0,qfb073,40428120,116,Anya Klimova-Preston,Cha Cha,2
+Or,0,2,Final,Rick Davis,Carla Titus,11,2,2, Adult Novice Latin  (CSR),Sample,0,qfb073,40428120,116,Ludmila Popova,Cha Cha,2
+Or,0,2,Final,Rick Davis,Carla Titus,12,2,2, Adult Novice Latin  (CSR),Sample,0,qfb073,40428120,116,Yelena Zakharova,Cha Cha,2
+Or,0,1,Final,Mark Richman,Vanessa Kapinus,10,1,1, Adult Novice Latin  (CSR),Sample,1,qfb073,40428120,123,Anya Klimova-Preston,Samba,1
+Or,0,1,Final,Mark Richman,Vanessa Kapinus,11,1,1, Adult Novice Latin  (CSR),Sample,1,qfb073,40428120,123,Ludmila Popova,Samba,1
+Or,0,1,Final,Mark Richman,Vanessa Kapinus,12,1,1, Adult Novice Latin  (CSR),Sample,1,qfb073,40428120,123,Yelena Zakharova,Samba,1
+Or,0,2,Final,Rick Davis,Carla Titus,10,2,2, Adult Novice Latin  (CSR),Sample,1,qfb073,40428120,116,Anya Klimova-Preston,Samba,2
+Or,0,2,Final,Rick Davis,Carla Titus,11,2,2, Adult Novice Latin  (CSR),Sample,1,qfb073,40428120,116,Ludmila Popova,Samba,2
+Or,0,2,Final,Rick Davis,Carla Titus,12,2,2, Adult Novice Latin  (CSR),Sample,1,qfb073,40428120,116,Yelena Zakharova,Samba,2
+Or,0,2,Final,Mark Richman,Vanessa Kapinus,10,1,2, Adult Novice Latin  (CSR),Sample,2,qfb073,40428120,123,Anya Klimova-Preston,Rumba,1
+Or,0,1,Final,Mark Richman,Vanessa Kapinus,11,1,1, Adult Novice Latin  (CSR),Sample,2,qfb073,40428120,123,Ludmila Popova,Rumba,1
+Or,0,1,Final,Mark Richman,Vanessa Kapinus,12,1,1, Adult Novice Latin  (CSR),Sample,2,qfb073,40428120,123,Yelena Zakharova,Rumba,1
+Or,0,1,Final,Rick Davis,Carla Titus,10,2,1, Adult Novice Latin  (CSR),Sample,2,qfb073,40428120,116,Anya Klimova-Preston,Rumba,2
+Or,0,2,Final,Rick Davis,Carla Titus,11,2,2, Adult Novice Latin  (CSR),Sample,2,qfb073,40428120,116,Ludmila Popova,Rumba,2
+Or,0,2,Final,Rick Davis,Carla Titus,12,2,2, Adult Novice Latin  (CSR),Sample,2,qfb073,40428120,116,Yelena Zakharova,Rumba,2
+Or,0,1,Final,Mark Richman,Vanessa Kapinus,10,1,1, Adult Pre-Champ Latin  (CSRJ),Sample,0,qfb073,40428320,123,Anya Klimova-Preston,Cha Cha,1
+Or,0,1,Final,Mark Richman,Vanessa Kapinus,11,1,1, Adult Pre-Champ Latin  (CSRJ),Sample,0,qfb073,40428320,123,Ludmila Popova,Cha Cha,1
+Or,0,1,Final,Mark Richman,Vanessa Kapinus,12,1,1, Adult Pre-Champ Latin  (CSRJ),Sample,0,qfb073,40428320,123,Yelena Zakharova,Cha Cha,1
+Or,0,1,Final,Mark Richman,Vanessa Kapinus,10,1,1, Adult Pre-Champ Latin  (CSRJ),Sample,1,qfb073,40428320,123,Anya Klimova-Preston,Samba,1
+Or,0,1,Final,Mark Richman,Vanessa Kapinus,11,1,1, Adult Pre-Champ Latin  (CSRJ),Sample,1,qfb073,40428320,123,Ludmila Popova,Samba,1
+Or,0,1,Final,Mark Richman,Vanessa Kapinus,12,1,1, Adult Pre-Champ Latin  (CSRJ),Sample,1,qfb073,40428320,123,Yelena Zakharova,Samba,1
+Or,0,1,Final,Mark Richman,Vanessa Kapinus,10,1,1, Adult Pre-Champ Latin  (CSRJ),Sample,2,qfb073,40428320,123,Anya Klimova-Preston,Rumba,1
+Or,0,1,Final,Mark Richman,Vanessa Kapinus,11,1,1, Adult Pre-Champ Latin  (CSRJ),Sample,2,qfb073,40428320,123,Ludmila Popova,Rumba,1
+Or,0,1,Final,Mark Richman,Vanessa Kapinus,12,1,1, Adult Pre-Champ Latin  (CSRJ),Sample,2,qfb073,40428320,123,Yelena Zakharova,Rumba,1
+Or,0,1,Final,Mark Richman,Vanessa Kapinus,10,1,1, Adult Pre-Champ Latin  (CSRJ),Sample,3,qfb073,40428320,123,Anya Klimova-Preston,Jive,1
+Or,0,1,Final,Mark Richman,Vanessa Kapinus,11,1,1, Adult Pre-Champ Latin  (CSRJ),Sample,3,qfb073,40428320,123,Ludmila Popova,Jive,1
+Or,0,1,Final,Mark Richman,Vanessa Kapinus,12,1,1, Adult Pre-Champ Latin  (CSRJ),Sample,3,qfb073,40428320,123,Yelena Zakharova,Jive,1
+Or,0,1,Final,Rick Davis,Carla Titus,10,1,1, Adult Silver Latin  (CSR),Sample,0,qfb073,40423020,116,Anya Klimova-Preston,Cha Cha,1
+Or,0,1,Final,Rick Davis,Carla Titus,11,1,1, Adult Silver Latin  (CSR),Sample,0,qfb073,40423020,116,Ludmila Popova,Cha Cha,1
+Or,0,1,Final,Rick Davis,Carla Titus,12,1,1, Adult Silver Latin  (CSR),Sample,0,qfb073,40423020,116,Yelena Zakharova,Cha Cha,1
+Or,0,1,Final,Rick Davis,Carla Titus,10,1,1, Adult Silver Latin  (CSR),Sample,1,qfb073,40423020,116,Anya Klimova-Preston,Samba,1
+Or,0,1,Final,Rick Davis,Carla Titus,11,1,1, Adult Silver Latin  (CSR),Sample,1,qfb073,40423020,116,Ludmila Popova,Samba,1
+Or,0,1,Final,Rick Davis,Carla Titus,12,1,1, Adult Silver Latin  (CSR),Sample,1,qfb073,40423020,116,Yelena Zakharova,Samba,1
+Or,0,1,Final,Rick Davis,Carla Titus,10,1,1, Adult Silver Latin  (CSR),Sample,2,qfb073,40423020,116,Anya Klimova-Preston,Rumba,1
+Or,0,1,Final,Rick Davis,Carla Titus,11,1,1, Adult Silver Latin  (CSR),Sample,2,qfb073,40423020,116,Ludmila Popova,Rumba,1
+Or,0,1,Final,Rick Davis,Carla Titus,12,1,1, Adult Silver Latin  (CSR),Sample,2,qfb073,40423020,116,Yelena Zakharova,Rumba,1

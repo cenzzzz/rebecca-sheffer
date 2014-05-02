@@ -1,0 +1,1011 @@
+couple_location,round_id,mark,round_name,lead_name,follow_name,judge,result,value,heat_name,comp_name,dance_id,comp_id,heat_id,couple,judge_name,dance_name,final_result
+,0,1,Final,Ward Carter,Formation Tango,11,1,1, Formation Team  Open Intl. Tango  (T),Sample,0,rmt11a,43018519,133,Lori Ackerman,Intl. Tango,1
+,0,1,Final,Ward Carter,Formation Tango,14,1,1, Formation Team  Open Intl. Tango  (T),Sample,0,rmt11a,43018519,133,Tim Edgar,Intl. Tango,1
+,0,1,Final,Ward Carter,Formation Tango,15,1,1, Formation Team  Open Intl. Tango  (T),Sample,0,rmt11a,43018519,133,Gary Bohlmeyer,Intl. Tango,1
+,0,1,Final,Ward Carter,Formation Tango,17,1,1, Formation Team  Open Intl. Tango  (T),Sample,0,rmt11a,43018519,133,Timmy Merz,Intl. Tango,1
+,0,1,Final,Ward Carter,Formation Tango,19,1,1, Formation Team  Open Intl. Tango  (T),Sample,0,rmt11a,43018519,133,Todd Munson,Intl. Tango,1
+CO,0,1,Final,Michael Bankston,Lacey Bankston,11,1,1, Amateur Adult Newcomer Intl. Waltz  (W),Sample,0,rmt11a,40422018,107,Lori Ackerman,Intl. Waltz,1
+CO,0,1,Final,Michael Bankston,Lacey Bankston,14,1,1, Amateur Adult Newcomer Intl. Waltz  (W),Sample,0,rmt11a,40422018,107,Tim Edgar,Intl. Waltz,1
+CO,0,1,Final,Michael Bankston,Lacey Bankston,15,1,1, Amateur Adult Newcomer Intl. Waltz  (W),Sample,0,rmt11a,40422018,107,Gary Bohlmeyer,Intl. Waltz,1
+CO,0,1,Final,Michael Bankston,Lacey Bankston,17,1,1, Amateur Adult Newcomer Intl. Waltz  (W),Sample,0,rmt11a,40422018,107,Timmy Merz,Intl. Waltz,1
+CO,0,1,Final,Michael Bankston,Lacey Bankston,19,1,1, Amateur Adult Newcomer Intl. Waltz  (W),Sample,0,rmt11a,40422018,107,Todd Munson,Intl. Waltz,1
+CO,0,1,Final,Peter Bain,Pat Kayser,11,1,1, Amateur Senior I Bronze Intl. Waltz  (W),Sample,0,rmt11a,40432818,126,Lori Ackerman,Intl. Waltz,1
+CO,0,1,Final,Peter Bain,Pat Kayser,14,1,1, Amateur Senior I Bronze Intl. Waltz  (W),Sample,0,rmt11a,40432818,126,Tim Edgar,Intl. Waltz,1
+CO,0,1,Final,Peter Bain,Pat Kayser,15,1,1, Amateur Senior I Bronze Intl. Waltz  (W),Sample,0,rmt11a,40432818,126,Gary Bohlmeyer,Intl. Waltz,1
+CO,0,1,Final,Peter Bain,Pat Kayser,17,1,1, Amateur Senior I Bronze Intl. Waltz  (W),Sample,0,rmt11a,40432818,126,Timmy Merz,Intl. Waltz,1
+CO,0,1,Final,Peter Bain,Pat Kayser,19,1,1, Amateur Senior I Bronze Intl. Waltz  (W),Sample,0,rmt11a,40432818,126,Todd Munson,Intl. Waltz,1
+CO,0,1,Final,Glen Gale,Dylana Gale,11,1,1, Amateur Pre-Teen II Bronze Intl. Waltz  (W),Sample,0,rmt11a,40252818,101,Lori Ackerman,Intl. Waltz,1
+CO,0,1,Final,Glen Gale,Dylana Gale,14,1,1, Amateur Pre-Teen II Bronze Intl. Waltz  (W),Sample,0,rmt11a,40252818,101,Tim Edgar,Intl. Waltz,1
+CO,0,1,Final,Glen Gale,Dylana Gale,15,1,1, Amateur Pre-Teen II Bronze Intl. Waltz  (W),Sample,0,rmt11a,40252818,101,Gary Bohlmeyer,Intl. Waltz,1
+CO,0,1,Final,Glen Gale,Dylana Gale,17,1,1, Amateur Pre-Teen II Bronze Intl. Waltz  (W),Sample,0,rmt11a,40252818,101,Timmy Merz,Intl. Waltz,1
+CO,0,1,Final,Glen Gale,Dylana Gale,19,1,1, Amateur Pre-Teen II Bronze Intl. Waltz  (W),Sample,0,rmt11a,40252818,101,Todd Munson,Intl. Waltz,1
+CO,0,1,Final,Peter Bain,Annabel Day,11,1,1, Amateur Adult Bronze Intl. Waltz  (W),Sample,0,rmt11a,40422818,126,Lori Ackerman,Intl. Waltz,1
+CO,0,1,Final,Peter Bain,Annabel Day,14,1,1, Amateur Adult Bronze Intl. Waltz  (W),Sample,0,rmt11a,40422818,126,Tim Edgar,Intl. Waltz,1
+CO,0,1,Final,Peter Bain,Annabel Day,15,1,1, Amateur Adult Bronze Intl. Waltz  (W),Sample,0,rmt11a,40422818,126,Gary Bohlmeyer,Intl. Waltz,1
+CO,0,1,Final,Peter Bain,Annabel Day,17,1,1, Amateur Adult Bronze Intl. Waltz  (W),Sample,0,rmt11a,40422818,126,Timmy Merz,Intl. Waltz,1
+CO,0,1,Final,Peter Bain,Annabel Day,19,1,1, Amateur Adult Bronze Intl. Waltz  (W),Sample,0,rmt11a,40422818,126,Todd Munson,Intl. Waltz,1
+CO,0,2,Final,Michael Bankston,Lacey Bankston,11,2,2, Amateur Adult Bronze Intl. Waltz  (W),Sample,0,rmt11a,40422818,107,Lori Ackerman,Intl. Waltz,2
+CO,0,2,Final,Michael Bankston,Lacey Bankston,14,2,2, Amateur Adult Bronze Intl. Waltz  (W),Sample,0,rmt11a,40422818,107,Tim Edgar,Intl. Waltz,2
+CO,0,2,Final,Michael Bankston,Lacey Bankston,15,2,2, Amateur Adult Bronze Intl. Waltz  (W),Sample,0,rmt11a,40422818,107,Gary Bohlmeyer,Intl. Waltz,2
+CO,0,2,Final,Michael Bankston,Lacey Bankston,17,2,2, Amateur Adult Bronze Intl. Waltz  (W),Sample,0,rmt11a,40422818,107,Timmy Merz,Intl. Waltz,2
+CO,0,2,Final,Michael Bankston,Lacey Bankston,19,2,2, Amateur Adult Bronze Intl. Waltz  (W),Sample,0,rmt11a,40422818,107,Todd Munson,Intl. Waltz,2
+CO,0,1,Final,Glen Gale,Dylana Gale,11,1,1, Amateur Pre-Teen II Bronze Intl. Tango  (T),Sample,0,rmt11a,40252819,101,Lori Ackerman,Intl. Tango,1
+CO,0,1,Final,Glen Gale,Dylana Gale,14,1,1, Amateur Pre-Teen II Bronze Intl. Tango  (T),Sample,0,rmt11a,40252819,101,Tim Edgar,Intl. Tango,1
+CO,0,1,Final,Glen Gale,Dylana Gale,15,1,1, Amateur Pre-Teen II Bronze Intl. Tango  (T),Sample,0,rmt11a,40252819,101,Gary Bohlmeyer,Intl. Tango,1
+CO,0,1,Final,Glen Gale,Dylana Gale,17,1,1, Amateur Pre-Teen II Bronze Intl. Tango  (T),Sample,0,rmt11a,40252819,101,Timmy Merz,Intl. Tango,1
+CO,0,1,Final,Glen Gale,Dylana Gale,19,1,1, Amateur Pre-Teen II Bronze Intl. Tango  (T),Sample,0,rmt11a,40252819,101,Todd Munson,Intl. Tango,1
+CO,0,1,Final,Peter Bain,Annabel Day,11,1,1, Amateur Adult Bronze Intl. Tango  (T),Sample,0,rmt11a,40422819,126,Lori Ackerman,Intl. Tango,1
+CO,0,1,Final,Peter Bain,Annabel Day,14,1,1, Amateur Adult Bronze Intl. Tango  (T),Sample,0,rmt11a,40422819,126,Tim Edgar,Intl. Tango,1
+CO,0,1,Final,Peter Bain,Annabel Day,15,1,1, Amateur Adult Bronze Intl. Tango  (T),Sample,0,rmt11a,40422819,126,Gary Bohlmeyer,Intl. Tango,1
+CO,0,1,Final,Peter Bain,Annabel Day,17,1,1, Amateur Adult Bronze Intl. Tango  (T),Sample,0,rmt11a,40422819,126,Timmy Merz,Intl. Tango,1
+CO,0,1,Final,Peter Bain,Annabel Day,19,1,1, Amateur Adult Bronze Intl. Tango  (T),Sample,0,rmt11a,40422819,126,Todd Munson,Intl. Tango,1
+CO,0,1,Final,Peter Bain,Pat Kayser,11,1,1, Amateur Senior I Bronze Intl. Tango  (T),Sample,0,rmt11a,40432819,126,Lori Ackerman,Intl. Tango,1
+CO,0,1,Final,Peter Bain,Pat Kayser,14,1,1, Amateur Senior I Bronze Intl. Tango  (T),Sample,0,rmt11a,40432819,126,Tim Edgar,Intl. Tango,1
+CO,0,1,Final,Peter Bain,Pat Kayser,15,1,1, Amateur Senior I Bronze Intl. Tango  (T),Sample,0,rmt11a,40432819,126,Gary Bohlmeyer,Intl. Tango,1
+CO,0,1,Final,Peter Bain,Pat Kayser,17,1,1, Amateur Senior I Bronze Intl. Tango  (T),Sample,0,rmt11a,40432819,126,Timmy Merz,Intl. Tango,1
+CO,0,1,Final,Peter Bain,Pat Kayser,19,1,1, Amateur Senior I Bronze Intl. Tango  (T),Sample,0,rmt11a,40432819,126,Todd Munson,Intl. Tango,1
+CO,0,1,Final,Peter Bain,Annabel Day,11,1,1, Amateur Adult Bronze Intl. V. Waltz  (V),Sample,0,rmt11a,4042281A,126,Lori Ackerman,Intl. V. Waltz,1
+CO,0,1,Final,Peter Bain,Annabel Day,14,1,1, Amateur Adult Bronze Intl. V. Waltz  (V),Sample,0,rmt11a,4042281A,126,Tim Edgar,Intl. V. Waltz,1
+CO,0,1,Final,Peter Bain,Annabel Day,15,1,1, Amateur Adult Bronze Intl. V. Waltz  (V),Sample,0,rmt11a,4042281A,126,Gary Bohlmeyer,Intl. V. Waltz,1
+CO,0,1,Final,Peter Bain,Annabel Day,17,1,1, Amateur Adult Bronze Intl. V. Waltz  (V),Sample,0,rmt11a,4042281A,126,Timmy Merz,Intl. V. Waltz,1
+CO,0,1,Final,Peter Bain,Annabel Day,19,1,1, Amateur Adult Bronze Intl. V. Waltz  (V),Sample,0,rmt11a,4042281A,126,Todd Munson,Intl. V. Waltz,1
+CO,0,1,Final,Peter Bain,Pat Kayser,11,1,1, Amateur Senior I Bronze Intl. V. Waltz  (V),Sample,0,rmt11a,4043281A,126,Lori Ackerman,Intl. V. Waltz,1
+CO,0,1,Final,Peter Bain,Pat Kayser,14,1,1, Amateur Senior I Bronze Intl. V. Waltz  (V),Sample,0,rmt11a,4043281A,126,Tim Edgar,Intl. V. Waltz,1
+CO,0,1,Final,Peter Bain,Pat Kayser,15,1,1, Amateur Senior I Bronze Intl. V. Waltz  (V),Sample,0,rmt11a,4043281A,126,Gary Bohlmeyer,Intl. V. Waltz,1
+CO,0,1,Final,Peter Bain,Pat Kayser,17,1,1, Amateur Senior I Bronze Intl. V. Waltz  (V),Sample,0,rmt11a,4043281A,126,Timmy Merz,Intl. V. Waltz,1
+CO,0,1,Final,Peter Bain,Pat Kayser,19,1,1, Amateur Senior I Bronze Intl. V. Waltz  (V),Sample,0,rmt11a,4043281A,126,Todd Munson,Intl. V. Waltz,1
+CO,0,1,Final,Peter Bain,Annabel Day,11,1,1, Amateur Adult Bronze Intl. Foxtrot  (F),Sample,0,rmt11a,4042281B,126,Lori Ackerman,Intl. Foxtrot,1
+CO,0,1,Final,Peter Bain,Annabel Day,14,1,1, Amateur Adult Bronze Intl. Foxtrot  (F),Sample,0,rmt11a,4042281B,126,Tim Edgar,Intl. Foxtrot,1
+CO,0,1,Final,Peter Bain,Annabel Day,15,1,1, Amateur Adult Bronze Intl. Foxtrot  (F),Sample,0,rmt11a,4042281B,126,Gary Bohlmeyer,Intl. Foxtrot,1
+CO,0,1,Final,Peter Bain,Annabel Day,17,1,1, Amateur Adult Bronze Intl. Foxtrot  (F),Sample,0,rmt11a,4042281B,126,Timmy Merz,Intl. Foxtrot,1
+CO,0,1,Final,Peter Bain,Annabel Day,19,1,1, Amateur Adult Bronze Intl. Foxtrot  (F),Sample,0,rmt11a,4042281B,126,Todd Munson,Intl. Foxtrot,1
+CO,0,1,Final,Peter Bain,Pat Kayser,11,1,1, Amateur Senior I Bronze Intl. Foxtrot  (F),Sample,0,rmt11a,4043281B,126,Lori Ackerman,Intl. Foxtrot,1
+CO,0,1,Final,Peter Bain,Pat Kayser,14,1,1, Amateur Senior I Bronze Intl. Foxtrot  (F),Sample,0,rmt11a,4043281B,126,Tim Edgar,Intl. Foxtrot,1
+CO,0,1,Final,Peter Bain,Pat Kayser,15,1,1, Amateur Senior I Bronze Intl. Foxtrot  (F),Sample,0,rmt11a,4043281B,126,Gary Bohlmeyer,Intl. Foxtrot,1
+CO,0,1,Final,Peter Bain,Pat Kayser,17,1,1, Amateur Senior I Bronze Intl. Foxtrot  (F),Sample,0,rmt11a,4043281B,126,Timmy Merz,Intl. Foxtrot,1
+CO,0,1,Final,Peter Bain,Pat Kayser,19,1,1, Amateur Senior I Bronze Intl. Foxtrot  (F),Sample,0,rmt11a,4043281B,126,Todd Munson,Intl. Foxtrot,1
+CO,0,1,Final,Peter Bain,Annabel Day,11,1,1, Amateur Adult Bronze Intl. Quickstep  (Q),Sample,0,rmt11a,4042281C,126,Lori Ackerman,Intl. Quickstep,1
+CO,0,1,Final,Peter Bain,Annabel Day,14,1,1, Amateur Adult Bronze Intl. Quickstep  (Q),Sample,0,rmt11a,4042281C,126,Tim Edgar,Intl. Quickstep,1
+CO,0,1,Final,Peter Bain,Annabel Day,15,1,1, Amateur Adult Bronze Intl. Quickstep  (Q),Sample,0,rmt11a,4042281C,126,Gary Bohlmeyer,Intl. Quickstep,1
+CO,0,1,Final,Peter Bain,Annabel Day,17,1,1, Amateur Adult Bronze Intl. Quickstep  (Q),Sample,0,rmt11a,4042281C,126,Timmy Merz,Intl. Quickstep,1
+CO,0,1,Final,Peter Bain,Annabel Day,19,1,1, Amateur Adult Bronze Intl. Quickstep  (Q),Sample,0,rmt11a,4042281C,126,Todd Munson,Intl. Quickstep,1
+CO,0,1,Final,Peter Bain,Pat Kayser,11,1,1, Amateur Senior I Bronze Intl. Quickstep  (Q),Sample,0,rmt11a,4043281C,126,Lori Ackerman,Intl. Quickstep,1
+CO,0,1,Final,Peter Bain,Pat Kayser,14,1,1, Amateur Senior I Bronze Intl. Quickstep  (Q),Sample,0,rmt11a,4043281C,126,Tim Edgar,Intl. Quickstep,1
+CO,0,1,Final,Peter Bain,Pat Kayser,15,1,1, Amateur Senior I Bronze Intl. Quickstep  (Q),Sample,0,rmt11a,4043281C,126,Gary Bohlmeyer,Intl. Quickstep,1
+CO,0,1,Final,Peter Bain,Pat Kayser,17,1,1, Amateur Senior I Bronze Intl. Quickstep  (Q),Sample,0,rmt11a,4043281C,126,Timmy Merz,Intl. Quickstep,1
+CO,0,1,Final,Peter Bain,Pat Kayser,19,1,1, Amateur Senior I Bronze Intl. Quickstep  (Q),Sample,0,rmt11a,4043281C,126,Todd Munson,Intl. Quickstep,1
+CO,0,1,Final,Peter Bain,Annabel Day,11,1,1, Amateur Adult Bronze Standard  (WFQ),Sample,0,rmt11a,40422810,126,Lori Ackerman,Waltz,1
+CO,0,1,Final,Peter Bain,Annabel Day,14,1,1, Amateur Adult Bronze Standard  (WFQ),Sample,0,rmt11a,40422810,126,Tim Edgar,Waltz,1
+CO,0,1,Final,Peter Bain,Annabel Day,15,1,1, Amateur Adult Bronze Standard  (WFQ),Sample,0,rmt11a,40422810,126,Gary Bohlmeyer,Waltz,1
+CO,0,1,Final,Peter Bain,Annabel Day,17,1,1, Amateur Adult Bronze Standard  (WFQ),Sample,0,rmt11a,40422810,126,Timmy Merz,Waltz,1
+CO,0,1,Final,Peter Bain,Annabel Day,19,1,1, Amateur Adult Bronze Standard  (WFQ),Sample,0,rmt11a,40422810,126,Todd Munson,Waltz,1
+CO,0,1,Final,Peter Bain,Annabel Day,11,1,1, Amateur Adult Bronze Standard  (WFQ),Sample,1,rmt11a,40422810,126,Lori Ackerman,Foxtrot,1
+CO,0,1,Final,Peter Bain,Annabel Day,14,1,1, Amateur Adult Bronze Standard  (WFQ),Sample,1,rmt11a,40422810,126,Tim Edgar,Foxtrot,1
+CO,0,1,Final,Peter Bain,Annabel Day,15,1,1, Amateur Adult Bronze Standard  (WFQ),Sample,1,rmt11a,40422810,126,Gary Bohlmeyer,Foxtrot,1
+CO,0,1,Final,Peter Bain,Annabel Day,17,1,1, Amateur Adult Bronze Standard  (WFQ),Sample,1,rmt11a,40422810,126,Timmy Merz,Foxtrot,1
+CO,0,1,Final,Peter Bain,Annabel Day,19,1,1, Amateur Adult Bronze Standard  (WFQ),Sample,1,rmt11a,40422810,126,Todd Munson,Foxtrot,1
+CO,0,1,Final,Peter Bain,Annabel Day,11,1,1, Amateur Adult Bronze Standard  (WFQ),Sample,2,rmt11a,40422810,126,Lori Ackerman,Quickstep,1
+CO,0,1,Final,Peter Bain,Annabel Day,14,1,1, Amateur Adult Bronze Standard  (WFQ),Sample,2,rmt11a,40422810,126,Tim Edgar,Quickstep,1
+CO,0,1,Final,Peter Bain,Annabel Day,15,1,1, Amateur Adult Bronze Standard  (WFQ),Sample,2,rmt11a,40422810,126,Gary Bohlmeyer,Quickstep,1
+CO,0,1,Final,Peter Bain,Annabel Day,17,1,1, Amateur Adult Bronze Standard  (WFQ),Sample,2,rmt11a,40422810,126,Timmy Merz,Quickstep,1
+CO,0,1,Final,Peter Bain,Annabel Day,19,1,1, Amateur Adult Bronze Standard  (WFQ),Sample,2,rmt11a,40422810,126,Todd Munson,Quickstep,1
+CO,0,1,Final,Peter Bain,Pat Kayser,11,1,1, Amateur Senior I Bronze Standard  (WFQ),Sample,0,rmt11a,40432810,126,Lori Ackerman,Waltz,1
+CO,0,1,Final,Peter Bain,Pat Kayser,14,1,1, Amateur Senior I Bronze Standard  (WFQ),Sample,0,rmt11a,40432810,126,Tim Edgar,Waltz,1
+CO,0,1,Final,Peter Bain,Pat Kayser,15,1,1, Amateur Senior I Bronze Standard  (WFQ),Sample,0,rmt11a,40432810,126,Gary Bohlmeyer,Waltz,1
+CO,0,1,Final,Peter Bain,Pat Kayser,17,1,1, Amateur Senior I Bronze Standard  (WFQ),Sample,0,rmt11a,40432810,126,Timmy Merz,Waltz,1
+CO,0,1,Final,Peter Bain,Pat Kayser,19,1,1, Amateur Senior I Bronze Standard  (WFQ),Sample,0,rmt11a,40432810,126,Todd Munson,Waltz,1
+CO,0,1,Final,Peter Bain,Pat Kayser,11,1,1, Amateur Senior I Bronze Standard  (WFQ),Sample,1,rmt11a,40432810,126,Lori Ackerman,Foxtrot,1
+CO,0,1,Final,Peter Bain,Pat Kayser,14,1,1, Amateur Senior I Bronze Standard  (WFQ),Sample,1,rmt11a,40432810,126,Tim Edgar,Foxtrot,1
+CO,0,1,Final,Peter Bain,Pat Kayser,15,1,1, Amateur Senior I Bronze Standard  (WFQ),Sample,1,rmt11a,40432810,126,Gary Bohlmeyer,Foxtrot,1
+CO,0,1,Final,Peter Bain,Pat Kayser,17,1,1, Amateur Senior I Bronze Standard  (WFQ),Sample,1,rmt11a,40432810,126,Timmy Merz,Foxtrot,1
+CO,0,1,Final,Peter Bain,Pat Kayser,19,1,1, Amateur Senior I Bronze Standard  (WFQ),Sample,1,rmt11a,40432810,126,Todd Munson,Foxtrot,1
+CO,0,1,Final,Peter Bain,Pat Kayser,11,1,1, Amateur Senior I Bronze Standard  (WFQ),Sample,2,rmt11a,40432810,126,Lori Ackerman,Quickstep,1
+CO,0,1,Final,Peter Bain,Pat Kayser,14,1,1, Amateur Senior I Bronze Standard  (WFQ),Sample,2,rmt11a,40432810,126,Tim Edgar,Quickstep,1
+CO,0,1,Final,Peter Bain,Pat Kayser,15,1,1, Amateur Senior I Bronze Standard  (WFQ),Sample,2,rmt11a,40432810,126,Gary Bohlmeyer,Quickstep,1
+CO,0,1,Final,Peter Bain,Pat Kayser,17,1,1, Amateur Senior I Bronze Standard  (WFQ),Sample,2,rmt11a,40432810,126,Timmy Merz,Quickstep,1
+CO,0,1,Final,Peter Bain,Pat Kayser,19,1,1, Amateur Senior I Bronze Standard  (WFQ),Sample,2,rmt11a,40432810,126,Todd Munson,Quickstep,1
+,0,1,Final,Ward Carter,Formation Quickstep,11,1,1, Formation Team  Open Intl. Quickstep  (Q),Sample,0,rmt11a,4301851C,127,Lori Ackerman,Intl. Quickstep,1
+,0,1,Final,Ward Carter,Formation Quickstep,14,1,1, Formation Team  Open Intl. Quickstep  (Q),Sample,0,rmt11a,4301851C,127,Tim Edgar,Intl. Quickstep,1
+,0,1,Final,Ward Carter,Formation Quickstep,15,1,1, Formation Team  Open Intl. Quickstep  (Q),Sample,0,rmt11a,4301851C,127,Gary Bohlmeyer,Intl. Quickstep,1
+,0,1,Final,Ward Carter,Formation Quickstep,17,1,1, Formation Team  Open Intl. Quickstep  (Q),Sample,0,rmt11a,4301851C,127,Timmy Merz,Intl. Quickstep,1
+,0,1,Final,Ward Carter,Formation Quickstep,19,1,1, Formation Team  Open Intl. Quickstep  (Q),Sample,0,rmt11a,4301851C,127,Todd Munson,Intl. Quickstep,1
+,0,1,Final,Ward Carter,International Silver Cha Cha,10,1,1, Formation Team  Open Intl. Cha Cha  (C),Sample,0,rmt11a,43018528,136,Brad Ackerman,Intl. Cha Cha,1
+,0,1,Final,Ward Carter,International Silver Cha Cha,12,1,1, Formation Team  Open Intl. Cha Cha  (C),Sample,0,rmt11a,43018528,136,Val Cunningham,Intl. Cha Cha,1
+,0,1,Final,Ward Carter,International Silver Cha Cha,13,1,1, Formation Team  Open Intl. Cha Cha  (C),Sample,0,rmt11a,43018528,136,Lindsey Dechant,Intl. Cha Cha,1
+,0,1,Final,Ward Carter,International Silver Cha Cha,16,1,1, Formation Team  Open Intl. Cha Cha  (C),Sample,0,rmt11a,43018528,136,Corbin McCan,Intl. Cha Cha,1
+,0,1,Final,Ward Carter,International Silver Cha Cha,18,1,1, Formation Team  Open Intl. Cha Cha  (C),Sample,0,rmt11a,43018528,136,Brook Metcalf,Intl. Cha Cha,1
+CO,0,2,Final,Peter Bain,Terry Pasqua,10,1,2, Amateur Adult Bronze Intl. Cha Cha  (C),Sample,0,rmt11a,40422828,126,Brad Ackerman,Intl. Cha Cha,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,12,1,1, Amateur Adult Bronze Intl. Cha Cha  (C),Sample,0,rmt11a,40422828,126,Val Cunningham,Intl. Cha Cha,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,13,1,1, Amateur Adult Bronze Intl. Cha Cha  (C),Sample,0,rmt11a,40422828,126,Lindsey Dechant,Intl. Cha Cha,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,16,1,1, Amateur Adult Bronze Intl. Cha Cha  (C),Sample,0,rmt11a,40422828,126,Corbin McCan,Intl. Cha Cha,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,18,1,1, Amateur Adult Bronze Intl. Cha Cha  (C),Sample,0,rmt11a,40422828,126,Brook Metcalf,Intl. Cha Cha,1
+CO,0,2,Final,Peter Bain,Terry Pasqua,10,1,2, Amateur Senior I Bronze Intl. Cha Cha  (C),Sample,0,rmt11a,40432828,126,Brad Ackerman,Intl. Cha Cha,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,12,1,1, Amateur Senior I Bronze Intl. Cha Cha  (C),Sample,0,rmt11a,40432828,126,Val Cunningham,Intl. Cha Cha,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,13,1,1, Amateur Senior I Bronze Intl. Cha Cha  (C),Sample,0,rmt11a,40432828,126,Lindsey Dechant,Intl. Cha Cha,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,16,1,1, Amateur Senior I Bronze Intl. Cha Cha  (C),Sample,0,rmt11a,40432828,126,Corbin McCan,Intl. Cha Cha,1
+CO,0,2,Final,Peter Bain,Terry Pasqua,18,1,2, Amateur Senior I Bronze Intl. Cha Cha  (C),Sample,0,rmt11a,40432828,126,Brook Metcalf,Intl. Cha Cha,1
+CO,0,1,Final,Stephen J. Hunt,Sandy Johnson,10,2,1, Amateur Senior I Bronze Intl. Cha Cha  (C),Sample,0,rmt11a,40432828,105,Brad Ackerman,Intl. Cha Cha,2
+CO,0,2,Final,Stephen J. Hunt,Sandy Johnson,12,2,2, Amateur Senior I Bronze Intl. Cha Cha  (C),Sample,0,rmt11a,40432828,105,Val Cunningham,Intl. Cha Cha,2
+CO,0,2,Final,Stephen J. Hunt,Sandy Johnson,13,2,2, Amateur Senior I Bronze Intl. Cha Cha  (C),Sample,0,rmt11a,40432828,105,Lindsey Dechant,Intl. Cha Cha,2
+CO,0,2,Final,Stephen J. Hunt,Sandy Johnson,16,2,2, Amateur Senior I Bronze Intl. Cha Cha  (C),Sample,0,rmt11a,40432828,105,Corbin McCan,Intl. Cha Cha,2
+CO,0,1,Final,Stephen J. Hunt,Sandy Johnson,18,2,1, Amateur Senior I Bronze Intl. Cha Cha  (C),Sample,0,rmt11a,40432828,105,Brook Metcalf,Intl. Cha Cha,2
+CO,0,1,Final,Peter Bain,Terry Pasqua,10,1,1, Amateur Adult Bronze Intl. Samba  (S),Sample,0,rmt11a,40422829,126,Brad Ackerman,Intl. Samba,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,12,1,1, Amateur Adult Bronze Intl. Samba  (S),Sample,0,rmt11a,40422829,126,Val Cunningham,Intl. Samba,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,13,1,1, Amateur Adult Bronze Intl. Samba  (S),Sample,0,rmt11a,40422829,126,Lindsey Dechant,Intl. Samba,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,16,1,1, Amateur Adult Bronze Intl. Samba  (S),Sample,0,rmt11a,40422829,126,Corbin McCan,Intl. Samba,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,18,1,1, Amateur Adult Bronze Intl. Samba  (S),Sample,0,rmt11a,40422829,126,Brook Metcalf,Intl. Samba,1
+CO,0,2,Final,Peter Bain,Terry Pasqua,10,1,2, Amateur Senior I Bronze Intl. Samba  (S),Sample,0,rmt11a,40432829,126,Brad Ackerman,Intl. Samba,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,12,1,1, Amateur Senior I Bronze Intl. Samba  (S),Sample,0,rmt11a,40432829,126,Val Cunningham,Intl. Samba,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,13,1,1, Amateur Senior I Bronze Intl. Samba  (S),Sample,0,rmt11a,40432829,126,Lindsey Dechant,Intl. Samba,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,16,1,1, Amateur Senior I Bronze Intl. Samba  (S),Sample,0,rmt11a,40432829,126,Corbin McCan,Intl. Samba,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,18,1,1, Amateur Senior I Bronze Intl. Samba  (S),Sample,0,rmt11a,40432829,126,Brook Metcalf,Intl. Samba,1
+CO,0,1,Final,Stephen J. Hunt,Sandy Johnson,10,2,1, Amateur Senior I Bronze Intl. Samba  (S),Sample,0,rmt11a,40432829,105,Brad Ackerman,Intl. Samba,2
+CO,0,2,Final,Stephen J. Hunt,Sandy Johnson,12,2,2, Amateur Senior I Bronze Intl. Samba  (S),Sample,0,rmt11a,40432829,105,Val Cunningham,Intl. Samba,2
+CO,0,2,Final,Stephen J. Hunt,Sandy Johnson,13,2,2, Amateur Senior I Bronze Intl. Samba  (S),Sample,0,rmt11a,40432829,105,Lindsey Dechant,Intl. Samba,2
+CO,0,2,Final,Stephen J. Hunt,Sandy Johnson,16,2,2, Amateur Senior I Bronze Intl. Samba  (S),Sample,0,rmt11a,40432829,105,Corbin McCan,Intl. Samba,2
+CO,0,2,Final,Stephen J. Hunt,Sandy Johnson,18,2,2, Amateur Senior I Bronze Intl. Samba  (S),Sample,0,rmt11a,40432829,105,Brook Metcalf,Intl. Samba,2
+CO,0,1,Final,Peter Bain,Terry Pasqua,10,1,1, Amateur Adult Bronze Intl. Rumba  (R),Sample,0,rmt11a,4042282A,126,Brad Ackerman,Intl. Rumba,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,12,1,1, Amateur Adult Bronze Intl. Rumba  (R),Sample,0,rmt11a,4042282A,126,Val Cunningham,Intl. Rumba,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,13,1,1, Amateur Adult Bronze Intl. Rumba  (R),Sample,0,rmt11a,4042282A,126,Lindsey Dechant,Intl. Rumba,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,16,1,1, Amateur Adult Bronze Intl. Rumba  (R),Sample,0,rmt11a,4042282A,126,Corbin McCan,Intl. Rumba,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,18,1,1, Amateur Adult Bronze Intl. Rumba  (R),Sample,0,rmt11a,4042282A,126,Brook Metcalf,Intl. Rumba,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,10,1,1, Amateur Senior I Bronze Intl. Rumba  (R),Sample,0,rmt11a,4043282A,126,Brad Ackerman,Intl. Rumba,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,12,1,1, Amateur Senior I Bronze Intl. Rumba  (R),Sample,0,rmt11a,4043282A,126,Val Cunningham,Intl. Rumba,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,13,1,1, Amateur Senior I Bronze Intl. Rumba  (R),Sample,0,rmt11a,4043282A,126,Lindsey Dechant,Intl. Rumba,1
+CO,0,2,Final,Peter Bain,Terry Pasqua,16,1,2, Amateur Senior I Bronze Intl. Rumba  (R),Sample,0,rmt11a,4043282A,126,Corbin McCan,Intl. Rumba,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,18,1,1, Amateur Senior I Bronze Intl. Rumba  (R),Sample,0,rmt11a,4043282A,126,Brook Metcalf,Intl. Rumba,1
+CO,0,2,Final,Stephen J. Hunt,Sandy Johnson,10,2,2, Amateur Senior I Bronze Intl. Rumba  (R),Sample,0,rmt11a,4043282A,105,Brad Ackerman,Intl. Rumba,2
+CO,0,2,Final,Stephen J. Hunt,Sandy Johnson,12,2,2, Amateur Senior I Bronze Intl. Rumba  (R),Sample,0,rmt11a,4043282A,105,Val Cunningham,Intl. Rumba,2
+CO,0,2,Final,Stephen J. Hunt,Sandy Johnson,13,2,2, Amateur Senior I Bronze Intl. Rumba  (R),Sample,0,rmt11a,4043282A,105,Lindsey Dechant,Intl. Rumba,2
+CO,0,1,Final,Stephen J. Hunt,Sandy Johnson,16,2,1, Amateur Senior I Bronze Intl. Rumba  (R),Sample,0,rmt11a,4043282A,105,Corbin McCan,Intl. Rumba,2
+CO,0,2,Final,Stephen J. Hunt,Sandy Johnson,18,2,2, Amateur Senior I Bronze Intl. Rumba  (R),Sample,0,rmt11a,4043282A,105,Brook Metcalf,Intl. Rumba,2
+CO,0,1,Final,Stephen J. Hunt,Sandy Johnson,10,1,1, Amateur Senior I Bronze Intl. Paso Doble  (P),Sample,0,rmt11a,4043282B,105,Brad Ackerman,Intl. Paso Doble,1
+CO,0,1,Final,Stephen J. Hunt,Sandy Johnson,12,1,1, Amateur Senior I Bronze Intl. Paso Doble  (P),Sample,0,rmt11a,4043282B,105,Val Cunningham,Intl. Paso Doble,1
+CO,0,1,Final,Stephen J. Hunt,Sandy Johnson,13,1,1, Amateur Senior I Bronze Intl. Paso Doble  (P),Sample,0,rmt11a,4043282B,105,Lindsey Dechant,Intl. Paso Doble,1
+CO,0,1,Final,Stephen J. Hunt,Sandy Johnson,16,1,1, Amateur Senior I Bronze Intl. Paso Doble  (P),Sample,0,rmt11a,4043282B,105,Corbin McCan,Intl. Paso Doble,1
+CO,0,1,Final,Stephen J. Hunt,Sandy Johnson,18,1,1, Amateur Senior I Bronze Intl. Paso Doble  (P),Sample,0,rmt11a,4043282B,105,Brook Metcalf,Intl. Paso Doble,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,10,1,1, Amateur Adult Bronze Intl. Jive  (J),Sample,0,rmt11a,4042282C,126,Brad Ackerman,Intl. Jive,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,12,1,1, Amateur Adult Bronze Intl. Jive  (J),Sample,0,rmt11a,4042282C,126,Val Cunningham,Intl. Jive,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,13,1,1, Amateur Adult Bronze Intl. Jive  (J),Sample,0,rmt11a,4042282C,126,Lindsey Dechant,Intl. Jive,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,16,1,1, Amateur Adult Bronze Intl. Jive  (J),Sample,0,rmt11a,4042282C,126,Corbin McCan,Intl. Jive,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,18,1,1, Amateur Adult Bronze Intl. Jive  (J),Sample,0,rmt11a,4042282C,126,Brook Metcalf,Intl. Jive,1
+CO,0,1,Final,Stephen J. Hunt,Sandy Johnson,10,1,1, Amateur Senior I Bronze Intl. Jive  (J),Sample,0,rmt11a,4043282C,105,Brad Ackerman,Intl. Jive,1
+CO,0,2,Final,Stephen J. Hunt,Sandy Johnson,12,1,2, Amateur Senior I Bronze Intl. Jive  (J),Sample,0,rmt11a,4043282C,105,Val Cunningham,Intl. Jive,1
+CO,0,2,Final,Stephen J. Hunt,Sandy Johnson,13,1,2, Amateur Senior I Bronze Intl. Jive  (J),Sample,0,rmt11a,4043282C,105,Lindsey Dechant,Intl. Jive,1
+CO,0,1,Final,Stephen J. Hunt,Sandy Johnson,16,1,1, Amateur Senior I Bronze Intl. Jive  (J),Sample,0,rmt11a,4043282C,105,Corbin McCan,Intl. Jive,1
+CO,0,1,Final,Stephen J. Hunt,Sandy Johnson,18,1,1, Amateur Senior I Bronze Intl. Jive  (J),Sample,0,rmt11a,4043282C,105,Brook Metcalf,Intl. Jive,1
+CO,0,2,Final,Peter Bain,Terry Pasqua,10,2,2, Amateur Senior I Bronze Intl. Jive  (J),Sample,0,rmt11a,4043282C,126,Brad Ackerman,Intl. Jive,2
+CO,0,1,Final,Peter Bain,Terry Pasqua,12,2,1, Amateur Senior I Bronze Intl. Jive  (J),Sample,0,rmt11a,4043282C,126,Val Cunningham,Intl. Jive,2
+CO,0,1,Final,Peter Bain,Terry Pasqua,13,2,1, Amateur Senior I Bronze Intl. Jive  (J),Sample,0,rmt11a,4043282C,126,Lindsey Dechant,Intl. Jive,2
+CO,0,2,Final,Peter Bain,Terry Pasqua,16,2,2, Amateur Senior I Bronze Intl. Jive  (J),Sample,0,rmt11a,4043282C,126,Corbin McCan,Intl. Jive,2
+CO,0,2,Final,Peter Bain,Terry Pasqua,18,2,2, Amateur Senior I Bronze Intl. Jive  (J),Sample,0,rmt11a,4043282C,126,Brook Metcalf,Intl. Jive,2
+CO,0,1,Final,Glen Gale,Dylana Gale,10,1,1, Amateur Pre-Teen II Silver Intl. Cha Cha  (C),Sample,0,rmt11a,40253028,101,Brad Ackerman,Intl. Cha Cha,1
+CO,0,1,Final,Glen Gale,Dylana Gale,12,1,1, Amateur Pre-Teen II Silver Intl. Cha Cha  (C),Sample,0,rmt11a,40253028,101,Val Cunningham,Intl. Cha Cha,1
+CO,0,1,Final,Glen Gale,Dylana Gale,13,1,1, Amateur Pre-Teen II Silver Intl. Cha Cha  (C),Sample,0,rmt11a,40253028,101,Lindsey Dechant,Intl. Cha Cha,1
+CO,0,1,Final,Glen Gale,Dylana Gale,16,1,1, Amateur Pre-Teen II Silver Intl. Cha Cha  (C),Sample,0,rmt11a,40253028,101,Corbin McCan,Intl. Cha Cha,1
+CO,0,1,Final,Glen Gale,Dylana Gale,18,1,1, Amateur Pre-Teen II Silver Intl. Cha Cha  (C),Sample,0,rmt11a,40253028,101,Brook Metcalf,Intl. Cha Cha,1
+CO,0,1,Final,Glen Gale,Dylana Gale,10,1,1, Amateur Pre-Teen II Silver Intl. Samba  (S),Sample,0,rmt11a,40253029,101,Brad Ackerman,Intl. Samba,1
+CO,0,1,Final,Glen Gale,Dylana Gale,12,1,1, Amateur Pre-Teen II Silver Intl. Samba  (S),Sample,0,rmt11a,40253029,101,Val Cunningham,Intl. Samba,1
+CO,0,1,Final,Glen Gale,Dylana Gale,13,1,1, Amateur Pre-Teen II Silver Intl. Samba  (S),Sample,0,rmt11a,40253029,101,Lindsey Dechant,Intl. Samba,1
+CO,0,1,Final,Glen Gale,Dylana Gale,16,1,1, Amateur Pre-Teen II Silver Intl. Samba  (S),Sample,0,rmt11a,40253029,101,Corbin McCan,Intl. Samba,1
+CO,0,1,Final,Glen Gale,Dylana Gale,18,1,1, Amateur Pre-Teen II Silver Intl. Samba  (S),Sample,0,rmt11a,40253029,101,Brook Metcalf,Intl. Samba,1
+CO,0,1,Final,Glen Gale,Dylana Gale,10,1,1, Amateur Pre-Teen II Silver Intl. Rumba  (R),Sample,0,rmt11a,4025302A,101,Brad Ackerman,Intl. Rumba,1
+CO,0,1,Final,Glen Gale,Dylana Gale,12,1,1, Amateur Pre-Teen II Silver Intl. Rumba  (R),Sample,0,rmt11a,4025302A,101,Val Cunningham,Intl. Rumba,1
+CO,0,1,Final,Glen Gale,Dylana Gale,13,1,1, Amateur Pre-Teen II Silver Intl. Rumba  (R),Sample,0,rmt11a,4025302A,101,Lindsey Dechant,Intl. Rumba,1
+CO,0,1,Final,Glen Gale,Dylana Gale,16,1,1, Amateur Pre-Teen II Silver Intl. Rumba  (R),Sample,0,rmt11a,4025302A,101,Corbin McCan,Intl. Rumba,1
+CO,0,1,Final,Glen Gale,Dylana Gale,18,1,1, Amateur Pre-Teen II Silver Intl. Rumba  (R),Sample,0,rmt11a,4025302A,101,Brook Metcalf,Intl. Rumba,1
+CO,0,1,Final,Glen Gale,Dylana Gale,10,1,1, Amateur Pre-Teen II Silver Intl. Paso Doble  (P),Sample,0,rmt11a,4025302B,101,Brad Ackerman,Intl. Paso Doble,1
+CO,0,1,Final,Glen Gale,Dylana Gale,12,1,1, Amateur Pre-Teen II Silver Intl. Paso Doble  (P),Sample,0,rmt11a,4025302B,101,Val Cunningham,Intl. Paso Doble,1
+CO,0,1,Final,Glen Gale,Dylana Gale,13,1,1, Amateur Pre-Teen II Silver Intl. Paso Doble  (P),Sample,0,rmt11a,4025302B,101,Lindsey Dechant,Intl. Paso Doble,1
+CO,0,1,Final,Glen Gale,Dylana Gale,16,1,1, Amateur Pre-Teen II Silver Intl. Paso Doble  (P),Sample,0,rmt11a,4025302B,101,Corbin McCan,Intl. Paso Doble,1
+CO,0,1,Final,Glen Gale,Dylana Gale,18,1,1, Amateur Pre-Teen II Silver Intl. Paso Doble  (P),Sample,0,rmt11a,4025302B,101,Brook Metcalf,Intl. Paso Doble,1
+CO,0,1,Final,Glen Gale,Dylana Gale,10,1,1, Amateur Pre-Teen II Silver Intl. Jive  (J),Sample,0,rmt11a,4025302C,101,Brad Ackerman,Intl. Jive,1
+CO,0,1,Final,Glen Gale,Dylana Gale,12,1,1, Amateur Pre-Teen II Silver Intl. Jive  (J),Sample,0,rmt11a,4025302C,101,Val Cunningham,Intl. Jive,1
+CO,0,1,Final,Glen Gale,Dylana Gale,13,1,1, Amateur Pre-Teen II Silver Intl. Jive  (J),Sample,0,rmt11a,4025302C,101,Lindsey Dechant,Intl. Jive,1
+CO,0,1,Final,Glen Gale,Dylana Gale,16,1,1, Amateur Pre-Teen II Silver Intl. Jive  (J),Sample,0,rmt11a,4025302C,101,Corbin McCan,Intl. Jive,1
+CO,0,1,Final,Glen Gale,Dylana Gale,18,1,1, Amateur Pre-Teen II Silver Intl. Jive  (J),Sample,0,rmt11a,4025302C,101,Brook Metcalf,Intl. Jive,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,10,1,1, Amateur Adult Bronze Latin  (SCR),Sample,0,rmt11a,40422821,126,Brad Ackerman,Samba,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,12,1,1, Amateur Adult Bronze Latin  (SCR),Sample,0,rmt11a,40422821,126,Val Cunningham,Samba,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,13,1,1, Amateur Adult Bronze Latin  (SCR),Sample,0,rmt11a,40422821,126,Lindsey Dechant,Samba,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,16,1,1, Amateur Adult Bronze Latin  (SCR),Sample,0,rmt11a,40422821,126,Corbin McCan,Samba,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,18,1,1, Amateur Adult Bronze Latin  (SCR),Sample,0,rmt11a,40422821,126,Brook Metcalf,Samba,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,10,1,1, Amateur Adult Bronze Latin  (SCR),Sample,1,rmt11a,40422821,126,Brad Ackerman,Cha Cha,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,12,1,1, Amateur Adult Bronze Latin  (SCR),Sample,1,rmt11a,40422821,126,Val Cunningham,Cha Cha,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,13,1,1, Amateur Adult Bronze Latin  (SCR),Sample,1,rmt11a,40422821,126,Lindsey Dechant,Cha Cha,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,16,1,1, Amateur Adult Bronze Latin  (SCR),Sample,1,rmt11a,40422821,126,Corbin McCan,Cha Cha,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,18,1,1, Amateur Adult Bronze Latin  (SCR),Sample,1,rmt11a,40422821,126,Brook Metcalf,Cha Cha,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,10,1,1, Amateur Adult Bronze Latin  (SCR),Sample,2,rmt11a,40422821,126,Brad Ackerman,Rumba,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,12,1,1, Amateur Adult Bronze Latin  (SCR),Sample,2,rmt11a,40422821,126,Val Cunningham,Rumba,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,13,1,1, Amateur Adult Bronze Latin  (SCR),Sample,2,rmt11a,40422821,126,Lindsey Dechant,Rumba,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,16,1,1, Amateur Adult Bronze Latin  (SCR),Sample,2,rmt11a,40422821,126,Corbin McCan,Rumba,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,18,1,1, Amateur Adult Bronze Latin  (SCR),Sample,2,rmt11a,40422821,126,Brook Metcalf,Rumba,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,10,1,1, Amateur Senior I Bronze Latin  (SCR),Sample,0,rmt11a,40432821,126,Brad Ackerman,Samba,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,12,1,1, Amateur Senior I Bronze Latin  (SCR),Sample,0,rmt11a,40432821,126,Val Cunningham,Samba,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,13,1,1, Amateur Senior I Bronze Latin  (SCR),Sample,0,rmt11a,40432821,126,Lindsey Dechant,Samba,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,16,1,1, Amateur Senior I Bronze Latin  (SCR),Sample,0,rmt11a,40432821,126,Corbin McCan,Samba,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,18,1,1, Amateur Senior I Bronze Latin  (SCR),Sample,0,rmt11a,40432821,126,Brook Metcalf,Samba,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,10,1,1, Amateur Senior I Bronze Latin  (SCR),Sample,1,rmt11a,40432821,126,Brad Ackerman,Cha Cha,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,12,1,1, Amateur Senior I Bronze Latin  (SCR),Sample,1,rmt11a,40432821,126,Val Cunningham,Cha Cha,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,13,1,1, Amateur Senior I Bronze Latin  (SCR),Sample,1,rmt11a,40432821,126,Lindsey Dechant,Cha Cha,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,16,1,1, Amateur Senior I Bronze Latin  (SCR),Sample,1,rmt11a,40432821,126,Corbin McCan,Cha Cha,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,18,1,1, Amateur Senior I Bronze Latin  (SCR),Sample,1,rmt11a,40432821,126,Brook Metcalf,Cha Cha,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,10,1,1, Amateur Senior I Bronze Latin  (SCR),Sample,2,rmt11a,40432821,126,Brad Ackerman,Rumba,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,12,1,1, Amateur Senior I Bronze Latin  (SCR),Sample,2,rmt11a,40432821,126,Val Cunningham,Rumba,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,13,1,1, Amateur Senior I Bronze Latin  (SCR),Sample,2,rmt11a,40432821,126,Lindsey Dechant,Rumba,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,16,1,1, Amateur Senior I Bronze Latin  (SCR),Sample,2,rmt11a,40432821,126,Corbin McCan,Rumba,1
+CO,0,1,Final,Peter Bain,Terry Pasqua,18,1,1, Amateur Senior I Bronze Latin  (SCR),Sample,2,rmt11a,40432821,126,Brook Metcalf,Rumba,1
+CO,0,1,Final,Stephen J. Hunt,Sandy Johnson,10,1,1, Amateur Senior I Silver Latin  (SCRJ),Sample,0,rmt11a,40433021,105,Brad Ackerman,Samba,1
+CO,0,1,Final,Stephen J. Hunt,Sandy Johnson,12,1,1, Amateur Senior I Silver Latin  (SCRJ),Sample,0,rmt11a,40433021,105,Val Cunningham,Samba,1
+CO,0,1,Final,Stephen J. Hunt,Sandy Johnson,13,1,1, Amateur Senior I Silver Latin  (SCRJ),Sample,0,rmt11a,40433021,105,Lindsey Dechant,Samba,1
+CO,0,1,Final,Stephen J. Hunt,Sandy Johnson,16,1,1, Amateur Senior I Silver Latin  (SCRJ),Sample,0,rmt11a,40433021,105,Corbin McCan,Samba,1
+CO,0,1,Final,Stephen J. Hunt,Sandy Johnson,18,1,1, Amateur Senior I Silver Latin  (SCRJ),Sample,0,rmt11a,40433021,105,Brook Metcalf,Samba,1
+CO,0,1,Final,Stephen J. Hunt,Sandy Johnson,10,1,1, Amateur Senior I Silver Latin  (SCRJ),Sample,1,rmt11a,40433021,105,Brad Ackerman,Cha Cha,1
+CO,0,1,Final,Stephen J. Hunt,Sandy Johnson,12,1,1, Amateur Senior I Silver Latin  (SCRJ),Sample,1,rmt11a,40433021,105,Val Cunningham,Cha Cha,1
+CO,0,1,Final,Stephen J. Hunt,Sandy Johnson,13,1,1, Amateur Senior I Silver Latin  (SCRJ),Sample,1,rmt11a,40433021,105,Lindsey Dechant,Cha Cha,1
+CO,0,1,Final,Stephen J. Hunt,Sandy Johnson,16,1,1, Amateur Senior I Silver Latin  (SCRJ),Sample,1,rmt11a,40433021,105,Corbin McCan,Cha Cha,1
+CO,0,1,Final,Stephen J. Hunt,Sandy Johnson,18,1,1, Amateur Senior I Silver Latin  (SCRJ),Sample,1,rmt11a,40433021,105,Brook Metcalf,Cha Cha,1
+CO,0,1,Final,Stephen J. Hunt,Sandy Johnson,10,1,1, Amateur Senior I Silver Latin  (SCRJ),Sample,2,rmt11a,40433021,105,Brad Ackerman,Rumba,1
+CO,0,1,Final,Stephen J. Hunt,Sandy Johnson,12,1,1, Amateur Senior I Silver Latin  (SCRJ),Sample,2,rmt11a,40433021,105,Val Cunningham,Rumba,1
+CO,0,1,Final,Stephen J. Hunt,Sandy Johnson,13,1,1, Amateur Senior I Silver Latin  (SCRJ),Sample,2,rmt11a,40433021,105,Lindsey Dechant,Rumba,1
+CO,0,1,Final,Stephen J. Hunt,Sandy Johnson,16,1,1, Amateur Senior I Silver Latin  (SCRJ),Sample,2,rmt11a,40433021,105,Corbin McCan,Rumba,1
+CO,0,1,Final,Stephen J. Hunt,Sandy Johnson,18,1,1, Amateur Senior I Silver Latin  (SCRJ),Sample,2,rmt11a,40433021,105,Brook Metcalf,Rumba,1
+CO,0,1,Final,Stephen J. Hunt,Sandy Johnson,10,1,1, Amateur Senior I Silver Latin  (SCRJ),Sample,3,rmt11a,40433021,105,Brad Ackerman,Jive,1
+CO,0,1,Final,Stephen J. Hunt,Sandy Johnson,12,1,1, Amateur Senior I Silver Latin  (SCRJ),Sample,3,rmt11a,40433021,105,Val Cunningham,Jive,1
+CO,0,1,Final,Stephen J. Hunt,Sandy Johnson,13,1,1, Amateur Senior I Silver Latin  (SCRJ),Sample,3,rmt11a,40433021,105,Lindsey Dechant,Jive,1
+CO,0,1,Final,Stephen J. Hunt,Sandy Johnson,16,1,1, Amateur Senior I Silver Latin  (SCRJ),Sample,3,rmt11a,40433021,105,Corbin McCan,Jive,1
+CO,0,1,Final,Stephen J. Hunt,Sandy Johnson,18,1,1, Amateur Senior I Silver Latin  (SCRJ),Sample,3,rmt11a,40433021,105,Brook Metcalf,Jive,1
+,0,1,Final,Ward Carter,International Silver Rumba,10,1,1, Formation Team  Open Intl. Rumba  (R),Sample,0,rmt11a,4301852A,137,Brad Ackerman,Intl. Rumba,1
+,0,1,Final,Ward Carter,International Silver Rumba,12,1,1, Formation Team  Open Intl. Rumba  (R),Sample,0,rmt11a,4301852A,137,Val Cunningham,Intl. Rumba,1
+,0,1,Final,Ward Carter,International Silver Rumba,13,1,1, Formation Team  Open Intl. Rumba  (R),Sample,0,rmt11a,4301852A,137,Lindsey Dechant,Intl. Rumba,1
+,0,1,Final,Ward Carter,International Silver Rumba,16,1,1, Formation Team  Open Intl. Rumba  (R),Sample,0,rmt11a,4301852A,137,Corbin McCan,Intl. Rumba,1
+,0,1,Final,Ward Carter,International Silver Rumba,18,1,1, Formation Team  Open Intl. Rumba  (R),Sample,0,rmt11a,4301852A,137,Brook Metcalf,Intl. Rumba,1
+CO,0,1,Final,Michael Bankston,Lacey Bankston,11,1,1, Amateur Adult Newcomer Am. Waltz  (W),Sample,0,rmt11a,40422038,107,Lori Ackerman,Am. Waltz,1
+CO,0,1,Final,Michael Bankston,Lacey Bankston,12,1,1, Amateur Adult Newcomer Am. Waltz  (W),Sample,0,rmt11a,40422038,107,Val Cunningham,Am. Waltz,1
+CO,0,1,Final,Michael Bankston,Lacey Bankston,13,1,1, Amateur Adult Newcomer Am. Waltz  (W),Sample,0,rmt11a,40422038,107,Lindsey Dechant,Am. Waltz,1
+CO,0,2,Final,Michael Bankston,Lacey Bankston,15,1,2, Amateur Adult Newcomer Am. Waltz  (W),Sample,0,rmt11a,40422038,107,Gary Bohlmeyer,Am. Waltz,1
+CO,0,1,Final,Michael Bankston,Lacey Bankston,17,1,1, Amateur Adult Newcomer Am. Waltz  (W),Sample,0,rmt11a,40422038,107,Timmy Merz,Am. Waltz,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,11,1,1, Amateur Junior II Bronze Am. Waltz  (W),Sample,0,rmt11a,402B2838,129,Lori Ackerman,Am. Waltz,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,12,1,1, Amateur Junior II Bronze Am. Waltz  (W),Sample,0,rmt11a,402B2838,129,Val Cunningham,Am. Waltz,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,13,1,1, Amateur Junior II Bronze Am. Waltz  (W),Sample,0,rmt11a,402B2838,129,Lindsey Dechant,Am. Waltz,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,15,1,1, Amateur Junior II Bronze Am. Waltz  (W),Sample,0,rmt11a,402B2838,129,Gary Bohlmeyer,Am. Waltz,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,17,1,1, Amateur Junior II Bronze Am. Waltz  (W),Sample,0,rmt11a,402B2838,129,Timmy Merz,Am. Waltz,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,11,1,1, Amateur Senior III Bronze Am. Waltz  (W),Sample,0,rmt11a,40452838,123,Lori Ackerman,Am. Waltz,1
+MN,0,2,Final,Jim Ruark,Linda Ruark,12,1,2, Amateur Senior III Bronze Am. Waltz  (W),Sample,0,rmt11a,40452838,123,Val Cunningham,Am. Waltz,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,13,1,1, Amateur Senior III Bronze Am. Waltz  (W),Sample,0,rmt11a,40452838,123,Lindsey Dechant,Am. Waltz,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,15,1,1, Amateur Senior III Bronze Am. Waltz  (W),Sample,0,rmt11a,40452838,123,Gary Bohlmeyer,Am. Waltz,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,17,1,1, Amateur Senior III Bronze Am. Waltz  (W),Sample,0,rmt11a,40452838,123,Timmy Merz,Am. Waltz,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,11,1,1, Amateur Youth Bronze Am. Waltz  (W),Sample,0,rmt11a,402F2838,129,Lori Ackerman,Am. Waltz,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,12,1,1, Amateur Youth Bronze Am. Waltz  (W),Sample,0,rmt11a,402F2838,129,Val Cunningham,Am. Waltz,1
+CO,0,2,Final,Braedan Smith,Jordyn Floming,13,1,2, Amateur Youth Bronze Am. Waltz  (W),Sample,0,rmt11a,402F2838,129,Lindsey Dechant,Am. Waltz,1
+CO,0,2,Final,Braedan Smith,Jordyn Floming,15,1,2, Amateur Youth Bronze Am. Waltz  (W),Sample,0,rmt11a,402F2838,129,Gary Bohlmeyer,Am. Waltz,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,17,1,1, Amateur Youth Bronze Am. Waltz  (W),Sample,0,rmt11a,402F2838,129,Timmy Merz,Am. Waltz,1
+CO,0,2,Final,Drayton Harvey,Amber Goldsmith,11,2,2, Amateur Youth Bronze Am. Waltz  (W),Sample,0,rmt11a,402F2838,130,Lori Ackerman,Am. Waltz,2
+CO,0,2,Final,Drayton Harvey,Amber Goldsmith,12,2,2, Amateur Youth Bronze Am. Waltz  (W),Sample,0,rmt11a,402F2838,130,Val Cunningham,Am. Waltz,2
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,13,2,1, Amateur Youth Bronze Am. Waltz  (W),Sample,0,rmt11a,402F2838,130,Lindsey Dechant,Am. Waltz,2
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,15,2,1, Amateur Youth Bronze Am. Waltz  (W),Sample,0,rmt11a,402F2838,130,Gary Bohlmeyer,Am. Waltz,2
+CO,0,2,Final,Drayton Harvey,Amber Goldsmith,17,2,2, Amateur Youth Bronze Am. Waltz  (W),Sample,0,rmt11a,402F2838,130,Timmy Merz,Am. Waltz,2
+CO,0,1,Final,Charles Duncan,Carol J. Koth,11,1,1, Amateur Senior I Bronze Am. Waltz  (W),Sample,0,rmt11a,40432838,115,Lori Ackerman,Am. Waltz,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,12,1,1, Amateur Senior I Bronze Am. Waltz  (W),Sample,0,rmt11a,40432838,115,Val Cunningham,Am. Waltz,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,13,1,1, Amateur Senior I Bronze Am. Waltz  (W),Sample,0,rmt11a,40432838,115,Lindsey Dechant,Am. Waltz,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,15,1,1, Amateur Senior I Bronze Am. Waltz  (W),Sample,0,rmt11a,40432838,115,Gary Bohlmeyer,Am. Waltz,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,17,1,1, Amateur Senior I Bronze Am. Waltz  (W),Sample,0,rmt11a,40432838,115,Timmy Merz,Am. Waltz,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,11,1,1, Amateur Senior II Bronze Am. Waltz  (W),Sample,0,rmt11a,40442838,123,Lori Ackerman,Am. Waltz,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,12,1,1, Amateur Senior II Bronze Am. Waltz  (W),Sample,0,rmt11a,40442838,123,Val Cunningham,Am. Waltz,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,13,1,1, Amateur Senior II Bronze Am. Waltz  (W),Sample,0,rmt11a,40442838,123,Lindsey Dechant,Am. Waltz,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,15,1,1, Amateur Senior II Bronze Am. Waltz  (W),Sample,0,rmt11a,40442838,123,Gary Bohlmeyer,Am. Waltz,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,17,1,1, Amateur Senior II Bronze Am. Waltz  (W),Sample,0,rmt11a,40442838,123,Timmy Merz,Am. Waltz,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,11,1,1, Amateur Adult Bronze Am. Waltz  (W),Sample,0,rmt11a,40422838,115,Lori Ackerman,Am. Waltz,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,12,1,1, Amateur Adult Bronze Am. Waltz  (W),Sample,0,rmt11a,40422838,115,Val Cunningham,Am. Waltz,1
+CO,0,2,Final,Charles Duncan,Kimberly Nuttall,13,1,2, Amateur Adult Bronze Am. Waltz  (W),Sample,0,rmt11a,40422838,115,Lindsey Dechant,Am. Waltz,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,15,1,1, Amateur Adult Bronze Am. Waltz  (W),Sample,0,rmt11a,40422838,115,Gary Bohlmeyer,Am. Waltz,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,17,1,1, Amateur Adult Bronze Am. Waltz  (W),Sample,0,rmt11a,40422838,115,Timmy Merz,Am. Waltz,1
+CO,0,2,Final,Peter Bain,Annabel Day,11,2,2, Amateur Adult Bronze Am. Waltz  (W),Sample,0,rmt11a,40422838,126,Lori Ackerman,Am. Waltz,2
+CO,0,2,Final,Peter Bain,Annabel Day,12,2,2, Amateur Adult Bronze Am. Waltz  (W),Sample,0,rmt11a,40422838,126,Val Cunningham,Am. Waltz,2
+CO,0,1,Final,Peter Bain,Annabel Day,13,2,1, Amateur Adult Bronze Am. Waltz  (W),Sample,0,rmt11a,40422838,126,Lindsey Dechant,Am. Waltz,2
+CO,0,3,Final,Peter Bain,Annabel Day,15,2,3, Amateur Adult Bronze Am. Waltz  (W),Sample,0,rmt11a,40422838,126,Gary Bohlmeyer,Am. Waltz,2
+CO,0,2,Final,Peter Bain,Annabel Day,17,2,2, Amateur Adult Bronze Am. Waltz  (W),Sample,0,rmt11a,40422838,126,Timmy Merz,Am. Waltz,2
+CO,0,3,Final,Wayne Hall,Becky Capolungo,11,3,3, Amateur Adult Bronze Am. Waltz  (W),Sample,0,rmt11a,40422838,131,Lori Ackerman,Am. Waltz,3
+CO,0,3,Final,Wayne Hall,Becky Capolungo,12,3,3, Amateur Adult Bronze Am. Waltz  (W),Sample,0,rmt11a,40422838,131,Val Cunningham,Am. Waltz,3
+CO,0,3,Final,Wayne Hall,Becky Capolungo,13,3,3, Amateur Adult Bronze Am. Waltz  (W),Sample,0,rmt11a,40422838,131,Lindsey Dechant,Am. Waltz,3
+CO,0,4,Final,Wayne Hall,Becky Capolungo,15,3,4, Amateur Adult Bronze Am. Waltz  (W),Sample,0,rmt11a,40422838,131,Gary Bohlmeyer,Am. Waltz,3
+CO,0,3,Final,Wayne Hall,Becky Capolungo,17,3,3, Amateur Adult Bronze Am. Waltz  (W),Sample,0,rmt11a,40422838,131,Timmy Merz,Am. Waltz,3
+CO,0,4,Final,Chad Kofoed,Ammie Vincent,11,4,4, Amateur Adult Bronze Am. Waltz  (W),Sample,0,rmt11a,40422838,128,Lori Ackerman,Am. Waltz,4
+CO,0,4,Final,Chad Kofoed,Ammie Vincent,12,4,4, Amateur Adult Bronze Am. Waltz  (W),Sample,0,rmt11a,40422838,128,Val Cunningham,Am. Waltz,4
+CO,0,5,Final,Chad Kofoed,Ammie Vincent,13,4,5, Amateur Adult Bronze Am. Waltz  (W),Sample,0,rmt11a,40422838,128,Lindsey Dechant,Am. Waltz,4
+CO,0,2,Final,Chad Kofoed,Ammie Vincent,15,4,2, Amateur Adult Bronze Am. Waltz  (W),Sample,0,rmt11a,40422838,128,Gary Bohlmeyer,Am. Waltz,4
+CO,0,4,Final,Chad Kofoed,Ammie Vincent,17,4,4, Amateur Adult Bronze Am. Waltz  (W),Sample,0,rmt11a,40422838,128,Timmy Merz,Am. Waltz,4
+CO,0,5,Final,Michael Bankston,Lacey Bankston,11,5,5, Amateur Adult Bronze Am. Waltz  (W),Sample,0,rmt11a,40422838,107,Lori Ackerman,Am. Waltz,5
+CO,0,5,Final,Michael Bankston,Lacey Bankston,12,5,5, Amateur Adult Bronze Am. Waltz  (W),Sample,0,rmt11a,40422838,107,Val Cunningham,Am. Waltz,5
+CO,0,4,Final,Michael Bankston,Lacey Bankston,13,5,4, Amateur Adult Bronze Am. Waltz  (W),Sample,0,rmt11a,40422838,107,Lindsey Dechant,Am. Waltz,5
+CO,0,5,Final,Michael Bankston,Lacey Bankston,15,5,5, Amateur Adult Bronze Am. Waltz  (W),Sample,0,rmt11a,40422838,107,Gary Bohlmeyer,Am. Waltz,5
+CO,0,5,Final,Michael Bankston,Lacey Bankston,17,5,5, Amateur Adult Bronze Am. Waltz  (W),Sample,0,rmt11a,40422838,107,Timmy Merz,Am. Waltz,5
+CO,0,1,Final,Braedan Smith,Jordyn Floming,11,1,1, Amateur Junior II Bronze Am. Tango  (T),Sample,0,rmt11a,402B2839,129,Lori Ackerman,Am. Tango,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,12,1,1, Amateur Junior II Bronze Am. Tango  (T),Sample,0,rmt11a,402B2839,129,Val Cunningham,Am. Tango,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,13,1,1, Amateur Junior II Bronze Am. Tango  (T),Sample,0,rmt11a,402B2839,129,Lindsey Dechant,Am. Tango,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,15,1,1, Amateur Junior II Bronze Am. Tango  (T),Sample,0,rmt11a,402B2839,129,Gary Bohlmeyer,Am. Tango,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,17,1,1, Amateur Junior II Bronze Am. Tango  (T),Sample,0,rmt11a,402B2839,129,Timmy Merz,Am. Tango,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,11,1,1, Amateur Senior III Bronze Am. Tango  (T),Sample,0,rmt11a,40452839,123,Lori Ackerman,Am. Tango,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,12,1,1, Amateur Senior III Bronze Am. Tango  (T),Sample,0,rmt11a,40452839,123,Val Cunningham,Am. Tango,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,13,1,1, Amateur Senior III Bronze Am. Tango  (T),Sample,0,rmt11a,40452839,123,Lindsey Dechant,Am. Tango,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,15,1,1, Amateur Senior III Bronze Am. Tango  (T),Sample,0,rmt11a,40452839,123,Gary Bohlmeyer,Am. Tango,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,17,1,1, Amateur Senior III Bronze Am. Tango  (T),Sample,0,rmt11a,40452839,123,Timmy Merz,Am. Tango,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,11,1,1, Amateur Youth Bronze Am. Tango  (T),Sample,0,rmt11a,402F2839,130,Lori Ackerman,Am. Tango,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,12,1,1, Amateur Youth Bronze Am. Tango  (T),Sample,0,rmt11a,402F2839,130,Val Cunningham,Am. Tango,1
+CO,0,2,Final,Drayton Harvey,Amber Goldsmith,13,1,2, Amateur Youth Bronze Am. Tango  (T),Sample,0,rmt11a,402F2839,130,Lindsey Dechant,Am. Tango,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,15,1,1, Amateur Youth Bronze Am. Tango  (T),Sample,0,rmt11a,402F2839,130,Gary Bohlmeyer,Am. Tango,1
+CO,0,2,Final,Drayton Harvey,Amber Goldsmith,17,1,2, Amateur Youth Bronze Am. Tango  (T),Sample,0,rmt11a,402F2839,130,Timmy Merz,Am. Tango,1
+CO,0,2,Final,Braedan Smith,Jordyn Floming,11,2,2, Amateur Youth Bronze Am. Tango  (T),Sample,0,rmt11a,402F2839,129,Lori Ackerman,Am. Tango,2
+CO,0,2,Final,Braedan Smith,Jordyn Floming,12,2,2, Amateur Youth Bronze Am. Tango  (T),Sample,0,rmt11a,402F2839,129,Val Cunningham,Am. Tango,2
+CO,0,1,Final,Braedan Smith,Jordyn Floming,13,2,1, Amateur Youth Bronze Am. Tango  (T),Sample,0,rmt11a,402F2839,129,Lindsey Dechant,Am. Tango,2
+CO,0,2,Final,Braedan Smith,Jordyn Floming,15,2,2, Amateur Youth Bronze Am. Tango  (T),Sample,0,rmt11a,402F2839,129,Gary Bohlmeyer,Am. Tango,2
+CO,0,1,Final,Braedan Smith,Jordyn Floming,17,2,1, Amateur Youth Bronze Am. Tango  (T),Sample,0,rmt11a,402F2839,129,Timmy Merz,Am. Tango,2
+CO,0,1,Final,Charles Duncan,Carol J. Koth,11,1,1, Amateur Senior I Bronze Am. Tango  (T),Sample,0,rmt11a,40432839,115,Lori Ackerman,Am. Tango,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,12,1,1, Amateur Senior I Bronze Am. Tango  (T),Sample,0,rmt11a,40432839,115,Val Cunningham,Am. Tango,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,13,1,1, Amateur Senior I Bronze Am. Tango  (T),Sample,0,rmt11a,40432839,115,Lindsey Dechant,Am. Tango,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,15,1,1, Amateur Senior I Bronze Am. Tango  (T),Sample,0,rmt11a,40432839,115,Gary Bohlmeyer,Am. Tango,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,17,1,1, Amateur Senior I Bronze Am. Tango  (T),Sample,0,rmt11a,40432839,115,Timmy Merz,Am. Tango,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,11,1,1, Amateur Senior II Bronze Am. Tango  (T),Sample,0,rmt11a,40442839,123,Lori Ackerman,Am. Tango,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,12,1,1, Amateur Senior II Bronze Am. Tango  (T),Sample,0,rmt11a,40442839,123,Val Cunningham,Am. Tango,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,13,1,1, Amateur Senior II Bronze Am. Tango  (T),Sample,0,rmt11a,40442839,123,Lindsey Dechant,Am. Tango,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,15,1,1, Amateur Senior II Bronze Am. Tango  (T),Sample,0,rmt11a,40442839,123,Gary Bohlmeyer,Am. Tango,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,17,1,1, Amateur Senior II Bronze Am. Tango  (T),Sample,0,rmt11a,40442839,123,Timmy Merz,Am. Tango,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,11,1,1, Amateur Adult Bronze Am. Tango  (T),Sample,0,rmt11a,40422839,115,Lori Ackerman,Am. Tango,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,12,1,1, Amateur Adult Bronze Am. Tango  (T),Sample,0,rmt11a,40422839,115,Val Cunningham,Am. Tango,1
+CO,0,2,Final,Charles Duncan,Kimberly Nuttall,13,1,2, Amateur Adult Bronze Am. Tango  (T),Sample,0,rmt11a,40422839,115,Lindsey Dechant,Am. Tango,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,15,1,1, Amateur Adult Bronze Am. Tango  (T),Sample,0,rmt11a,40422839,115,Gary Bohlmeyer,Am. Tango,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,17,1,1, Amateur Adult Bronze Am. Tango  (T),Sample,0,rmt11a,40422839,115,Timmy Merz,Am. Tango,1
+CO,0,2,Final,Peter Bain,Annabel Day,11,2,2, Amateur Adult Bronze Am. Tango  (T),Sample,0,rmt11a,40422839,126,Lori Ackerman,Am. Tango,2
+CO,0,2,Final,Peter Bain,Annabel Day,12,2,2, Amateur Adult Bronze Am. Tango  (T),Sample,0,rmt11a,40422839,126,Val Cunningham,Am. Tango,2
+CO,0,1,Final,Peter Bain,Annabel Day,13,2,1, Amateur Adult Bronze Am. Tango  (T),Sample,0,rmt11a,40422839,126,Lindsey Dechant,Am. Tango,2
+CO,0,2,Final,Peter Bain,Annabel Day,15,2,2, Amateur Adult Bronze Am. Tango  (T),Sample,0,rmt11a,40422839,126,Gary Bohlmeyer,Am. Tango,2
+CO,0,2,Final,Peter Bain,Annabel Day,17,2,2, Amateur Adult Bronze Am. Tango  (T),Sample,0,rmt11a,40422839,126,Timmy Merz,Am. Tango,2
+CO,0,4,Final,Wayne Hall,Becky Capolungo,11,3,4, Amateur Adult Bronze Am. Tango  (T),Sample,0,rmt11a,40422839,131,Lori Ackerman,Am. Tango,3
+CO,0,3,Final,Wayne Hall,Becky Capolungo,12,3,3, Amateur Adult Bronze Am. Tango  (T),Sample,0,rmt11a,40422839,131,Val Cunningham,Am. Tango,3
+CO,0,3,Final,Wayne Hall,Becky Capolungo,13,3,3, Amateur Adult Bronze Am. Tango  (T),Sample,0,rmt11a,40422839,131,Lindsey Dechant,Am. Tango,3
+CO,0,4,Final,Wayne Hall,Becky Capolungo,15,3,4, Amateur Adult Bronze Am. Tango  (T),Sample,0,rmt11a,40422839,131,Gary Bohlmeyer,Am. Tango,3
+CO,0,3,Final,Wayne Hall,Becky Capolungo,17,3,3, Amateur Adult Bronze Am. Tango  (T),Sample,0,rmt11a,40422839,131,Timmy Merz,Am. Tango,3
+CO,0,3,Final,Chad Kofoed,Ammie Vincent,11,4,3, Amateur Adult Bronze Am. Tango  (T),Sample,0,rmt11a,40422839,128,Lori Ackerman,Am. Tango,4
+CO,0,4,Final,Chad Kofoed,Ammie Vincent,12,4,4, Amateur Adult Bronze Am. Tango  (T),Sample,0,rmt11a,40422839,128,Val Cunningham,Am. Tango,4
+CO,0,4,Final,Chad Kofoed,Ammie Vincent,13,4,4, Amateur Adult Bronze Am. Tango  (T),Sample,0,rmt11a,40422839,128,Lindsey Dechant,Am. Tango,4
+CO,0,3,Final,Chad Kofoed,Ammie Vincent,15,4,3, Amateur Adult Bronze Am. Tango  (T),Sample,0,rmt11a,40422839,128,Gary Bohlmeyer,Am. Tango,4
+CO,0,4,Final,Chad Kofoed,Ammie Vincent,17,4,4, Amateur Adult Bronze Am. Tango  (T),Sample,0,rmt11a,40422839,128,Timmy Merz,Am. Tango,4
+CO,0,1,Final,Braedan Smith,Jordyn Floming,11,1,1, Amateur Junior II Bronze Am. Foxtrot  (F),Sample,0,rmt11a,402B283A,129,Lori Ackerman,Am. Foxtrot,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,12,1,1, Amateur Junior II Bronze Am. Foxtrot  (F),Sample,0,rmt11a,402B283A,129,Val Cunningham,Am. Foxtrot,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,13,1,1, Amateur Junior II Bronze Am. Foxtrot  (F),Sample,0,rmt11a,402B283A,129,Lindsey Dechant,Am. Foxtrot,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,15,1,1, Amateur Junior II Bronze Am. Foxtrot  (F),Sample,0,rmt11a,402B283A,129,Gary Bohlmeyer,Am. Foxtrot,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,17,1,1, Amateur Junior II Bronze Am. Foxtrot  (F),Sample,0,rmt11a,402B283A,129,Timmy Merz,Am. Foxtrot,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,11,1,1, Amateur Senior III Bronze Am. Foxtrot  (F),Sample,0,rmt11a,4045283A,123,Lori Ackerman,Am. Foxtrot,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,12,1,1, Amateur Senior III Bronze Am. Foxtrot  (F),Sample,0,rmt11a,4045283A,123,Val Cunningham,Am. Foxtrot,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,13,1,1, Amateur Senior III Bronze Am. Foxtrot  (F),Sample,0,rmt11a,4045283A,123,Lindsey Dechant,Am. Foxtrot,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,15,1,1, Amateur Senior III Bronze Am. Foxtrot  (F),Sample,0,rmt11a,4045283A,123,Gary Bohlmeyer,Am. Foxtrot,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,17,1,1, Amateur Senior III Bronze Am. Foxtrot  (F),Sample,0,rmt11a,4045283A,123,Timmy Merz,Am. Foxtrot,1
+CO,0,2,Final,Drayton Harvey,Amber Goldsmith,11,1,2, Amateur Youth Bronze Am. Foxtrot  (F),Sample,0,rmt11a,402F283A,130,Lori Ackerman,Am. Foxtrot,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,12,1,1, Amateur Youth Bronze Am. Foxtrot  (F),Sample,0,rmt11a,402F283A,130,Val Cunningham,Am. Foxtrot,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,13,1,1, Amateur Youth Bronze Am. Foxtrot  (F),Sample,0,rmt11a,402F283A,130,Lindsey Dechant,Am. Foxtrot,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,15,1,1, Amateur Youth Bronze Am. Foxtrot  (F),Sample,0,rmt11a,402F283A,130,Gary Bohlmeyer,Am. Foxtrot,1
+CO,0,2,Final,Drayton Harvey,Amber Goldsmith,17,1,2, Amateur Youth Bronze Am. Foxtrot  (F),Sample,0,rmt11a,402F283A,130,Timmy Merz,Am. Foxtrot,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,11,2,1, Amateur Youth Bronze Am. Foxtrot  (F),Sample,0,rmt11a,402F283A,129,Lori Ackerman,Am. Foxtrot,2
+CO,0,2,Final,Braedan Smith,Jordyn Floming,12,2,2, Amateur Youth Bronze Am. Foxtrot  (F),Sample,0,rmt11a,402F283A,129,Val Cunningham,Am. Foxtrot,2
+CO,0,2,Final,Braedan Smith,Jordyn Floming,13,2,2, Amateur Youth Bronze Am. Foxtrot  (F),Sample,0,rmt11a,402F283A,129,Lindsey Dechant,Am. Foxtrot,2
+CO,0,2,Final,Braedan Smith,Jordyn Floming,15,2,2, Amateur Youth Bronze Am. Foxtrot  (F),Sample,0,rmt11a,402F283A,129,Gary Bohlmeyer,Am. Foxtrot,2
+CO,0,1,Final,Braedan Smith,Jordyn Floming,17,2,1, Amateur Youth Bronze Am. Foxtrot  (F),Sample,0,rmt11a,402F283A,129,Timmy Merz,Am. Foxtrot,2
+CO,0,1,Final,Charles Duncan,Carol J. Koth,11,1,1, Amateur Senior I Bronze Am. Foxtrot  (F),Sample,0,rmt11a,4043283A,115,Lori Ackerman,Am. Foxtrot,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,12,1,1, Amateur Senior I Bronze Am. Foxtrot  (F),Sample,0,rmt11a,4043283A,115,Val Cunningham,Am. Foxtrot,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,13,1,1, Amateur Senior I Bronze Am. Foxtrot  (F),Sample,0,rmt11a,4043283A,115,Lindsey Dechant,Am. Foxtrot,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,15,1,1, Amateur Senior I Bronze Am. Foxtrot  (F),Sample,0,rmt11a,4043283A,115,Gary Bohlmeyer,Am. Foxtrot,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,17,1,1, Amateur Senior I Bronze Am. Foxtrot  (F),Sample,0,rmt11a,4043283A,115,Timmy Merz,Am. Foxtrot,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,11,1,1, Amateur Senior II Bronze Am. Foxtrot  (F),Sample,0,rmt11a,4044283A,123,Lori Ackerman,Am. Foxtrot,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,12,1,1, Amateur Senior II Bronze Am. Foxtrot  (F),Sample,0,rmt11a,4044283A,123,Val Cunningham,Am. Foxtrot,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,13,1,1, Amateur Senior II Bronze Am. Foxtrot  (F),Sample,0,rmt11a,4044283A,123,Lindsey Dechant,Am. Foxtrot,1
+MN,0,2,Final,Jim Ruark,Linda Ruark,15,1,2, Amateur Senior II Bronze Am. Foxtrot  (F),Sample,0,rmt11a,4044283A,123,Gary Bohlmeyer,Am. Foxtrot,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,17,1,1, Amateur Senior II Bronze Am. Foxtrot  (F),Sample,0,rmt11a,4044283A,123,Timmy Merz,Am. Foxtrot,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,11,1,1, Amateur Adult Bronze Am. Foxtrot  (F),Sample,0,rmt11a,4042283A,115,Lori Ackerman,Am. Foxtrot,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,12,1,1, Amateur Adult Bronze Am. Foxtrot  (F),Sample,0,rmt11a,4042283A,115,Val Cunningham,Am. Foxtrot,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,13,1,1, Amateur Adult Bronze Am. Foxtrot  (F),Sample,0,rmt11a,4042283A,115,Lindsey Dechant,Am. Foxtrot,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,15,1,1, Amateur Adult Bronze Am. Foxtrot  (F),Sample,0,rmt11a,4042283A,115,Gary Bohlmeyer,Am. Foxtrot,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,17,1,1, Amateur Adult Bronze Am. Foxtrot  (F),Sample,0,rmt11a,4042283A,115,Timmy Merz,Am. Foxtrot,1
+CO,0,2,Final,Peter Bain,Annabel Day,11,2,2, Amateur Adult Bronze Am. Foxtrot  (F),Sample,0,rmt11a,4042283A,126,Lori Ackerman,Am. Foxtrot,2
+CO,0,2,Final,Peter Bain,Annabel Day,12,2,2, Amateur Adult Bronze Am. Foxtrot  (F),Sample,0,rmt11a,4042283A,126,Val Cunningham,Am. Foxtrot,2
+CO,0,2,Final,Peter Bain,Annabel Day,13,2,2, Amateur Adult Bronze Am. Foxtrot  (F),Sample,0,rmt11a,4042283A,126,Lindsey Dechant,Am. Foxtrot,2
+CO,0,2,Final,Peter Bain,Annabel Day,15,2,2, Amateur Adult Bronze Am. Foxtrot  (F),Sample,0,rmt11a,4042283A,126,Gary Bohlmeyer,Am. Foxtrot,2
+CO,0,2,Final,Peter Bain,Annabel Day,17,2,2, Amateur Adult Bronze Am. Foxtrot  (F),Sample,0,rmt11a,4042283A,126,Timmy Merz,Am. Foxtrot,2
+CO,0,3,Final,Chad Kofoed,Ammie Vincent,11,3,3, Amateur Adult Bronze Am. Foxtrot  (F),Sample,0,rmt11a,4042283A,128,Lori Ackerman,Am. Foxtrot,3
+CO,0,4,Final,Chad Kofoed,Ammie Vincent,12,3,4, Amateur Adult Bronze Am. Foxtrot  (F),Sample,0,rmt11a,4042283A,128,Val Cunningham,Am. Foxtrot,3
+CO,0,4,Final,Chad Kofoed,Ammie Vincent,13,3,4, Amateur Adult Bronze Am. Foxtrot  (F),Sample,0,rmt11a,4042283A,128,Lindsey Dechant,Am. Foxtrot,3
+CO,0,3,Final,Chad Kofoed,Ammie Vincent,15,3,3, Amateur Adult Bronze Am. Foxtrot  (F),Sample,0,rmt11a,4042283A,128,Gary Bohlmeyer,Am. Foxtrot,3
+CO,0,3,Final,Chad Kofoed,Ammie Vincent,17,3,3, Amateur Adult Bronze Am. Foxtrot  (F),Sample,0,rmt11a,4042283A,128,Timmy Merz,Am. Foxtrot,3
+CO,0,4,Final,Wayne Hall,Becky Capolungo,11,4,4, Amateur Adult Bronze Am. Foxtrot  (F),Sample,0,rmt11a,4042283A,131,Lori Ackerman,Am. Foxtrot,4
+CO,0,3,Final,Wayne Hall,Becky Capolungo,12,4,3, Amateur Adult Bronze Am. Foxtrot  (F),Sample,0,rmt11a,4042283A,131,Val Cunningham,Am. Foxtrot,4
+CO,0,3,Final,Wayne Hall,Becky Capolungo,13,4,3, Amateur Adult Bronze Am. Foxtrot  (F),Sample,0,rmt11a,4042283A,131,Lindsey Dechant,Am. Foxtrot,4
+CO,0,4,Final,Wayne Hall,Becky Capolungo,15,4,4, Amateur Adult Bronze Am. Foxtrot  (F),Sample,0,rmt11a,4042283A,131,Gary Bohlmeyer,Am. Foxtrot,4
+CO,0,4,Final,Wayne Hall,Becky Capolungo,17,4,4, Amateur Adult Bronze Am. Foxtrot  (F),Sample,0,rmt11a,4042283A,131,Timmy Merz,Am. Foxtrot,4
+CO,0,1,Final,Braedan Smith,Jordyn Floming,11,1,1, Amateur Junior II Bronze Am. V. Waltz  (V),Sample,0,rmt11a,402B283B,129,Lori Ackerman,Am. V. Waltz,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,12,1,1, Amateur Junior II Bronze Am. V. Waltz  (V),Sample,0,rmt11a,402B283B,129,Val Cunningham,Am. V. Waltz,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,13,1,1, Amateur Junior II Bronze Am. V. Waltz  (V),Sample,0,rmt11a,402B283B,129,Lindsey Dechant,Am. V. Waltz,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,15,1,1, Amateur Junior II Bronze Am. V. Waltz  (V),Sample,0,rmt11a,402B283B,129,Gary Bohlmeyer,Am. V. Waltz,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,17,1,1, Amateur Junior II Bronze Am. V. Waltz  (V),Sample,0,rmt11a,402B283B,129,Timmy Merz,Am. V. Waltz,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,11,1,1, Amateur Adult Bronze Am. V. Waltz  (V),Sample,0,rmt11a,4042283B,115,Lori Ackerman,Am. V. Waltz,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,12,1,1, Amateur Adult Bronze Am. V. Waltz  (V),Sample,0,rmt11a,4042283B,115,Val Cunningham,Am. V. Waltz,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,13,1,1, Amateur Adult Bronze Am. V. Waltz  (V),Sample,0,rmt11a,4042283B,115,Lindsey Dechant,Am. V. Waltz,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,15,1,1, Amateur Adult Bronze Am. V. Waltz  (V),Sample,0,rmt11a,4042283B,115,Gary Bohlmeyer,Am. V. Waltz,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,17,1,1, Amateur Adult Bronze Am. V. Waltz  (V),Sample,0,rmt11a,4042283B,115,Timmy Merz,Am. V. Waltz,1
+CO,0,3,Final,Peter Bain,Annabel Day,11,2,3, Amateur Adult Bronze Am. V. Waltz  (V),Sample,0,rmt11a,4042283B,126,Lori Ackerman,Am. V. Waltz,2
+CO,0,2,Final,Peter Bain,Annabel Day,12,2,2, Amateur Adult Bronze Am. V. Waltz  (V),Sample,0,rmt11a,4042283B,126,Val Cunningham,Am. V. Waltz,2
+CO,0,2,Final,Peter Bain,Annabel Day,13,2,2, Amateur Adult Bronze Am. V. Waltz  (V),Sample,0,rmt11a,4042283B,126,Lindsey Dechant,Am. V. Waltz,2
+CO,0,2,Final,Peter Bain,Annabel Day,15,2,2, Amateur Adult Bronze Am. V. Waltz  (V),Sample,0,rmt11a,4042283B,126,Gary Bohlmeyer,Am. V. Waltz,2
+CO,0,2,Final,Peter Bain,Annabel Day,17,2,2, Amateur Adult Bronze Am. V. Waltz  (V),Sample,0,rmt11a,4042283B,126,Timmy Merz,Am. V. Waltz,2
+CO,0,2,Final,Wayne Hall,Becky Capolungo,11,3,2, Amateur Adult Bronze Am. V. Waltz  (V),Sample,0,rmt11a,4042283B,131,Lori Ackerman,Am. V. Waltz,3
+CO,0,3,Final,Wayne Hall,Becky Capolungo,12,3,3, Amateur Adult Bronze Am. V. Waltz  (V),Sample,0,rmt11a,4042283B,131,Val Cunningham,Am. V. Waltz,3
+CO,0,3,Final,Wayne Hall,Becky Capolungo,13,3,3, Amateur Adult Bronze Am. V. Waltz  (V),Sample,0,rmt11a,4042283B,131,Lindsey Dechant,Am. V. Waltz,3
+CO,0,4,Final,Wayne Hall,Becky Capolungo,15,3,4, Amateur Adult Bronze Am. V. Waltz  (V),Sample,0,rmt11a,4042283B,131,Gary Bohlmeyer,Am. V. Waltz,3
+CO,0,3,Final,Wayne Hall,Becky Capolungo,17,3,3, Amateur Adult Bronze Am. V. Waltz  (V),Sample,0,rmt11a,4042283B,131,Timmy Merz,Am. V. Waltz,3
+CO,0,4,Final,Chad Kofoed,Ammie Vincent,11,4,4, Amateur Adult Bronze Am. V. Waltz  (V),Sample,0,rmt11a,4042283B,128,Lori Ackerman,Am. V. Waltz,4
+CO,0,4,Final,Chad Kofoed,Ammie Vincent,12,4,4, Amateur Adult Bronze Am. V. Waltz  (V),Sample,0,rmt11a,4042283B,128,Val Cunningham,Am. V. Waltz,4
+CO,0,4,Final,Chad Kofoed,Ammie Vincent,13,4,4, Amateur Adult Bronze Am. V. Waltz  (V),Sample,0,rmt11a,4042283B,128,Lindsey Dechant,Am. V. Waltz,4
+CO,0,3,Final,Chad Kofoed,Ammie Vincent,15,4,3, Amateur Adult Bronze Am. V. Waltz  (V),Sample,0,rmt11a,4042283B,128,Gary Bohlmeyer,Am. V. Waltz,4
+CO,0,4,Final,Chad Kofoed,Ammie Vincent,17,4,4, Amateur Adult Bronze Am. V. Waltz  (V),Sample,0,rmt11a,4042283B,128,Timmy Merz,Am. V. Waltz,4
+CO,0,2,Final,Drayton Harvey,Amber Goldsmith,11,1,2, Amateur Youth Bronze Am. V. Waltz  (V),Sample,0,rmt11a,402F283B,130,Lori Ackerman,Am. V. Waltz,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,12,1,1, Amateur Youth Bronze Am. V. Waltz  (V),Sample,0,rmt11a,402F283B,130,Val Cunningham,Am. V. Waltz,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,13,1,1, Amateur Youth Bronze Am. V. Waltz  (V),Sample,0,rmt11a,402F283B,130,Lindsey Dechant,Am. V. Waltz,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,15,1,1, Amateur Youth Bronze Am. V. Waltz  (V),Sample,0,rmt11a,402F283B,130,Gary Bohlmeyer,Am. V. Waltz,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,17,1,1, Amateur Youth Bronze Am. V. Waltz  (V),Sample,0,rmt11a,402F283B,130,Timmy Merz,Am. V. Waltz,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,11,2,1, Amateur Youth Bronze Am. V. Waltz  (V),Sample,0,rmt11a,402F283B,129,Lori Ackerman,Am. V. Waltz,2
+CO,0,2,Final,Braedan Smith,Jordyn Floming,12,2,2, Amateur Youth Bronze Am. V. Waltz  (V),Sample,0,rmt11a,402F283B,129,Val Cunningham,Am. V. Waltz,2
+CO,0,2,Final,Braedan Smith,Jordyn Floming,13,2,2, Amateur Youth Bronze Am. V. Waltz  (V),Sample,0,rmt11a,402F283B,129,Lindsey Dechant,Am. V. Waltz,2
+CO,0,2,Final,Braedan Smith,Jordyn Floming,15,2,2, Amateur Youth Bronze Am. V. Waltz  (V),Sample,0,rmt11a,402F283B,129,Gary Bohlmeyer,Am. V. Waltz,2
+CO,0,2,Final,Braedan Smith,Jordyn Floming,17,2,2, Amateur Youth Bronze Am. V. Waltz  (V),Sample,0,rmt11a,402F283B,129,Timmy Merz,Am. V. Waltz,2
+CO,0,1,Final,Charles Duncan,Carol J. Koth,11,1,1, Amateur Senior I Bronze Am. V. Waltz  (V),Sample,0,rmt11a,4043283B,115,Lori Ackerman,Am. V. Waltz,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,12,1,1, Amateur Senior I Bronze Am. V. Waltz  (V),Sample,0,rmt11a,4043283B,115,Val Cunningham,Am. V. Waltz,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,13,1,1, Amateur Senior I Bronze Am. V. Waltz  (V),Sample,0,rmt11a,4043283B,115,Lindsey Dechant,Am. V. Waltz,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,15,1,1, Amateur Senior I Bronze Am. V. Waltz  (V),Sample,0,rmt11a,4043283B,115,Gary Bohlmeyer,Am. V. Waltz,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,17,1,1, Amateur Senior I Bronze Am. V. Waltz  (V),Sample,0,rmt11a,4043283B,115,Timmy Merz,Am. V. Waltz,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,11,1,1, Amateur Junior II Silver Am. Waltz  (W),Sample,0,rmt11a,402B3038,129,Lori Ackerman,Am. Waltz,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,12,1,1, Amateur Junior II Silver Am. Waltz  (W),Sample,0,rmt11a,402B3038,129,Val Cunningham,Am. Waltz,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,13,1,1, Amateur Junior II Silver Am. Waltz  (W),Sample,0,rmt11a,402B3038,129,Lindsey Dechant,Am. Waltz,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,15,1,1, Amateur Junior II Silver Am. Waltz  (W),Sample,0,rmt11a,402B3038,129,Gary Bohlmeyer,Am. Waltz,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,17,1,1, Amateur Junior II Silver Am. Waltz  (W),Sample,0,rmt11a,402B3038,129,Timmy Merz,Am. Waltz,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,11,1,1, Amateur Youth Silver Am. Waltz  (W),Sample,0,rmt11a,402F3038,129,Lori Ackerman,Am. Waltz,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,12,1,1, Amateur Youth Silver Am. Waltz  (W),Sample,0,rmt11a,402F3038,129,Val Cunningham,Am. Waltz,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,13,1,1, Amateur Youth Silver Am. Waltz  (W),Sample,0,rmt11a,402F3038,129,Lindsey Dechant,Am. Waltz,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,15,1,1, Amateur Youth Silver Am. Waltz  (W),Sample,0,rmt11a,402F3038,129,Gary Bohlmeyer,Am. Waltz,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,17,1,1, Amateur Youth Silver Am. Waltz  (W),Sample,0,rmt11a,402F3038,129,Timmy Merz,Am. Waltz,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,11,1,1, Amateur Adult Silver Am. Waltz  (W),Sample,0,rmt11a,40423038,134,Lori Ackerman,Am. Waltz,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,12,1,1, Amateur Adult Silver Am. Waltz  (W),Sample,0,rmt11a,40423038,134,Val Cunningham,Am. Waltz,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,13,1,1, Amateur Adult Silver Am. Waltz  (W),Sample,0,rmt11a,40423038,134,Lindsey Dechant,Am. Waltz,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,15,1,1, Amateur Adult Silver Am. Waltz  (W),Sample,0,rmt11a,40423038,134,Gary Bohlmeyer,Am. Waltz,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,17,1,1, Amateur Adult Silver Am. Waltz  (W),Sample,0,rmt11a,40423038,134,Timmy Merz,Am. Waltz,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,11,1,1, Amateur Junior II Silver Am. Tango  (T),Sample,0,rmt11a,402B3039,129,Lori Ackerman,Am. Tango,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,12,1,1, Amateur Junior II Silver Am. Tango  (T),Sample,0,rmt11a,402B3039,129,Val Cunningham,Am. Tango,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,13,1,1, Amateur Junior II Silver Am. Tango  (T),Sample,0,rmt11a,402B3039,129,Lindsey Dechant,Am. Tango,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,15,1,1, Amateur Junior II Silver Am. Tango  (T),Sample,0,rmt11a,402B3039,129,Gary Bohlmeyer,Am. Tango,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,17,1,1, Amateur Junior II Silver Am. Tango  (T),Sample,0,rmt11a,402B3039,129,Timmy Merz,Am. Tango,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,11,1,1, Amateur Youth Silver Am. Tango  (T),Sample,0,rmt11a,402F3039,129,Lori Ackerman,Am. Tango,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,12,1,1, Amateur Youth Silver Am. Tango  (T),Sample,0,rmt11a,402F3039,129,Val Cunningham,Am. Tango,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,13,1,1, Amateur Youth Silver Am. Tango  (T),Sample,0,rmt11a,402F3039,129,Lindsey Dechant,Am. Tango,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,15,1,1, Amateur Youth Silver Am. Tango  (T),Sample,0,rmt11a,402F3039,129,Gary Bohlmeyer,Am. Tango,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,17,1,1, Amateur Youth Silver Am. Tango  (T),Sample,0,rmt11a,402F3039,129,Timmy Merz,Am. Tango,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,11,1,1, Amateur Adult Silver Am. Tango  (T),Sample,0,rmt11a,40423039,134,Lori Ackerman,Am. Tango,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,12,1,1, Amateur Adult Silver Am. Tango  (T),Sample,0,rmt11a,40423039,134,Val Cunningham,Am. Tango,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,13,1,1, Amateur Adult Silver Am. Tango  (T),Sample,0,rmt11a,40423039,134,Lindsey Dechant,Am. Tango,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,15,1,1, Amateur Adult Silver Am. Tango  (T),Sample,0,rmt11a,40423039,134,Gary Bohlmeyer,Am. Tango,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,17,1,1, Amateur Adult Silver Am. Tango  (T),Sample,0,rmt11a,40423039,134,Timmy Merz,Am. Tango,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,11,1,1, Amateur Junior II Silver Am. Foxtrot  (F),Sample,0,rmt11a,402B303A,129,Lori Ackerman,Am. Foxtrot,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,12,1,1, Amateur Junior II Silver Am. Foxtrot  (F),Sample,0,rmt11a,402B303A,129,Val Cunningham,Am. Foxtrot,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,13,1,1, Amateur Junior II Silver Am. Foxtrot  (F),Sample,0,rmt11a,402B303A,129,Lindsey Dechant,Am. Foxtrot,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,15,1,1, Amateur Junior II Silver Am. Foxtrot  (F),Sample,0,rmt11a,402B303A,129,Gary Bohlmeyer,Am. Foxtrot,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,17,1,1, Amateur Junior II Silver Am. Foxtrot  (F),Sample,0,rmt11a,402B303A,129,Timmy Merz,Am. Foxtrot,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,11,1,1, Amateur Youth Silver Am. Foxtrot  (F),Sample,0,rmt11a,402F303A,129,Lori Ackerman,Am. Foxtrot,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,12,1,1, Amateur Youth Silver Am. Foxtrot  (F),Sample,0,rmt11a,402F303A,129,Val Cunningham,Am. Foxtrot,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,13,1,1, Amateur Youth Silver Am. Foxtrot  (F),Sample,0,rmt11a,402F303A,129,Lindsey Dechant,Am. Foxtrot,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,15,1,1, Amateur Youth Silver Am. Foxtrot  (F),Sample,0,rmt11a,402F303A,129,Gary Bohlmeyer,Am. Foxtrot,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,17,1,1, Amateur Youth Silver Am. Foxtrot  (F),Sample,0,rmt11a,402F303A,129,Timmy Merz,Am. Foxtrot,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,11,1,1, Amateur Adult Silver Am. Foxtrot  (F),Sample,0,rmt11a,4042303A,134,Lori Ackerman,Am. Foxtrot,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,12,1,1, Amateur Adult Silver Am. Foxtrot  (F),Sample,0,rmt11a,4042303A,134,Val Cunningham,Am. Foxtrot,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,13,1,1, Amateur Adult Silver Am. Foxtrot  (F),Sample,0,rmt11a,4042303A,134,Lindsey Dechant,Am. Foxtrot,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,15,1,1, Amateur Adult Silver Am. Foxtrot  (F),Sample,0,rmt11a,4042303A,134,Gary Bohlmeyer,Am. Foxtrot,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,17,1,1, Amateur Adult Silver Am. Foxtrot  (F),Sample,0,rmt11a,4042303A,134,Timmy Merz,Am. Foxtrot,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,11,1,1, Amateur Junior II Silver Am. V. Waltz  (V),Sample,0,rmt11a,402B303B,129,Lori Ackerman,Am. V. Waltz,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,12,1,1, Amateur Junior II Silver Am. V. Waltz  (V),Sample,0,rmt11a,402B303B,129,Val Cunningham,Am. V. Waltz,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,13,1,1, Amateur Junior II Silver Am. V. Waltz  (V),Sample,0,rmt11a,402B303B,129,Lindsey Dechant,Am. V. Waltz,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,15,1,1, Amateur Junior II Silver Am. V. Waltz  (V),Sample,0,rmt11a,402B303B,129,Gary Bohlmeyer,Am. V. Waltz,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,17,1,1, Amateur Junior II Silver Am. V. Waltz  (V),Sample,0,rmt11a,402B303B,129,Timmy Merz,Am. V. Waltz,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,11,1,1, Amateur Youth Silver Am. V. Waltz  (V),Sample,0,rmt11a,402F303B,129,Lori Ackerman,Am. V. Waltz,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,12,1,1, Amateur Youth Silver Am. V. Waltz  (V),Sample,0,rmt11a,402F303B,129,Val Cunningham,Am. V. Waltz,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,13,1,1, Amateur Youth Silver Am. V. Waltz  (V),Sample,0,rmt11a,402F303B,129,Lindsey Dechant,Am. V. Waltz,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,15,1,1, Amateur Youth Silver Am. V. Waltz  (V),Sample,0,rmt11a,402F303B,129,Gary Bohlmeyer,Am. V. Waltz,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,17,1,1, Amateur Youth Silver Am. V. Waltz  (V),Sample,0,rmt11a,402F303B,129,Timmy Merz,Am. V. Waltz,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,11,1,1, Amateur Adult Silver Am. V. Waltz  (V),Sample,0,rmt11a,4042303B,134,Lori Ackerman,Am. V. Waltz,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,12,1,1, Amateur Adult Silver Am. V. Waltz  (V),Sample,0,rmt11a,4042303B,134,Val Cunningham,Am. V. Waltz,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,13,1,1, Amateur Adult Silver Am. V. Waltz  (V),Sample,0,rmt11a,4042303B,134,Lindsey Dechant,Am. V. Waltz,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,15,1,1, Amateur Adult Silver Am. V. Waltz  (V),Sample,0,rmt11a,4042303B,134,Gary Bohlmeyer,Am. V. Waltz,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,17,1,1, Amateur Adult Silver Am. V. Waltz  (V),Sample,0,rmt11a,4042303B,134,Timmy Merz,Am. V. Waltz,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,10,1,1, Amateur Junior II Bronze Smooth  (WTF),Sample,0,rmt11a,402B2831,129,Brad Ackerman,Waltz,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,14,1,1, Amateur Junior II Bronze Smooth  (WTF),Sample,0,rmt11a,402B2831,129,Tim Edgar,Waltz,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,17,1,1, Amateur Junior II Bronze Smooth  (WTF),Sample,0,rmt11a,402B2831,129,Timmy Merz,Waltz,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,18,1,1, Amateur Junior II Bronze Smooth  (WTF),Sample,0,rmt11a,402B2831,129,Brook Metcalf,Waltz,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,19,1,1, Amateur Junior II Bronze Smooth  (WTF),Sample,0,rmt11a,402B2831,129,Todd Munson,Waltz,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,10,1,1, Amateur Junior II Bronze Smooth  (WTF),Sample,1,rmt11a,402B2831,129,Brad Ackerman,Tango,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,14,1,1, Amateur Junior II Bronze Smooth  (WTF),Sample,1,rmt11a,402B2831,129,Tim Edgar,Tango,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,17,1,1, Amateur Junior II Bronze Smooth  (WTF),Sample,1,rmt11a,402B2831,129,Timmy Merz,Tango,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,18,1,1, Amateur Junior II Bronze Smooth  (WTF),Sample,1,rmt11a,402B2831,129,Brook Metcalf,Tango,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,19,1,1, Amateur Junior II Bronze Smooth  (WTF),Sample,1,rmt11a,402B2831,129,Todd Munson,Tango,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,10,1,1, Amateur Junior II Bronze Smooth  (WTF),Sample,2,rmt11a,402B2831,129,Brad Ackerman,Foxtrot,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,14,1,1, Amateur Junior II Bronze Smooth  (WTF),Sample,2,rmt11a,402B2831,129,Tim Edgar,Foxtrot,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,17,1,1, Amateur Junior II Bronze Smooth  (WTF),Sample,2,rmt11a,402B2831,129,Timmy Merz,Foxtrot,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,18,1,1, Amateur Junior II Bronze Smooth  (WTF),Sample,2,rmt11a,402B2831,129,Brook Metcalf,Foxtrot,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,19,1,1, Amateur Junior II Bronze Smooth  (WTF),Sample,2,rmt11a,402B2831,129,Todd Munson,Foxtrot,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,10,1,1, Amateur Senior III Bronze Smooth  (WTF),Sample,0,rmt11a,40452831,123,Brad Ackerman,Waltz,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,14,1,1, Amateur Senior III Bronze Smooth  (WTF),Sample,0,rmt11a,40452831,123,Tim Edgar,Waltz,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,17,1,1, Amateur Senior III Bronze Smooth  (WTF),Sample,0,rmt11a,40452831,123,Timmy Merz,Waltz,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,18,1,1, Amateur Senior III Bronze Smooth  (WTF),Sample,0,rmt11a,40452831,123,Brook Metcalf,Waltz,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,19,1,1, Amateur Senior III Bronze Smooth  (WTF),Sample,0,rmt11a,40452831,123,Todd Munson,Waltz,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,10,1,1, Amateur Senior III Bronze Smooth  (WTF),Sample,1,rmt11a,40452831,123,Brad Ackerman,Tango,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,14,1,1, Amateur Senior III Bronze Smooth  (WTF),Sample,1,rmt11a,40452831,123,Tim Edgar,Tango,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,17,1,1, Amateur Senior III Bronze Smooth  (WTF),Sample,1,rmt11a,40452831,123,Timmy Merz,Tango,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,18,1,1, Amateur Senior III Bronze Smooth  (WTF),Sample,1,rmt11a,40452831,123,Brook Metcalf,Tango,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,19,1,1, Amateur Senior III Bronze Smooth  (WTF),Sample,1,rmt11a,40452831,123,Todd Munson,Tango,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,10,1,1, Amateur Senior III Bronze Smooth  (WTF),Sample,2,rmt11a,40452831,123,Brad Ackerman,Foxtrot,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,14,1,1, Amateur Senior III Bronze Smooth  (WTF),Sample,2,rmt11a,40452831,123,Tim Edgar,Foxtrot,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,17,1,1, Amateur Senior III Bronze Smooth  (WTF),Sample,2,rmt11a,40452831,123,Timmy Merz,Foxtrot,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,18,1,1, Amateur Senior III Bronze Smooth  (WTF),Sample,2,rmt11a,40452831,123,Brook Metcalf,Foxtrot,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,19,1,1, Amateur Senior III Bronze Smooth  (WTF),Sample,2,rmt11a,40452831,123,Todd Munson,Foxtrot,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,10,1,1, Amateur Youth Bronze Smooth  (WTF),Sample,0,rmt11a,402F2831,129,Brad Ackerman,Waltz,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,14,1,1, Amateur Youth Bronze Smooth  (WTF),Sample,0,rmt11a,402F2831,129,Tim Edgar,Waltz,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,17,1,1, Amateur Youth Bronze Smooth  (WTF),Sample,0,rmt11a,402F2831,129,Timmy Merz,Waltz,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,18,1,1, Amateur Youth Bronze Smooth  (WTF),Sample,0,rmt11a,402F2831,129,Brook Metcalf,Waltz,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,19,1,1, Amateur Youth Bronze Smooth  (WTF),Sample,0,rmt11a,402F2831,129,Todd Munson,Waltz,1
+CO,0,2,Final,Drayton Harvey,Amber Goldsmith,10,2,2, Amateur Youth Bronze Smooth  (WTF),Sample,0,rmt11a,402F2831,130,Brad Ackerman,Waltz,2
+CO,0,2,Final,Drayton Harvey,Amber Goldsmith,14,2,2, Amateur Youth Bronze Smooth  (WTF),Sample,0,rmt11a,402F2831,130,Tim Edgar,Waltz,2
+CO,0,2,Final,Drayton Harvey,Amber Goldsmith,17,2,2, Amateur Youth Bronze Smooth  (WTF),Sample,0,rmt11a,402F2831,130,Timmy Merz,Waltz,2
+CO,0,2,Final,Drayton Harvey,Amber Goldsmith,18,2,2, Amateur Youth Bronze Smooth  (WTF),Sample,0,rmt11a,402F2831,130,Brook Metcalf,Waltz,2
+CO,0,2,Final,Drayton Harvey,Amber Goldsmith,19,2,2, Amateur Youth Bronze Smooth  (WTF),Sample,0,rmt11a,402F2831,130,Todd Munson,Waltz,2
+CO,0,2,Final,Braedan Smith,Jordyn Floming,10,1,2, Amateur Youth Bronze Smooth  (WTF),Sample,1,rmt11a,402F2831,129,Brad Ackerman,Tango,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,14,1,1, Amateur Youth Bronze Smooth  (WTF),Sample,1,rmt11a,402F2831,129,Tim Edgar,Tango,1
+CO,0,2,Final,Braedan Smith,Jordyn Floming,17,1,2, Amateur Youth Bronze Smooth  (WTF),Sample,1,rmt11a,402F2831,129,Timmy Merz,Tango,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,18,1,1, Amateur Youth Bronze Smooth  (WTF),Sample,1,rmt11a,402F2831,129,Brook Metcalf,Tango,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,19,1,1, Amateur Youth Bronze Smooth  (WTF),Sample,1,rmt11a,402F2831,129,Todd Munson,Tango,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,10,2,1, Amateur Youth Bronze Smooth  (WTF),Sample,1,rmt11a,402F2831,130,Brad Ackerman,Tango,2
+CO,0,2,Final,Drayton Harvey,Amber Goldsmith,14,2,2, Amateur Youth Bronze Smooth  (WTF),Sample,1,rmt11a,402F2831,130,Tim Edgar,Tango,2
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,17,2,1, Amateur Youth Bronze Smooth  (WTF),Sample,1,rmt11a,402F2831,130,Timmy Merz,Tango,2
+CO,0,2,Final,Drayton Harvey,Amber Goldsmith,18,2,2, Amateur Youth Bronze Smooth  (WTF),Sample,1,rmt11a,402F2831,130,Brook Metcalf,Tango,2
+CO,0,2,Final,Drayton Harvey,Amber Goldsmith,19,2,2, Amateur Youth Bronze Smooth  (WTF),Sample,1,rmt11a,402F2831,130,Todd Munson,Tango,2
+CO,0,2,Final,Braedan Smith,Jordyn Floming,10,2,2, Amateur Youth Bronze Smooth  (WTF),Sample,2,rmt11a,402F2831,129,Brad Ackerman,Foxtrot,1
+CO,0,2,Final,Braedan Smith,Jordyn Floming,14,2,2, Amateur Youth Bronze Smooth  (WTF),Sample,2,rmt11a,402F2831,129,Tim Edgar,Foxtrot,1
+CO,0,2,Final,Braedan Smith,Jordyn Floming,17,2,2, Amateur Youth Bronze Smooth  (WTF),Sample,2,rmt11a,402F2831,129,Timmy Merz,Foxtrot,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,18,2,1, Amateur Youth Bronze Smooth  (WTF),Sample,2,rmt11a,402F2831,129,Brook Metcalf,Foxtrot,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,19,2,1, Amateur Youth Bronze Smooth  (WTF),Sample,2,rmt11a,402F2831,129,Todd Munson,Foxtrot,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,10,1,1, Amateur Youth Bronze Smooth  (WTF),Sample,2,rmt11a,402F2831,130,Brad Ackerman,Foxtrot,2
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,14,1,1, Amateur Youth Bronze Smooth  (WTF),Sample,2,rmt11a,402F2831,130,Tim Edgar,Foxtrot,2
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,17,1,1, Amateur Youth Bronze Smooth  (WTF),Sample,2,rmt11a,402F2831,130,Timmy Merz,Foxtrot,2
+CO,0,2,Final,Drayton Harvey,Amber Goldsmith,18,1,2, Amateur Youth Bronze Smooth  (WTF),Sample,2,rmt11a,402F2831,130,Brook Metcalf,Foxtrot,2
+CO,0,2,Final,Drayton Harvey,Amber Goldsmith,19,1,2, Amateur Youth Bronze Smooth  (WTF),Sample,2,rmt11a,402F2831,130,Todd Munson,Foxtrot,2
+CO,0,1,Final,Charles Duncan,Carol J. Koth,10,1,1, Amateur Senior I Bronze Smooth  (WTF),Sample,0,rmt11a,40432831,115,Brad Ackerman,Waltz,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,14,1,1, Amateur Senior I Bronze Smooth  (WTF),Sample,0,rmt11a,40432831,115,Tim Edgar,Waltz,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,17,1,1, Amateur Senior I Bronze Smooth  (WTF),Sample,0,rmt11a,40432831,115,Timmy Merz,Waltz,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,18,1,1, Amateur Senior I Bronze Smooth  (WTF),Sample,0,rmt11a,40432831,115,Brook Metcalf,Waltz,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,19,1,1, Amateur Senior I Bronze Smooth  (WTF),Sample,0,rmt11a,40432831,115,Todd Munson,Waltz,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,10,1,1, Amateur Senior I Bronze Smooth  (WTF),Sample,1,rmt11a,40432831,115,Brad Ackerman,Tango,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,14,1,1, Amateur Senior I Bronze Smooth  (WTF),Sample,1,rmt11a,40432831,115,Tim Edgar,Tango,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,17,1,1, Amateur Senior I Bronze Smooth  (WTF),Sample,1,rmt11a,40432831,115,Timmy Merz,Tango,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,18,1,1, Amateur Senior I Bronze Smooth  (WTF),Sample,1,rmt11a,40432831,115,Brook Metcalf,Tango,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,19,1,1, Amateur Senior I Bronze Smooth  (WTF),Sample,1,rmt11a,40432831,115,Todd Munson,Tango,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,10,1,1, Amateur Senior I Bronze Smooth  (WTF),Sample,2,rmt11a,40432831,115,Brad Ackerman,Foxtrot,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,14,1,1, Amateur Senior I Bronze Smooth  (WTF),Sample,2,rmt11a,40432831,115,Tim Edgar,Foxtrot,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,17,1,1, Amateur Senior I Bronze Smooth  (WTF),Sample,2,rmt11a,40432831,115,Timmy Merz,Foxtrot,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,18,1,1, Amateur Senior I Bronze Smooth  (WTF),Sample,2,rmt11a,40432831,115,Brook Metcalf,Foxtrot,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,19,1,1, Amateur Senior I Bronze Smooth  (WTF),Sample,2,rmt11a,40432831,115,Todd Munson,Foxtrot,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,10,1,1, Amateur Senior II Bronze Smooth  (WTF),Sample,0,rmt11a,40442831,123,Brad Ackerman,Waltz,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,14,1,1, Amateur Senior II Bronze Smooth  (WTF),Sample,0,rmt11a,40442831,123,Tim Edgar,Waltz,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,17,1,1, Amateur Senior II Bronze Smooth  (WTF),Sample,0,rmt11a,40442831,123,Timmy Merz,Waltz,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,18,1,1, Amateur Senior II Bronze Smooth  (WTF),Sample,0,rmt11a,40442831,123,Brook Metcalf,Waltz,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,19,1,1, Amateur Senior II Bronze Smooth  (WTF),Sample,0,rmt11a,40442831,123,Todd Munson,Waltz,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,10,1,1, Amateur Senior II Bronze Smooth  (WTF),Sample,1,rmt11a,40442831,123,Brad Ackerman,Tango,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,14,1,1, Amateur Senior II Bronze Smooth  (WTF),Sample,1,rmt11a,40442831,123,Tim Edgar,Tango,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,17,1,1, Amateur Senior II Bronze Smooth  (WTF),Sample,1,rmt11a,40442831,123,Timmy Merz,Tango,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,18,1,1, Amateur Senior II Bronze Smooth  (WTF),Sample,1,rmt11a,40442831,123,Brook Metcalf,Tango,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,19,1,1, Amateur Senior II Bronze Smooth  (WTF),Sample,1,rmt11a,40442831,123,Todd Munson,Tango,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,10,1,1, Amateur Senior II Bronze Smooth  (WTF),Sample,2,rmt11a,40442831,123,Brad Ackerman,Foxtrot,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,14,1,1, Amateur Senior II Bronze Smooth  (WTF),Sample,2,rmt11a,40442831,123,Tim Edgar,Foxtrot,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,17,1,1, Amateur Senior II Bronze Smooth  (WTF),Sample,2,rmt11a,40442831,123,Timmy Merz,Foxtrot,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,18,1,1, Amateur Senior II Bronze Smooth  (WTF),Sample,2,rmt11a,40442831,123,Brook Metcalf,Foxtrot,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,19,1,1, Amateur Senior II Bronze Smooth  (WTF),Sample,2,rmt11a,40442831,123,Todd Munson,Foxtrot,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,10,1,1, Amateur Adult Bronze Smooth  (WTF),Sample,0,rmt11a,40422831,115,Brad Ackerman,Waltz,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,14,1,1, Amateur Adult Bronze Smooth  (WTF),Sample,0,rmt11a,40422831,115,Tim Edgar,Waltz,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,17,1,1, Amateur Adult Bronze Smooth  (WTF),Sample,0,rmt11a,40422831,115,Timmy Merz,Waltz,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,18,1,1, Amateur Adult Bronze Smooth  (WTF),Sample,0,rmt11a,40422831,115,Brook Metcalf,Waltz,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,19,1,1, Amateur Adult Bronze Smooth  (WTF),Sample,0,rmt11a,40422831,115,Todd Munson,Waltz,1
+CO,0,2,Final,Peter Bain,Annabel Day,10,2,2, Amateur Adult Bronze Smooth  (WTF),Sample,0,rmt11a,40422831,126,Brad Ackerman,Waltz,2
+CO,0,2,Final,Peter Bain,Annabel Day,14,2,2, Amateur Adult Bronze Smooth  (WTF),Sample,0,rmt11a,40422831,126,Tim Edgar,Waltz,2
+CO,0,2,Final,Peter Bain,Annabel Day,17,2,2, Amateur Adult Bronze Smooth  (WTF),Sample,0,rmt11a,40422831,126,Timmy Merz,Waltz,2
+CO,0,2,Final,Peter Bain,Annabel Day,18,2,2, Amateur Adult Bronze Smooth  (WTF),Sample,0,rmt11a,40422831,126,Brook Metcalf,Waltz,2
+CO,0,2,Final,Peter Bain,Annabel Day,19,2,2, Amateur Adult Bronze Smooth  (WTF),Sample,0,rmt11a,40422831,126,Todd Munson,Waltz,2
+CO,0,4,Final,Wayne Hall,Becky Capolungo,10,4,4, Amateur Adult Bronze Smooth  (WTF),Sample,0,rmt11a,40422831,131,Brad Ackerman,Waltz,3
+CO,0,4,Final,Wayne Hall,Becky Capolungo,14,4,4, Amateur Adult Bronze Smooth  (WTF),Sample,0,rmt11a,40422831,131,Tim Edgar,Waltz,3
+CO,0,3,Final,Wayne Hall,Becky Capolungo,17,4,3, Amateur Adult Bronze Smooth  (WTF),Sample,0,rmt11a,40422831,131,Timmy Merz,Waltz,3
+CO,0,3,Final,Wayne Hall,Becky Capolungo,18,4,3, Amateur Adult Bronze Smooth  (WTF),Sample,0,rmt11a,40422831,131,Brook Metcalf,Waltz,3
+CO,0,4,Final,Wayne Hall,Becky Capolungo,19,4,4, Amateur Adult Bronze Smooth  (WTF),Sample,0,rmt11a,40422831,131,Todd Munson,Waltz,3
+CO,0,3,Final,Chad Kofoed,Ammie Vincent,10,3,3, Amateur Adult Bronze Smooth  (WTF),Sample,0,rmt11a,40422831,128,Brad Ackerman,Waltz,4
+CO,0,3,Final,Chad Kofoed,Ammie Vincent,14,3,3, Amateur Adult Bronze Smooth  (WTF),Sample,0,rmt11a,40422831,128,Tim Edgar,Waltz,4
+CO,0,4,Final,Chad Kofoed,Ammie Vincent,17,3,4, Amateur Adult Bronze Smooth  (WTF),Sample,0,rmt11a,40422831,128,Timmy Merz,Waltz,4
+CO,0,4,Final,Chad Kofoed,Ammie Vincent,18,3,4, Amateur Adult Bronze Smooth  (WTF),Sample,0,rmt11a,40422831,128,Brook Metcalf,Waltz,4
+CO,0,3,Final,Chad Kofoed,Ammie Vincent,19,3,3, Amateur Adult Bronze Smooth  (WTF),Sample,0,rmt11a,40422831,128,Todd Munson,Waltz,4
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,10,2,1, Amateur Adult Bronze Smooth  (WTF),Sample,1,rmt11a,40422831,115,Brad Ackerman,Tango,1
+CO,0,2,Final,Charles Duncan,Kimberly Nuttall,14,2,2, Amateur Adult Bronze Smooth  (WTF),Sample,1,rmt11a,40422831,115,Tim Edgar,Tango,1
+CO,0,2,Final,Charles Duncan,Kimberly Nuttall,17,2,2, Amateur Adult Bronze Smooth  (WTF),Sample,1,rmt11a,40422831,115,Timmy Merz,Tango,1
+CO,0,2,Final,Charles Duncan,Kimberly Nuttall,18,2,2, Amateur Adult Bronze Smooth  (WTF),Sample,1,rmt11a,40422831,115,Brook Metcalf,Tango,1
+CO,0,2,Final,Charles Duncan,Kimberly Nuttall,19,2,2, Amateur Adult Bronze Smooth  (WTF),Sample,1,rmt11a,40422831,115,Todd Munson,Tango,1
+CO,0,2,Final,Peter Bain,Annabel Day,10,1,2, Amateur Adult Bronze Smooth  (WTF),Sample,1,rmt11a,40422831,126,Brad Ackerman,Tango,2
+CO,0,1,Final,Peter Bain,Annabel Day,14,1,1, Amateur Adult Bronze Smooth  (WTF),Sample,1,rmt11a,40422831,126,Tim Edgar,Tango,2
+CO,0,1,Final,Peter Bain,Annabel Day,17,1,1, Amateur Adult Bronze Smooth  (WTF),Sample,1,rmt11a,40422831,126,Timmy Merz,Tango,2
+CO,0,1,Final,Peter Bain,Annabel Day,18,1,1, Amateur Adult Bronze Smooth  (WTF),Sample,1,rmt11a,40422831,126,Brook Metcalf,Tango,2
+CO,0,1,Final,Peter Bain,Annabel Day,19,1,1, Amateur Adult Bronze Smooth  (WTF),Sample,1,rmt11a,40422831,126,Todd Munson,Tango,2
+CO,0,4,Final,Wayne Hall,Becky Capolungo,10,3,4, Amateur Adult Bronze Smooth  (WTF),Sample,1,rmt11a,40422831,131,Brad Ackerman,Tango,3
+CO,0,3,Final,Wayne Hall,Becky Capolungo,14,3,3, Amateur Adult Bronze Smooth  (WTF),Sample,1,rmt11a,40422831,131,Tim Edgar,Tango,3
+CO,0,3,Final,Wayne Hall,Becky Capolungo,17,3,3, Amateur Adult Bronze Smooth  (WTF),Sample,1,rmt11a,40422831,131,Timmy Merz,Tango,3
+CO,0,3,Final,Wayne Hall,Becky Capolungo,18,3,3, Amateur Adult Bronze Smooth  (WTF),Sample,1,rmt11a,40422831,131,Brook Metcalf,Tango,3
+CO,0,4,Final,Wayne Hall,Becky Capolungo,19,3,4, Amateur Adult Bronze Smooth  (WTF),Sample,1,rmt11a,40422831,131,Todd Munson,Tango,3
+CO,0,3,Final,Chad Kofoed,Ammie Vincent,10,4,3, Amateur Adult Bronze Smooth  (WTF),Sample,1,rmt11a,40422831,128,Brad Ackerman,Tango,4
+CO,0,4,Final,Chad Kofoed,Ammie Vincent,14,4,4, Amateur Adult Bronze Smooth  (WTF),Sample,1,rmt11a,40422831,128,Tim Edgar,Tango,4
+CO,0,4,Final,Chad Kofoed,Ammie Vincent,17,4,4, Amateur Adult Bronze Smooth  (WTF),Sample,1,rmt11a,40422831,128,Timmy Merz,Tango,4
+CO,0,4,Final,Chad Kofoed,Ammie Vincent,18,4,4, Amateur Adult Bronze Smooth  (WTF),Sample,1,rmt11a,40422831,128,Brook Metcalf,Tango,4
+CO,0,3,Final,Chad Kofoed,Ammie Vincent,19,4,3, Amateur Adult Bronze Smooth  (WTF),Sample,1,rmt11a,40422831,128,Todd Munson,Tango,4
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,10,1,1, Amateur Adult Bronze Smooth  (WTF),Sample,2,rmt11a,40422831,115,Brad Ackerman,Foxtrot,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,14,1,1, Amateur Adult Bronze Smooth  (WTF),Sample,2,rmt11a,40422831,115,Tim Edgar,Foxtrot,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,17,1,1, Amateur Adult Bronze Smooth  (WTF),Sample,2,rmt11a,40422831,115,Timmy Merz,Foxtrot,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,18,1,1, Amateur Adult Bronze Smooth  (WTF),Sample,2,rmt11a,40422831,115,Brook Metcalf,Foxtrot,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,19,1,1, Amateur Adult Bronze Smooth  (WTF),Sample,2,rmt11a,40422831,115,Todd Munson,Foxtrot,1
+CO,0,2,Final,Peter Bain,Annabel Day,10,2,2, Amateur Adult Bronze Smooth  (WTF),Sample,2,rmt11a,40422831,126,Brad Ackerman,Foxtrot,2
+CO,0,2,Final,Peter Bain,Annabel Day,14,2,2, Amateur Adult Bronze Smooth  (WTF),Sample,2,rmt11a,40422831,126,Tim Edgar,Foxtrot,2
+CO,0,2,Final,Peter Bain,Annabel Day,17,2,2, Amateur Adult Bronze Smooth  (WTF),Sample,2,rmt11a,40422831,126,Timmy Merz,Foxtrot,2
+CO,0,2,Final,Peter Bain,Annabel Day,18,2,2, Amateur Adult Bronze Smooth  (WTF),Sample,2,rmt11a,40422831,126,Brook Metcalf,Foxtrot,2
+CO,0,2,Final,Peter Bain,Annabel Day,19,2,2, Amateur Adult Bronze Smooth  (WTF),Sample,2,rmt11a,40422831,126,Todd Munson,Foxtrot,2
+CO,0,4,Final,Wayne Hall,Becky Capolungo,10,3,4, Amateur Adult Bronze Smooth  (WTF),Sample,2,rmt11a,40422831,131,Brad Ackerman,Foxtrot,3
+CO,0,3,Final,Wayne Hall,Becky Capolungo,14,3,3, Amateur Adult Bronze Smooth  (WTF),Sample,2,rmt11a,40422831,131,Tim Edgar,Foxtrot,3
+CO,0,3,Final,Wayne Hall,Becky Capolungo,17,3,3, Amateur Adult Bronze Smooth  (WTF),Sample,2,rmt11a,40422831,131,Timmy Merz,Foxtrot,3
+CO,0,3,Final,Wayne Hall,Becky Capolungo,18,3,3, Amateur Adult Bronze Smooth  (WTF),Sample,2,rmt11a,40422831,131,Brook Metcalf,Foxtrot,3
+CO,0,4,Final,Wayne Hall,Becky Capolungo,19,3,4, Amateur Adult Bronze Smooth  (WTF),Sample,2,rmt11a,40422831,131,Todd Munson,Foxtrot,3
+CO,0,3,Final,Chad Kofoed,Ammie Vincent,10,4,3, Amateur Adult Bronze Smooth  (WTF),Sample,2,rmt11a,40422831,128,Brad Ackerman,Foxtrot,4
+CO,0,4,Final,Chad Kofoed,Ammie Vincent,14,4,4, Amateur Adult Bronze Smooth  (WTF),Sample,2,rmt11a,40422831,128,Tim Edgar,Foxtrot,4
+CO,0,4,Final,Chad Kofoed,Ammie Vincent,17,4,4, Amateur Adult Bronze Smooth  (WTF),Sample,2,rmt11a,40422831,128,Timmy Merz,Foxtrot,4
+CO,0,4,Final,Chad Kofoed,Ammie Vincent,18,4,4, Amateur Adult Bronze Smooth  (WTF),Sample,2,rmt11a,40422831,128,Brook Metcalf,Foxtrot,4
+CO,0,3,Final,Chad Kofoed,Ammie Vincent,19,4,3, Amateur Adult Bronze Smooth  (WTF),Sample,2,rmt11a,40422831,128,Todd Munson,Foxtrot,4
+CO,0,1,Final,Jim Picard,Becky Capolungo,10,1,1, Amateur Adult Silver Smooth  (WTFV),Sample,0,rmt11a,40423031,134,Brad Ackerman,Waltz,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,14,1,1, Amateur Adult Silver Smooth  (WTFV),Sample,0,rmt11a,40423031,134,Tim Edgar,Waltz,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,17,1,1, Amateur Adult Silver Smooth  (WTFV),Sample,0,rmt11a,40423031,134,Timmy Merz,Waltz,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,18,1,1, Amateur Adult Silver Smooth  (WTFV),Sample,0,rmt11a,40423031,134,Brook Metcalf,Waltz,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,19,1,1, Amateur Adult Silver Smooth  (WTFV),Sample,0,rmt11a,40423031,134,Todd Munson,Waltz,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,10,1,1, Amateur Adult Silver Smooth  (WTFV),Sample,1,rmt11a,40423031,134,Brad Ackerman,Tango,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,14,1,1, Amateur Adult Silver Smooth  (WTFV),Sample,1,rmt11a,40423031,134,Tim Edgar,Tango,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,17,1,1, Amateur Adult Silver Smooth  (WTFV),Sample,1,rmt11a,40423031,134,Timmy Merz,Tango,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,18,1,1, Amateur Adult Silver Smooth  (WTFV),Sample,1,rmt11a,40423031,134,Brook Metcalf,Tango,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,19,1,1, Amateur Adult Silver Smooth  (WTFV),Sample,1,rmt11a,40423031,134,Todd Munson,Tango,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,10,1,1, Amateur Adult Silver Smooth  (WTFV),Sample,2,rmt11a,40423031,134,Brad Ackerman,Foxtrot,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,14,1,1, Amateur Adult Silver Smooth  (WTFV),Sample,2,rmt11a,40423031,134,Tim Edgar,Foxtrot,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,17,1,1, Amateur Adult Silver Smooth  (WTFV),Sample,2,rmt11a,40423031,134,Timmy Merz,Foxtrot,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,18,1,1, Amateur Adult Silver Smooth  (WTFV),Sample,2,rmt11a,40423031,134,Brook Metcalf,Foxtrot,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,19,1,1, Amateur Adult Silver Smooth  (WTFV),Sample,2,rmt11a,40423031,134,Todd Munson,Foxtrot,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,10,1,1, Amateur Adult Silver Smooth  (WTFV),Sample,3,rmt11a,40423031,134,Brad Ackerman,Viennese Waltz,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,14,1,1, Amateur Adult Silver Smooth  (WTFV),Sample,3,rmt11a,40423031,134,Tim Edgar,Viennese Waltz,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,17,1,1, Amateur Adult Silver Smooth  (WTFV),Sample,3,rmt11a,40423031,134,Timmy Merz,Viennese Waltz,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,18,1,1, Amateur Adult Silver Smooth  (WTFV),Sample,3,rmt11a,40423031,134,Brook Metcalf,Viennese Waltz,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,19,1,1, Amateur Adult Silver Smooth  (WTFV),Sample,3,rmt11a,40423031,134,Todd Munson,Viennese Waltz,1
+,0,1,Final,Ward Carter,American Silver Tango,10,1,1, Formation Team  Open Am. Tango  (T),Sample,0,rmt11a,43018539,139,Brad Ackerman,Am. Tango,1
+,0,1,Final,Ward Carter,American Silver Tango,14,1,1, Formation Team  Open Am. Tango  (T),Sample,0,rmt11a,43018539,139,Tim Edgar,Am. Tango,1
+,0,1,Final,Ward Carter,American Silver Tango,17,1,1, Formation Team  Open Am. Tango  (T),Sample,0,rmt11a,43018539,139,Timmy Merz,Am. Tango,1
+,0,1,Final,Ward Carter,American Silver Tango,18,1,1, Formation Team  Open Am. Tango  (T),Sample,0,rmt11a,43018539,139,Brook Metcalf,Am. Tango,1
+,0,1,Final,Ward Carter,American Silver Tango,19,1,1, Formation Team  Open Am. Tango  (T),Sample,0,rmt11a,43018539,139,Todd Munson,Am. Tango,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,11,1,1, Amateur Junior II Bronze Am. Cha Cha  (C),Sample,0,rmt11a,402B2848,129,Lori Ackerman,Am. Cha Cha,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,12,1,1, Amateur Junior II Bronze Am. Cha Cha  (C),Sample,0,rmt11a,402B2848,129,Val Cunningham,Am. Cha Cha,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,13,1,1, Amateur Junior II Bronze Am. Cha Cha  (C),Sample,0,rmt11a,402B2848,129,Lindsey Dechant,Am. Cha Cha,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,16,1,1, Amateur Junior II Bronze Am. Cha Cha  (C),Sample,0,rmt11a,402B2848,129,Corbin McCan,Am. Cha Cha,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,18,1,1, Amateur Junior II Bronze Am. Cha Cha  (C),Sample,0,rmt11a,402B2848,129,Brook Metcalf,Am. Cha Cha,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,11,1,1, Amateur Adult Bronze Am. Cha Cha  (C),Sample,0,rmt11a,40422848,115,Lori Ackerman,Am. Cha Cha,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,12,1,1, Amateur Adult Bronze Am. Cha Cha  (C),Sample,0,rmt11a,40422848,115,Val Cunningham,Am. Cha Cha,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,13,1,1, Amateur Adult Bronze Am. Cha Cha  (C),Sample,0,rmt11a,40422848,115,Lindsey Dechant,Am. Cha Cha,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,16,1,1, Amateur Adult Bronze Am. Cha Cha  (C),Sample,0,rmt11a,40422848,115,Corbin McCan,Am. Cha Cha,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,18,1,1, Amateur Adult Bronze Am. Cha Cha  (C),Sample,0,rmt11a,40422848,115,Brook Metcalf,Am. Cha Cha,1
+CO,0,2,Final,Chad Kofoed,Ammie Vincent,11,2,2, Amateur Adult Bronze Am. Cha Cha  (C),Sample,0,rmt11a,40422848,128,Lori Ackerman,Am. Cha Cha,2
+CO,0,2,Final,Chad Kofoed,Ammie Vincent,12,2,2, Amateur Adult Bronze Am. Cha Cha  (C),Sample,0,rmt11a,40422848,128,Val Cunningham,Am. Cha Cha,2
+CO,0,2,Final,Chad Kofoed,Ammie Vincent,13,2,2, Amateur Adult Bronze Am. Cha Cha  (C),Sample,0,rmt11a,40422848,128,Lindsey Dechant,Am. Cha Cha,2
+CO,0,2,Final,Chad Kofoed,Ammie Vincent,16,2,2, Amateur Adult Bronze Am. Cha Cha  (C),Sample,0,rmt11a,40422848,128,Corbin McCan,Am. Cha Cha,2
+CO,0,2,Final,Chad Kofoed,Ammie Vincent,18,2,2, Amateur Adult Bronze Am. Cha Cha  (C),Sample,0,rmt11a,40422848,128,Brook Metcalf,Am. Cha Cha,2
+MN,0,1,Final,Jim Ruark,Linda Ruark,11,1,1, Amateur Senior II Bronze Am. Cha Cha  (C),Sample,0,rmt11a,40442848,123,Lori Ackerman,Am. Cha Cha,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,12,1,1, Amateur Senior II Bronze Am. Cha Cha  (C),Sample,0,rmt11a,40442848,123,Val Cunningham,Am. Cha Cha,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,13,1,1, Amateur Senior II Bronze Am. Cha Cha  (C),Sample,0,rmt11a,40442848,123,Lindsey Dechant,Am. Cha Cha,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,16,1,1, Amateur Senior II Bronze Am. Cha Cha  (C),Sample,0,rmt11a,40442848,123,Corbin McCan,Am. Cha Cha,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,18,1,1, Amateur Senior II Bronze Am. Cha Cha  (C),Sample,0,rmt11a,40442848,123,Brook Metcalf,Am. Cha Cha,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,11,1,1, Amateur Youth Bronze Am. Cha Cha  (C),Sample,0,rmt11a,402F2848,129,Lori Ackerman,Am. Cha Cha,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,12,1,1, Amateur Youth Bronze Am. Cha Cha  (C),Sample,0,rmt11a,402F2848,129,Val Cunningham,Am. Cha Cha,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,13,1,1, Amateur Youth Bronze Am. Cha Cha  (C),Sample,0,rmt11a,402F2848,129,Lindsey Dechant,Am. Cha Cha,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,16,1,1, Amateur Youth Bronze Am. Cha Cha  (C),Sample,0,rmt11a,402F2848,129,Corbin McCan,Am. Cha Cha,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,18,1,1, Amateur Youth Bronze Am. Cha Cha  (C),Sample,0,rmt11a,402F2848,129,Brook Metcalf,Am. Cha Cha,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,11,1,1, Amateur Senior I Bronze Am. Cha Cha  (C),Sample,0,rmt11a,40432848,115,Lori Ackerman,Am. Cha Cha,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,12,1,1, Amateur Senior I Bronze Am. Cha Cha  (C),Sample,0,rmt11a,40432848,115,Val Cunningham,Am. Cha Cha,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,13,1,1, Amateur Senior I Bronze Am. Cha Cha  (C),Sample,0,rmt11a,40432848,115,Lindsey Dechant,Am. Cha Cha,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,16,1,1, Amateur Senior I Bronze Am. Cha Cha  (C),Sample,0,rmt11a,40432848,115,Corbin McCan,Am. Cha Cha,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,18,1,1, Amateur Senior I Bronze Am. Cha Cha  (C),Sample,0,rmt11a,40432848,115,Brook Metcalf,Am. Cha Cha,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,11,1,1, Amateur Senior III Bronze Am. Cha Cha  (C),Sample,0,rmt11a,40452848,123,Lori Ackerman,Am. Cha Cha,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,12,1,1, Amateur Senior III Bronze Am. Cha Cha  (C),Sample,0,rmt11a,40452848,123,Val Cunningham,Am. Cha Cha,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,13,1,1, Amateur Senior III Bronze Am. Cha Cha  (C),Sample,0,rmt11a,40452848,123,Lindsey Dechant,Am. Cha Cha,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,16,1,1, Amateur Senior III Bronze Am. Cha Cha  (C),Sample,0,rmt11a,40452848,123,Corbin McCan,Am. Cha Cha,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,18,1,1, Amateur Senior III Bronze Am. Cha Cha  (C),Sample,0,rmt11a,40452848,123,Brook Metcalf,Am. Cha Cha,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,11,1,1, Amateur Junior II Bronze Am. Rumba  (R),Sample,0,rmt11a,402B2849,129,Lori Ackerman,Am. Rumba,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,12,1,1, Amateur Junior II Bronze Am. Rumba  (R),Sample,0,rmt11a,402B2849,129,Val Cunningham,Am. Rumba,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,13,1,1, Amateur Junior II Bronze Am. Rumba  (R),Sample,0,rmt11a,402B2849,129,Lindsey Dechant,Am. Rumba,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,16,1,1, Amateur Junior II Bronze Am. Rumba  (R),Sample,0,rmt11a,402B2849,129,Corbin McCan,Am. Rumba,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,18,1,1, Amateur Junior II Bronze Am. Rumba  (R),Sample,0,rmt11a,402B2849,129,Brook Metcalf,Am. Rumba,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,11,1,1, Amateur Adult Bronze Am. Rumba  (R),Sample,0,rmt11a,40422849,115,Lori Ackerman,Am. Rumba,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,12,1,1, Amateur Adult Bronze Am. Rumba  (R),Sample,0,rmt11a,40422849,115,Val Cunningham,Am. Rumba,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,13,1,1, Amateur Adult Bronze Am. Rumba  (R),Sample,0,rmt11a,40422849,115,Lindsey Dechant,Am. Rumba,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,16,1,1, Amateur Adult Bronze Am. Rumba  (R),Sample,0,rmt11a,40422849,115,Corbin McCan,Am. Rumba,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,18,1,1, Amateur Adult Bronze Am. Rumba  (R),Sample,0,rmt11a,40422849,115,Brook Metcalf,Am. Rumba,1
+CO,0,2,Final,Chad Kofoed,Ammie Vincent,11,2,2, Amateur Adult Bronze Am. Rumba  (R),Sample,0,rmt11a,40422849,128,Lori Ackerman,Am. Rumba,2
+CO,0,2,Final,Chad Kofoed,Ammie Vincent,12,2,2, Amateur Adult Bronze Am. Rumba  (R),Sample,0,rmt11a,40422849,128,Val Cunningham,Am. Rumba,2
+CO,0,2,Final,Chad Kofoed,Ammie Vincent,13,2,2, Amateur Adult Bronze Am. Rumba  (R),Sample,0,rmt11a,40422849,128,Lindsey Dechant,Am. Rumba,2
+CO,0,2,Final,Chad Kofoed,Ammie Vincent,16,2,2, Amateur Adult Bronze Am. Rumba  (R),Sample,0,rmt11a,40422849,128,Corbin McCan,Am. Rumba,2
+CO,0,2,Final,Chad Kofoed,Ammie Vincent,18,2,2, Amateur Adult Bronze Am. Rumba  (R),Sample,0,rmt11a,40422849,128,Brook Metcalf,Am. Rumba,2
+MN,0,1,Final,Jim Ruark,Linda Ruark,11,1,1, Amateur Senior II Bronze Am. Rumba  (R),Sample,0,rmt11a,40442849,123,Lori Ackerman,Am. Rumba,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,12,1,1, Amateur Senior II Bronze Am. Rumba  (R),Sample,0,rmt11a,40442849,123,Val Cunningham,Am. Rumba,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,13,1,1, Amateur Senior II Bronze Am. Rumba  (R),Sample,0,rmt11a,40442849,123,Lindsey Dechant,Am. Rumba,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,16,1,1, Amateur Senior II Bronze Am. Rumba  (R),Sample,0,rmt11a,40442849,123,Corbin McCan,Am. Rumba,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,18,1,1, Amateur Senior II Bronze Am. Rumba  (R),Sample,0,rmt11a,40442849,123,Brook Metcalf,Am. Rumba,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,11,1,1, Amateur Youth Bronze Am. Rumba  (R),Sample,0,rmt11a,402F2849,129,Lori Ackerman,Am. Rumba,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,12,1,1, Amateur Youth Bronze Am. Rumba  (R),Sample,0,rmt11a,402F2849,129,Val Cunningham,Am. Rumba,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,13,1,1, Amateur Youth Bronze Am. Rumba  (R),Sample,0,rmt11a,402F2849,129,Lindsey Dechant,Am. Rumba,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,16,1,1, Amateur Youth Bronze Am. Rumba  (R),Sample,0,rmt11a,402F2849,129,Corbin McCan,Am. Rumba,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,18,1,1, Amateur Youth Bronze Am. Rumba  (R),Sample,0,rmt11a,402F2849,129,Brook Metcalf,Am. Rumba,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,11,1,1, Amateur Senior I Bronze Am. Rumba  (R),Sample,0,rmt11a,40432849,115,Lori Ackerman,Am. Rumba,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,12,1,1, Amateur Senior I Bronze Am. Rumba  (R),Sample,0,rmt11a,40432849,115,Val Cunningham,Am. Rumba,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,13,1,1, Amateur Senior I Bronze Am. Rumba  (R),Sample,0,rmt11a,40432849,115,Lindsey Dechant,Am. Rumba,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,16,1,1, Amateur Senior I Bronze Am. Rumba  (R),Sample,0,rmt11a,40432849,115,Corbin McCan,Am. Rumba,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,18,1,1, Amateur Senior I Bronze Am. Rumba  (R),Sample,0,rmt11a,40432849,115,Brook Metcalf,Am. Rumba,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,11,1,1, Amateur Senior III Bronze Am. Rumba  (R),Sample,0,rmt11a,40452849,123,Lori Ackerman,Am. Rumba,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,12,1,1, Amateur Senior III Bronze Am. Rumba  (R),Sample,0,rmt11a,40452849,123,Val Cunningham,Am. Rumba,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,13,1,1, Amateur Senior III Bronze Am. Rumba  (R),Sample,0,rmt11a,40452849,123,Lindsey Dechant,Am. Rumba,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,16,1,1, Amateur Senior III Bronze Am. Rumba  (R),Sample,0,rmt11a,40452849,123,Corbin McCan,Am. Rumba,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,18,1,1, Amateur Senior III Bronze Am. Rumba  (R),Sample,0,rmt11a,40452849,123,Brook Metcalf,Am. Rumba,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,11,1,1, Amateur Junior II Bronze Am. Swing  (S),Sample,0,rmt11a,402B284A,129,Lori Ackerman,Am. Swing,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,12,1,1, Amateur Junior II Bronze Am. Swing  (S),Sample,0,rmt11a,402B284A,129,Val Cunningham,Am. Swing,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,13,1,1, Amateur Junior II Bronze Am. Swing  (S),Sample,0,rmt11a,402B284A,129,Lindsey Dechant,Am. Swing,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,16,1,1, Amateur Junior II Bronze Am. Swing  (S),Sample,0,rmt11a,402B284A,129,Corbin McCan,Am. Swing,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,18,1,1, Amateur Junior II Bronze Am. Swing  (S),Sample,0,rmt11a,402B284A,129,Brook Metcalf,Am. Swing,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,11,1,1, Amateur Adult Bronze Am. Swing  (S),Sample,0,rmt11a,4042284A,115,Lori Ackerman,Am. Swing,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,12,1,1, Amateur Adult Bronze Am. Swing  (S),Sample,0,rmt11a,4042284A,115,Val Cunningham,Am. Swing,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,13,1,1, Amateur Adult Bronze Am. Swing  (S),Sample,0,rmt11a,4042284A,115,Lindsey Dechant,Am. Swing,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,16,1,1, Amateur Adult Bronze Am. Swing  (S),Sample,0,rmt11a,4042284A,115,Corbin McCan,Am. Swing,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,18,1,1, Amateur Adult Bronze Am. Swing  (S),Sample,0,rmt11a,4042284A,115,Brook Metcalf,Am. Swing,1
+CO,0,2,Final,Chad Kofoed,Ammie Vincent,11,2,2, Amateur Adult Bronze Am. Swing  (S),Sample,0,rmt11a,4042284A,128,Lori Ackerman,Am. Swing,2
+CO,0,2,Final,Chad Kofoed,Ammie Vincent,12,2,2, Amateur Adult Bronze Am. Swing  (S),Sample,0,rmt11a,4042284A,128,Val Cunningham,Am. Swing,2
+CO,0,2,Final,Chad Kofoed,Ammie Vincent,13,2,2, Amateur Adult Bronze Am. Swing  (S),Sample,0,rmt11a,4042284A,128,Lindsey Dechant,Am. Swing,2
+CO,0,2,Final,Chad Kofoed,Ammie Vincent,16,2,2, Amateur Adult Bronze Am. Swing  (S),Sample,0,rmt11a,4042284A,128,Corbin McCan,Am. Swing,2
+CO,0,2,Final,Chad Kofoed,Ammie Vincent,18,2,2, Amateur Adult Bronze Am. Swing  (S),Sample,0,rmt11a,4042284A,128,Brook Metcalf,Am. Swing,2
+CO,0,1,Final,Braedan Smith,Jordyn Floming,11,1,1, Amateur Youth Bronze Am. Swing  (S),Sample,0,rmt11a,402F284A,129,Lori Ackerman,Am. Swing,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,12,1,1, Amateur Youth Bronze Am. Swing  (S),Sample,0,rmt11a,402F284A,129,Val Cunningham,Am. Swing,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,13,1,1, Amateur Youth Bronze Am. Swing  (S),Sample,0,rmt11a,402F284A,129,Lindsey Dechant,Am. Swing,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,16,1,1, Amateur Youth Bronze Am. Swing  (S),Sample,0,rmt11a,402F284A,129,Corbin McCan,Am. Swing,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,18,1,1, Amateur Youth Bronze Am. Swing  (S),Sample,0,rmt11a,402F284A,129,Brook Metcalf,Am. Swing,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,11,1,1, Amateur Senior I Bronze Am. Swing  (S),Sample,0,rmt11a,4043284A,115,Lori Ackerman,Am. Swing,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,12,1,1, Amateur Senior I Bronze Am. Swing  (S),Sample,0,rmt11a,4043284A,115,Val Cunningham,Am. Swing,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,13,1,1, Amateur Senior I Bronze Am. Swing  (S),Sample,0,rmt11a,4043284A,115,Lindsey Dechant,Am. Swing,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,16,1,1, Amateur Senior I Bronze Am. Swing  (S),Sample,0,rmt11a,4043284A,115,Corbin McCan,Am. Swing,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,18,1,1, Amateur Senior I Bronze Am. Swing  (S),Sample,0,rmt11a,4043284A,115,Brook Metcalf,Am. Swing,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,11,1,1, Amateur Junior II Bronze Am. Bolero  (B),Sample,0,rmt11a,402B284B,129,Lori Ackerman,Am. Bolero,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,12,1,1, Amateur Junior II Bronze Am. Bolero  (B),Sample,0,rmt11a,402B284B,129,Val Cunningham,Am. Bolero,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,13,1,1, Amateur Junior II Bronze Am. Bolero  (B),Sample,0,rmt11a,402B284B,129,Lindsey Dechant,Am. Bolero,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,16,1,1, Amateur Junior II Bronze Am. Bolero  (B),Sample,0,rmt11a,402B284B,129,Corbin McCan,Am. Bolero,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,18,1,1, Amateur Junior II Bronze Am. Bolero  (B),Sample,0,rmt11a,402B284B,129,Brook Metcalf,Am. Bolero,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,11,1,1, Amateur Youth Bronze Am. Bolero  (B),Sample,0,rmt11a,402F284B,129,Lori Ackerman,Am. Bolero,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,12,1,1, Amateur Youth Bronze Am. Bolero  (B),Sample,0,rmt11a,402F284B,129,Val Cunningham,Am. Bolero,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,13,1,1, Amateur Youth Bronze Am. Bolero  (B),Sample,0,rmt11a,402F284B,129,Lindsey Dechant,Am. Bolero,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,16,1,1, Amateur Youth Bronze Am. Bolero  (B),Sample,0,rmt11a,402F284B,129,Corbin McCan,Am. Bolero,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,18,1,1, Amateur Youth Bronze Am. Bolero  (B),Sample,0,rmt11a,402F284B,129,Brook Metcalf,Am. Bolero,1
+CO,0,1,Final,Chad Kofoed,Ammie Vincent,11,1,1, Amateur Adult Bronze Am. Bolero  (B),Sample,0,rmt11a,4042284B,128,Lori Ackerman,Am. Bolero,1
+CO,0,1,Final,Chad Kofoed,Ammie Vincent,12,1,1, Amateur Adult Bronze Am. Bolero  (B),Sample,0,rmt11a,4042284B,128,Val Cunningham,Am. Bolero,1
+CO,0,1,Final,Chad Kofoed,Ammie Vincent,13,1,1, Amateur Adult Bronze Am. Bolero  (B),Sample,0,rmt11a,4042284B,128,Lindsey Dechant,Am. Bolero,1
+CO,0,1,Final,Chad Kofoed,Ammie Vincent,16,1,1, Amateur Adult Bronze Am. Bolero  (B),Sample,0,rmt11a,4042284B,128,Corbin McCan,Am. Bolero,1
+CO,0,1,Final,Chad Kofoed,Ammie Vincent,18,1,1, Amateur Adult Bronze Am. Bolero  (B),Sample,0,rmt11a,4042284B,128,Brook Metcalf,Am. Bolero,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,11,1,1, Amateur Youth Bronze Am. Mambo  (M),Sample,0,rmt11a,402F284C,130,Lori Ackerman,Am. Mambo,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,12,1,1, Amateur Youth Bronze Am. Mambo  (M),Sample,0,rmt11a,402F284C,130,Val Cunningham,Am. Mambo,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,13,1,1, Amateur Youth Bronze Am. Mambo  (M),Sample,0,rmt11a,402F284C,130,Lindsey Dechant,Am. Mambo,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,16,1,1, Amateur Youth Bronze Am. Mambo  (M),Sample,0,rmt11a,402F284C,130,Corbin McCan,Am. Mambo,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,18,1,1, Amateur Youth Bronze Am. Mambo  (M),Sample,0,rmt11a,402F284C,130,Brook Metcalf,Am. Mambo,1
+CO,0,1,Final,Chad Kofoed,Ammie Vincent,11,1,1, Amateur Adult Bronze Am. Mambo  (M),Sample,0,rmt11a,4042284C,128,Lori Ackerman,Am. Mambo,1
+CO,0,1,Final,Chad Kofoed,Ammie Vincent,12,1,1, Amateur Adult Bronze Am. Mambo  (M),Sample,0,rmt11a,4042284C,128,Val Cunningham,Am. Mambo,1
+CO,0,1,Final,Chad Kofoed,Ammie Vincent,13,1,1, Amateur Adult Bronze Am. Mambo  (M),Sample,0,rmt11a,4042284C,128,Lindsey Dechant,Am. Mambo,1
+CO,0,1,Final,Chad Kofoed,Ammie Vincent,16,1,1, Amateur Adult Bronze Am. Mambo  (M),Sample,0,rmt11a,4042284C,128,Corbin McCan,Am. Mambo,1
+CO,0,1,Final,Chad Kofoed,Ammie Vincent,18,1,1, Amateur Adult Bronze Am. Mambo  (M),Sample,0,rmt11a,4042284C,128,Brook Metcalf,Am. Mambo,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,11,1,1, Amateur Youth Silver Am. Cha Cha  (C),Sample,0,rmt11a,402F3048,130,Lori Ackerman,Am. Cha Cha,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,12,1,1, Amateur Youth Silver Am. Cha Cha  (C),Sample,0,rmt11a,402F3048,130,Val Cunningham,Am. Cha Cha,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,13,1,1, Amateur Youth Silver Am. Cha Cha  (C),Sample,0,rmt11a,402F3048,130,Lindsey Dechant,Am. Cha Cha,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,16,1,1, Amateur Youth Silver Am. Cha Cha  (C),Sample,0,rmt11a,402F3048,130,Corbin McCan,Am. Cha Cha,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,18,1,1, Amateur Youth Silver Am. Cha Cha  (C),Sample,0,rmt11a,402F3048,130,Brook Metcalf,Am. Cha Cha,1
+CO,0,1,Final,Jason Roberts,Melissa Holt,11,1,1, Amateur Adult Silver Am. Cha Cha  (C),Sample,0,rmt11a,40423048,135,Lori Ackerman,Am. Cha Cha,1
+CO,0,1,Final,Jason Roberts,Melissa Holt,12,1,1, Amateur Adult Silver Am. Cha Cha  (C),Sample,0,rmt11a,40423048,135,Val Cunningham,Am. Cha Cha,1
+CO,0,1,Final,Jason Roberts,Melissa Holt,13,1,1, Amateur Adult Silver Am. Cha Cha  (C),Sample,0,rmt11a,40423048,135,Lindsey Dechant,Am. Cha Cha,1
+CO,0,1,Final,Jason Roberts,Melissa Holt,16,1,1, Amateur Adult Silver Am. Cha Cha  (C),Sample,0,rmt11a,40423048,135,Corbin McCan,Am. Cha Cha,1
+CO,0,1,Final,Jason Roberts,Melissa Holt,18,1,1, Amateur Adult Silver Am. Cha Cha  (C),Sample,0,rmt11a,40423048,135,Brook Metcalf,Am. Cha Cha,1
+CO,0,2,Final,Jim Picard,Becky Capolungo,11,2,2, Amateur Adult Silver Am. Cha Cha  (C),Sample,0,rmt11a,40423048,134,Lori Ackerman,Am. Cha Cha,2
+CO,0,2,Final,Jim Picard,Becky Capolungo,12,2,2, Amateur Adult Silver Am. Cha Cha  (C),Sample,0,rmt11a,40423048,134,Val Cunningham,Am. Cha Cha,2
+CO,0,2,Final,Jim Picard,Becky Capolungo,13,2,2, Amateur Adult Silver Am. Cha Cha  (C),Sample,0,rmt11a,40423048,134,Lindsey Dechant,Am. Cha Cha,2
+CO,0,2,Final,Jim Picard,Becky Capolungo,16,2,2, Amateur Adult Silver Am. Cha Cha  (C),Sample,0,rmt11a,40423048,134,Corbin McCan,Am. Cha Cha,2
+CO,0,2,Final,Jim Picard,Becky Capolungo,18,2,2, Amateur Adult Silver Am. Cha Cha  (C),Sample,0,rmt11a,40423048,134,Brook Metcalf,Am. Cha Cha,2
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,11,1,1, Amateur Youth Silver Am. Rumba  (R),Sample,0,rmt11a,402F3049,130,Lori Ackerman,Am. Rumba,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,12,1,1, Amateur Youth Silver Am. Rumba  (R),Sample,0,rmt11a,402F3049,130,Val Cunningham,Am. Rumba,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,13,1,1, Amateur Youth Silver Am. Rumba  (R),Sample,0,rmt11a,402F3049,130,Lindsey Dechant,Am. Rumba,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,16,1,1, Amateur Youth Silver Am. Rumba  (R),Sample,0,rmt11a,402F3049,130,Corbin McCan,Am. Rumba,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,18,1,1, Amateur Youth Silver Am. Rumba  (R),Sample,0,rmt11a,402F3049,130,Brook Metcalf,Am. Rumba,1
+CO,0,1,Final,Jason Roberts,Melissa Holt,11,1,1, Amateur Adult Silver Am. Rumba  (R),Sample,0,rmt11a,40423049,135,Lori Ackerman,Am. Rumba,1
+CO,0,1,Final,Jason Roberts,Melissa Holt,12,1,1, Amateur Adult Silver Am. Rumba  (R),Sample,0,rmt11a,40423049,135,Val Cunningham,Am. Rumba,1
+CO,0,1,Final,Jason Roberts,Melissa Holt,13,1,1, Amateur Adult Silver Am. Rumba  (R),Sample,0,rmt11a,40423049,135,Lindsey Dechant,Am. Rumba,1
+CO,0,2,Final,Jason Roberts,Melissa Holt,16,1,2, Amateur Adult Silver Am. Rumba  (R),Sample,0,rmt11a,40423049,135,Corbin McCan,Am. Rumba,1
+CO,0,1,Final,Jason Roberts,Melissa Holt,18,1,1, Amateur Adult Silver Am. Rumba  (R),Sample,0,rmt11a,40423049,135,Brook Metcalf,Am. Rumba,1
+CO,0,2,Final,Jim Picard,Becky Capolungo,11,2,2, Amateur Adult Silver Am. Rumba  (R),Sample,0,rmt11a,40423049,134,Lori Ackerman,Am. Rumba,2
+CO,0,2,Final,Jim Picard,Becky Capolungo,12,2,2, Amateur Adult Silver Am. Rumba  (R),Sample,0,rmt11a,40423049,134,Val Cunningham,Am. Rumba,2
+CO,0,2,Final,Jim Picard,Becky Capolungo,13,2,2, Amateur Adult Silver Am. Rumba  (R),Sample,0,rmt11a,40423049,134,Lindsey Dechant,Am. Rumba,2
+CO,0,1,Final,Jim Picard,Becky Capolungo,16,2,1, Amateur Adult Silver Am. Rumba  (R),Sample,0,rmt11a,40423049,134,Corbin McCan,Am. Rumba,2
+CO,0,2,Final,Jim Picard,Becky Capolungo,18,2,2, Amateur Adult Silver Am. Rumba  (R),Sample,0,rmt11a,40423049,134,Brook Metcalf,Am. Rumba,2
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,11,1,1, Amateur Youth Silver Am. Swing  (S),Sample,0,rmt11a,402F304A,130,Lori Ackerman,Am. Swing,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,12,1,1, Amateur Youth Silver Am. Swing  (S),Sample,0,rmt11a,402F304A,130,Val Cunningham,Am. Swing,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,13,1,1, Amateur Youth Silver Am. Swing  (S),Sample,0,rmt11a,402F304A,130,Lindsey Dechant,Am. Swing,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,16,1,1, Amateur Youth Silver Am. Swing  (S),Sample,0,rmt11a,402F304A,130,Corbin McCan,Am. Swing,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,18,1,1, Amateur Youth Silver Am. Swing  (S),Sample,0,rmt11a,402F304A,130,Brook Metcalf,Am. Swing,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,11,1,1, Amateur Adult Silver Am. Swing  (S),Sample,0,rmt11a,4042304A,134,Lori Ackerman,Am. Swing,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,12,1,1, Amateur Adult Silver Am. Swing  (S),Sample,0,rmt11a,4042304A,134,Val Cunningham,Am. Swing,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,13,1,1, Amateur Adult Silver Am. Swing  (S),Sample,0,rmt11a,4042304A,134,Lindsey Dechant,Am. Swing,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,16,1,1, Amateur Adult Silver Am. Swing  (S),Sample,0,rmt11a,4042304A,134,Corbin McCan,Am. Swing,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,18,1,1, Amateur Adult Silver Am. Swing  (S),Sample,0,rmt11a,4042304A,134,Brook Metcalf,Am. Swing,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,11,1,1, Amateur Youth Silver Am. Bolero  (B),Sample,0,rmt11a,402F304B,130,Lori Ackerman,Am. Bolero,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,12,1,1, Amateur Youth Silver Am. Bolero  (B),Sample,0,rmt11a,402F304B,130,Val Cunningham,Am. Bolero,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,13,1,1, Amateur Youth Silver Am. Bolero  (B),Sample,0,rmt11a,402F304B,130,Lindsey Dechant,Am. Bolero,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,16,1,1, Amateur Youth Silver Am. Bolero  (B),Sample,0,rmt11a,402F304B,130,Corbin McCan,Am. Bolero,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,18,1,1, Amateur Youth Silver Am. Bolero  (B),Sample,0,rmt11a,402F304B,130,Brook Metcalf,Am. Bolero,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,11,1,1, Amateur Adult Silver Am. Mambo  (M),Sample,0,rmt11a,4042304C,134,Lori Ackerman,Am. Mambo,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,12,1,1, Amateur Adult Silver Am. Mambo  (M),Sample,0,rmt11a,4042304C,134,Val Cunningham,Am. Mambo,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,13,1,1, Amateur Adult Silver Am. Mambo  (M),Sample,0,rmt11a,4042304C,134,Lindsey Dechant,Am. Mambo,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,16,1,1, Amateur Adult Silver Am. Mambo  (M),Sample,0,rmt11a,4042304C,134,Corbin McCan,Am. Mambo,1
+CO,0,2,Final,Jim Picard,Becky Capolungo,18,1,2, Amateur Adult Silver Am. Mambo  (M),Sample,0,rmt11a,4042304C,134,Brook Metcalf,Am. Mambo,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,11,1,1, Amateur Junior II Bronze Rhythm  (CRS),Sample,0,rmt11a,402B2841,129,Lori Ackerman,Cha Cha,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,12,1,1, Amateur Junior II Bronze Rhythm  (CRS),Sample,0,rmt11a,402B2841,129,Val Cunningham,Cha Cha,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,13,1,1, Amateur Junior II Bronze Rhythm  (CRS),Sample,0,rmt11a,402B2841,129,Lindsey Dechant,Cha Cha,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,16,1,1, Amateur Junior II Bronze Rhythm  (CRS),Sample,0,rmt11a,402B2841,129,Corbin McCan,Cha Cha,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,18,1,1, Amateur Junior II Bronze Rhythm  (CRS),Sample,0,rmt11a,402B2841,129,Brook Metcalf,Cha Cha,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,11,1,1, Amateur Junior II Bronze Rhythm  (CRS),Sample,1,rmt11a,402B2841,129,Lori Ackerman,Rumba,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,12,1,1, Amateur Junior II Bronze Rhythm  (CRS),Sample,1,rmt11a,402B2841,129,Val Cunningham,Rumba,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,13,1,1, Amateur Junior II Bronze Rhythm  (CRS),Sample,1,rmt11a,402B2841,129,Lindsey Dechant,Rumba,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,16,1,1, Amateur Junior II Bronze Rhythm  (CRS),Sample,1,rmt11a,402B2841,129,Corbin McCan,Rumba,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,18,1,1, Amateur Junior II Bronze Rhythm  (CRS),Sample,1,rmt11a,402B2841,129,Brook Metcalf,Rumba,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,11,1,1, Amateur Junior II Bronze Rhythm  (CRS),Sample,2,rmt11a,402B2841,129,Lori Ackerman,Swing,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,12,1,1, Amateur Junior II Bronze Rhythm  (CRS),Sample,2,rmt11a,402B2841,129,Val Cunningham,Swing,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,13,1,1, Amateur Junior II Bronze Rhythm  (CRS),Sample,2,rmt11a,402B2841,129,Lindsey Dechant,Swing,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,16,1,1, Amateur Junior II Bronze Rhythm  (CRS),Sample,2,rmt11a,402B2841,129,Corbin McCan,Swing,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,18,1,1, Amateur Junior II Bronze Rhythm  (CRS),Sample,2,rmt11a,402B2841,129,Brook Metcalf,Swing,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,11,1,1, Amateur Adult Bronze Rhythm  (CRS),Sample,0,rmt11a,40422841,115,Lori Ackerman,Cha Cha,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,12,1,1, Amateur Adult Bronze Rhythm  (CRS),Sample,0,rmt11a,40422841,115,Val Cunningham,Cha Cha,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,13,1,1, Amateur Adult Bronze Rhythm  (CRS),Sample,0,rmt11a,40422841,115,Lindsey Dechant,Cha Cha,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,16,1,1, Amateur Adult Bronze Rhythm  (CRS),Sample,0,rmt11a,40422841,115,Corbin McCan,Cha Cha,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,18,1,1, Amateur Adult Bronze Rhythm  (CRS),Sample,0,rmt11a,40422841,115,Brook Metcalf,Cha Cha,1
+CO,0,2,Final,Chad Kofoed,Ammie Vincent,11,2,2, Amateur Adult Bronze Rhythm  (CRS),Sample,0,rmt11a,40422841,128,Lori Ackerman,Cha Cha,2
+CO,0,2,Final,Chad Kofoed,Ammie Vincent,12,2,2, Amateur Adult Bronze Rhythm  (CRS),Sample,0,rmt11a,40422841,128,Val Cunningham,Cha Cha,2
+CO,0,2,Final,Chad Kofoed,Ammie Vincent,13,2,2, Amateur Adult Bronze Rhythm  (CRS),Sample,0,rmt11a,40422841,128,Lindsey Dechant,Cha Cha,2
+CO,0,2,Final,Chad Kofoed,Ammie Vincent,16,2,2, Amateur Adult Bronze Rhythm  (CRS),Sample,0,rmt11a,40422841,128,Corbin McCan,Cha Cha,2
+CO,0,2,Final,Chad Kofoed,Ammie Vincent,18,2,2, Amateur Adult Bronze Rhythm  (CRS),Sample,0,rmt11a,40422841,128,Brook Metcalf,Cha Cha,2
+CO,0,2,Final,Charles Duncan,Kimberly Nuttall,11,1,2, Amateur Adult Bronze Rhythm  (CRS),Sample,1,rmt11a,40422841,115,Lori Ackerman,Rumba,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,12,1,1, Amateur Adult Bronze Rhythm  (CRS),Sample,1,rmt11a,40422841,115,Val Cunningham,Rumba,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,13,1,1, Amateur Adult Bronze Rhythm  (CRS),Sample,1,rmt11a,40422841,115,Lindsey Dechant,Rumba,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,16,1,1, Amateur Adult Bronze Rhythm  (CRS),Sample,1,rmt11a,40422841,115,Corbin McCan,Rumba,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,18,1,1, Amateur Adult Bronze Rhythm  (CRS),Sample,1,rmt11a,40422841,115,Brook Metcalf,Rumba,1
+CO,0,1,Final,Chad Kofoed,Ammie Vincent,11,2,1, Amateur Adult Bronze Rhythm  (CRS),Sample,1,rmt11a,40422841,128,Lori Ackerman,Rumba,2
+CO,0,2,Final,Chad Kofoed,Ammie Vincent,12,2,2, Amateur Adult Bronze Rhythm  (CRS),Sample,1,rmt11a,40422841,128,Val Cunningham,Rumba,2
+CO,0,2,Final,Chad Kofoed,Ammie Vincent,13,2,2, Amateur Adult Bronze Rhythm  (CRS),Sample,1,rmt11a,40422841,128,Lindsey Dechant,Rumba,2
+CO,0,2,Final,Chad Kofoed,Ammie Vincent,16,2,2, Amateur Adult Bronze Rhythm  (CRS),Sample,1,rmt11a,40422841,128,Corbin McCan,Rumba,2
+CO,0,2,Final,Chad Kofoed,Ammie Vincent,18,2,2, Amateur Adult Bronze Rhythm  (CRS),Sample,1,rmt11a,40422841,128,Brook Metcalf,Rumba,2
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,11,1,1, Amateur Adult Bronze Rhythm  (CRS),Sample,2,rmt11a,40422841,115,Lori Ackerman,Swing,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,12,1,1, Amateur Adult Bronze Rhythm  (CRS),Sample,2,rmt11a,40422841,115,Val Cunningham,Swing,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,13,1,1, Amateur Adult Bronze Rhythm  (CRS),Sample,2,rmt11a,40422841,115,Lindsey Dechant,Swing,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,16,1,1, Amateur Adult Bronze Rhythm  (CRS),Sample,2,rmt11a,40422841,115,Corbin McCan,Swing,1
+CO,0,1,Final,Charles Duncan,Kimberly Nuttall,18,1,1, Amateur Adult Bronze Rhythm  (CRS),Sample,2,rmt11a,40422841,115,Brook Metcalf,Swing,1
+CO,0,2,Final,Chad Kofoed,Ammie Vincent,11,2,2, Amateur Adult Bronze Rhythm  (CRS),Sample,2,rmt11a,40422841,128,Lori Ackerman,Swing,2
+CO,0,2,Final,Chad Kofoed,Ammie Vincent,12,2,2, Amateur Adult Bronze Rhythm  (CRS),Sample,2,rmt11a,40422841,128,Val Cunningham,Swing,2
+CO,0,2,Final,Chad Kofoed,Ammie Vincent,13,2,2, Amateur Adult Bronze Rhythm  (CRS),Sample,2,rmt11a,40422841,128,Lindsey Dechant,Swing,2
+CO,0,2,Final,Chad Kofoed,Ammie Vincent,16,2,2, Amateur Adult Bronze Rhythm  (CRS),Sample,2,rmt11a,40422841,128,Corbin McCan,Swing,2
+CO,0,2,Final,Chad Kofoed,Ammie Vincent,18,2,2, Amateur Adult Bronze Rhythm  (CRS),Sample,2,rmt11a,40422841,128,Brook Metcalf,Swing,2
+MN,0,1,Final,Jim Ruark,Linda Ruark,11,1,1, Amateur Senior II Bronze Rhythm  (CRS),Sample,0,rmt11a,40442841,123,Lori Ackerman,Cha Cha,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,12,1,1, Amateur Senior II Bronze Rhythm  (CRS),Sample,0,rmt11a,40442841,123,Val Cunningham,Cha Cha,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,13,1,1, Amateur Senior II Bronze Rhythm  (CRS),Sample,0,rmt11a,40442841,123,Lindsey Dechant,Cha Cha,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,16,1,1, Amateur Senior II Bronze Rhythm  (CRS),Sample,0,rmt11a,40442841,123,Corbin McCan,Cha Cha,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,18,1,1, Amateur Senior II Bronze Rhythm  (CRS),Sample,0,rmt11a,40442841,123,Brook Metcalf,Cha Cha,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,11,1,1, Amateur Senior II Bronze Rhythm  (CRS),Sample,1,rmt11a,40442841,123,Lori Ackerman,Rumba,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,12,1,1, Amateur Senior II Bronze Rhythm  (CRS),Sample,1,rmt11a,40442841,123,Val Cunningham,Rumba,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,13,1,1, Amateur Senior II Bronze Rhythm  (CRS),Sample,1,rmt11a,40442841,123,Lindsey Dechant,Rumba,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,16,1,1, Amateur Senior II Bronze Rhythm  (CRS),Sample,1,rmt11a,40442841,123,Corbin McCan,Rumba,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,18,1,1, Amateur Senior II Bronze Rhythm  (CRS),Sample,1,rmt11a,40442841,123,Brook Metcalf,Rumba,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,11,1,1, Amateur Senior II Bronze Rhythm  (CRS),Sample,2,rmt11a,40442841,123,Lori Ackerman,Swing,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,12,1,1, Amateur Senior II Bronze Rhythm  (CRS),Sample,2,rmt11a,40442841,123,Val Cunningham,Swing,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,13,1,1, Amateur Senior II Bronze Rhythm  (CRS),Sample,2,rmt11a,40442841,123,Lindsey Dechant,Swing,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,16,1,1, Amateur Senior II Bronze Rhythm  (CRS),Sample,2,rmt11a,40442841,123,Corbin McCan,Swing,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,18,1,1, Amateur Senior II Bronze Rhythm  (CRS),Sample,2,rmt11a,40442841,123,Brook Metcalf,Swing,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,11,1,1, Amateur Youth Bronze Rhythm  (CRS),Sample,0,rmt11a,402F2841,129,Lori Ackerman,Cha Cha,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,12,1,1, Amateur Youth Bronze Rhythm  (CRS),Sample,0,rmt11a,402F2841,129,Val Cunningham,Cha Cha,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,13,1,1, Amateur Youth Bronze Rhythm  (CRS),Sample,0,rmt11a,402F2841,129,Lindsey Dechant,Cha Cha,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,16,1,1, Amateur Youth Bronze Rhythm  (CRS),Sample,0,rmt11a,402F2841,129,Corbin McCan,Cha Cha,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,18,1,1, Amateur Youth Bronze Rhythm  (CRS),Sample,0,rmt11a,402F2841,129,Brook Metcalf,Cha Cha,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,11,1,1, Amateur Youth Bronze Rhythm  (CRS),Sample,1,rmt11a,402F2841,129,Lori Ackerman,Rumba,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,12,1,1, Amateur Youth Bronze Rhythm  (CRS),Sample,1,rmt11a,402F2841,129,Val Cunningham,Rumba,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,13,1,1, Amateur Youth Bronze Rhythm  (CRS),Sample,1,rmt11a,402F2841,129,Lindsey Dechant,Rumba,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,16,1,1, Amateur Youth Bronze Rhythm  (CRS),Sample,1,rmt11a,402F2841,129,Corbin McCan,Rumba,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,18,1,1, Amateur Youth Bronze Rhythm  (CRS),Sample,1,rmt11a,402F2841,129,Brook Metcalf,Rumba,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,11,1,1, Amateur Youth Bronze Rhythm  (CRS),Sample,2,rmt11a,402F2841,129,Lori Ackerman,Swing,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,12,1,1, Amateur Youth Bronze Rhythm  (CRS),Sample,2,rmt11a,402F2841,129,Val Cunningham,Swing,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,13,1,1, Amateur Youth Bronze Rhythm  (CRS),Sample,2,rmt11a,402F2841,129,Lindsey Dechant,Swing,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,16,1,1, Amateur Youth Bronze Rhythm  (CRS),Sample,2,rmt11a,402F2841,129,Corbin McCan,Swing,1
+CO,0,1,Final,Braedan Smith,Jordyn Floming,18,1,1, Amateur Youth Bronze Rhythm  (CRS),Sample,2,rmt11a,402F2841,129,Brook Metcalf,Swing,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,11,1,1, Amateur Senior I Bronze Rhythm  (CRS),Sample,0,rmt11a,40432841,115,Lori Ackerman,Cha Cha,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,12,1,1, Amateur Senior I Bronze Rhythm  (CRS),Sample,0,rmt11a,40432841,115,Val Cunningham,Cha Cha,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,13,1,1, Amateur Senior I Bronze Rhythm  (CRS),Sample,0,rmt11a,40432841,115,Lindsey Dechant,Cha Cha,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,16,1,1, Amateur Senior I Bronze Rhythm  (CRS),Sample,0,rmt11a,40432841,115,Corbin McCan,Cha Cha,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,18,1,1, Amateur Senior I Bronze Rhythm  (CRS),Sample,0,rmt11a,40432841,115,Brook Metcalf,Cha Cha,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,11,1,1, Amateur Senior I Bronze Rhythm  (CRS),Sample,1,rmt11a,40432841,115,Lori Ackerman,Rumba,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,12,1,1, Amateur Senior I Bronze Rhythm  (CRS),Sample,1,rmt11a,40432841,115,Val Cunningham,Rumba,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,13,1,1, Amateur Senior I Bronze Rhythm  (CRS),Sample,1,rmt11a,40432841,115,Lindsey Dechant,Rumba,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,16,1,1, Amateur Senior I Bronze Rhythm  (CRS),Sample,1,rmt11a,40432841,115,Corbin McCan,Rumba,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,18,1,1, Amateur Senior I Bronze Rhythm  (CRS),Sample,1,rmt11a,40432841,115,Brook Metcalf,Rumba,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,11,1,1, Amateur Senior I Bronze Rhythm  (CRS),Sample,2,rmt11a,40432841,115,Lori Ackerman,Swing,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,12,1,1, Amateur Senior I Bronze Rhythm  (CRS),Sample,2,rmt11a,40432841,115,Val Cunningham,Swing,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,13,1,1, Amateur Senior I Bronze Rhythm  (CRS),Sample,2,rmt11a,40432841,115,Lindsey Dechant,Swing,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,16,1,1, Amateur Senior I Bronze Rhythm  (CRS),Sample,2,rmt11a,40432841,115,Corbin McCan,Swing,1
+CO,0,1,Final,Charles Duncan,Carol J. Koth,18,1,1, Amateur Senior I Bronze Rhythm  (CRS),Sample,2,rmt11a,40432841,115,Brook Metcalf,Swing,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,11,1,1, Amateur Senior III Bronze Rhythm  (CRS),Sample,0,rmt11a,40452841,123,Lori Ackerman,Cha Cha,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,12,1,1, Amateur Senior III Bronze Rhythm  (CRS),Sample,0,rmt11a,40452841,123,Val Cunningham,Cha Cha,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,13,1,1, Amateur Senior III Bronze Rhythm  (CRS),Sample,0,rmt11a,40452841,123,Lindsey Dechant,Cha Cha,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,16,1,1, Amateur Senior III Bronze Rhythm  (CRS),Sample,0,rmt11a,40452841,123,Corbin McCan,Cha Cha,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,18,1,1, Amateur Senior III Bronze Rhythm  (CRS),Sample,0,rmt11a,40452841,123,Brook Metcalf,Cha Cha,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,11,1,1, Amateur Senior III Bronze Rhythm  (CRS),Sample,1,rmt11a,40452841,123,Lori Ackerman,Rumba,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,12,1,1, Amateur Senior III Bronze Rhythm  (CRS),Sample,1,rmt11a,40452841,123,Val Cunningham,Rumba,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,13,1,1, Amateur Senior III Bronze Rhythm  (CRS),Sample,1,rmt11a,40452841,123,Lindsey Dechant,Rumba,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,16,1,1, Amateur Senior III Bronze Rhythm  (CRS),Sample,1,rmt11a,40452841,123,Corbin McCan,Rumba,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,18,1,1, Amateur Senior III Bronze Rhythm  (CRS),Sample,1,rmt11a,40452841,123,Brook Metcalf,Rumba,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,11,1,1, Amateur Senior III Bronze Rhythm  (CRS),Sample,2,rmt11a,40452841,123,Lori Ackerman,Swing,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,12,1,1, Amateur Senior III Bronze Rhythm  (CRS),Sample,2,rmt11a,40452841,123,Val Cunningham,Swing,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,13,1,1, Amateur Senior III Bronze Rhythm  (CRS),Sample,2,rmt11a,40452841,123,Lindsey Dechant,Swing,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,16,1,1, Amateur Senior III Bronze Rhythm  (CRS),Sample,2,rmt11a,40452841,123,Corbin McCan,Swing,1
+MN,0,1,Final,Jim Ruark,Linda Ruark,18,1,1, Amateur Senior III Bronze Rhythm  (CRS),Sample,2,rmt11a,40452841,123,Brook Metcalf,Swing,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,11,1,1, Amateur Youth Silver Rhythm  (CRSB),Sample,0,rmt11a,402F3041,130,Lori Ackerman,Cha Cha,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,12,1,1, Amateur Youth Silver Rhythm  (CRSB),Sample,0,rmt11a,402F3041,130,Val Cunningham,Cha Cha,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,13,1,1, Amateur Youth Silver Rhythm  (CRSB),Sample,0,rmt11a,402F3041,130,Lindsey Dechant,Cha Cha,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,16,1,1, Amateur Youth Silver Rhythm  (CRSB),Sample,0,rmt11a,402F3041,130,Corbin McCan,Cha Cha,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,18,1,1, Amateur Youth Silver Rhythm  (CRSB),Sample,0,rmt11a,402F3041,130,Brook Metcalf,Cha Cha,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,11,1,1, Amateur Youth Silver Rhythm  (CRSB),Sample,1,rmt11a,402F3041,130,Lori Ackerman,Rumba,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,12,1,1, Amateur Youth Silver Rhythm  (CRSB),Sample,1,rmt11a,402F3041,130,Val Cunningham,Rumba,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,13,1,1, Amateur Youth Silver Rhythm  (CRSB),Sample,1,rmt11a,402F3041,130,Lindsey Dechant,Rumba,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,16,1,1, Amateur Youth Silver Rhythm  (CRSB),Sample,1,rmt11a,402F3041,130,Corbin McCan,Rumba,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,18,1,1, Amateur Youth Silver Rhythm  (CRSB),Sample,1,rmt11a,402F3041,130,Brook Metcalf,Rumba,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,11,1,1, Amateur Youth Silver Rhythm  (CRSB),Sample,2,rmt11a,402F3041,130,Lori Ackerman,Swing,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,12,1,1, Amateur Youth Silver Rhythm  (CRSB),Sample,2,rmt11a,402F3041,130,Val Cunningham,Swing,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,13,1,1, Amateur Youth Silver Rhythm  (CRSB),Sample,2,rmt11a,402F3041,130,Lindsey Dechant,Swing,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,16,1,1, Amateur Youth Silver Rhythm  (CRSB),Sample,2,rmt11a,402F3041,130,Corbin McCan,Swing,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,18,1,1, Amateur Youth Silver Rhythm  (CRSB),Sample,2,rmt11a,402F3041,130,Brook Metcalf,Swing,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,11,1,1, Amateur Youth Silver Rhythm  (CRSB),Sample,3,rmt11a,402F3041,130,Lori Ackerman,Bolero,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,12,1,1, Amateur Youth Silver Rhythm  (CRSB),Sample,3,rmt11a,402F3041,130,Val Cunningham,Bolero,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,13,1,1, Amateur Youth Silver Rhythm  (CRSB),Sample,3,rmt11a,402F3041,130,Lindsey Dechant,Bolero,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,16,1,1, Amateur Youth Silver Rhythm  (CRSB),Sample,3,rmt11a,402F3041,130,Corbin McCan,Bolero,1
+CO,0,1,Final,Drayton Harvey,Amber Goldsmith,18,1,1, Amateur Youth Silver Rhythm  (CRSB),Sample,3,rmt11a,402F3041,130,Brook Metcalf,Bolero,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,11,1,1, Amateur Adult Silver Rhythm  (CRSB),Sample,0,rmt11a,40423041,134,Lori Ackerman,Cha Cha,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,12,1,1, Amateur Adult Silver Rhythm  (CRSB),Sample,0,rmt11a,40423041,134,Val Cunningham,Cha Cha,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,13,1,1, Amateur Adult Silver Rhythm  (CRSB),Sample,0,rmt11a,40423041,134,Lindsey Dechant,Cha Cha,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,16,1,1, Amateur Adult Silver Rhythm  (CRSB),Sample,0,rmt11a,40423041,134,Corbin McCan,Cha Cha,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,18,1,1, Amateur Adult Silver Rhythm  (CRSB),Sample,0,rmt11a,40423041,134,Brook Metcalf,Cha Cha,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,11,1,1, Amateur Adult Silver Rhythm  (CRSB),Sample,1,rmt11a,40423041,134,Lori Ackerman,Rumba,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,12,1,1, Amateur Adult Silver Rhythm  (CRSB),Sample,1,rmt11a,40423041,134,Val Cunningham,Rumba,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,13,1,1, Amateur Adult Silver Rhythm  (CRSB),Sample,1,rmt11a,40423041,134,Lindsey Dechant,Rumba,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,16,1,1, Amateur Adult Silver Rhythm  (CRSB),Sample,1,rmt11a,40423041,134,Corbin McCan,Rumba,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,18,1,1, Amateur Adult Silver Rhythm  (CRSB),Sample,1,rmt11a,40423041,134,Brook Metcalf,Rumba,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,11,1,1, Amateur Adult Silver Rhythm  (CRSB),Sample,2,rmt11a,40423041,134,Lori Ackerman,Swing,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,12,1,1, Amateur Adult Silver Rhythm  (CRSB),Sample,2,rmt11a,40423041,134,Val Cunningham,Swing,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,13,1,1, Amateur Adult Silver Rhythm  (CRSB),Sample,2,rmt11a,40423041,134,Lindsey Dechant,Swing,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,16,1,1, Amateur Adult Silver Rhythm  (CRSB),Sample,2,rmt11a,40423041,134,Corbin McCan,Swing,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,18,1,1, Amateur Adult Silver Rhythm  (CRSB),Sample,2,rmt11a,40423041,134,Brook Metcalf,Swing,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,11,1,1, Amateur Adult Silver Rhythm  (CRSB),Sample,3,rmt11a,40423041,134,Lori Ackerman,Bolero,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,12,1,1, Amateur Adult Silver Rhythm  (CRSB),Sample,3,rmt11a,40423041,134,Val Cunningham,Bolero,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,13,1,1, Amateur Adult Silver Rhythm  (CRSB),Sample,3,rmt11a,40423041,134,Lindsey Dechant,Bolero,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,16,1,1, Amateur Adult Silver Rhythm  (CRSB),Sample,3,rmt11a,40423041,134,Corbin McCan,Bolero,1
+CO,0,1,Final,Jim Picard,Becky Capolungo,18,1,1, Amateur Adult Silver Rhythm  (CRSB),Sample,3,rmt11a,40423041,134,Brook Metcalf,Bolero,1

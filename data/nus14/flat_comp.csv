@@ -1,0 +1,861 @@
+couple_location,round_id,mark,round_name,lead_name,follow_name,judge,result,value,heat_name,comp_name,dance_id,comp_id,heat_id,couple,judge_name,dance_name,final_result
+Melvyn Low Dance Studio,0,1,Final,Daniel Pang,Mabel Heng,12,1,1, All Beginner Intl. Waltz  (W),Sample,0,nus14,41318818,24,Andrey Gorbunov,Intl. Waltz,1
+Melvyn Low Dance Studio,0,1,Final,Daniel Pang,Mabel Heng,14,1,1, All Beginner Intl. Waltz  (W),Sample,0,nus14,41318818,24,Tuan Phan,Intl. Waltz,1
+Melvyn Low Dance Studio,0,1,Final,Daniel Pang,Mabel Heng,15,1,1, All Beginner Intl. Waltz  (W),Sample,0,nus14,41318818,24,Anthony Price,Intl. Waltz,1
+Melvyn Low Dance Studio,0,2,Final,Daniel Pang,Mabel Heng,16,1,2, All Beginner Intl. Waltz  (W),Sample,0,nus14,41318818,24,Matthew Rooke,Intl. Waltz,1
+Melvyn Low Dance Studio,0,1,Final,Daniel Pang,Mabel Heng,17,1,1, All Beginner Intl. Waltz  (W),Sample,0,nus14,41318818,24,Aleena Tan,Intl. Waltz,1
+NUS Ballroom Team,0,5,Final,Kang Tan,Xiaotong Xie,12,2,5, All Beginner Intl. Waltz  (W),Sample,0,nus14,41318818,2,Andrey Gorbunov,Intl. Waltz,2
+NUS Ballroom Team,0,2,Final,Kang Tan,Xiaotong Xie,14,2,2, All Beginner Intl. Waltz  (W),Sample,0,nus14,41318818,2,Tuan Phan,Intl. Waltz,2
+NUS Ballroom Team,0,2,Final,Kang Tan,Xiaotong Xie,15,2,2, All Beginner Intl. Waltz  (W),Sample,0,nus14,41318818,2,Anthony Price,Intl. Waltz,2
+NUS Ballroom Team,0,1,Final,Kang Tan,Xiaotong Xie,16,2,1, All Beginner Intl. Waltz  (W),Sample,0,nus14,41318818,2,Matthew Rooke,Intl. Waltz,2
+NUS Ballroom Team,0,3,Final,Kang Tan,Xiaotong Xie,17,2,3, All Beginner Intl. Waltz  (W),Sample,0,nus14,41318818,2,Aleena Tan,Intl. Waltz,2
+NUS Ballroom Team,0,4,Final,Abel Tan,Anna Filippova,12,3,4, All Beginner Intl. Waltz  (W),Sample,0,nus14,41318818,26,Andrey Gorbunov,Intl. Waltz,3
+NUS Ballroom Team,0,4,Final,Abel Tan,Anna Filippova,14,3,4, All Beginner Intl. Waltz  (W),Sample,0,nus14,41318818,26,Tuan Phan,Intl. Waltz,3
+NUS Ballroom Team,0,3,Final,Abel Tan,Anna Filippova,15,3,3, All Beginner Intl. Waltz  (W),Sample,0,nus14,41318818,26,Anthony Price,Intl. Waltz,3
+NUS Ballroom Team,0,5,Final,Abel Tan,Anna Filippova,16,3,5, All Beginner Intl. Waltz  (W),Sample,0,nus14,41318818,26,Matthew Rooke,Intl. Waltz,3
+NUS Ballroom Team,0,2,Final,Abel Tan,Anna Filippova,17,3,2, All Beginner Intl. Waltz  (W),Sample,0,nus14,41318818,26,Aleena Tan,Intl. Waltz,3
+NUS Ballroom Team,0,3,Final,Yin Qing Lee,Wuisiew Tan,12,4,3, All Beginner Intl. Waltz  (W),Sample,0,nus14,41318818,18,Andrey Gorbunov,Intl. Waltz,4
+NUS Ballroom Team,0,3,Final,Yin Qing Lee,Wuisiew Tan,14,4,3, All Beginner Intl. Waltz  (W),Sample,0,nus14,41318818,18,Tuan Phan,Intl. Waltz,4
+NUS Ballroom Team,0,4,Final,Yin Qing Lee,Wuisiew Tan,15,4,4, All Beginner Intl. Waltz  (W),Sample,0,nus14,41318818,18,Anthony Price,Intl. Waltz,4
+NUS Ballroom Team,0,4,Final,Yin Qing Lee,Wuisiew Tan,16,4,4, All Beginner Intl. Waltz  (W),Sample,0,nus14,41318818,18,Matthew Rooke,Intl. Waltz,4
+NUS Ballroom Team,0,5,Final,Yin Qing Lee,Wuisiew Tan,17,4,5, All Beginner Intl. Waltz  (W),Sample,0,nus14,41318818,18,Aleena Tan,Intl. Waltz,4
+NUS Ballroom Team,0,2,Final,XIAOKAI REN,AMANDA JINGQING TANG,12,5,2, All Beginner Intl. Waltz  (W),Sample,0,nus14,41318818,30,Andrey Gorbunov,Intl. Waltz,5
+NUS Ballroom Team,0,5,Final,XIAOKAI REN,AMANDA JINGQING TANG,14,5,5, All Beginner Intl. Waltz  (W),Sample,0,nus14,41318818,30,Tuan Phan,Intl. Waltz,5
+NUS Ballroom Team,0,5,Final,XIAOKAI REN,AMANDA JINGQING TANG,15,5,5, All Beginner Intl. Waltz  (W),Sample,0,nus14,41318818,30,Anthony Price,Intl. Waltz,5
+NUS Ballroom Team,0,3,Final,XIAOKAI REN,AMANDA JINGQING TANG,16,5,3, All Beginner Intl. Waltz  (W),Sample,0,nus14,41318818,30,Matthew Rooke,Intl. Waltz,5
+NUS Ballroom Team,0,4,Final,XIAOKAI REN,AMANDA JINGQING TANG,17,5,4, All Beginner Intl. Waltz  (W),Sample,0,nus14,41318818,30,Aleena Tan,Intl. Waltz,5
+,0,6,Final,Shawn Gao,shilpa vijayasrinivasan,12,6,6, All Beginner Intl. Waltz  (W),Sample,0,nus14,41318818,34,Andrey Gorbunov,Intl. Waltz,6
+,0,6,Final,Shawn Gao,shilpa vijayasrinivasan,14,6,6, All Beginner Intl. Waltz  (W),Sample,0,nus14,41318818,34,Tuan Phan,Intl. Waltz,6
+,0,6,Final,Shawn Gao,shilpa vijayasrinivasan,15,6,6, All Beginner Intl. Waltz  (W),Sample,0,nus14,41318818,34,Anthony Price,Intl. Waltz,6
+,0,6,Final,Shawn Gao,shilpa vijayasrinivasan,16,6,6, All Beginner Intl. Waltz  (W),Sample,0,nus14,41318818,34,Matthew Rooke,Intl. Waltz,6
+,0,6,Final,Shawn Gao,shilpa vijayasrinivasan,17,6,6, All Beginner Intl. Waltz  (W),Sample,0,nus14,41318818,34,Aleena Tan,Intl. Waltz,6
+Melvyn Low Dance Studio,0,1,Final,Daniel Pang,Mabel Heng,12,1,1, All Beginner Intl. Tango  (T),Sample,0,nus14,41318819,24,Andrey Gorbunov,Intl. Tango,1
+Melvyn Low Dance Studio,0,1,Final,Daniel Pang,Mabel Heng,14,1,1, All Beginner Intl. Tango  (T),Sample,0,nus14,41318819,24,Tuan Phan,Intl. Tango,1
+Melvyn Low Dance Studio,0,1,Final,Daniel Pang,Mabel Heng,15,1,1, All Beginner Intl. Tango  (T),Sample,0,nus14,41318819,24,Anthony Price,Intl. Tango,1
+Melvyn Low Dance Studio,0,2,Final,Daniel Pang,Mabel Heng,16,1,2, All Beginner Intl. Tango  (T),Sample,0,nus14,41318819,24,Matthew Rooke,Intl. Tango,1
+Melvyn Low Dance Studio,0,1,Final,Daniel Pang,Mabel Heng,17,1,1, All Beginner Intl. Tango  (T),Sample,0,nus14,41318819,24,Aleena Tan,Intl. Tango,1
+NUS Ballroom Team,0,3,Final,Kang Tan,Xiaotong Xie,12,2,3, All Beginner Intl. Tango  (T),Sample,0,nus14,41318819,2,Andrey Gorbunov,Intl. Tango,2
+NUS Ballroom Team,0,2,Final,Kang Tan,Xiaotong Xie,14,2,2, All Beginner Intl. Tango  (T),Sample,0,nus14,41318819,2,Tuan Phan,Intl. Tango,2
+NUS Ballroom Team,0,2,Final,Kang Tan,Xiaotong Xie,15,2,2, All Beginner Intl. Tango  (T),Sample,0,nus14,41318819,2,Anthony Price,Intl. Tango,2
+NUS Ballroom Team,0,1,Final,Kang Tan,Xiaotong Xie,16,2,1, All Beginner Intl. Tango  (T),Sample,0,nus14,41318819,2,Matthew Rooke,Intl. Tango,2
+NUS Ballroom Team,0,2,Final,Kang Tan,Xiaotong Xie,17,2,2, All Beginner Intl. Tango  (T),Sample,0,nus14,41318819,2,Aleena Tan,Intl. Tango,2
+NUS Ballroom Team,0,2,Final,XIAOKAI REN,AMANDA JINGQING TANG,12,3,2, All Beginner Intl. Tango  (T),Sample,0,nus14,41318819,30,Andrey Gorbunov,Intl. Tango,3
+NUS Ballroom Team,0,4,Final,XIAOKAI REN,AMANDA JINGQING TANG,14,3,4, All Beginner Intl. Tango  (T),Sample,0,nus14,41318819,30,Tuan Phan,Intl. Tango,3
+NUS Ballroom Team,0,3,Final,XIAOKAI REN,AMANDA JINGQING TANG,15,3,3, All Beginner Intl. Tango  (T),Sample,0,nus14,41318819,30,Anthony Price,Intl. Tango,3
+NUS Ballroom Team,0,3,Final,XIAOKAI REN,AMANDA JINGQING TANG,16,3,3, All Beginner Intl. Tango  (T),Sample,0,nus14,41318819,30,Matthew Rooke,Intl. Tango,3
+NUS Ballroom Team,0,4,Final,XIAOKAI REN,AMANDA JINGQING TANG,17,3,4, All Beginner Intl. Tango  (T),Sample,0,nus14,41318819,30,Aleena Tan,Intl. Tango,3
+NUS Ballroom Team,0,4,Final,Abel Tan,Anna Filippova,12,4,4, All Beginner Intl. Tango  (T),Sample,0,nus14,41318819,26,Andrey Gorbunov,Intl. Tango,4
+NUS Ballroom Team,0,3,Final,Abel Tan,Anna Filippova,14,4,3, All Beginner Intl. Tango  (T),Sample,0,nus14,41318819,26,Tuan Phan,Intl. Tango,4
+NUS Ballroom Team,0,4,Final,Abel Tan,Anna Filippova,15,4,4, All Beginner Intl. Tango  (T),Sample,0,nus14,41318819,26,Anthony Price,Intl. Tango,4
+NUS Ballroom Team,0,4,Final,Abel Tan,Anna Filippova,16,4,4, All Beginner Intl. Tango  (T),Sample,0,nus14,41318819,26,Matthew Rooke,Intl. Tango,4
+NUS Ballroom Team,0,3,Final,Abel Tan,Anna Filippova,17,4,3, All Beginner Intl. Tango  (T),Sample,0,nus14,41318819,26,Aleena Tan,Intl. Tango,4
+,0,6,Final,Shawn Gao,shilpa vijayasrinivasan,12,5,6, All Beginner Intl. Tango  (T),Sample,0,nus14,41318819,34,Andrey Gorbunov,Intl. Tango,5
+,0,5,Final,Shawn Gao,shilpa vijayasrinivasan,14,5,5, All Beginner Intl. Tango  (T),Sample,0,nus14,41318819,34,Tuan Phan,Intl. Tango,5
+,0,5,Final,Shawn Gao,shilpa vijayasrinivasan,15,5,5, All Beginner Intl. Tango  (T),Sample,0,nus14,41318819,34,Anthony Price,Intl. Tango,5
+,0,5,Final,Shawn Gao,shilpa vijayasrinivasan,16,5,5, All Beginner Intl. Tango  (T),Sample,0,nus14,41318819,34,Matthew Rooke,Intl. Tango,5
+,0,6,Final,Shawn Gao,shilpa vijayasrinivasan,17,5,6, All Beginner Intl. Tango  (T),Sample,0,nus14,41318819,34,Aleena Tan,Intl. Tango,5
+NUS Ballroom Team,0,5,Final,Yin Qing Lee,Chen Hui Ng,12,6,5, All Beginner Intl. Tango  (T),Sample,0,nus14,41318819,18,Andrey Gorbunov,Intl. Tango,6
+NUS Ballroom Team,0,6,Final,Yin Qing Lee,Chen Hui Ng,14,6,6, All Beginner Intl. Tango  (T),Sample,0,nus14,41318819,18,Tuan Phan,Intl. Tango,6
+NUS Ballroom Team,0,6,Final,Yin Qing Lee,Chen Hui Ng,15,6,6, All Beginner Intl. Tango  (T),Sample,0,nus14,41318819,18,Anthony Price,Intl. Tango,6
+NUS Ballroom Team,0,6,Final,Yin Qing Lee,Chen Hui Ng,16,6,6, All Beginner Intl. Tango  (T),Sample,0,nus14,41318819,18,Matthew Rooke,Intl. Tango,6
+NUS Ballroom Team,0,5,Final,Yin Qing Lee,Chen Hui Ng,17,6,5, All Beginner Intl. Tango  (T),Sample,0,nus14,41318819,18,Aleena Tan,Intl. Tango,6
+Melvyn Low Dance Studio,0,1,Final,Daniel Pang,Mabel Heng,12,1,1, All Beginner Intl. V. Waltz  (V),Sample,0,nus14,4131881A,24,Andrey Gorbunov,Intl. V. Waltz,1
+Melvyn Low Dance Studio,0,1,Final,Daniel Pang,Mabel Heng,14,1,1, All Beginner Intl. V. Waltz  (V),Sample,0,nus14,4131881A,24,Tuan Phan,Intl. V. Waltz,1
+Melvyn Low Dance Studio,0,1,Final,Daniel Pang,Mabel Heng,15,1,1, All Beginner Intl. V. Waltz  (V),Sample,0,nus14,4131881A,24,Anthony Price,Intl. V. Waltz,1
+Melvyn Low Dance Studio,0,1,Final,Daniel Pang,Mabel Heng,16,1,1, All Beginner Intl. V. Waltz  (V),Sample,0,nus14,4131881A,24,Matthew Rooke,Intl. V. Waltz,1
+Melvyn Low Dance Studio,0,1,Final,Daniel Pang,Mabel Heng,17,1,1, All Beginner Intl. V. Waltz  (V),Sample,0,nus14,4131881A,24,Aleena Tan,Intl. V. Waltz,1
+Melvyn Low Dance Studio,0,1,Final,Daniel Pang,Mabel Heng,12,1,1, All Beginner Intl. Foxtrot  (F),Sample,0,nus14,4131881B,24,Andrey Gorbunov,Intl. Foxtrot,1
+Melvyn Low Dance Studio,0,1,Final,Daniel Pang,Mabel Heng,14,1,1, All Beginner Intl. Foxtrot  (F),Sample,0,nus14,4131881B,24,Tuan Phan,Intl. Foxtrot,1
+Melvyn Low Dance Studio,0,1,Final,Daniel Pang,Mabel Heng,15,1,1, All Beginner Intl. Foxtrot  (F),Sample,0,nus14,4131881B,24,Anthony Price,Intl. Foxtrot,1
+Melvyn Low Dance Studio,0,1,Final,Daniel Pang,Mabel Heng,16,1,1, All Beginner Intl. Foxtrot  (F),Sample,0,nus14,4131881B,24,Matthew Rooke,Intl. Foxtrot,1
+Melvyn Low Dance Studio,0,1,Final,Daniel Pang,Mabel Heng,17,1,1, All Beginner Intl. Foxtrot  (F),Sample,0,nus14,4131881B,24,Aleena Tan,Intl. Foxtrot,1
+Melvyn Low Dance Studio,0,1,Final,Daniel Pang,Mabel Heng,12,1,1, All Beginner Intl. Quickstep  (Q),Sample,0,nus14,4131881C,24,Andrey Gorbunov,Intl. Quickstep,1
+Melvyn Low Dance Studio,0,1,Final,Daniel Pang,Mabel Heng,14,1,1, All Beginner Intl. Quickstep  (Q),Sample,0,nus14,4131881C,24,Tuan Phan,Intl. Quickstep,1
+Melvyn Low Dance Studio,0,1,Final,Daniel Pang,Mabel Heng,15,1,1, All Beginner Intl. Quickstep  (Q),Sample,0,nus14,4131881C,24,Anthony Price,Intl. Quickstep,1
+Melvyn Low Dance Studio,0,1,Final,Daniel Pang,Mabel Heng,16,1,1, All Beginner Intl. Quickstep  (Q),Sample,0,nus14,4131881C,24,Matthew Rooke,Intl. Quickstep,1
+Melvyn Low Dance Studio,0,1,Final,Daniel Pang,Mabel Heng,17,1,1, All Beginner Intl. Quickstep  (Q),Sample,0,nus14,4131881C,24,Aleena Tan,Intl. Quickstep,1
+NUS Ballroom Team,0,3,Final,Kang Tan,Xiaotong Xie,12,2,3, All Beginner Intl. Quickstep  (Q),Sample,0,nus14,4131881C,2,Andrey Gorbunov,Intl. Quickstep,2
+NUS Ballroom Team,0,2,Final,Kang Tan,Xiaotong Xie,14,2,2, All Beginner Intl. Quickstep  (Q),Sample,0,nus14,4131881C,2,Tuan Phan,Intl. Quickstep,2
+NUS Ballroom Team,0,2,Final,Kang Tan,Xiaotong Xie,15,2,2, All Beginner Intl. Quickstep  (Q),Sample,0,nus14,4131881C,2,Anthony Price,Intl. Quickstep,2
+NUS Ballroom Team,0,2,Final,Kang Tan,Xiaotong Xie,16,2,2, All Beginner Intl. Quickstep  (Q),Sample,0,nus14,4131881C,2,Matthew Rooke,Intl. Quickstep,2
+NUS Ballroom Team,0,2,Final,Kang Tan,Xiaotong Xie,17,2,2, All Beginner Intl. Quickstep  (Q),Sample,0,nus14,4131881C,2,Aleena Tan,Intl. Quickstep,2
+NUS Ballroom Team,0,2,Final,XIAOKAI REN,AMANDA JINGQING TANG,12,3,2, All Beginner Intl. Quickstep  (Q),Sample,0,nus14,4131881C,30,Andrey Gorbunov,Intl. Quickstep,3
+NUS Ballroom Team,0,5,Final,XIAOKAI REN,AMANDA JINGQING TANG,14,3,5, All Beginner Intl. Quickstep  (Q),Sample,0,nus14,4131881C,30,Tuan Phan,Intl. Quickstep,3
+NUS Ballroom Team,0,3,Final,XIAOKAI REN,AMANDA JINGQING TANG,15,3,3, All Beginner Intl. Quickstep  (Q),Sample,0,nus14,4131881C,30,Anthony Price,Intl. Quickstep,3
+NUS Ballroom Team,0,3,Final,XIAOKAI REN,AMANDA JINGQING TANG,16,3,3, All Beginner Intl. Quickstep  (Q),Sample,0,nus14,4131881C,30,Matthew Rooke,Intl. Quickstep,3
+NUS Ballroom Team,0,3,Final,XIAOKAI REN,AMANDA JINGQING TANG,17,3,3, All Beginner Intl. Quickstep  (Q),Sample,0,nus14,4131881C,30,Aleena Tan,Intl. Quickstep,3
+NUS Ballroom Team,0,4,Final,Abel Tan,Anna Filippova,12,4,4, All Beginner Intl. Quickstep  (Q),Sample,0,nus14,4131881C,26,Andrey Gorbunov,Intl. Quickstep,4
+NUS Ballroom Team,0,4,Final,Abel Tan,Anna Filippova,14,4,4, All Beginner Intl. Quickstep  (Q),Sample,0,nus14,4131881C,26,Tuan Phan,Intl. Quickstep,4
+NUS Ballroom Team,0,4,Final,Abel Tan,Anna Filippova,15,4,4, All Beginner Intl. Quickstep  (Q),Sample,0,nus14,4131881C,26,Anthony Price,Intl. Quickstep,4
+NUS Ballroom Team,0,4,Final,Abel Tan,Anna Filippova,16,4,4, All Beginner Intl. Quickstep  (Q),Sample,0,nus14,4131881C,26,Matthew Rooke,Intl. Quickstep,4
+NUS Ballroom Team,0,4,Final,Abel Tan,Anna Filippova,17,4,4, All Beginner Intl. Quickstep  (Q),Sample,0,nus14,4131881C,26,Aleena Tan,Intl. Quickstep,4
+NUS Ballroom Team,0,5,Final,Yin Qing Lee,Chen Hui Ng,12,5,5, All Beginner Intl. Quickstep  (Q),Sample,0,nus14,4131881C,18,Andrey Gorbunov,Intl. Quickstep,5
+NUS Ballroom Team,0,3,Final,Yin Qing Lee,Chen Hui Ng,14,5,3, All Beginner Intl. Quickstep  (Q),Sample,0,nus14,4131881C,18,Tuan Phan,Intl. Quickstep,5
+NUS Ballroom Team,0,5,Final,Yin Qing Lee,Chen Hui Ng,15,5,5, All Beginner Intl. Quickstep  (Q),Sample,0,nus14,4131881C,18,Anthony Price,Intl. Quickstep,5
+NUS Ballroom Team,0,5,Final,Yin Qing Lee,Chen Hui Ng,16,5,5, All Beginner Intl. Quickstep  (Q),Sample,0,nus14,4131881C,18,Matthew Rooke,Intl. Quickstep,5
+NUS Ballroom Team,0,5,Final,Yin Qing Lee,Chen Hui Ng,17,5,5, All Beginner Intl. Quickstep  (Q),Sample,0,nus14,4131881C,18,Aleena Tan,Intl. Quickstep,5
+National University of Singapore,0,2,Final,Eric Ewe,Elena Reshetova,10,1,2, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,14,Michelle Fong,Intl. Cha Cha,1
+National University of Singapore,0,2,Final,Eric Ewe,Elena Reshetova,11,1,2, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,14,Jack Goh,Intl. Cha Cha,1
+National University of Singapore,0,1,Final,Eric Ewe,Elena Reshetova,12,1,1, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,14,Andrey Gorbunov,Intl. Cha Cha,1
+National University of Singapore,0,1,Final,Eric Ewe,Elena Reshetova,13,1,1, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,14,Felix Lau,Intl. Cha Cha,1
+National University of Singapore,0,2,Final,Eric Ewe,Elena Reshetova,17,1,2, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,14,Aleena Tan,Intl. Cha Cha,1
+National University of Singapore,0,1,Final,Eric Ewe,Elena Reshetova,18,1,1, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,14,Melvin Tan,Intl. Cha Cha,1
+National University of Singapore,0,2,Final,Eric Ewe,Elena Reshetova,19,1,2, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,14,Aaron Then,Intl. Cha Cha,1
+Singapore Management University,0,3,Final,Dao Qing Lim,Rochelle Sim,10,2,3, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,13,Michelle Fong,Intl. Cha Cha,2
+Singapore Management University,0,3,Final,Dao Qing Lim,Rochelle Sim,11,2,3, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,13,Jack Goh,Intl. Cha Cha,2
+Singapore Management University,0,3,Final,Dao Qing Lim,Rochelle Sim,12,2,3, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,13,Andrey Gorbunov,Intl. Cha Cha,2
+Singapore Management University,0,5,Final,Dao Qing Lim,Rochelle Sim,13,2,5, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,13,Felix Lau,Intl. Cha Cha,2
+Singapore Management University,0,1,Final,Dao Qing Lim,Rochelle Sim,17,2,1, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,13,Aleena Tan,Intl. Cha Cha,2
+Singapore Management University,0,4,Final,Dao Qing Lim,Rochelle Sim,18,2,4, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,13,Melvin Tan,Intl. Cha Cha,2
+Singapore Management University,0,1,Final,Dao Qing Lim,Rochelle Sim,19,2,1, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,13,Aaron Then,Intl. Cha Cha,2
+,0,1,Final,Xindi Luo,Bernice Yau,10,3,1, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,8,Michelle Fong,Intl. Cha Cha,3
+,0,4,Final,Xindi Luo,Bernice Yau,11,3,4, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,8,Jack Goh,Intl. Cha Cha,3
+,0,5,Final,Xindi Luo,Bernice Yau,12,3,5, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,8,Andrey Gorbunov,Intl. Cha Cha,3
+,0,2,Final,Xindi Luo,Bernice Yau,13,3,2, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,8,Felix Lau,Intl. Cha Cha,3
+,0,3,Final,Xindi Luo,Bernice Yau,17,3,3, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,8,Aleena Tan,Intl. Cha Cha,3
+,0,2,Final,Xindi Luo,Bernice Yau,18,3,2, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,8,Melvin Tan,Intl. Cha Cha,3
+,0,5,Final,Xindi Luo,Bernice Yau,19,3,5, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,8,Aaron Then,Intl. Cha Cha,3
+National University of Singapore,0,5,Final,TAN YAN HAO,TAN YING HUI,10,4,5, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,32,Michelle Fong,Intl. Cha Cha,4
+National University of Singapore,0,1,Final,TAN YAN HAO,TAN YING HUI,11,4,1, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,32,Jack Goh,Intl. Cha Cha,4
+National University of Singapore,0,2,Final,TAN YAN HAO,TAN YING HUI,12,4,2, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,32,Andrey Gorbunov,Intl. Cha Cha,4
+National University of Singapore,0,3,Final,TAN YAN HAO,TAN YING HUI,13,4,3, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,32,Felix Lau,Intl. Cha Cha,4
+National University of Singapore,0,6,Final,TAN YAN HAO,TAN YING HUI,17,4,6, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,32,Aleena Tan,Intl. Cha Cha,4
+National University of Singapore,0,5,Final,TAN YAN HAO,TAN YING HUI,18,4,5, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,32,Melvin Tan,Intl. Cha Cha,4
+National University of Singapore,0,4,Final,TAN YAN HAO,TAN YING HUI,19,4,4, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,32,Aaron Then,Intl. Cha Cha,4
+Singapore Management University,0,4,Final,Xing Fu,Hui Min Lee,10,5,4, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,7,Michelle Fong,Intl. Cha Cha,5
+Singapore Management University,0,5,Final,Xing Fu,Hui Min Lee,11,5,5, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,7,Jack Goh,Intl. Cha Cha,5
+Singapore Management University,0,4,Final,Xing Fu,Hui Min Lee,12,5,4, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,7,Andrey Gorbunov,Intl. Cha Cha,5
+Singapore Management University,0,7,Final,Xing Fu,Hui Min Lee,13,5,7, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,7,Felix Lau,Intl. Cha Cha,5
+Singapore Management University,0,5,Final,Xing Fu,Hui Min Lee,17,5,5, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,7,Aleena Tan,Intl. Cha Cha,5
+Singapore Management University,0,3,Final,Xing Fu,Hui Min Lee,18,5,3, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,7,Melvin Tan,Intl. Cha Cha,5
+Singapore Management University,0,6,Final,Xing Fu,Hui Min Lee,19,5,6, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,7,Aaron Then,Intl. Cha Cha,5
+Singapore Management University,0,6,Final,Stephen Ngo,Valerie Chew,10,6,6, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,17,Michelle Fong,Intl. Cha Cha,6
+Singapore Management University,0,7,Final,Stephen Ngo,Valerie Chew,11,6,7, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,17,Jack Goh,Intl. Cha Cha,6
+Singapore Management University,0,6,Final,Stephen Ngo,Valerie Chew,12,6,6, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,17,Andrey Gorbunov,Intl. Cha Cha,6
+Singapore Management University,0,4,Final,Stephen Ngo,Valerie Chew,13,6,4, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,17,Felix Lau,Intl. Cha Cha,6
+Singapore Management University,0,4,Final,Stephen Ngo,Valerie Chew,17,6,4, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,17,Aleena Tan,Intl. Cha Cha,6
+Singapore Management University,0,6,Final,Stephen Ngo,Valerie Chew,18,6,6, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,17,Melvin Tan,Intl. Cha Cha,6
+Singapore Management University,0,3,Final,Stephen Ngo,Valerie Chew,19,6,3, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,17,Aaron Then,Intl. Cha Cha,6
+NUS Ballroom Team,0,7,Final,XIAOKAI REN,XIAOTONG XIE,10,7,7, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,30,Michelle Fong,Intl. Cha Cha,7
+NUS Ballroom Team,0,6,Final,XIAOKAI REN,XIAOTONG XIE,11,7,6, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,30,Jack Goh,Intl. Cha Cha,7
+NUS Ballroom Team,0,7,Final,XIAOKAI REN,XIAOTONG XIE,12,7,7, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,30,Andrey Gorbunov,Intl. Cha Cha,7
+NUS Ballroom Team,0,6,Final,XIAOKAI REN,XIAOTONG XIE,13,7,6, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,30,Felix Lau,Intl. Cha Cha,7
+NUS Ballroom Team,0,7,Final,XIAOKAI REN,XIAOTONG XIE,17,7,7, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,30,Aleena Tan,Intl. Cha Cha,7
+NUS Ballroom Team,0,7,Final,XIAOKAI REN,XIAOTONG XIE,18,7,7, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,30,Melvin Tan,Intl. Cha Cha,7
+NUS Ballroom Team,0,7,Final,XIAOKAI REN,XIAOTONG XIE,19,7,7, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,30,Aaron Then,Intl. Cha Cha,7
+Singapore Management University,1,,Semi-Final,Xing Fu,Hui Min Lee,10,R,0, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,7,Michelle Fong,Intl. Cha Cha,5
+Singapore Management University,1,,Semi-Final,Xing Fu,Hui Min Lee,11,R,0, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,7,Jack Goh,Intl. Cha Cha,5
+Singapore Management University,1,X,Semi-Final,Xing Fu,Hui Min Lee,15,R,1, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,7,Anthony Price,Intl. Cha Cha,5
+Singapore Management University,1,X,Semi-Final,Xing Fu,Hui Min Lee,18,R,1, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,7,Melvin Tan,Intl. Cha Cha,5
+Singapore Management University,1,,Semi-Final,Xing Fu,Hui Min Lee,19,R,0, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,7,Aaron Then,Intl. Cha Cha,5
+,1,X,Semi-Final,Xindi Luo,Bernice Yau,10,R,1, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,8,Michelle Fong,Intl. Cha Cha,3
+,1,X,Semi-Final,Xindi Luo,Bernice Yau,11,R,1, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,8,Jack Goh,Intl. Cha Cha,3
+,1,X,Semi-Final,Xindi Luo,Bernice Yau,15,R,1, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,8,Anthony Price,Intl. Cha Cha,3
+,1,X,Semi-Final,Xindi Luo,Bernice Yau,18,R,1, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,8,Melvin Tan,Intl. Cha Cha,3
+,1,X,Semi-Final,Xindi Luo,Bernice Yau,19,R,1, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,8,Aaron Then,Intl. Cha Cha,3
+Singapore Management University,1,X,Semi-Final,Dao Qing Lim,Rochelle Sim,10,R,1, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,13,Michelle Fong,Intl. Cha Cha,2
+Singapore Management University,1,X,Semi-Final,Dao Qing Lim,Rochelle Sim,11,R,1, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,13,Jack Goh,Intl. Cha Cha,2
+Singapore Management University,1,X,Semi-Final,Dao Qing Lim,Rochelle Sim,15,R,1, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,13,Anthony Price,Intl. Cha Cha,2
+Singapore Management University,1,X,Semi-Final,Dao Qing Lim,Rochelle Sim,18,R,1, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,13,Melvin Tan,Intl. Cha Cha,2
+Singapore Management University,1,X,Semi-Final,Dao Qing Lim,Rochelle Sim,19,R,1, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,13,Aaron Then,Intl. Cha Cha,2
+National University of Singapore,1,X,Semi-Final,Eric Ewe,Elena Reshetova,10,R,1, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,14,Michelle Fong,Intl. Cha Cha,1
+National University of Singapore,1,X,Semi-Final,Eric Ewe,Elena Reshetova,11,R,1, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,14,Jack Goh,Intl. Cha Cha,1
+National University of Singapore,1,X,Semi-Final,Eric Ewe,Elena Reshetova,15,R,1, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,14,Anthony Price,Intl. Cha Cha,1
+National University of Singapore,1,X,Semi-Final,Eric Ewe,Elena Reshetova,18,R,1, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,14,Melvin Tan,Intl. Cha Cha,1
+National University of Singapore,1,X,Semi-Final,Eric Ewe,Elena Reshetova,19,R,1, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,14,Aaron Then,Intl. Cha Cha,1
+Singapore Management University,1,,Semi-Final,Stephen Ngo,Valerie Chew,10,R,0, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,17,Michelle Fong,Intl. Cha Cha,6
+Singapore Management University,1,X,Semi-Final,Stephen Ngo,Valerie Chew,11,R,1, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,17,Jack Goh,Intl. Cha Cha,6
+Singapore Management University,1,X,Semi-Final,Stephen Ngo,Valerie Chew,15,R,1, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,17,Anthony Price,Intl. Cha Cha,6
+Singapore Management University,1,,Semi-Final,Stephen Ngo,Valerie Chew,18,R,0, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,17,Melvin Tan,Intl. Cha Cha,6
+Singapore Management University,1,X,Semi-Final,Stephen Ngo,Valerie Chew,19,R,1, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,17,Aaron Then,Intl. Cha Cha,6
+NUS Ballroom Team,1,X,Semi-Final,XIAOKAI REN,XIAOTONG XIE,10,R,1, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,30,Michelle Fong,Intl. Cha Cha,7
+NUS Ballroom Team,1,X,Semi-Final,XIAOKAI REN,XIAOTONG XIE,11,R,1, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,30,Jack Goh,Intl. Cha Cha,7
+NUS Ballroom Team,1,,Semi-Final,XIAOKAI REN,XIAOTONG XIE,15,R,0, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,30,Anthony Price,Intl. Cha Cha,7
+NUS Ballroom Team,1,,Semi-Final,XIAOKAI REN,XIAOTONG XIE,18,R,0, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,30,Melvin Tan,Intl. Cha Cha,7
+NUS Ballroom Team,1,X,Semi-Final,XIAOKAI REN,XIAOTONG XIE,19,R,1, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,30,Aaron Then,Intl. Cha Cha,7
+National University of Singapore,1,X,Semi-Final,TAN YAN HAO,TAN YING HUI,10,R,1, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,32,Michelle Fong,Intl. Cha Cha,4
+National University of Singapore,1,X,Semi-Final,TAN YAN HAO,TAN YING HUI,11,R,1, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,32,Jack Goh,Intl. Cha Cha,4
+National University of Singapore,1,X,Semi-Final,TAN YAN HAO,TAN YING HUI,15,R,1, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,32,Anthony Price,Intl. Cha Cha,4
+National University of Singapore,1,X,Semi-Final,TAN YAN HAO,TAN YING HUI,18,R,1, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,32,Melvin Tan,Intl. Cha Cha,4
+National University of Singapore,1,X,Semi-Final,TAN YAN HAO,TAN YING HUI,19,R,1, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,32,Aaron Then,Intl. Cha Cha,4
+Singapore Management University,1,,Semi-Final,Elisha John Koh,Alicia  Chia,10,,0, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,35,Michelle Fong,Intl. Cha Cha,8
+Singapore Management University,1,,Semi-Final,Elisha John Koh,Alicia  Chia,11,,0, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,35,Jack Goh,Intl. Cha Cha,8
+Singapore Management University,1,,Semi-Final,Elisha John Koh,Alicia  Chia,15,,0, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,35,Anthony Price,Intl. Cha Cha,8
+Singapore Management University,1,X,Semi-Final,Elisha John Koh,Alicia  Chia,18,,1, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,35,Melvin Tan,Intl. Cha Cha,8
+Singapore Management University,1,,Semi-Final,Elisha John Koh,Alicia  Chia,19,,0, All Beginner Intl. Cha Cha  (C),Sample,0,nus14,41318828,35,Aaron Then,Intl. Cha Cha,8
+,0,1,Final,unknown unknown,unknown unknown,10,1,1, All Beginner Intl. Samba  (S),Sample,0,nus14,41318829,99,Michelle Fong,Intl. Samba,1
+,0,1,Final,unknown unknown,unknown unknown,11,1,1, All Beginner Intl. Samba  (S),Sample,0,nus14,41318829,99,Jack Goh,Intl. Samba,1
+,0,1,Final,unknown unknown,unknown unknown,15,1,1, All Beginner Intl. Samba  (S),Sample,0,nus14,41318829,99,Anthony Price,Intl. Samba,1
+,0,1,Final,unknown unknown,unknown unknown,18,1,1, All Beginner Intl. Samba  (S),Sample,0,nus14,41318829,99,Melvin Tan,Intl. Samba,1
+,0,1,Final,unknown unknown,unknown unknown,19,1,1, All Beginner Intl. Samba  (S),Sample,0,nus14,41318829,99,Aaron Then,Intl. Samba,1
+National University of Singapore,0,1,Final,Eric Ewe,Elena Reshetova,10,1,1, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,14,Michelle Fong,Intl. Rumba,1
+National University of Singapore,0,1,Final,Eric Ewe,Elena Reshetova,11,1,1, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,14,Jack Goh,Intl. Rumba,1
+National University of Singapore,0,1,Final,Eric Ewe,Elena Reshetova,12,1,1, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,14,Andrey Gorbunov,Intl. Rumba,1
+National University of Singapore,0,1,Final,Eric Ewe,Elena Reshetova,13,1,1, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,14,Felix Lau,Intl. Rumba,1
+National University of Singapore,0,2,Final,Eric Ewe,Elena Reshetova,17,1,2, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,14,Aleena Tan,Intl. Rumba,1
+National University of Singapore,0,1,Final,Eric Ewe,Elena Reshetova,18,1,1, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,14,Melvin Tan,Intl. Rumba,1
+National University of Singapore,0,6,Final,Eric Ewe,Elena Reshetova,19,1,6, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,14,Aaron Then,Intl. Rumba,1
+Singapore Management University,0,3,Final,Dao Qing Lim,Rochelle Sim,10,2,3, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,13,Michelle Fong,Intl. Rumba,2
+Singapore Management University,0,2,Final,Dao Qing Lim,Rochelle Sim,11,2,2, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,13,Jack Goh,Intl. Rumba,2
+Singapore Management University,0,2,Final,Dao Qing Lim,Rochelle Sim,12,2,2, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,13,Andrey Gorbunov,Intl. Rumba,2
+Singapore Management University,0,3,Final,Dao Qing Lim,Rochelle Sim,13,2,3, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,13,Felix Lau,Intl. Rumba,2
+Singapore Management University,0,1,Final,Dao Qing Lim,Rochelle Sim,17,2,1, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,13,Aleena Tan,Intl. Rumba,2
+Singapore Management University,0,2,Final,Dao Qing Lim,Rochelle Sim,18,2,2, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,13,Melvin Tan,Intl. Rumba,2
+Singapore Management University,0,1,Final,Dao Qing Lim,Rochelle Sim,19,2,1, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,13,Aaron Then,Intl. Rumba,2
+National University of Singapore,0,5,Final,TAN YAN HAO,TAN YING HUI,10,3,5, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,32,Michelle Fong,Intl. Rumba,3
+National University of Singapore,0,6,Final,TAN YAN HAO,TAN YING HUI,11,3,6, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,32,Jack Goh,Intl. Rumba,3
+National University of Singapore,0,3,Final,TAN YAN HAO,TAN YING HUI,12,3,3, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,32,Andrey Gorbunov,Intl. Rumba,3
+National University of Singapore,0,2,Final,TAN YAN HAO,TAN YING HUI,13,3,2, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,32,Felix Lau,Intl. Rumba,3
+National University of Singapore,0,3,Final,TAN YAN HAO,TAN YING HUI,17,3,3, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,32,Aleena Tan,Intl. Rumba,3
+National University of Singapore,0,5,Final,TAN YAN HAO,TAN YING HUI,18,3,5, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,32,Melvin Tan,Intl. Rumba,3
+National University of Singapore,0,3,Final,TAN YAN HAO,TAN YING HUI,19,3,3, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,32,Aaron Then,Intl. Rumba,3
+,0,4,Final,Xindi Luo,Bernice Yau,10,4,4, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,8,Michelle Fong,Intl. Rumba,4
+,0,3,Final,Xindi Luo,Bernice Yau,11,4,3, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,8,Jack Goh,Intl. Rumba,4
+,0,4,Final,Xindi Luo,Bernice Yau,12,4,4, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,8,Andrey Gorbunov,Intl. Rumba,4
+,0,4,Final,Xindi Luo,Bernice Yau,13,4,4, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,8,Felix Lau,Intl. Rumba,4
+,0,5,Final,Xindi Luo,Bernice Yau,17,4,5, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,8,Aleena Tan,Intl. Rumba,4
+,0,4,Final,Xindi Luo,Bernice Yau,18,4,4, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,8,Melvin Tan,Intl. Rumba,4
+,0,5,Final,Xindi Luo,Bernice Yau,19,4,5, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,8,Aaron Then,Intl. Rumba,4
+Singapore Management University,0,2,Final,Stephen Ngo,Valerie Chew,10,5,2, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,17,Michelle Fong,Intl. Rumba,5
+Singapore Management University,0,4,Final,Stephen Ngo,Valerie Chew,11,5,4, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,17,Jack Goh,Intl. Rumba,5
+Singapore Management University,0,5,Final,Stephen Ngo,Valerie Chew,12,5,5, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,17,Andrey Gorbunov,Intl. Rumba,5
+Singapore Management University,0,5,Final,Stephen Ngo,Valerie Chew,13,5,5, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,17,Felix Lau,Intl. Rumba,5
+Singapore Management University,0,4,Final,Stephen Ngo,Valerie Chew,17,5,4, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,17,Aleena Tan,Intl. Rumba,5
+Singapore Management University,0,6,Final,Stephen Ngo,Valerie Chew,18,5,6, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,17,Melvin Tan,Intl. Rumba,5
+Singapore Management University,0,2,Final,Stephen Ngo,Valerie Chew,19,5,2, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,17,Aaron Then,Intl. Rumba,5
+Singapore Management University,0,6,Final,Xing Fu,Hui Min Lee,10,6,6, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,7,Michelle Fong,Intl. Rumba,6
+Singapore Management University,0,5,Final,Xing Fu,Hui Min Lee,11,6,5, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,7,Jack Goh,Intl. Rumba,6
+Singapore Management University,0,6,Final,Xing Fu,Hui Min Lee,12,6,6, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,7,Andrey Gorbunov,Intl. Rumba,6
+Singapore Management University,0,6,Final,Xing Fu,Hui Min Lee,13,6,6, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,7,Felix Lau,Intl. Rumba,6
+Singapore Management University,0,6,Final,Xing Fu,Hui Min Lee,17,6,6, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,7,Aleena Tan,Intl. Rumba,6
+Singapore Management University,0,3,Final,Xing Fu,Hui Min Lee,18,6,3, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,7,Melvin Tan,Intl. Rumba,6
+Singapore Management University,0,4,Final,Xing Fu,Hui Min Lee,19,6,4, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,7,Aaron Then,Intl. Rumba,6
+Singapore Management University,1,X,Semi-Final,Xing Fu,Hui Min Lee,10,R,1, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,7,Michelle Fong,Intl. Rumba,6
+Singapore Management University,1,,Semi-Final,Xing Fu,Hui Min Lee,11,R,0, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,7,Jack Goh,Intl. Rumba,6
+Singapore Management University,1,X,Semi-Final,Xing Fu,Hui Min Lee,15,R,1, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,7,Anthony Price,Intl. Rumba,6
+Singapore Management University,1,X,Semi-Final,Xing Fu,Hui Min Lee,18,R,1, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,7,Melvin Tan,Intl. Rumba,6
+Singapore Management University,1,X,Semi-Final,Xing Fu,Hui Min Lee,19,R,1, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,7,Aaron Then,Intl. Rumba,6
+,1,X,Semi-Final,Xindi Luo,Bernice Yau,10,R,1, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,8,Michelle Fong,Intl. Rumba,4
+,1,X,Semi-Final,Xindi Luo,Bernice Yau,11,R,1, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,8,Jack Goh,Intl. Rumba,4
+,1,X,Semi-Final,Xindi Luo,Bernice Yau,15,R,1, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,8,Anthony Price,Intl. Rumba,4
+,1,X,Semi-Final,Xindi Luo,Bernice Yau,18,R,1, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,8,Melvin Tan,Intl. Rumba,4
+,1,X,Semi-Final,Xindi Luo,Bernice Yau,19,R,1, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,8,Aaron Then,Intl. Rumba,4
+Singapore Management University,1,X,Semi-Final,Dao Qing Lim,Rochelle Sim,10,R,1, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,13,Michelle Fong,Intl. Rumba,2
+Singapore Management University,1,X,Semi-Final,Dao Qing Lim,Rochelle Sim,11,R,1, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,13,Jack Goh,Intl. Rumba,2
+Singapore Management University,1,X,Semi-Final,Dao Qing Lim,Rochelle Sim,15,R,1, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,13,Anthony Price,Intl. Rumba,2
+Singapore Management University,1,X,Semi-Final,Dao Qing Lim,Rochelle Sim,18,R,1, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,13,Melvin Tan,Intl. Rumba,2
+Singapore Management University,1,X,Semi-Final,Dao Qing Lim,Rochelle Sim,19,R,1, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,13,Aaron Then,Intl. Rumba,2
+National University of Singapore,1,X,Semi-Final,Eric Ewe,Elena Reshetova,10,R,1, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,14,Michelle Fong,Intl. Rumba,1
+National University of Singapore,1,X,Semi-Final,Eric Ewe,Elena Reshetova,11,R,1, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,14,Jack Goh,Intl. Rumba,1
+National University of Singapore,1,X,Semi-Final,Eric Ewe,Elena Reshetova,15,R,1, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,14,Anthony Price,Intl. Rumba,1
+National University of Singapore,1,X,Semi-Final,Eric Ewe,Elena Reshetova,18,R,1, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,14,Melvin Tan,Intl. Rumba,1
+National University of Singapore,1,X,Semi-Final,Eric Ewe,Elena Reshetova,19,R,1, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,14,Aaron Then,Intl. Rumba,1
+Singapore Management University,1,X,Semi-Final,Stephen Ngo,Valerie Chew,10,R,1, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,17,Michelle Fong,Intl. Rumba,5
+Singapore Management University,1,X,Semi-Final,Stephen Ngo,Valerie Chew,11,R,1, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,17,Jack Goh,Intl. Rumba,5
+Singapore Management University,1,X,Semi-Final,Stephen Ngo,Valerie Chew,15,R,1, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,17,Anthony Price,Intl. Rumba,5
+Singapore Management University,1,X,Semi-Final,Stephen Ngo,Valerie Chew,18,R,1, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,17,Melvin Tan,Intl. Rumba,5
+Singapore Management University,1,X,Semi-Final,Stephen Ngo,Valerie Chew,19,R,1, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,17,Aaron Then,Intl. Rumba,5
+National University of Singapore,1,X,Semi-Final,TAN YAN HAO,TAN YING HUI,10,R,1, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,32,Michelle Fong,Intl. Rumba,3
+National University of Singapore,1,X,Semi-Final,TAN YAN HAO,TAN YING HUI,11,R,1, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,32,Jack Goh,Intl. Rumba,3
+National University of Singapore,1,X,Semi-Final,TAN YAN HAO,TAN YING HUI,15,R,1, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,32,Anthony Price,Intl. Rumba,3
+National University of Singapore,1,X,Semi-Final,TAN YAN HAO,TAN YING HUI,18,R,1, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,32,Melvin Tan,Intl. Rumba,3
+National University of Singapore,1,X,Semi-Final,TAN YAN HAO,TAN YING HUI,19,R,1, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,32,Aaron Then,Intl. Rumba,3
+NUS Ballroom Team,1,,Semi-Final,XIAOKAI REN,XIAOTONG XIE,10,,0, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,30,Michelle Fong,Intl. Rumba,7
+NUS Ballroom Team,1,X,Semi-Final,XIAOKAI REN,XIAOTONG XIE,11,,1, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,30,Jack Goh,Intl. Rumba,7
+NUS Ballroom Team,1,,Semi-Final,XIAOKAI REN,XIAOTONG XIE,15,,0, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,30,Anthony Price,Intl. Rumba,7
+NUS Ballroom Team,1,,Semi-Final,XIAOKAI REN,XIAOTONG XIE,18,,0, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,30,Melvin Tan,Intl. Rumba,7
+NUS Ballroom Team,1,,Semi-Final,XIAOKAI REN,XIAOTONG XIE,19,,0, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,30,Aaron Then,Intl. Rumba,7
+Singapore Management University,1,,Semi-Final,Zheng Hang Yu,Lin Li,10,,0, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,5,Michelle Fong,Intl. Rumba,8
+Singapore Management University,1,,Semi-Final,Zheng Hang Yu,Lin Li,11,,0, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,5,Jack Goh,Intl. Rumba,8
+Singapore Management University,1,,Semi-Final,Zheng Hang Yu,Lin Li,15,,0, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,5,Anthony Price,Intl. Rumba,8
+Singapore Management University,1,,Semi-Final,Zheng Hang Yu,Lin Li,18,,0, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,5,Melvin Tan,Intl. Rumba,8
+Singapore Management University,1,,Semi-Final,Zheng Hang Yu,Lin Li,19,,0, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,5,Aaron Then,Intl. Rumba,8
+Singapore Management University,1,,Semi-Final,Elisha John Koh,Alicia  Chia,10,,0, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,35,Michelle Fong,Intl. Rumba,9
+Singapore Management University,1,,Semi-Final,Elisha John Koh,Alicia  Chia,11,,0, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,35,Jack Goh,Intl. Rumba,9
+Singapore Management University,1,,Semi-Final,Elisha John Koh,Alicia  Chia,15,,0, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,35,Anthony Price,Intl. Rumba,9
+Singapore Management University,1,,Semi-Final,Elisha John Koh,Alicia  Chia,18,,0, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,35,Melvin Tan,Intl. Rumba,9
+Singapore Management University,1,,Semi-Final,Elisha John Koh,Alicia  Chia,19,,0, All Beginner Intl. Rumba  (R),Sample,0,nus14,4131882A,35,Aaron Then,Intl. Rumba,9
+,0,1,Final,unknown unknown,unknown unknown,10,1,1, All Beginner Intl. Jive  (J),Sample,0,nus14,4131882C,99,Michelle Fong,Intl. Jive,1
+,0,1,Final,unknown unknown,unknown unknown,11,1,1, All Beginner Intl. Jive  (J),Sample,0,nus14,4131882C,99,Jack Goh,Intl. Jive,1
+,0,1,Final,unknown unknown,unknown unknown,15,1,1, All Beginner Intl. Jive  (J),Sample,0,nus14,4131882C,99,Anthony Price,Intl. Jive,1
+,0,1,Final,unknown unknown,unknown unknown,18,1,1, All Beginner Intl. Jive  (J),Sample,0,nus14,4131882C,99,Melvin Tan,Intl. Jive,1
+,0,1,Final,unknown unknown,unknown unknown,19,1,1, All Beginner Intl. Jive  (J),Sample,0,nus14,4131882C,99,Aaron Then,Intl. Jive,1
+JohnJosephine Dance Creative,0,1,Final,Tan Zhe Hao,Amber Koh Ying Qing,13,1,1, All Novice/Pre-Am Standard  (WTQ),Sample,0,nus14,41318010,27,Felix Lau,Waltz,1
+JohnJosephine Dance Creative,0,2,Final,Tan Zhe Hao,Amber Koh Ying Qing,14,1,2, All Novice/Pre-Am Standard  (WTQ),Sample,0,nus14,41318010,27,Tuan Phan,Waltz,1
+JohnJosephine Dance Creative,0,1,Final,Tan Zhe Hao,Amber Koh Ying Qing,15,1,1, All Novice/Pre-Am Standard  (WTQ),Sample,0,nus14,41318010,27,Anthony Price,Waltz,1
+JohnJosephine Dance Creative,0,1,Final,Tan Zhe Hao,Amber Koh Ying Qing,16,1,1, All Novice/Pre-Am Standard  (WTQ),Sample,0,nus14,41318010,27,Matthew Rooke,Waltz,1
+JohnJosephine Dance Creative,0,1,Final,Tan Zhe Hao,Amber Koh Ying Qing,17,1,1, All Novice/Pre-Am Standard  (WTQ),Sample,0,nus14,41318010,27,Aleena Tan,Waltz,1
+Unaffiliated,0,2,Final,Nicholas Yue,Valerie  Seah,13,2,2, All Novice/Pre-Am Standard  (WTQ),Sample,0,nus14,41318010,28,Felix Lau,Waltz,2
+Unaffiliated,0,1,Final,Nicholas Yue,Valerie  Seah,14,2,1, All Novice/Pre-Am Standard  (WTQ),Sample,0,nus14,41318010,28,Tuan Phan,Waltz,2
+Unaffiliated,0,2,Final,Nicholas Yue,Valerie  Seah,15,2,2, All Novice/Pre-Am Standard  (WTQ),Sample,0,nus14,41318010,28,Anthony Price,Waltz,2
+Unaffiliated,0,2,Final,Nicholas Yue,Valerie  Seah,16,2,2, All Novice/Pre-Am Standard  (WTQ),Sample,0,nus14,41318010,28,Matthew Rooke,Waltz,2
+Unaffiliated,0,2,Final,Nicholas Yue,Valerie  Seah,17,2,2, All Novice/Pre-Am Standard  (WTQ),Sample,0,nus14,41318010,28,Aleena Tan,Waltz,2
+Unaffiliated,0,3,Final,Duy Nguyen,Samantha Xin Ying Lee,13,3,3, All Novice/Pre-Am Standard  (WTQ),Sample,0,nus14,41318010,31,Felix Lau,Waltz,3
+Unaffiliated,0,3,Final,Duy Nguyen,Samantha Xin Ying Lee,14,3,3, All Novice/Pre-Am Standard  (WTQ),Sample,0,nus14,41318010,31,Tuan Phan,Waltz,3
+Unaffiliated,0,3,Final,Duy Nguyen,Samantha Xin Ying Lee,15,3,3, All Novice/Pre-Am Standard  (WTQ),Sample,0,nus14,41318010,31,Anthony Price,Waltz,3
+Unaffiliated,0,3,Final,Duy Nguyen,Samantha Xin Ying Lee,16,3,3, All Novice/Pre-Am Standard  (WTQ),Sample,0,nus14,41318010,31,Matthew Rooke,Waltz,3
+Unaffiliated,0,3,Final,Duy Nguyen,Samantha Xin Ying Lee,17,3,3, All Novice/Pre-Am Standard  (WTQ),Sample,0,nus14,41318010,31,Aleena Tan,Waltz,3
+JohnJosephine Dance Creative,0,1,Final,Tan Zhe Hao,Amber Koh Ying Qing,13,1,1, All Novice/Pre-Am Standard  (WTQ),Sample,1,nus14,41318010,27,Felix Lau,Tango,1
+JohnJosephine Dance Creative,0,2,Final,Tan Zhe Hao,Amber Koh Ying Qing,14,1,2, All Novice/Pre-Am Standard  (WTQ),Sample,1,nus14,41318010,27,Tuan Phan,Tango,1
+JohnJosephine Dance Creative,0,1,Final,Tan Zhe Hao,Amber Koh Ying Qing,15,1,1, All Novice/Pre-Am Standard  (WTQ),Sample,1,nus14,41318010,27,Anthony Price,Tango,1
+JohnJosephine Dance Creative,0,1,Final,Tan Zhe Hao,Amber Koh Ying Qing,16,1,1, All Novice/Pre-Am Standard  (WTQ),Sample,1,nus14,41318010,27,Matthew Rooke,Tango,1
+JohnJosephine Dance Creative,0,1,Final,Tan Zhe Hao,Amber Koh Ying Qing,17,1,1, All Novice/Pre-Am Standard  (WTQ),Sample,1,nus14,41318010,27,Aleena Tan,Tango,1
+Unaffiliated,0,2,Final,Nicholas Yue,Valerie  Seah,13,2,2, All Novice/Pre-Am Standard  (WTQ),Sample,1,nus14,41318010,28,Felix Lau,Tango,2
+Unaffiliated,0,3,Final,Nicholas Yue,Valerie  Seah,14,2,3, All Novice/Pre-Am Standard  (WTQ),Sample,1,nus14,41318010,28,Tuan Phan,Tango,2
+Unaffiliated,0,2,Final,Nicholas Yue,Valerie  Seah,15,2,2, All Novice/Pre-Am Standard  (WTQ),Sample,1,nus14,41318010,28,Anthony Price,Tango,2
+Unaffiliated,0,2,Final,Nicholas Yue,Valerie  Seah,16,2,2, All Novice/Pre-Am Standard  (WTQ),Sample,1,nus14,41318010,28,Matthew Rooke,Tango,2
+Unaffiliated,0,2,Final,Nicholas Yue,Valerie  Seah,17,2,2, All Novice/Pre-Am Standard  (WTQ),Sample,1,nus14,41318010,28,Aleena Tan,Tango,2
+Unaffiliated,0,3,Final,Duy Nguyen,Samantha Xin Ying Lee,13,3,3, All Novice/Pre-Am Standard  (WTQ),Sample,1,nus14,41318010,31,Felix Lau,Tango,3
+Unaffiliated,0,1,Final,Duy Nguyen,Samantha Xin Ying Lee,14,3,1, All Novice/Pre-Am Standard  (WTQ),Sample,1,nus14,41318010,31,Tuan Phan,Tango,3
+Unaffiliated,0,3,Final,Duy Nguyen,Samantha Xin Ying Lee,15,3,3, All Novice/Pre-Am Standard  (WTQ),Sample,1,nus14,41318010,31,Anthony Price,Tango,3
+Unaffiliated,0,3,Final,Duy Nguyen,Samantha Xin Ying Lee,16,3,3, All Novice/Pre-Am Standard  (WTQ),Sample,1,nus14,41318010,31,Matthew Rooke,Tango,3
+Unaffiliated,0,3,Final,Duy Nguyen,Samantha Xin Ying Lee,17,3,3, All Novice/Pre-Am Standard  (WTQ),Sample,1,nus14,41318010,31,Aleena Tan,Tango,3
+JohnJosephine Dance Creative,0,2,Final,Tan Zhe Hao,Amber Koh Ying Qing,13,1,2, All Novice/Pre-Am Standard  (WTQ),Sample,2,nus14,41318010,27,Felix Lau,Quickstep,1
+JohnJosephine Dance Creative,0,2,Final,Tan Zhe Hao,Amber Koh Ying Qing,14,1,2, All Novice/Pre-Am Standard  (WTQ),Sample,2,nus14,41318010,27,Tuan Phan,Quickstep,1
+JohnJosephine Dance Creative,0,1,Final,Tan Zhe Hao,Amber Koh Ying Qing,15,1,1, All Novice/Pre-Am Standard  (WTQ),Sample,2,nus14,41318010,27,Anthony Price,Quickstep,1
+JohnJosephine Dance Creative,0,1,Final,Tan Zhe Hao,Amber Koh Ying Qing,16,1,1, All Novice/Pre-Am Standard  (WTQ),Sample,2,nus14,41318010,27,Matthew Rooke,Quickstep,1
+JohnJosephine Dance Creative,0,1,Final,Tan Zhe Hao,Amber Koh Ying Qing,17,1,1, All Novice/Pre-Am Standard  (WTQ),Sample,2,nus14,41318010,27,Aleena Tan,Quickstep,1
+Unaffiliated,0,1,Final,Nicholas Yue,Valerie  Seah,13,2,1, All Novice/Pre-Am Standard  (WTQ),Sample,2,nus14,41318010,28,Felix Lau,Quickstep,2
+Unaffiliated,0,3,Final,Nicholas Yue,Valerie  Seah,14,2,3, All Novice/Pre-Am Standard  (WTQ),Sample,2,nus14,41318010,28,Tuan Phan,Quickstep,2
+Unaffiliated,0,2,Final,Nicholas Yue,Valerie  Seah,15,2,2, All Novice/Pre-Am Standard  (WTQ),Sample,2,nus14,41318010,28,Anthony Price,Quickstep,2
+Unaffiliated,0,2,Final,Nicholas Yue,Valerie  Seah,16,2,2, All Novice/Pre-Am Standard  (WTQ),Sample,2,nus14,41318010,28,Matthew Rooke,Quickstep,2
+Unaffiliated,0,2,Final,Nicholas Yue,Valerie  Seah,17,2,2, All Novice/Pre-Am Standard  (WTQ),Sample,2,nus14,41318010,28,Aleena Tan,Quickstep,2
+Unaffiliated,0,3,Final,Duy Nguyen,Samantha Xin Ying Lee,13,3,3, All Novice/Pre-Am Standard  (WTQ),Sample,2,nus14,41318010,31,Felix Lau,Quickstep,3
+Unaffiliated,0,1,Final,Duy Nguyen,Samantha Xin Ying Lee,14,3,1, All Novice/Pre-Am Standard  (WTQ),Sample,2,nus14,41318010,31,Tuan Phan,Quickstep,3
+Unaffiliated,0,3,Final,Duy Nguyen,Samantha Xin Ying Lee,15,3,3, All Novice/Pre-Am Standard  (WTQ),Sample,2,nus14,41318010,31,Anthony Price,Quickstep,3
+Unaffiliated,0,3,Final,Duy Nguyen,Samantha Xin Ying Lee,16,3,3, All Novice/Pre-Am Standard  (WTQ),Sample,2,nus14,41318010,31,Matthew Rooke,Quickstep,3
+Unaffiliated,0,3,Final,Duy Nguyen,Samantha Xin Ying Lee,17,3,3, All Novice/Pre-Am Standard  (WTQ),Sample,2,nus14,41318010,31,Aleena Tan,Quickstep,3
+Unaffiliated,0,1,Final,Nicholas Yue,Valerie  Seah,13,1,1, All Novice/Pre-Am Intl. Foxtrot  (F),Sample,0,nus14,4131801B,28,Felix Lau,Intl. Foxtrot,1
+Unaffiliated,0,1,Final,Nicholas Yue,Valerie  Seah,14,1,1, All Novice/Pre-Am Intl. Foxtrot  (F),Sample,0,nus14,4131801B,28,Tuan Phan,Intl. Foxtrot,1
+Unaffiliated,0,1,Final,Nicholas Yue,Valerie  Seah,15,1,1, All Novice/Pre-Am Intl. Foxtrot  (F),Sample,0,nus14,4131801B,28,Anthony Price,Intl. Foxtrot,1
+Unaffiliated,0,1,Final,Nicholas Yue,Valerie  Seah,16,1,1, All Novice/Pre-Am Intl. Foxtrot  (F),Sample,0,nus14,4131801B,28,Matthew Rooke,Intl. Foxtrot,1
+Unaffiliated,0,1,Final,Nicholas Yue,Valerie  Seah,17,1,1, All Novice/Pre-Am Intl. Foxtrot  (F),Sample,0,nus14,4131801B,28,Aleena Tan,Intl. Foxtrot,1
+Singapore Management University,0,1,Final,Ang Ernest,Lee Mabel,10,1,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,19,Michelle Fong,Cha Cha,1
+Singapore Management University,0,1,Final,Ang Ernest,Lee Mabel,11,1,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,19,Jack Goh,Cha Cha,1
+Singapore Management University,0,3,Final,Ang Ernest,Lee Mabel,12,1,3, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,19,Andrey Gorbunov,Cha Cha,1
+Singapore Management University,0,2,Final,Ang Ernest,Lee Mabel,13,1,2, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,19,Felix Lau,Cha Cha,1
+Singapore Management University,0,3,Final,Ang Ernest,Lee Mabel,17,1,3, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,19,Aleena Tan,Cha Cha,1
+Singapore Management University,0,1,Final,Ang Ernest,Lee Mabel,18,1,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,19,Melvin Tan,Cha Cha,1
+Singapore Management University,0,1,Final,Ang Ernest,Lee Mabel,19,1,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,19,Aaron Then,Cha Cha,1
+,0,5,Final,Jasper Ng,Joey Ng,10,2,5, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,21,Michelle Fong,Cha Cha,2
+,0,2,Final,Jasper Ng,Joey Ng,11,2,2, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,21,Jack Goh,Cha Cha,2
+,0,1,Final,Jasper Ng,Joey Ng,12,2,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,21,Andrey Gorbunov,Cha Cha,2
+,0,1,Final,Jasper Ng,Joey Ng,13,2,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,21,Felix Lau,Cha Cha,2
+,0,2,Final,Jasper Ng,Joey Ng,17,2,2, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,21,Aleena Tan,Cha Cha,2
+,0,3,Final,Jasper Ng,Joey Ng,18,2,3, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,21,Melvin Tan,Cha Cha,2
+,0,2,Final,Jasper Ng,Joey Ng,19,2,2, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,21,Aaron Then,Cha Cha,2
+Unaffiliated,0,2,Final,Nicholas Yue,Carissa Chua,10,3,2, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,28,Michelle Fong,Cha Cha,3
+Unaffiliated,0,4,Final,Nicholas Yue,Carissa Chua,11,3,4, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,28,Jack Goh,Cha Cha,3
+Unaffiliated,0,5,Final,Nicholas Yue,Carissa Chua,12,3,5, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,28,Andrey Gorbunov,Cha Cha,3
+Unaffiliated,0,4,Final,Nicholas Yue,Carissa Chua,13,3,4, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,28,Felix Lau,Cha Cha,3
+Unaffiliated,0,1,Final,Nicholas Yue,Carissa Chua,17,3,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,28,Aleena Tan,Cha Cha,3
+Unaffiliated,0,4,Final,Nicholas Yue,Carissa Chua,18,3,4, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,28,Melvin Tan,Cha Cha,3
+Unaffiliated,0,4,Final,Nicholas Yue,Carissa Chua,19,3,4, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,28,Aaron Then,Cha Cha,3
+,0,4,Final,Keith Ng Kien Kok,Judy Lim Bee Lan,10,4,4, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,10,Michelle Fong,Cha Cha,4
+,0,5,Final,Keith Ng Kien Kok,Judy Lim Bee Lan,11,4,5, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,10,Jack Goh,Cha Cha,4
+,0,4,Final,Keith Ng Kien Kok,Judy Lim Bee Lan,12,4,4, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,10,Andrey Gorbunov,Cha Cha,4
+,0,5,Final,Keith Ng Kien Kok,Judy Lim Bee Lan,13,4,5, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,10,Felix Lau,Cha Cha,4
+,0,4,Final,Keith Ng Kien Kok,Judy Lim Bee Lan,17,4,4, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,10,Aleena Tan,Cha Cha,4
+,0,6,Final,Keith Ng Kien Kok,Judy Lim Bee Lan,18,4,6, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,10,Melvin Tan,Cha Cha,4
+,0,3,Final,Keith Ng Kien Kok,Judy Lim Bee Lan,19,4,3, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,10,Aaron Then,Cha Cha,4
+Unaffiliated,0,3,Final,Evgeny  Shatokhin,Trina Kok,10,5,3, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,16,Michelle Fong,Cha Cha,5
+Unaffiliated,0,3,Final,Evgeny  Shatokhin,Trina Kok,11,5,3, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,16,Jack Goh,Cha Cha,5
+Unaffiliated,0,2,Final,Evgeny  Shatokhin,Trina Kok,12,5,2, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,16,Andrey Gorbunov,Cha Cha,5
+Unaffiliated,0,-,Final,Evgeny  Shatokhin,Trina Kok,13,5,0, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,16,Felix Lau,Cha Cha,5
+Unaffiliated,0,5,Final,Evgeny  Shatokhin,Trina Kok,17,5,5, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,16,Aleena Tan,Cha Cha,5
+Unaffiliated,0,5,Final,Evgeny  Shatokhin,Trina Kok,18,5,5, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,16,Melvin Tan,Cha Cha,5
+Unaffiliated,0,5,Final,Evgeny  Shatokhin,Trina Kok,19,5,5, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,16,Aaron Then,Cha Cha,5
+The DanceSport Academy,0,6,Final,Jonel Ibarra,Bethia Wee,10,6,6, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,23,Michelle Fong,Cha Cha,6
+The DanceSport Academy,0,6,Final,Jonel Ibarra,Bethia Wee,11,6,6, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,23,Jack Goh,Cha Cha,6
+The DanceSport Academy,0,6,Final,Jonel Ibarra,Bethia Wee,12,6,6, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,23,Andrey Gorbunov,Cha Cha,6
+The DanceSport Academy,0,6,Final,Jonel Ibarra,Bethia Wee,13,6,6, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,23,Felix Lau,Cha Cha,6
+The DanceSport Academy,0,6,Final,Jonel Ibarra,Bethia Wee,17,6,6, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,23,Aleena Tan,Cha Cha,6
+The DanceSport Academy,0,2,Final,Jonel Ibarra,Bethia Wee,18,6,2, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,23,Melvin Tan,Cha Cha,6
+The DanceSport Academy,0,6,Final,Jonel Ibarra,Bethia Wee,19,6,6, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,23,Aaron Then,Cha Cha,6
+Singapore Management University,0,1,Final,Ang Ernest,Lee Mabel,10,1,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,19,Michelle Fong,Rumba,1
+Singapore Management University,0,1,Final,Ang Ernest,Lee Mabel,11,1,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,19,Jack Goh,Rumba,1
+Singapore Management University,0,3,Final,Ang Ernest,Lee Mabel,12,1,3, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,19,Andrey Gorbunov,Rumba,1
+Singapore Management University,0,4,Final,Ang Ernest,Lee Mabel,13,1,4, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,19,Felix Lau,Rumba,1
+Singapore Management University,0,3,Final,Ang Ernest,Lee Mabel,17,1,3, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,19,Aleena Tan,Rumba,1
+Singapore Management University,0,1,Final,Ang Ernest,Lee Mabel,18,1,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,19,Melvin Tan,Rumba,1
+Singapore Management University,0,1,Final,Ang Ernest,Lee Mabel,19,1,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,19,Aaron Then,Rumba,1
+,0,4,Final,Jasper Ng,Joey Ng,10,2,4, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,21,Michelle Fong,Rumba,2
+,0,2,Final,Jasper Ng,Joey Ng,11,2,2, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,21,Jack Goh,Rumba,2
+,0,1,Final,Jasper Ng,Joey Ng,12,2,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,21,Andrey Gorbunov,Rumba,2
+,0,1,Final,Jasper Ng,Joey Ng,13,2,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,21,Felix Lau,Rumba,2
+,0,2,Final,Jasper Ng,Joey Ng,17,2,2, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,21,Aleena Tan,Rumba,2
+,0,4,Final,Jasper Ng,Joey Ng,18,2,4, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,21,Melvin Tan,Rumba,2
+,0,2,Final,Jasper Ng,Joey Ng,19,2,2, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,21,Aaron Then,Rumba,2
+Unaffiliated,0,2,Final,Nicholas Yue,Carissa Chua,10,3,2, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,28,Michelle Fong,Rumba,3
+Unaffiliated,0,3,Final,Nicholas Yue,Carissa Chua,11,3,3, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,28,Jack Goh,Rumba,3
+Unaffiliated,0,5,Final,Nicholas Yue,Carissa Chua,12,3,5, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,28,Andrey Gorbunov,Rumba,3
+Unaffiliated,0,3,Final,Nicholas Yue,Carissa Chua,13,3,3, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,28,Felix Lau,Rumba,3
+Unaffiliated,0,1,Final,Nicholas Yue,Carissa Chua,17,3,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,28,Aleena Tan,Rumba,3
+Unaffiliated,0,3,Final,Nicholas Yue,Carissa Chua,18,3,3, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,28,Melvin Tan,Rumba,3
+Unaffiliated,0,3,Final,Nicholas Yue,Carissa Chua,19,3,3, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,28,Aaron Then,Rumba,3
+,0,5,Final,Keith Ng Kien Kok,Judy Lim Bee Lan,10,4,5, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,10,Michelle Fong,Rumba,4
+,0,5,Final,Keith Ng Kien Kok,Judy Lim Bee Lan,11,4,5, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,10,Jack Goh,Rumba,4
+,0,4,Final,Keith Ng Kien Kok,Judy Lim Bee Lan,12,4,4, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,10,Andrey Gorbunov,Rumba,4
+,0,2,Final,Keith Ng Kien Kok,Judy Lim Bee Lan,13,4,2, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,10,Felix Lau,Rumba,4
+,0,4,Final,Keith Ng Kien Kok,Judy Lim Bee Lan,17,4,4, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,10,Aleena Tan,Rumba,4
+,0,6,Final,Keith Ng Kien Kok,Judy Lim Bee Lan,18,4,6, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,10,Melvin Tan,Rumba,4
+,0,4,Final,Keith Ng Kien Kok,Judy Lim Bee Lan,19,4,4, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,10,Aaron Then,Rumba,4
+Unaffiliated,0,3,Final,Evgeny  Shatokhin,Trina Kok,10,5,3, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,16,Michelle Fong,Rumba,5
+Unaffiliated,0,6,Final,Evgeny  Shatokhin,Trina Kok,11,5,6, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,16,Jack Goh,Rumba,5
+Unaffiliated,0,2,Final,Evgeny  Shatokhin,Trina Kok,12,5,2, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,16,Andrey Gorbunov,Rumba,5
+Unaffiliated,0,6,Final,Evgeny  Shatokhin,Trina Kok,13,5,6, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,16,Felix Lau,Rumba,5
+Unaffiliated,0,5,Final,Evgeny  Shatokhin,Trina Kok,17,5,5, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,16,Aleena Tan,Rumba,5
+Unaffiliated,0,5,Final,Evgeny  Shatokhin,Trina Kok,18,5,5, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,16,Melvin Tan,Rumba,5
+Unaffiliated,0,5,Final,Evgeny  Shatokhin,Trina Kok,19,5,5, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,16,Aaron Then,Rumba,5
+The DanceSport Academy,0,6,Final,Jonel Ibarra,Bethia Wee,10,6,6, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,23,Michelle Fong,Rumba,6
+The DanceSport Academy,0,4,Final,Jonel Ibarra,Bethia Wee,11,6,4, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,23,Jack Goh,Rumba,6
+The DanceSport Academy,0,6,Final,Jonel Ibarra,Bethia Wee,12,6,6, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,23,Andrey Gorbunov,Rumba,6
+The DanceSport Academy,0,5,Final,Jonel Ibarra,Bethia Wee,13,6,5, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,23,Felix Lau,Rumba,6
+The DanceSport Academy,0,6,Final,Jonel Ibarra,Bethia Wee,17,6,6, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,23,Aleena Tan,Rumba,6
+The DanceSport Academy,0,2,Final,Jonel Ibarra,Bethia Wee,18,6,2, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,23,Melvin Tan,Rumba,6
+The DanceSport Academy,0,6,Final,Jonel Ibarra,Bethia Wee,19,6,6, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,23,Aaron Then,Rumba,6
+Singapore Management University,0,1,Final,Ang Ernest,Lee Mabel,10,2,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,19,Michelle Fong,Jive,1
+Singapore Management University,0,1,Final,Ang Ernest,Lee Mabel,11,2,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,19,Jack Goh,Jive,1
+Singapore Management University,0,3,Final,Ang Ernest,Lee Mabel,12,2,3, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,19,Andrey Gorbunov,Jive,1
+Singapore Management University,0,4,Final,Ang Ernest,Lee Mabel,13,2,4, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,19,Felix Lau,Jive,1
+Singapore Management University,0,3,Final,Ang Ernest,Lee Mabel,17,2,3, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,19,Aleena Tan,Jive,1
+Singapore Management University,0,3,Final,Ang Ernest,Lee Mabel,18,2,3, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,19,Melvin Tan,Jive,1
+Singapore Management University,0,1,Final,Ang Ernest,Lee Mabel,19,2,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,19,Aaron Then,Jive,1
+,0,2,Final,Jasper Ng,Joey Ng,10,1,2, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,21,Michelle Fong,Jive,2
+,0,2,Final,Jasper Ng,Joey Ng,11,1,2, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,21,Jack Goh,Jive,2
+,0,1,Final,Jasper Ng,Joey Ng,12,1,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,21,Andrey Gorbunov,Jive,2
+,0,2,Final,Jasper Ng,Joey Ng,13,1,2, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,21,Felix Lau,Jive,2
+,0,1,Final,Jasper Ng,Joey Ng,17,1,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,21,Aleena Tan,Jive,2
+,0,1,Final,Jasper Ng,Joey Ng,18,1,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,21,Melvin Tan,Jive,2
+,0,3,Final,Jasper Ng,Joey Ng,19,1,3, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,21,Aaron Then,Jive,2
+Unaffiliated,0,4,Final,Nicholas Yue,Carissa Chua,10,3,4, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,28,Michelle Fong,Jive,3
+Unaffiliated,0,3,Final,Nicholas Yue,Carissa Chua,11,3,3, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,28,Jack Goh,Jive,3
+Unaffiliated,0,5,Final,Nicholas Yue,Carissa Chua,12,3,5, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,28,Andrey Gorbunov,Jive,3
+Unaffiliated,0,3,Final,Nicholas Yue,Carissa Chua,13,3,3, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,28,Felix Lau,Jive,3
+Unaffiliated,0,2,Final,Nicholas Yue,Carissa Chua,17,3,2, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,28,Aleena Tan,Jive,3
+Unaffiliated,0,5,Final,Nicholas Yue,Carissa Chua,18,3,5, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,28,Melvin Tan,Jive,3
+Unaffiliated,0,4,Final,Nicholas Yue,Carissa Chua,19,3,4, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,28,Aaron Then,Jive,3
+,0,3,Final,Keith Ng Kien Kok,Judy Lim Bee Lan,10,4,3, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,10,Michelle Fong,Jive,4
+,0,6,Final,Keith Ng Kien Kok,Judy Lim Bee Lan,11,4,6, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,10,Jack Goh,Jive,4
+,0,4,Final,Keith Ng Kien Kok,Judy Lim Bee Lan,12,4,4, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,10,Andrey Gorbunov,Jive,4
+,0,1,Final,Keith Ng Kien Kok,Judy Lim Bee Lan,13,4,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,10,Felix Lau,Jive,4
+,0,6,Final,Keith Ng Kien Kok,Judy Lim Bee Lan,17,4,6, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,10,Aleena Tan,Jive,4
+,0,6,Final,Keith Ng Kien Kok,Judy Lim Bee Lan,18,4,6, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,10,Melvin Tan,Jive,4
+,0,2,Final,Keith Ng Kien Kok,Judy Lim Bee Lan,19,4,2, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,10,Aaron Then,Jive,4
+Unaffiliated,0,5,Final,Evgeny  Shatokhin,Trina Kok,10,5,5, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,16,Michelle Fong,Jive,5
+Unaffiliated,0,4,Final,Evgeny  Shatokhin,Trina Kok,11,5,4, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,16,Jack Goh,Jive,5
+Unaffiliated,0,2,Final,Evgeny  Shatokhin,Trina Kok,12,5,2, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,16,Andrey Gorbunov,Jive,5
+Unaffiliated,0,5,Final,Evgeny  Shatokhin,Trina Kok,13,5,5, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,16,Felix Lau,Jive,5
+Unaffiliated,0,5,Final,Evgeny  Shatokhin,Trina Kok,17,5,5, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,16,Aleena Tan,Jive,5
+Unaffiliated,0,4,Final,Evgeny  Shatokhin,Trina Kok,18,5,4, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,16,Melvin Tan,Jive,5
+Unaffiliated,0,5,Final,Evgeny  Shatokhin,Trina Kok,19,5,5, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,16,Aaron Then,Jive,5
+The DanceSport Academy,0,6,Final,Jonel Ibarra,Bethia Wee,10,6,6, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,23,Michelle Fong,Jive,6
+The DanceSport Academy,0,5,Final,Jonel Ibarra,Bethia Wee,11,6,5, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,23,Jack Goh,Jive,6
+The DanceSport Academy,0,6,Final,Jonel Ibarra,Bethia Wee,12,6,6, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,23,Andrey Gorbunov,Jive,6
+The DanceSport Academy,0,6,Final,Jonel Ibarra,Bethia Wee,13,6,6, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,23,Felix Lau,Jive,6
+The DanceSport Academy,0,4,Final,Jonel Ibarra,Bethia Wee,17,6,4, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,23,Aleena Tan,Jive,6
+The DanceSport Academy,0,2,Final,Jonel Ibarra,Bethia Wee,18,6,2, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,23,Melvin Tan,Jive,6
+The DanceSport Academy,0,6,Final,Jonel Ibarra,Bethia Wee,19,6,6, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,23,Aaron Then,Jive,6
+,1,X,Semi-Final,Keith Ng Kien Kok,Judy Lim Bee Lan,10,,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,10,Michelle Fong,Cha Cha,4
+,1,,Semi-Final,Keith Ng Kien Kok,Judy Lim Bee Lan,11,,0, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,10,Jack Goh,Cha Cha,4
+,1,X,Semi-Final,Keith Ng Kien Kok,Judy Lim Bee Lan,12,,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,10,Andrey Gorbunov,Cha Cha,4
+,1,X,Semi-Final,Keith Ng Kien Kok,Judy Lim Bee Lan,13,,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,10,Felix Lau,Cha Cha,4
+,1,,Semi-Final,Keith Ng Kien Kok,Judy Lim Bee Lan,16,,0, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,10,Matthew Rooke,Cha Cha,4
+,1,,Semi-Final,Keith Ng Kien Kok,Judy Lim Bee Lan,18,,0, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,10,Melvin Tan,Cha Cha,4
+,1,X,Semi-Final,Keith Ng Kien Kok,Judy Lim Bee Lan,19,,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,10,Aaron Then,Cha Cha,4
+Unaffiliated,1,X,Semi-Final,Evgeny  Shatokhin,Trina Kok,10,,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,16,Michelle Fong,Cha Cha,5
+Unaffiliated,1,X,Semi-Final,Evgeny  Shatokhin,Trina Kok,11,,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,16,Jack Goh,Cha Cha,5
+Unaffiliated,1,X,Semi-Final,Evgeny  Shatokhin,Trina Kok,12,,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,16,Andrey Gorbunov,Cha Cha,5
+Unaffiliated,1,,Semi-Final,Evgeny  Shatokhin,Trina Kok,13,,0, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,16,Felix Lau,Cha Cha,5
+Unaffiliated,1,X,Semi-Final,Evgeny  Shatokhin,Trina Kok,16,,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,16,Matthew Rooke,Cha Cha,5
+Unaffiliated,1,X,Semi-Final,Evgeny  Shatokhin,Trina Kok,18,,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,16,Melvin Tan,Cha Cha,5
+Unaffiliated,1,X,Semi-Final,Evgeny  Shatokhin,Trina Kok,19,,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,16,Aaron Then,Cha Cha,5
+Singapore Management University,1,X,Semi-Final,Ang Ernest,Lee Mabel,10,,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,19,Michelle Fong,Cha Cha,1
+Singapore Management University,1,X,Semi-Final,Ang Ernest,Lee Mabel,11,,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,19,Jack Goh,Cha Cha,1
+Singapore Management University,1,X,Semi-Final,Ang Ernest,Lee Mabel,12,,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,19,Andrey Gorbunov,Cha Cha,1
+Singapore Management University,1,X,Semi-Final,Ang Ernest,Lee Mabel,13,,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,19,Felix Lau,Cha Cha,1
+Singapore Management University,1,X,Semi-Final,Ang Ernest,Lee Mabel,16,,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,19,Matthew Rooke,Cha Cha,1
+Singapore Management University,1,X,Semi-Final,Ang Ernest,Lee Mabel,18,,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,19,Melvin Tan,Cha Cha,1
+Singapore Management University,1,X,Semi-Final,Ang Ernest,Lee Mabel,19,,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,19,Aaron Then,Cha Cha,1
+,1,X,Semi-Final,Jasper Ng,Joey Ng,10,,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,21,Michelle Fong,Cha Cha,2
+,1,X,Semi-Final,Jasper Ng,Joey Ng,11,,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,21,Jack Goh,Cha Cha,2
+,1,X,Semi-Final,Jasper Ng,Joey Ng,12,,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,21,Andrey Gorbunov,Cha Cha,2
+,1,X,Semi-Final,Jasper Ng,Joey Ng,13,,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,21,Felix Lau,Cha Cha,2
+,1,X,Semi-Final,Jasper Ng,Joey Ng,16,,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,21,Matthew Rooke,Cha Cha,2
+,1,X,Semi-Final,Jasper Ng,Joey Ng,18,,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,21,Melvin Tan,Cha Cha,2
+,1,X,Semi-Final,Jasper Ng,Joey Ng,19,,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,21,Aaron Then,Cha Cha,2
+The DanceSport Academy,1,X,Semi-Final,Jonel Ibarra,Bethia Wee,10,,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,23,Michelle Fong,Cha Cha,6
+The DanceSport Academy,1,X,Semi-Final,Jonel Ibarra,Bethia Wee,11,,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,23,Jack Goh,Cha Cha,6
+The DanceSport Academy,1,X,Semi-Final,Jonel Ibarra,Bethia Wee,12,,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,23,Andrey Gorbunov,Cha Cha,6
+The DanceSport Academy,1,X,Semi-Final,Jonel Ibarra,Bethia Wee,13,,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,23,Felix Lau,Cha Cha,6
+The DanceSport Academy,1,X,Semi-Final,Jonel Ibarra,Bethia Wee,16,,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,23,Matthew Rooke,Cha Cha,6
+The DanceSport Academy,1,X,Semi-Final,Jonel Ibarra,Bethia Wee,18,,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,23,Melvin Tan,Cha Cha,6
+The DanceSport Academy,1,,Semi-Final,Jonel Ibarra,Bethia Wee,19,,0, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,23,Aaron Then,Cha Cha,6
+Unaffiliated,1,X,Semi-Final,Nicholas Yue,Carissa Chua,10,,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,28,Michelle Fong,Cha Cha,3
+Unaffiliated,1,X,Semi-Final,Nicholas Yue,Carissa Chua,11,,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,28,Jack Goh,Cha Cha,3
+Unaffiliated,1,X,Semi-Final,Nicholas Yue,Carissa Chua,12,,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,28,Andrey Gorbunov,Cha Cha,3
+Unaffiliated,1,X,Semi-Final,Nicholas Yue,Carissa Chua,13,,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,28,Felix Lau,Cha Cha,3
+Unaffiliated,1,X,Semi-Final,Nicholas Yue,Carissa Chua,16,,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,28,Matthew Rooke,Cha Cha,3
+Unaffiliated,1,X,Semi-Final,Nicholas Yue,Carissa Chua,18,,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,28,Melvin Tan,Cha Cha,3
+Unaffiliated,1,X,Semi-Final,Nicholas Yue,Carissa Chua,19,,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,28,Aaron Then,Cha Cha,3
+The DanceSport Academy,1,,Semi-Final,Darren Boon,Ping Ting Tan,10,,0, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,20,Michelle Fong,Cha Cha,7
+The DanceSport Academy,1,X,Semi-Final,Darren Boon,Ping Ting Tan,11,,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,20,Jack Goh,Cha Cha,7
+The DanceSport Academy,1,,Semi-Final,Darren Boon,Ping Ting Tan,12,,0, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,20,Andrey Gorbunov,Cha Cha,7
+The DanceSport Academy,1,X,Semi-Final,Darren Boon,Ping Ting Tan,13,,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,20,Felix Lau,Cha Cha,7
+The DanceSport Academy,1,X,Semi-Final,Darren Boon,Ping Ting Tan,16,,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,20,Matthew Rooke,Cha Cha,7
+The DanceSport Academy,1,X,Semi-Final,Darren Boon,Ping Ting Tan,18,,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,20,Melvin Tan,Cha Cha,7
+The DanceSport Academy,1,X,Semi-Final,Darren Boon,Ping Ting Tan,19,,1, All Novice/Pre-Am Latin  (CRJ),Sample,0,nus14,41318020,20,Aaron Then,Cha Cha,7
+,1,X,Semi-Final,Keith Ng Kien Kok,Judy Lim Bee Lan,10,,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,10,Michelle Fong,Rumba,4
+,1,X,Semi-Final,Keith Ng Kien Kok,Judy Lim Bee Lan,11,,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,10,Jack Goh,Rumba,4
+,1,X,Semi-Final,Keith Ng Kien Kok,Judy Lim Bee Lan,12,,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,10,Andrey Gorbunov,Rumba,4
+,1,X,Semi-Final,Keith Ng Kien Kok,Judy Lim Bee Lan,13,,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,10,Felix Lau,Rumba,4
+,1,X,Semi-Final,Keith Ng Kien Kok,Judy Lim Bee Lan,16,,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,10,Matthew Rooke,Rumba,4
+,1,,Semi-Final,Keith Ng Kien Kok,Judy Lim Bee Lan,18,,0, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,10,Melvin Tan,Rumba,4
+,1,X,Semi-Final,Keith Ng Kien Kok,Judy Lim Bee Lan,19,,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,10,Aaron Then,Rumba,4
+Unaffiliated,1,X,Semi-Final,Evgeny  Shatokhin,Trina Kok,10,,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,16,Michelle Fong,Rumba,5
+Unaffiliated,1,,Semi-Final,Evgeny  Shatokhin,Trina Kok,11,,0, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,16,Jack Goh,Rumba,5
+Unaffiliated,1,X,Semi-Final,Evgeny  Shatokhin,Trina Kok,12,,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,16,Andrey Gorbunov,Rumba,5
+Unaffiliated,1,X,Semi-Final,Evgeny  Shatokhin,Trina Kok,13,,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,16,Felix Lau,Rumba,5
+Unaffiliated,1,X,Semi-Final,Evgeny  Shatokhin,Trina Kok,16,,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,16,Matthew Rooke,Rumba,5
+Unaffiliated,1,X,Semi-Final,Evgeny  Shatokhin,Trina Kok,18,,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,16,Melvin Tan,Rumba,5
+Unaffiliated,1,X,Semi-Final,Evgeny  Shatokhin,Trina Kok,19,,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,16,Aaron Then,Rumba,5
+Singapore Management University,1,X,Semi-Final,Ang Ernest,Lee Mabel,10,,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,19,Michelle Fong,Rumba,1
+Singapore Management University,1,X,Semi-Final,Ang Ernest,Lee Mabel,11,,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,19,Jack Goh,Rumba,1
+Singapore Management University,1,X,Semi-Final,Ang Ernest,Lee Mabel,12,,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,19,Andrey Gorbunov,Rumba,1
+Singapore Management University,1,X,Semi-Final,Ang Ernest,Lee Mabel,13,,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,19,Felix Lau,Rumba,1
+Singapore Management University,1,X,Semi-Final,Ang Ernest,Lee Mabel,16,,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,19,Matthew Rooke,Rumba,1
+Singapore Management University,1,X,Semi-Final,Ang Ernest,Lee Mabel,18,,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,19,Melvin Tan,Rumba,1
+Singapore Management University,1,X,Semi-Final,Ang Ernest,Lee Mabel,19,,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,19,Aaron Then,Rumba,1
+,1,X,Semi-Final,Jasper Ng,Joey Ng,10,,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,21,Michelle Fong,Rumba,2
+,1,X,Semi-Final,Jasper Ng,Joey Ng,11,,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,21,Jack Goh,Rumba,2
+,1,X,Semi-Final,Jasper Ng,Joey Ng,12,,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,21,Andrey Gorbunov,Rumba,2
+,1,X,Semi-Final,Jasper Ng,Joey Ng,13,,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,21,Felix Lau,Rumba,2
+,1,X,Semi-Final,Jasper Ng,Joey Ng,16,,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,21,Matthew Rooke,Rumba,2
+,1,X,Semi-Final,Jasper Ng,Joey Ng,18,,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,21,Melvin Tan,Rumba,2
+,1,X,Semi-Final,Jasper Ng,Joey Ng,19,,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,21,Aaron Then,Rumba,2
+The DanceSport Academy,1,X,Semi-Final,Jonel Ibarra,Bethia Wee,10,,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,23,Michelle Fong,Rumba,6
+The DanceSport Academy,1,X,Semi-Final,Jonel Ibarra,Bethia Wee,11,,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,23,Jack Goh,Rumba,6
+The DanceSport Academy,1,X,Semi-Final,Jonel Ibarra,Bethia Wee,12,,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,23,Andrey Gorbunov,Rumba,6
+The DanceSport Academy,1,X,Semi-Final,Jonel Ibarra,Bethia Wee,13,,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,23,Felix Lau,Rumba,6
+The DanceSport Academy,1,,Semi-Final,Jonel Ibarra,Bethia Wee,16,,0, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,23,Matthew Rooke,Rumba,6
+The DanceSport Academy,1,X,Semi-Final,Jonel Ibarra,Bethia Wee,18,,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,23,Melvin Tan,Rumba,6
+The DanceSport Academy,1,,Semi-Final,Jonel Ibarra,Bethia Wee,19,,0, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,23,Aaron Then,Rumba,6
+Unaffiliated,1,X,Semi-Final,Nicholas Yue,Carissa Chua,10,,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,28,Michelle Fong,Rumba,3
+Unaffiliated,1,X,Semi-Final,Nicholas Yue,Carissa Chua,11,,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,28,Jack Goh,Rumba,3
+Unaffiliated,1,X,Semi-Final,Nicholas Yue,Carissa Chua,12,,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,28,Andrey Gorbunov,Rumba,3
+Unaffiliated,1,X,Semi-Final,Nicholas Yue,Carissa Chua,13,,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,28,Felix Lau,Rumba,3
+Unaffiliated,1,X,Semi-Final,Nicholas Yue,Carissa Chua,16,,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,28,Matthew Rooke,Rumba,3
+Unaffiliated,1,X,Semi-Final,Nicholas Yue,Carissa Chua,18,,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,28,Melvin Tan,Rumba,3
+Unaffiliated,1,X,Semi-Final,Nicholas Yue,Carissa Chua,19,,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,28,Aaron Then,Rumba,3
+The DanceSport Academy,1,,Semi-Final,Darren Boon,Ping Ting Tan,10,,0, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,20,Michelle Fong,Rumba,7
+The DanceSport Academy,1,X,Semi-Final,Darren Boon,Ping Ting Tan,11,,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,20,Jack Goh,Rumba,7
+The DanceSport Academy,1,,Semi-Final,Darren Boon,Ping Ting Tan,12,,0, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,20,Andrey Gorbunov,Rumba,7
+The DanceSport Academy,1,,Semi-Final,Darren Boon,Ping Ting Tan,13,,0, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,20,Felix Lau,Rumba,7
+The DanceSport Academy,1,X,Semi-Final,Darren Boon,Ping Ting Tan,16,,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,20,Matthew Rooke,Rumba,7
+The DanceSport Academy,1,X,Semi-Final,Darren Boon,Ping Ting Tan,18,,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,20,Melvin Tan,Rumba,7
+The DanceSport Academy,1,X,Semi-Final,Darren Boon,Ping Ting Tan,19,,1, All Novice/Pre-Am Latin  (CRJ),Sample,1,nus14,41318020,20,Aaron Then,Rumba,7
+,1,X,Semi-Final,Keith Ng Kien Kok,Judy Lim Bee Lan,10,R,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,10,Michelle Fong,Jive,4
+,1,X,Semi-Final,Keith Ng Kien Kok,Judy Lim Bee Lan,11,R,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,10,Jack Goh,Jive,4
+,1,X,Semi-Final,Keith Ng Kien Kok,Judy Lim Bee Lan,12,R,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,10,Andrey Gorbunov,Jive,4
+,1,X,Semi-Final,Keith Ng Kien Kok,Judy Lim Bee Lan,13,R,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,10,Felix Lau,Jive,4
+,1,,Semi-Final,Keith Ng Kien Kok,Judy Lim Bee Lan,16,R,0, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,10,Matthew Rooke,Jive,4
+,1,X,Semi-Final,Keith Ng Kien Kok,Judy Lim Bee Lan,18,R,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,10,Melvin Tan,Jive,4
+,1,X,Semi-Final,Keith Ng Kien Kok,Judy Lim Bee Lan,19,R,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,10,Aaron Then,Jive,4
+Unaffiliated,1,X,Semi-Final,Evgeny  Shatokhin,Trina Kok,10,R,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,16,Michelle Fong,Jive,5
+Unaffiliated,1,,Semi-Final,Evgeny  Shatokhin,Trina Kok,11,R,0, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,16,Jack Goh,Jive,5
+Unaffiliated,1,X,Semi-Final,Evgeny  Shatokhin,Trina Kok,12,R,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,16,Andrey Gorbunov,Jive,5
+Unaffiliated,1,,Semi-Final,Evgeny  Shatokhin,Trina Kok,13,R,0, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,16,Felix Lau,Jive,5
+Unaffiliated,1,X,Semi-Final,Evgeny  Shatokhin,Trina Kok,16,R,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,16,Matthew Rooke,Jive,5
+Unaffiliated,1,,Semi-Final,Evgeny  Shatokhin,Trina Kok,18,R,0, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,16,Melvin Tan,Jive,5
+Unaffiliated,1,X,Semi-Final,Evgeny  Shatokhin,Trina Kok,19,R,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,16,Aaron Then,Jive,5
+Singapore Management University,1,X,Semi-Final,Ang Ernest,Lee Mabel,10,R,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,19,Michelle Fong,Jive,1
+Singapore Management University,1,X,Semi-Final,Ang Ernest,Lee Mabel,11,R,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,19,Jack Goh,Jive,1
+Singapore Management University,1,X,Semi-Final,Ang Ernest,Lee Mabel,12,R,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,19,Andrey Gorbunov,Jive,1
+Singapore Management University,1,X,Semi-Final,Ang Ernest,Lee Mabel,13,R,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,19,Felix Lau,Jive,1
+Singapore Management University,1,X,Semi-Final,Ang Ernest,Lee Mabel,16,R,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,19,Matthew Rooke,Jive,1
+Singapore Management University,1,X,Semi-Final,Ang Ernest,Lee Mabel,18,R,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,19,Melvin Tan,Jive,1
+Singapore Management University,1,X,Semi-Final,Ang Ernest,Lee Mabel,19,R,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,19,Aaron Then,Jive,1
+,1,X,Semi-Final,Jasper Ng,Joey Ng,10,R,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,21,Michelle Fong,Jive,2
+,1,X,Semi-Final,Jasper Ng,Joey Ng,11,R,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,21,Jack Goh,Jive,2
+,1,X,Semi-Final,Jasper Ng,Joey Ng,12,R,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,21,Andrey Gorbunov,Jive,2
+,1,X,Semi-Final,Jasper Ng,Joey Ng,13,R,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,21,Felix Lau,Jive,2
+,1,X,Semi-Final,Jasper Ng,Joey Ng,16,R,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,21,Matthew Rooke,Jive,2
+,1,X,Semi-Final,Jasper Ng,Joey Ng,18,R,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,21,Melvin Tan,Jive,2
+,1,X,Semi-Final,Jasper Ng,Joey Ng,19,R,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,21,Aaron Then,Jive,2
+The DanceSport Academy,1,X,Semi-Final,Jonel Ibarra,Bethia Wee,10,R,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,23,Michelle Fong,Jive,6
+The DanceSport Academy,1,X,Semi-Final,Jonel Ibarra,Bethia Wee,11,R,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,23,Jack Goh,Jive,6
+The DanceSport Academy,1,,Semi-Final,Jonel Ibarra,Bethia Wee,12,R,0, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,23,Andrey Gorbunov,Jive,6
+The DanceSport Academy,1,X,Semi-Final,Jonel Ibarra,Bethia Wee,13,R,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,23,Felix Lau,Jive,6
+The DanceSport Academy,1,X,Semi-Final,Jonel Ibarra,Bethia Wee,16,R,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,23,Matthew Rooke,Jive,6
+The DanceSport Academy,1,X,Semi-Final,Jonel Ibarra,Bethia Wee,18,R,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,23,Melvin Tan,Jive,6
+The DanceSport Academy,1,X,Semi-Final,Jonel Ibarra,Bethia Wee,19,R,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,23,Aaron Then,Jive,6
+Unaffiliated,1,X,Semi-Final,Nicholas Yue,Carissa Chua,10,R,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,28,Michelle Fong,Jive,3
+Unaffiliated,1,X,Semi-Final,Nicholas Yue,Carissa Chua,11,R,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,28,Jack Goh,Jive,3
+Unaffiliated,1,X,Semi-Final,Nicholas Yue,Carissa Chua,12,R,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,28,Andrey Gorbunov,Jive,3
+Unaffiliated,1,X,Semi-Final,Nicholas Yue,Carissa Chua,13,R,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,28,Felix Lau,Jive,3
+Unaffiliated,1,X,Semi-Final,Nicholas Yue,Carissa Chua,16,R,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,28,Matthew Rooke,Jive,3
+Unaffiliated,1,X,Semi-Final,Nicholas Yue,Carissa Chua,18,R,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,28,Melvin Tan,Jive,3
+Unaffiliated,1,X,Semi-Final,Nicholas Yue,Carissa Chua,19,R,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,28,Aaron Then,Jive,3
+The DanceSport Academy,1,,Semi-Final,Darren Boon,Ping Ting Tan,10,,0, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,20,Michelle Fong,Jive,7
+The DanceSport Academy,1,X,Semi-Final,Darren Boon,Ping Ting Tan,11,,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,20,Jack Goh,Jive,7
+The DanceSport Academy,1,X,Semi-Final,Darren Boon,Ping Ting Tan,12,,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,20,Andrey Gorbunov,Jive,7
+The DanceSport Academy,1,X,Semi-Final,Darren Boon,Ping Ting Tan,13,,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,20,Felix Lau,Jive,7
+The DanceSport Academy,1,X,Semi-Final,Darren Boon,Ping Ting Tan,16,,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,20,Matthew Rooke,Jive,7
+The DanceSport Academy,1,X,Semi-Final,Darren Boon,Ping Ting Tan,18,,1, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,20,Melvin Tan,Jive,7
+The DanceSport Academy,1,,Semi-Final,Darren Boon,Ping Ting Tan,19,,0, All Novice/Pre-Am Latin  (CRJ),Sample,2,nus14,41318020,20,Aaron Then,Jive,7
+,0,1,Final,Jasper Ng,Joey Ng,10,1,1, All Novice/Pre-Am Intl. Samba  (S),Sample,0,nus14,41318029,21,Michelle Fong,Intl. Samba,1
+,0,1,Final,Jasper Ng,Joey Ng,11,1,1, All Novice/Pre-Am Intl. Samba  (S),Sample,0,nus14,41318029,21,Jack Goh,Intl. Samba,1
+,0,1,Final,Jasper Ng,Joey Ng,12,1,1, All Novice/Pre-Am Intl. Samba  (S),Sample,0,nus14,41318029,21,Andrey Gorbunov,Intl. Samba,1
+,0,1,Final,Jasper Ng,Joey Ng,13,1,1, All Novice/Pre-Am Intl. Samba  (S),Sample,0,nus14,41318029,21,Felix Lau,Intl. Samba,1
+,0,1,Final,Jasper Ng,Joey Ng,16,1,1, All Novice/Pre-Am Intl. Samba  (S),Sample,0,nus14,41318029,21,Matthew Rooke,Intl. Samba,1
+,0,1,Final,Jasper Ng,Joey Ng,18,1,1, All Novice/Pre-Am Intl. Samba  (S),Sample,0,nus14,41318029,21,Melvin Tan,Intl. Samba,1
+,0,1,Final,Jasper Ng,Joey Ng,19,1,1, All Novice/Pre-Am Intl. Samba  (S),Sample,0,nus14,41318029,21,Aaron Then,Intl. Samba,1
+Unaffiliated,0,2,Final,Nicholas Yue,Carissa Chua,10,2,2, All Novice/Pre-Am Intl. Samba  (S),Sample,0,nus14,41318029,28,Michelle Fong,Intl. Samba,2
+Unaffiliated,0,2,Final,Nicholas Yue,Carissa Chua,11,2,2, All Novice/Pre-Am Intl. Samba  (S),Sample,0,nus14,41318029,28,Jack Goh,Intl. Samba,2
+Unaffiliated,0,2,Final,Nicholas Yue,Carissa Chua,12,2,2, All Novice/Pre-Am Intl. Samba  (S),Sample,0,nus14,41318029,28,Andrey Gorbunov,Intl. Samba,2
+Unaffiliated,0,2,Final,Nicholas Yue,Carissa Chua,13,2,2, All Novice/Pre-Am Intl. Samba  (S),Sample,0,nus14,41318029,28,Felix Lau,Intl. Samba,2
+Unaffiliated,0,2,Final,Nicholas Yue,Carissa Chua,16,2,2, All Novice/Pre-Am Intl. Samba  (S),Sample,0,nus14,41318029,28,Matthew Rooke,Intl. Samba,2
+Unaffiliated,0,2,Final,Nicholas Yue,Carissa Chua,18,2,2, All Novice/Pre-Am Intl. Samba  (S),Sample,0,nus14,41318029,28,Melvin Tan,Intl. Samba,2
+Unaffiliated,0,2,Final,Nicholas Yue,Carissa Chua,19,2,2, All Novice/Pre-Am Intl. Samba  (S),Sample,0,nus14,41318029,28,Aaron Then,Intl. Samba,2
+,0,1,Final,Jasper Ng,Joey Ng,10,1,1, All Novice/Pre-Am Intl. Paso Doble  (P),Sample,0,nus14,4131802B,21,Michelle Fong,Intl. Paso Doble,1
+,0,1,Final,Jasper Ng,Joey Ng,11,1,1, All Novice/Pre-Am Intl. Paso Doble  (P),Sample,0,nus14,4131802B,21,Jack Goh,Intl. Paso Doble,1
+,0,1,Final,Jasper Ng,Joey Ng,12,1,1, All Novice/Pre-Am Intl. Paso Doble  (P),Sample,0,nus14,4131802B,21,Andrey Gorbunov,Intl. Paso Doble,1
+,0,1,Final,Jasper Ng,Joey Ng,13,1,1, All Novice/Pre-Am Intl. Paso Doble  (P),Sample,0,nus14,4131802B,21,Felix Lau,Intl. Paso Doble,1
+,0,1,Final,Jasper Ng,Joey Ng,16,1,1, All Novice/Pre-Am Intl. Paso Doble  (P),Sample,0,nus14,4131802B,21,Matthew Rooke,Intl. Paso Doble,1
+,0,1,Final,Jasper Ng,Joey Ng,18,1,1, All Novice/Pre-Am Intl. Paso Doble  (P),Sample,0,nus14,4131802B,21,Melvin Tan,Intl. Paso Doble,1
+,0,1,Final,Jasper Ng,Joey Ng,19,1,1, All Novice/Pre-Am Intl. Paso Doble  (P),Sample,0,nus14,4131802B,21,Aaron Then,Intl. Paso Doble,1
+John and Josephine Dance Creative,0,1,Final,jonathan tan,Carin Lee,13,1,1, All Rising Star Standard  (WTFQ),Sample,0,nus14,41318210,15,Felix Lau,Waltz,1
+John and Josephine Dance Creative,0,2,Final,jonathan tan,Carin Lee,14,1,2, All Rising Star Standard  (WTFQ),Sample,0,nus14,41318210,15,Tuan Phan,Waltz,1
+John and Josephine Dance Creative,0,1,Final,jonathan tan,Carin Lee,15,1,1, All Rising Star Standard  (WTFQ),Sample,0,nus14,41318210,15,Anthony Price,Waltz,1
+John and Josephine Dance Creative,0,1,Final,jonathan tan,Carin Lee,16,1,1, All Rising Star Standard  (WTFQ),Sample,0,nus14,41318210,15,Matthew Rooke,Waltz,1
+John and Josephine Dance Creative,0,1,Final,jonathan tan,Carin Lee,17,1,1, All Rising Star Standard  (WTFQ),Sample,0,nus14,41318210,15,Aleena Tan,Waltz,1
+Melvyn Low Dance Studio,0,2,Final,Kian Yong Soon,Zhi Xin Yap,13,2,2, All Rising Star Standard  (WTFQ),Sample,0,nus14,41318210,3,Felix Lau,Waltz,2
+Melvyn Low Dance Studio,0,1,Final,Kian Yong Soon,Zhi Xin Yap,14,2,1, All Rising Star Standard  (WTFQ),Sample,0,nus14,41318210,3,Tuan Phan,Waltz,2
+Melvyn Low Dance Studio,0,2,Final,Kian Yong Soon,Zhi Xin Yap,15,2,2, All Rising Star Standard  (WTFQ),Sample,0,nus14,41318210,3,Anthony Price,Waltz,2
+Melvyn Low Dance Studio,0,2,Final,Kian Yong Soon,Zhi Xin Yap,16,2,2, All Rising Star Standard  (WTFQ),Sample,0,nus14,41318210,3,Matthew Rooke,Waltz,2
+Melvyn Low Dance Studio,0,2,Final,Kian Yong Soon,Zhi Xin Yap,17,2,2, All Rising Star Standard  (WTFQ),Sample,0,nus14,41318210,3,Aleena Tan,Waltz,2
+John and Josephine Dance Creative,0,1,Final,jonathan tan,Carin Lee,13,1,1, All Rising Star Standard  (WTFQ),Sample,1,nus14,41318210,15,Felix Lau,Tango,1
+John and Josephine Dance Creative,0,1,Final,jonathan tan,Carin Lee,14,1,1, All Rising Star Standard  (WTFQ),Sample,1,nus14,41318210,15,Tuan Phan,Tango,1
+John and Josephine Dance Creative,0,1,Final,jonathan tan,Carin Lee,15,1,1, All Rising Star Standard  (WTFQ),Sample,1,nus14,41318210,15,Anthony Price,Tango,1
+John and Josephine Dance Creative,0,1,Final,jonathan tan,Carin Lee,16,1,1, All Rising Star Standard  (WTFQ),Sample,1,nus14,41318210,15,Matthew Rooke,Tango,1
+John and Josephine Dance Creative,0,1,Final,jonathan tan,Carin Lee,17,1,1, All Rising Star Standard  (WTFQ),Sample,1,nus14,41318210,15,Aleena Tan,Tango,1
+Melvyn Low Dance Studio,0,2,Final,Kian Yong Soon,Zhi Xin Yap,13,2,2, All Rising Star Standard  (WTFQ),Sample,1,nus14,41318210,3,Felix Lau,Tango,2
+Melvyn Low Dance Studio,0,2,Final,Kian Yong Soon,Zhi Xin Yap,14,2,2, All Rising Star Standard  (WTFQ),Sample,1,nus14,41318210,3,Tuan Phan,Tango,2
+Melvyn Low Dance Studio,0,2,Final,Kian Yong Soon,Zhi Xin Yap,15,2,2, All Rising Star Standard  (WTFQ),Sample,1,nus14,41318210,3,Anthony Price,Tango,2
+Melvyn Low Dance Studio,0,2,Final,Kian Yong Soon,Zhi Xin Yap,16,2,2, All Rising Star Standard  (WTFQ),Sample,1,nus14,41318210,3,Matthew Rooke,Tango,2
+Melvyn Low Dance Studio,0,2,Final,Kian Yong Soon,Zhi Xin Yap,17,2,2, All Rising Star Standard  (WTFQ),Sample,1,nus14,41318210,3,Aleena Tan,Tango,2
+John and Josephine Dance Creative,0,1,Final,jonathan tan,Carin Lee,13,1,1, All Rising Star Standard  (WTFQ),Sample,2,nus14,41318210,15,Felix Lau,Foxtrot,1
+John and Josephine Dance Creative,0,2,Final,jonathan tan,Carin Lee,14,1,2, All Rising Star Standard  (WTFQ),Sample,2,nus14,41318210,15,Tuan Phan,Foxtrot,1
+John and Josephine Dance Creative,0,1,Final,jonathan tan,Carin Lee,15,1,1, All Rising Star Standard  (WTFQ),Sample,2,nus14,41318210,15,Anthony Price,Foxtrot,1
+John and Josephine Dance Creative,0,1,Final,jonathan tan,Carin Lee,16,1,1, All Rising Star Standard  (WTFQ),Sample,2,nus14,41318210,15,Matthew Rooke,Foxtrot,1
+John and Josephine Dance Creative,0,1,Final,jonathan tan,Carin Lee,17,1,1, All Rising Star Standard  (WTFQ),Sample,2,nus14,41318210,15,Aleena Tan,Foxtrot,1
+Melvyn Low Dance Studio,0,2,Final,Kian Yong Soon,Zhi Xin Yap,13,2,2, All Rising Star Standard  (WTFQ),Sample,2,nus14,41318210,3,Felix Lau,Foxtrot,2
+Melvyn Low Dance Studio,0,1,Final,Kian Yong Soon,Zhi Xin Yap,14,2,1, All Rising Star Standard  (WTFQ),Sample,2,nus14,41318210,3,Tuan Phan,Foxtrot,2
+Melvyn Low Dance Studio,0,2,Final,Kian Yong Soon,Zhi Xin Yap,15,2,2, All Rising Star Standard  (WTFQ),Sample,2,nus14,41318210,3,Anthony Price,Foxtrot,2
+Melvyn Low Dance Studio,0,2,Final,Kian Yong Soon,Zhi Xin Yap,16,2,2, All Rising Star Standard  (WTFQ),Sample,2,nus14,41318210,3,Matthew Rooke,Foxtrot,2
+Melvyn Low Dance Studio,0,2,Final,Kian Yong Soon,Zhi Xin Yap,17,2,2, All Rising Star Standard  (WTFQ),Sample,2,nus14,41318210,3,Aleena Tan,Foxtrot,2
+John and Josephine Dance Creative,0,1,Final,jonathan tan,Carin Lee,13,2,1, All Rising Star Standard  (WTFQ),Sample,3,nus14,41318210,15,Felix Lau,Quickstep,1
+John and Josephine Dance Creative,0,2,Final,jonathan tan,Carin Lee,14,2,2, All Rising Star Standard  (WTFQ),Sample,3,nus14,41318210,15,Tuan Phan,Quickstep,1
+John and Josephine Dance Creative,0,2,Final,jonathan tan,Carin Lee,15,2,2, All Rising Star Standard  (WTFQ),Sample,3,nus14,41318210,15,Anthony Price,Quickstep,1
+John and Josephine Dance Creative,0,1,Final,jonathan tan,Carin Lee,16,2,1, All Rising Star Standard  (WTFQ),Sample,3,nus14,41318210,15,Matthew Rooke,Quickstep,1
+John and Josephine Dance Creative,0,2,Final,jonathan tan,Carin Lee,17,2,2, All Rising Star Standard  (WTFQ),Sample,3,nus14,41318210,15,Aleena Tan,Quickstep,1
+Melvyn Low Dance Studio,0,2,Final,Kian Yong Soon,Zhi Xin Yap,13,1,2, All Rising Star Standard  (WTFQ),Sample,3,nus14,41318210,3,Felix Lau,Quickstep,2
+Melvyn Low Dance Studio,0,1,Final,Kian Yong Soon,Zhi Xin Yap,14,1,1, All Rising Star Standard  (WTFQ),Sample,3,nus14,41318210,3,Tuan Phan,Quickstep,2
+Melvyn Low Dance Studio,0,1,Final,Kian Yong Soon,Zhi Xin Yap,15,1,1, All Rising Star Standard  (WTFQ),Sample,3,nus14,41318210,3,Anthony Price,Quickstep,2
+Melvyn Low Dance Studio,0,2,Final,Kian Yong Soon,Zhi Xin Yap,16,1,2, All Rising Star Standard  (WTFQ),Sample,3,nus14,41318210,3,Matthew Rooke,Quickstep,2
+Melvyn Low Dance Studio,0,1,Final,Kian Yong Soon,Zhi Xin Yap,17,1,1, All Rising Star Standard  (WTFQ),Sample,3,nus14,41318210,3,Aleena Tan,Quickstep,2
+The DanceSport Academy,0,1,Final,Leonard Ng,Pamela Lee,10,1,1, All Rising Star Latin  (SCRJ),Sample,0,nus14,41318220,22,Michelle Fong,Samba,1
+The DanceSport Academy,0,1,Final,Leonard Ng,Pamela Lee,11,1,1, All Rising Star Latin  (SCRJ),Sample,0,nus14,41318220,22,Jack Goh,Samba,1
+The DanceSport Academy,0,1,Final,Leonard Ng,Pamela Lee,12,1,1, All Rising Star Latin  (SCRJ),Sample,0,nus14,41318220,22,Andrey Gorbunov,Samba,1
+The DanceSport Academy,0,1,Final,Leonard Ng,Pamela Lee,18,1,1, All Rising Star Latin  (SCRJ),Sample,0,nus14,41318220,22,Melvin Tan,Samba,1
+The DanceSport Academy,0,1,Final,Leonard Ng,Pamela Lee,19,1,1, All Rising Star Latin  (SCRJ),Sample,0,nus14,41318220,22,Aaron Then,Samba,1
+The DanceSport Academy,0,1,Final,Leonard Ng,Pamela Lee,10,1,1, All Rising Star Latin  (SCRJ),Sample,1,nus14,41318220,22,Michelle Fong,Cha Cha,1
+The DanceSport Academy,0,1,Final,Leonard Ng,Pamela Lee,11,1,1, All Rising Star Latin  (SCRJ),Sample,1,nus14,41318220,22,Jack Goh,Cha Cha,1
+The DanceSport Academy,0,1,Final,Leonard Ng,Pamela Lee,12,1,1, All Rising Star Latin  (SCRJ),Sample,1,nus14,41318220,22,Andrey Gorbunov,Cha Cha,1
+The DanceSport Academy,0,1,Final,Leonard Ng,Pamela Lee,18,1,1, All Rising Star Latin  (SCRJ),Sample,1,nus14,41318220,22,Melvin Tan,Cha Cha,1
+The DanceSport Academy,0,1,Final,Leonard Ng,Pamela Lee,19,1,1, All Rising Star Latin  (SCRJ),Sample,1,nus14,41318220,22,Aaron Then,Cha Cha,1
+The DanceSport Academy,0,1,Final,Leonard Ng,Pamela Lee,10,1,1, All Rising Star Latin  (SCRJ),Sample,2,nus14,41318220,22,Michelle Fong,Rumba,1
+The DanceSport Academy,0,1,Final,Leonard Ng,Pamela Lee,11,1,1, All Rising Star Latin  (SCRJ),Sample,2,nus14,41318220,22,Jack Goh,Rumba,1
+The DanceSport Academy,0,1,Final,Leonard Ng,Pamela Lee,12,1,1, All Rising Star Latin  (SCRJ),Sample,2,nus14,41318220,22,Andrey Gorbunov,Rumba,1
+The DanceSport Academy,0,1,Final,Leonard Ng,Pamela Lee,18,1,1, All Rising Star Latin  (SCRJ),Sample,2,nus14,41318220,22,Melvin Tan,Rumba,1
+The DanceSport Academy,0,1,Final,Leonard Ng,Pamela Lee,19,1,1, All Rising Star Latin  (SCRJ),Sample,2,nus14,41318220,22,Aaron Then,Rumba,1
+The DanceSport Academy,0,1,Final,Leonard Ng,Pamela Lee,10,1,1, All Rising Star Latin  (SCRJ),Sample,3,nus14,41318220,22,Michelle Fong,Jive,1
+The DanceSport Academy,0,1,Final,Leonard Ng,Pamela Lee,11,1,1, All Rising Star Latin  (SCRJ),Sample,3,nus14,41318220,22,Jack Goh,Jive,1
+The DanceSport Academy,0,1,Final,Leonard Ng,Pamela Lee,12,1,1, All Rising Star Latin  (SCRJ),Sample,3,nus14,41318220,22,Andrey Gorbunov,Jive,1
+The DanceSport Academy,0,1,Final,Leonard Ng,Pamela Lee,18,1,1, All Rising Star Latin  (SCRJ),Sample,3,nus14,41318220,22,Melvin Tan,Jive,1
+The DanceSport Academy,0,1,Final,Leonard Ng,Pamela Lee,19,1,1, All Rising Star Latin  (SCRJ),Sample,3,nus14,41318220,22,Aaron Then,Jive,1
+John and Josephine Dance Creative,0,1,Final,jonathan tan,Carin Lee,12,1,1, All Championship Standard  (WTVFQ),Sample,0,nus14,41318610,15,Andrey Gorbunov,Waltz,1
+John and Josephine Dance Creative,0,1,Final,jonathan tan,Carin Lee,13,1,1, All Championship Standard  (WTVFQ),Sample,0,nus14,41318610,15,Felix Lau,Waltz,1
+John and Josephine Dance Creative,0,2,Final,jonathan tan,Carin Lee,14,1,2, All Championship Standard  (WTVFQ),Sample,0,nus14,41318610,15,Tuan Phan,Waltz,1
+John and Josephine Dance Creative,0,1,Final,jonathan tan,Carin Lee,15,1,1, All Championship Standard  (WTVFQ),Sample,0,nus14,41318610,15,Anthony Price,Waltz,1
+John and Josephine Dance Creative,0,1,Final,jonathan tan,Carin Lee,16,1,1, All Championship Standard  (WTVFQ),Sample,0,nus14,41318610,15,Matthew Rooke,Waltz,1
+John and Josephine Dance Creative,0,2,Final,jonathan tan,Carin Lee,17,1,2, All Championship Standard  (WTVFQ),Sample,0,nus14,41318610,15,Aleena Tan,Waltz,1
+John and Josephine Dance Creative,0,2,Final,jonathan tan,Carin Lee,18,1,2, All Championship Standard  (WTVFQ),Sample,0,nus14,41318610,15,Melvin Tan,Waltz,1
+Melvyn Low Dance Studio,0,2,Final,Kian Yong Soon,Zhi Xin Yap,12,2,2, All Championship Standard  (WTVFQ),Sample,0,nus14,41318610,3,Andrey Gorbunov,Waltz,2
+Melvyn Low Dance Studio,0,2,Final,Kian Yong Soon,Zhi Xin Yap,13,2,2, All Championship Standard  (WTVFQ),Sample,0,nus14,41318610,3,Felix Lau,Waltz,2
+Melvyn Low Dance Studio,0,1,Final,Kian Yong Soon,Zhi Xin Yap,14,2,1, All Championship Standard  (WTVFQ),Sample,0,nus14,41318610,3,Tuan Phan,Waltz,2
+Melvyn Low Dance Studio,0,2,Final,Kian Yong Soon,Zhi Xin Yap,15,2,2, All Championship Standard  (WTVFQ),Sample,0,nus14,41318610,3,Anthony Price,Waltz,2
+Melvyn Low Dance Studio,0,2,Final,Kian Yong Soon,Zhi Xin Yap,16,2,2, All Championship Standard  (WTVFQ),Sample,0,nus14,41318610,3,Matthew Rooke,Waltz,2
+Melvyn Low Dance Studio,0,1,Final,Kian Yong Soon,Zhi Xin Yap,17,2,1, All Championship Standard  (WTVFQ),Sample,0,nus14,41318610,3,Aleena Tan,Waltz,2
+Melvyn Low Dance Studio,0,1,Final,Kian Yong Soon,Zhi Xin Yap,18,2,1, All Championship Standard  (WTVFQ),Sample,0,nus14,41318610,3,Melvin Tan,Waltz,2
+John and Josephine Dance Creative,0,1,Final,jonathan tan,Carin Lee,12,1,1, All Championship Standard  (WTVFQ),Sample,1,nus14,41318610,15,Andrey Gorbunov,Tango,1
+John and Josephine Dance Creative,0,1,Final,jonathan tan,Carin Lee,13,1,1, All Championship Standard  (WTVFQ),Sample,1,nus14,41318610,15,Felix Lau,Tango,1
+John and Josephine Dance Creative,0,1,Final,jonathan tan,Carin Lee,14,1,1, All Championship Standard  (WTVFQ),Sample,1,nus14,41318610,15,Tuan Phan,Tango,1
+John and Josephine Dance Creative,0,1,Final,jonathan tan,Carin Lee,15,1,1, All Championship Standard  (WTVFQ),Sample,1,nus14,41318610,15,Anthony Price,Tango,1
+John and Josephine Dance Creative,0,1,Final,jonathan tan,Carin Lee,16,1,1, All Championship Standard  (WTVFQ),Sample,1,nus14,41318610,15,Matthew Rooke,Tango,1
+John and Josephine Dance Creative,0,2,Final,jonathan tan,Carin Lee,17,1,2, All Championship Standard  (WTVFQ),Sample,1,nus14,41318610,15,Aleena Tan,Tango,1
+John and Josephine Dance Creative,0,2,Final,jonathan tan,Carin Lee,18,1,2, All Championship Standard  (WTVFQ),Sample,1,nus14,41318610,15,Melvin Tan,Tango,1
+Melvyn Low Dance Studio,0,2,Final,Kian Yong Soon,Zhi Xin Yap,12,2,2, All Championship Standard  (WTVFQ),Sample,1,nus14,41318610,3,Andrey Gorbunov,Tango,2
+Melvyn Low Dance Studio,0,2,Final,Kian Yong Soon,Zhi Xin Yap,13,2,2, All Championship Standard  (WTVFQ),Sample,1,nus14,41318610,3,Felix Lau,Tango,2
+Melvyn Low Dance Studio,0,2,Final,Kian Yong Soon,Zhi Xin Yap,14,2,2, All Championship Standard  (WTVFQ),Sample,1,nus14,41318610,3,Tuan Phan,Tango,2
+Melvyn Low Dance Studio,0,2,Final,Kian Yong Soon,Zhi Xin Yap,15,2,2, All Championship Standard  (WTVFQ),Sample,1,nus14,41318610,3,Anthony Price,Tango,2
+Melvyn Low Dance Studio,0,2,Final,Kian Yong Soon,Zhi Xin Yap,16,2,2, All Championship Standard  (WTVFQ),Sample,1,nus14,41318610,3,Matthew Rooke,Tango,2
+Melvyn Low Dance Studio,0,1,Final,Kian Yong Soon,Zhi Xin Yap,17,2,1, All Championship Standard  (WTVFQ),Sample,1,nus14,41318610,3,Aleena Tan,Tango,2
+Melvyn Low Dance Studio,0,1,Final,Kian Yong Soon,Zhi Xin Yap,18,2,1, All Championship Standard  (WTVFQ),Sample,1,nus14,41318610,3,Melvin Tan,Tango,2
+John and Josephine Dance Creative,0,1,Final,jonathan tan,Carin Lee,12,1,1, All Championship Standard  (WTVFQ),Sample,2,nus14,41318610,15,Andrey Gorbunov,Viennese Waltz,1
+John and Josephine Dance Creative,0,1,Final,jonathan tan,Carin Lee,13,1,1, All Championship Standard  (WTVFQ),Sample,2,nus14,41318610,15,Felix Lau,Viennese Waltz,1
+John and Josephine Dance Creative,0,2,Final,jonathan tan,Carin Lee,14,1,2, All Championship Standard  (WTVFQ),Sample,2,nus14,41318610,15,Tuan Phan,Viennese Waltz,1
+John and Josephine Dance Creative,0,1,Final,jonathan tan,Carin Lee,15,1,1, All Championship Standard  (WTVFQ),Sample,2,nus14,41318610,15,Anthony Price,Viennese Waltz,1
+John and Josephine Dance Creative,0,1,Final,jonathan tan,Carin Lee,16,1,1, All Championship Standard  (WTVFQ),Sample,2,nus14,41318610,15,Matthew Rooke,Viennese Waltz,1
+John and Josephine Dance Creative,0,2,Final,jonathan tan,Carin Lee,17,1,2, All Championship Standard  (WTVFQ),Sample,2,nus14,41318610,15,Aleena Tan,Viennese Waltz,1
+John and Josephine Dance Creative,0,1,Final,jonathan tan,Carin Lee,18,1,1, All Championship Standard  (WTVFQ),Sample,2,nus14,41318610,15,Melvin Tan,Viennese Waltz,1
+Melvyn Low Dance Studio,0,2,Final,Kian Yong Soon,Zhi Xin Yap,12,2,2, All Championship Standard  (WTVFQ),Sample,2,nus14,41318610,3,Andrey Gorbunov,Viennese Waltz,2
+Melvyn Low Dance Studio,0,2,Final,Kian Yong Soon,Zhi Xin Yap,13,2,2, All Championship Standard  (WTVFQ),Sample,2,nus14,41318610,3,Felix Lau,Viennese Waltz,2
+Melvyn Low Dance Studio,0,1,Final,Kian Yong Soon,Zhi Xin Yap,14,2,1, All Championship Standard  (WTVFQ),Sample,2,nus14,41318610,3,Tuan Phan,Viennese Waltz,2
+Melvyn Low Dance Studio,0,2,Final,Kian Yong Soon,Zhi Xin Yap,15,2,2, All Championship Standard  (WTVFQ),Sample,2,nus14,41318610,3,Anthony Price,Viennese Waltz,2
+Melvyn Low Dance Studio,0,2,Final,Kian Yong Soon,Zhi Xin Yap,16,2,2, All Championship Standard  (WTVFQ),Sample,2,nus14,41318610,3,Matthew Rooke,Viennese Waltz,2
+Melvyn Low Dance Studio,0,1,Final,Kian Yong Soon,Zhi Xin Yap,17,2,1, All Championship Standard  (WTVFQ),Sample,2,nus14,41318610,3,Aleena Tan,Viennese Waltz,2
+Melvyn Low Dance Studio,0,2,Final,Kian Yong Soon,Zhi Xin Yap,18,2,2, All Championship Standard  (WTVFQ),Sample,2,nus14,41318610,3,Melvin Tan,Viennese Waltz,2
+John and Josephine Dance Creative,0,1,Final,jonathan tan,Carin Lee,12,1,1, All Championship Standard  (WTVFQ),Sample,3,nus14,41318610,15,Andrey Gorbunov,Foxtrot,1
+John and Josephine Dance Creative,0,1,Final,jonathan tan,Carin Lee,13,1,1, All Championship Standard  (WTVFQ),Sample,3,nus14,41318610,15,Felix Lau,Foxtrot,1
+John and Josephine Dance Creative,0,2,Final,jonathan tan,Carin Lee,14,1,2, All Championship Standard  (WTVFQ),Sample,3,nus14,41318610,15,Tuan Phan,Foxtrot,1
+John and Josephine Dance Creative,0,1,Final,jonathan tan,Carin Lee,15,1,1, All Championship Standard  (WTVFQ),Sample,3,nus14,41318610,15,Anthony Price,Foxtrot,1
+John and Josephine Dance Creative,0,1,Final,jonathan tan,Carin Lee,16,1,1, All Championship Standard  (WTVFQ),Sample,3,nus14,41318610,15,Matthew Rooke,Foxtrot,1
+John and Josephine Dance Creative,0,1,Final,jonathan tan,Carin Lee,17,1,1, All Championship Standard  (WTVFQ),Sample,3,nus14,41318610,15,Aleena Tan,Foxtrot,1
+John and Josephine Dance Creative,0,2,Final,jonathan tan,Carin Lee,18,1,2, All Championship Standard  (WTVFQ),Sample,3,nus14,41318610,15,Melvin Tan,Foxtrot,1
+Melvyn Low Dance Studio,0,2,Final,Kian Yong Soon,Zhi Xin Yap,12,2,2, All Championship Standard  (WTVFQ),Sample,3,nus14,41318610,3,Andrey Gorbunov,Foxtrot,2
+Melvyn Low Dance Studio,0,2,Final,Kian Yong Soon,Zhi Xin Yap,13,2,2, All Championship Standard  (WTVFQ),Sample,3,nus14,41318610,3,Felix Lau,Foxtrot,2
+Melvyn Low Dance Studio,0,1,Final,Kian Yong Soon,Zhi Xin Yap,14,2,1, All Championship Standard  (WTVFQ),Sample,3,nus14,41318610,3,Tuan Phan,Foxtrot,2
+Melvyn Low Dance Studio,0,2,Final,Kian Yong Soon,Zhi Xin Yap,15,2,2, All Championship Standard  (WTVFQ),Sample,3,nus14,41318610,3,Anthony Price,Foxtrot,2
+Melvyn Low Dance Studio,0,2,Final,Kian Yong Soon,Zhi Xin Yap,16,2,2, All Championship Standard  (WTVFQ),Sample,3,nus14,41318610,3,Matthew Rooke,Foxtrot,2
+Melvyn Low Dance Studio,0,2,Final,Kian Yong Soon,Zhi Xin Yap,17,2,2, All Championship Standard  (WTVFQ),Sample,3,nus14,41318610,3,Aleena Tan,Foxtrot,2
+Melvyn Low Dance Studio,0,1,Final,Kian Yong Soon,Zhi Xin Yap,18,2,1, All Championship Standard  (WTVFQ),Sample,3,nus14,41318610,3,Melvin Tan,Foxtrot,2
+John and Josephine Dance Creative,0,1,Final,jonathan tan,Carin Lee,12,1,1, All Championship Standard  (WTVFQ),Sample,4,nus14,41318610,15,Andrey Gorbunov,Quickstep,1
+John and Josephine Dance Creative,0,1,Final,jonathan tan,Carin Lee,13,1,1, All Championship Standard  (WTVFQ),Sample,4,nus14,41318610,15,Felix Lau,Quickstep,1
+John and Josephine Dance Creative,0,2,Final,jonathan tan,Carin Lee,14,1,2, All Championship Standard  (WTVFQ),Sample,4,nus14,41318610,15,Tuan Phan,Quickstep,1
+John and Josephine Dance Creative,0,1,Final,jonathan tan,Carin Lee,15,1,1, All Championship Standard  (WTVFQ),Sample,4,nus14,41318610,15,Anthony Price,Quickstep,1
+John and Josephine Dance Creative,0,1,Final,jonathan tan,Carin Lee,16,1,1, All Championship Standard  (WTVFQ),Sample,4,nus14,41318610,15,Matthew Rooke,Quickstep,1
+John and Josephine Dance Creative,0,2,Final,jonathan tan,Carin Lee,17,1,2, All Championship Standard  (WTVFQ),Sample,4,nus14,41318610,15,Aleena Tan,Quickstep,1
+John and Josephine Dance Creative,0,2,Final,jonathan tan,Carin Lee,18,1,2, All Championship Standard  (WTVFQ),Sample,4,nus14,41318610,15,Melvin Tan,Quickstep,1
+Melvyn Low Dance Studio,0,2,Final,Kian Yong Soon,Zhi Xin Yap,12,2,2, All Championship Standard  (WTVFQ),Sample,4,nus14,41318610,3,Andrey Gorbunov,Quickstep,2
+Melvyn Low Dance Studio,0,2,Final,Kian Yong Soon,Zhi Xin Yap,13,2,2, All Championship Standard  (WTVFQ),Sample,4,nus14,41318610,3,Felix Lau,Quickstep,2
+Melvyn Low Dance Studio,0,1,Final,Kian Yong Soon,Zhi Xin Yap,14,2,1, All Championship Standard  (WTVFQ),Sample,4,nus14,41318610,3,Tuan Phan,Quickstep,2
+Melvyn Low Dance Studio,0,2,Final,Kian Yong Soon,Zhi Xin Yap,15,2,2, All Championship Standard  (WTVFQ),Sample,4,nus14,41318610,3,Anthony Price,Quickstep,2
+Melvyn Low Dance Studio,0,2,Final,Kian Yong Soon,Zhi Xin Yap,16,2,2, All Championship Standard  (WTVFQ),Sample,4,nus14,41318610,3,Matthew Rooke,Quickstep,2
+Melvyn Low Dance Studio,0,1,Final,Kian Yong Soon,Zhi Xin Yap,17,2,1, All Championship Standard  (WTVFQ),Sample,4,nus14,41318610,3,Aleena Tan,Quickstep,2
+Melvyn Low Dance Studio,0,1,Final,Kian Yong Soon,Zhi Xin Yap,18,2,1, All Championship Standard  (WTVFQ),Sample,4,nus14,41318610,3,Melvin Tan,Quickstep,2
+,0,1,Final,Jumil  Bacalso,Natalie  Tjokro,10,1,1, All Championship Latin  (SCRPJ),Sample,0,nus14,41318620,1,Michelle Fong,Samba,1
+,0,1,Final,Jumil  Bacalso,Natalie  Tjokro,11,1,1, All Championship Latin  (SCRPJ),Sample,0,nus14,41318620,1,Jack Goh,Samba,1
+,0,1,Final,Jumil  Bacalso,Natalie  Tjokro,12,1,1, All Championship Latin  (SCRPJ),Sample,0,nus14,41318620,1,Andrey Gorbunov,Samba,1
+,0,1,Final,Jumil  Bacalso,Natalie  Tjokro,13,1,1, All Championship Latin  (SCRPJ),Sample,0,nus14,41318620,1,Felix Lau,Samba,1
+,0,1,Final,Jumil  Bacalso,Natalie  Tjokro,17,1,1, All Championship Latin  (SCRPJ),Sample,0,nus14,41318620,1,Aleena Tan,Samba,1
+,0,1,Final,Jumil  Bacalso,Natalie  Tjokro,18,1,1, All Championship Latin  (SCRPJ),Sample,0,nus14,41318620,1,Melvin Tan,Samba,1
+,0,1,Final,Jumil  Bacalso,Natalie  Tjokro,19,1,1, All Championship Latin  (SCRPJ),Sample,0,nus14,41318620,1,Aaron Then,Samba,1
+,0,2,Final,Low Nicholas,Kan Lorencia,10,2,2, All Championship Latin  (SCRPJ),Sample,0,nus14,41318620,25,Michelle Fong,Samba,2
+,0,3,Final,Low Nicholas,Kan Lorencia,11,2,3, All Championship Latin  (SCRPJ),Sample,0,nus14,41318620,25,Jack Goh,Samba,2
+,0,2,Final,Low Nicholas,Kan Lorencia,12,2,2, All Championship Latin  (SCRPJ),Sample,0,nus14,41318620,25,Andrey Gorbunov,Samba,2
+,0,2,Final,Low Nicholas,Kan Lorencia,13,2,2, All Championship Latin  (SCRPJ),Sample,0,nus14,41318620,25,Felix Lau,Samba,2
+,0,2,Final,Low Nicholas,Kan Lorencia,17,2,2, All Championship Latin  (SCRPJ),Sample,0,nus14,41318620,25,Aleena Tan,Samba,2
+,0,2,Final,Low Nicholas,Kan Lorencia,18,2,2, All Championship Latin  (SCRPJ),Sample,0,nus14,41318620,25,Melvin Tan,Samba,2
+,0,3,Final,Low Nicholas,Kan Lorencia,19,2,3, All Championship Latin  (SCRPJ),Sample,0,nus14,41318620,25,Aaron Then,Samba,2
+,0,3,Final,Kavin Rathna,Cheryl Yuen xue yi,10,3,3, All Championship Latin  (SCRPJ),Sample,0,nus14,41318620,11,Michelle Fong,Samba,3
+,0,2,Final,Kavin Rathna,Cheryl Yuen xue yi,11,3,2, All Championship Latin  (SCRPJ),Sample,0,nus14,41318620,11,Jack Goh,Samba,3
+,0,3,Final,Kavin Rathna,Cheryl Yuen xue yi,12,3,3, All Championship Latin  (SCRPJ),Sample,0,nus14,41318620,11,Andrey Gorbunov,Samba,3
+,0,3,Final,Kavin Rathna,Cheryl Yuen xue yi,13,3,3, All Championship Latin  (SCRPJ),Sample,0,nus14,41318620,11,Felix Lau,Samba,3
+,0,3,Final,Kavin Rathna,Cheryl Yuen xue yi,17,3,3, All Championship Latin  (SCRPJ),Sample,0,nus14,41318620,11,Aleena Tan,Samba,3
+,0,3,Final,Kavin Rathna,Cheryl Yuen xue yi,18,3,3, All Championship Latin  (SCRPJ),Sample,0,nus14,41318620,11,Melvin Tan,Samba,3
+,0,2,Final,Kavin Rathna,Cheryl Yuen xue yi,19,3,2, All Championship Latin  (SCRPJ),Sample,0,nus14,41318620,11,Aaron Then,Samba,3
+,0,1,Final,Jumil  Bacalso,Natalie  Tjokro,10,1,1, All Championship Latin  (SCRPJ),Sample,1,nus14,41318620,1,Michelle Fong,Cha Cha,1
+,0,1,Final,Jumil  Bacalso,Natalie  Tjokro,11,1,1, All Championship Latin  (SCRPJ),Sample,1,nus14,41318620,1,Jack Goh,Cha Cha,1
+,0,1,Final,Jumil  Bacalso,Natalie  Tjokro,12,1,1, All Championship Latin  (SCRPJ),Sample,1,nus14,41318620,1,Andrey Gorbunov,Cha Cha,1
+,0,1,Final,Jumil  Bacalso,Natalie  Tjokro,13,1,1, All Championship Latin  (SCRPJ),Sample,1,nus14,41318620,1,Felix Lau,Cha Cha,1
+,0,1,Final,Jumil  Bacalso,Natalie  Tjokro,17,1,1, All Championship Latin  (SCRPJ),Sample,1,nus14,41318620,1,Aleena Tan,Cha Cha,1
+,0,1,Final,Jumil  Bacalso,Natalie  Tjokro,18,1,1, All Championship Latin  (SCRPJ),Sample,1,nus14,41318620,1,Melvin Tan,Cha Cha,1
+,0,1,Final,Jumil  Bacalso,Natalie  Tjokro,19,1,1, All Championship Latin  (SCRPJ),Sample,1,nus14,41318620,1,Aaron Then,Cha Cha,1
+,0,2,Final,Low Nicholas,Kan Lorencia,10,2,2, All Championship Latin  (SCRPJ),Sample,1,nus14,41318620,25,Michelle Fong,Cha Cha,2
+,0,2,Final,Low Nicholas,Kan Lorencia,11,2,2, All Championship Latin  (SCRPJ),Sample,1,nus14,41318620,25,Jack Goh,Cha Cha,2
+,0,2,Final,Low Nicholas,Kan Lorencia,12,2,2, All Championship Latin  (SCRPJ),Sample,1,nus14,41318620,25,Andrey Gorbunov,Cha Cha,2
+,0,2,Final,Low Nicholas,Kan Lorencia,13,2,2, All Championship Latin  (SCRPJ),Sample,1,nus14,41318620,25,Felix Lau,Cha Cha,2
+,0,2,Final,Low Nicholas,Kan Lorencia,17,2,2, All Championship Latin  (SCRPJ),Sample,1,nus14,41318620,25,Aleena Tan,Cha Cha,2
+,0,2,Final,Low Nicholas,Kan Lorencia,18,2,2, All Championship Latin  (SCRPJ),Sample,1,nus14,41318620,25,Melvin Tan,Cha Cha,2
+,0,3,Final,Low Nicholas,Kan Lorencia,19,2,3, All Championship Latin  (SCRPJ),Sample,1,nus14,41318620,25,Aaron Then,Cha Cha,2
+,0,3,Final,Kavin Rathna,Cheryl Yuen xue yi,10,3,3, All Championship Latin  (SCRPJ),Sample,1,nus14,41318620,11,Michelle Fong,Cha Cha,3
+,0,3,Final,Kavin Rathna,Cheryl Yuen xue yi,11,3,3, All Championship Latin  (SCRPJ),Sample,1,nus14,41318620,11,Jack Goh,Cha Cha,3
+,0,3,Final,Kavin Rathna,Cheryl Yuen xue yi,12,3,3, All Championship Latin  (SCRPJ),Sample,1,nus14,41318620,11,Andrey Gorbunov,Cha Cha,3
+,0,3,Final,Kavin Rathna,Cheryl Yuen xue yi,13,3,3, All Championship Latin  (SCRPJ),Sample,1,nus14,41318620,11,Felix Lau,Cha Cha,3
+,0,3,Final,Kavin Rathna,Cheryl Yuen xue yi,17,3,3, All Championship Latin  (SCRPJ),Sample,1,nus14,41318620,11,Aleena Tan,Cha Cha,3
+,0,3,Final,Kavin Rathna,Cheryl Yuen xue yi,18,3,3, All Championship Latin  (SCRPJ),Sample,1,nus14,41318620,11,Melvin Tan,Cha Cha,3
+,0,2,Final,Kavin Rathna,Cheryl Yuen xue yi,19,3,2, All Championship Latin  (SCRPJ),Sample,1,nus14,41318620,11,Aaron Then,Cha Cha,3
+,0,1,Final,Jumil  Bacalso,Natalie  Tjokro,10,1,1, All Championship Latin  (SCRPJ),Sample,2,nus14,41318620,1,Michelle Fong,Rumba,1
+,0,1,Final,Jumil  Bacalso,Natalie  Tjokro,11,1,1, All Championship Latin  (SCRPJ),Sample,2,nus14,41318620,1,Jack Goh,Rumba,1
+,0,1,Final,Jumil  Bacalso,Natalie  Tjokro,12,1,1, All Championship Latin  (SCRPJ),Sample,2,nus14,41318620,1,Andrey Gorbunov,Rumba,1
+,0,1,Final,Jumil  Bacalso,Natalie  Tjokro,13,1,1, All Championship Latin  (SCRPJ),Sample,2,nus14,41318620,1,Felix Lau,Rumba,1
+,0,1,Final,Jumil  Bacalso,Natalie  Tjokro,17,1,1, All Championship Latin  (SCRPJ),Sample,2,nus14,41318620,1,Aleena Tan,Rumba,1
+,0,1,Final,Jumil  Bacalso,Natalie  Tjokro,18,1,1, All Championship Latin  (SCRPJ),Sample,2,nus14,41318620,1,Melvin Tan,Rumba,1
+,0,1,Final,Jumil  Bacalso,Natalie  Tjokro,19,1,1, All Championship Latin  (SCRPJ),Sample,2,nus14,41318620,1,Aaron Then,Rumba,1
+,0,2,Final,Low Nicholas,Kan Lorencia,10,2,2, All Championship Latin  (SCRPJ),Sample,2,nus14,41318620,25,Michelle Fong,Rumba,2
+,0,2,Final,Low Nicholas,Kan Lorencia,11,2,2, All Championship Latin  (SCRPJ),Sample,2,nus14,41318620,25,Jack Goh,Rumba,2
+,0,2,Final,Low Nicholas,Kan Lorencia,12,2,2, All Championship Latin  (SCRPJ),Sample,2,nus14,41318620,25,Andrey Gorbunov,Rumba,2
+,0,2,Final,Low Nicholas,Kan Lorencia,13,2,2, All Championship Latin  (SCRPJ),Sample,2,nus14,41318620,25,Felix Lau,Rumba,2
+,0,2,Final,Low Nicholas,Kan Lorencia,17,2,2, All Championship Latin  (SCRPJ),Sample,2,nus14,41318620,25,Aleena Tan,Rumba,2
+,0,2,Final,Low Nicholas,Kan Lorencia,18,2,2, All Championship Latin  (SCRPJ),Sample,2,nus14,41318620,25,Melvin Tan,Rumba,2
+,0,2,Final,Low Nicholas,Kan Lorencia,19,2,2, All Championship Latin  (SCRPJ),Sample,2,nus14,41318620,25,Aaron Then,Rumba,2
+,0,3,Final,Kavin Rathna,Cheryl Yuen xue yi,10,3,3, All Championship Latin  (SCRPJ),Sample,2,nus14,41318620,11,Michelle Fong,Rumba,3
+,0,3,Final,Kavin Rathna,Cheryl Yuen xue yi,11,3,3, All Championship Latin  (SCRPJ),Sample,2,nus14,41318620,11,Jack Goh,Rumba,3
+,0,3,Final,Kavin Rathna,Cheryl Yuen xue yi,12,3,3, All Championship Latin  (SCRPJ),Sample,2,nus14,41318620,11,Andrey Gorbunov,Rumba,3
+,0,3,Final,Kavin Rathna,Cheryl Yuen xue yi,13,3,3, All Championship Latin  (SCRPJ),Sample,2,nus14,41318620,11,Felix Lau,Rumba,3
+,0,3,Final,Kavin Rathna,Cheryl Yuen xue yi,17,3,3, All Championship Latin  (SCRPJ),Sample,2,nus14,41318620,11,Aleena Tan,Rumba,3
+,0,3,Final,Kavin Rathna,Cheryl Yuen xue yi,18,3,3, All Championship Latin  (SCRPJ),Sample,2,nus14,41318620,11,Melvin Tan,Rumba,3
+,0,3,Final,Kavin Rathna,Cheryl Yuen xue yi,19,3,3, All Championship Latin  (SCRPJ),Sample,2,nus14,41318620,11,Aaron Then,Rumba,3
+,0,1,Final,Jumil  Bacalso,Natalie  Tjokro,10,1,1, All Championship Latin  (SCRPJ),Sample,3,nus14,41318620,1,Michelle Fong,Paso Doble,1
+,0,1,Final,Jumil  Bacalso,Natalie  Tjokro,11,1,1, All Championship Latin  (SCRPJ),Sample,3,nus14,41318620,1,Jack Goh,Paso Doble,1
+,0,1,Final,Jumil  Bacalso,Natalie  Tjokro,12,1,1, All Championship Latin  (SCRPJ),Sample,3,nus14,41318620,1,Andrey Gorbunov,Paso Doble,1
+,0,1,Final,Jumil  Bacalso,Natalie  Tjokro,13,1,1, All Championship Latin  (SCRPJ),Sample,3,nus14,41318620,1,Felix Lau,Paso Doble,1
+,0,1,Final,Jumil  Bacalso,Natalie  Tjokro,17,1,1, All Championship Latin  (SCRPJ),Sample,3,nus14,41318620,1,Aleena Tan,Paso Doble,1
+,0,1,Final,Jumil  Bacalso,Natalie  Tjokro,18,1,1, All Championship Latin  (SCRPJ),Sample,3,nus14,41318620,1,Melvin Tan,Paso Doble,1
+,0,1,Final,Jumil  Bacalso,Natalie  Tjokro,19,1,1, All Championship Latin  (SCRPJ),Sample,3,nus14,41318620,1,Aaron Then,Paso Doble,1
+,0,2,Final,Low Nicholas,Kan Lorencia,10,2,2, All Championship Latin  (SCRPJ),Sample,3,nus14,41318620,25,Michelle Fong,Paso Doble,2
+,0,2,Final,Low Nicholas,Kan Lorencia,11,2,2, All Championship Latin  (SCRPJ),Sample,3,nus14,41318620,25,Jack Goh,Paso Doble,2
+,0,2,Final,Low Nicholas,Kan Lorencia,12,2,2, All Championship Latin  (SCRPJ),Sample,3,nus14,41318620,25,Andrey Gorbunov,Paso Doble,2
+,0,2,Final,Low Nicholas,Kan Lorencia,13,2,2, All Championship Latin  (SCRPJ),Sample,3,nus14,41318620,25,Felix Lau,Paso Doble,2
+,0,2,Final,Low Nicholas,Kan Lorencia,17,2,2, All Championship Latin  (SCRPJ),Sample,3,nus14,41318620,25,Aleena Tan,Paso Doble,2
+,0,2,Final,Low Nicholas,Kan Lorencia,18,2,2, All Championship Latin  (SCRPJ),Sample,3,nus14,41318620,25,Melvin Tan,Paso Doble,2
+,0,2,Final,Low Nicholas,Kan Lorencia,19,2,2, All Championship Latin  (SCRPJ),Sample,3,nus14,41318620,25,Aaron Then,Paso Doble,2
+,0,3,Final,Kavin Rathna,Cheryl Yuen xue yi,10,3,3, All Championship Latin  (SCRPJ),Sample,3,nus14,41318620,11,Michelle Fong,Paso Doble,3
+,0,3,Final,Kavin Rathna,Cheryl Yuen xue yi,11,3,3, All Championship Latin  (SCRPJ),Sample,3,nus14,41318620,11,Jack Goh,Paso Doble,3
+,0,3,Final,Kavin Rathna,Cheryl Yuen xue yi,12,3,3, All Championship Latin  (SCRPJ),Sample,3,nus14,41318620,11,Andrey Gorbunov,Paso Doble,3
+,0,3,Final,Kavin Rathna,Cheryl Yuen xue yi,13,3,3, All Championship Latin  (SCRPJ),Sample,3,nus14,41318620,11,Felix Lau,Paso Doble,3
+,0,3,Final,Kavin Rathna,Cheryl Yuen xue yi,17,3,3, All Championship Latin  (SCRPJ),Sample,3,nus14,41318620,11,Aleena Tan,Paso Doble,3
+,0,3,Final,Kavin Rathna,Cheryl Yuen xue yi,18,3,3, All Championship Latin  (SCRPJ),Sample,3,nus14,41318620,11,Melvin Tan,Paso Doble,3
+,0,3,Final,Kavin Rathna,Cheryl Yuen xue yi,19,3,3, All Championship Latin  (SCRPJ),Sample,3,nus14,41318620,11,Aaron Then,Paso Doble,3
+,0,1,Final,Jumil  Bacalso,Natalie  Tjokro,10,1,1, All Championship Latin  (SCRPJ),Sample,4,nus14,41318620,1,Michelle Fong,Jive,1
+,0,1,Final,Jumil  Bacalso,Natalie  Tjokro,11,1,1, All Championship Latin  (SCRPJ),Sample,4,nus14,41318620,1,Jack Goh,Jive,1
+,0,1,Final,Jumil  Bacalso,Natalie  Tjokro,12,1,1, All Championship Latin  (SCRPJ),Sample,4,nus14,41318620,1,Andrey Gorbunov,Jive,1
+,0,1,Final,Jumil  Bacalso,Natalie  Tjokro,13,1,1, All Championship Latin  (SCRPJ),Sample,4,nus14,41318620,1,Felix Lau,Jive,1
+,0,1,Final,Jumil  Bacalso,Natalie  Tjokro,17,1,1, All Championship Latin  (SCRPJ),Sample,4,nus14,41318620,1,Aleena Tan,Jive,1
+,0,1,Final,Jumil  Bacalso,Natalie  Tjokro,18,1,1, All Championship Latin  (SCRPJ),Sample,4,nus14,41318620,1,Melvin Tan,Jive,1
+,0,1,Final,Jumil  Bacalso,Natalie  Tjokro,19,1,1, All Championship Latin  (SCRPJ),Sample,4,nus14,41318620,1,Aaron Then,Jive,1
+,0,2,Final,Low Nicholas,Kan Lorencia,10,2,2, All Championship Latin  (SCRPJ),Sample,4,nus14,41318620,25,Michelle Fong,Jive,2
+,0,3,Final,Low Nicholas,Kan Lorencia,11,2,3, All Championship Latin  (SCRPJ),Sample,4,nus14,41318620,25,Jack Goh,Jive,2
+,0,3,Final,Low Nicholas,Kan Lorencia,12,2,3, All Championship Latin  (SCRPJ),Sample,4,nus14,41318620,25,Andrey Gorbunov,Jive,2
+,0,2,Final,Low Nicholas,Kan Lorencia,13,2,2, All Championship Latin  (SCRPJ),Sample,4,nus14,41318620,25,Felix Lau,Jive,2
+,0,2,Final,Low Nicholas,Kan Lorencia,17,2,2, All Championship Latin  (SCRPJ),Sample,4,nus14,41318620,25,Aleena Tan,Jive,2
+,0,2,Final,Low Nicholas,Kan Lorencia,18,2,2, All Championship Latin  (SCRPJ),Sample,4,nus14,41318620,25,Melvin Tan,Jive,2
+,0,3,Final,Low Nicholas,Kan Lorencia,19,2,3, All Championship Latin  (SCRPJ),Sample,4,nus14,41318620,25,Aaron Then,Jive,2
+,0,3,Final,Kavin Rathna,Cheryl Yuen xue yi,10,3,3, All Championship Latin  (SCRPJ),Sample,4,nus14,41318620,11,Michelle Fong,Jive,3
+,0,2,Final,Kavin Rathna,Cheryl Yuen xue yi,11,3,2, All Championship Latin  (SCRPJ),Sample,4,nus14,41318620,11,Jack Goh,Jive,3
+,0,2,Final,Kavin Rathna,Cheryl Yuen xue yi,12,3,2, All Championship Latin  (SCRPJ),Sample,4,nus14,41318620,11,Andrey Gorbunov,Jive,3
+,0,3,Final,Kavin Rathna,Cheryl Yuen xue yi,13,3,3, All Championship Latin  (SCRPJ),Sample,4,nus14,41318620,11,Felix Lau,Jive,3
+,0,3,Final,Kavin Rathna,Cheryl Yuen xue yi,17,3,3, All Championship Latin  (SCRPJ),Sample,4,nus14,41318620,11,Aleena Tan,Jive,3
+,0,3,Final,Kavin Rathna,Cheryl Yuen xue yi,18,3,3, All Championship Latin  (SCRPJ),Sample,4,nus14,41318620,11,Melvin Tan,Jive,3
+,0,2,Final,Kavin Rathna,Cheryl Yuen xue yi,19,3,2, All Championship Latin  (SCRPJ),Sample,4,nus14,41318620,11,Aaron Then,Jive,3

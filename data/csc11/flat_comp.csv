@@ -1,0 +1,1302 @@
+couple_location,round_id,mark,round_name,lead_name,follow_name,judge,result,value,heat_name,comp_name,dance_id,comp_id,heat_id,couple,judge_name,dance_name,final_result
+CA,0,1,Final,Jonathan Chow,Elaine Chow,10,1,1, Adult Gold Standard  (WTFQ),Sample,0,csc11,40423810,179,Gosia Zygadlo,Waltz,1
+CA,0,1,Final,Jonathan Chow,Elaine Chow,14,1,1, Adult Gold Standard  (WTFQ),Sample,0,csc11,40423810,179,Daniele Gozzi,Waltz,1
+CA,0,2,Final,Jonathan Chow,Elaine Chow,15,1,2, Adult Gold Standard  (WTFQ),Sample,0,csc11,40423810,179,Cecilia Giovacchini,Waltz,1
+CA,0,2,Final,Kenneth Chen,Hao Truong,10,2,2, Adult Gold Standard  (WTFQ),Sample,0,csc11,40423810,187,Gosia Zygadlo,Waltz,2
+CA,0,2,Final,Kenneth Chen,Hao Truong,14,2,2, Adult Gold Standard  (WTFQ),Sample,0,csc11,40423810,187,Daniele Gozzi,Waltz,2
+CA,0,1,Final,Kenneth Chen,Hao Truong,15,2,1, Adult Gold Standard  (WTFQ),Sample,0,csc11,40423810,187,Cecilia Giovacchini,Waltz,2
+CA,0,1,Final,Jonathan Chow,Elaine Chow,10,1,1, Adult Gold Standard  (WTFQ),Sample,1,csc11,40423810,179,Gosia Zygadlo,Tango,1
+CA,0,1,Final,Jonathan Chow,Elaine Chow,14,1,1, Adult Gold Standard  (WTFQ),Sample,1,csc11,40423810,179,Daniele Gozzi,Tango,1
+CA,0,2,Final,Jonathan Chow,Elaine Chow,15,1,2, Adult Gold Standard  (WTFQ),Sample,1,csc11,40423810,179,Cecilia Giovacchini,Tango,1
+CA,0,2,Final,Kenneth Chen,Hao Truong,10,2,2, Adult Gold Standard  (WTFQ),Sample,1,csc11,40423810,187,Gosia Zygadlo,Tango,2
+CA,0,2,Final,Kenneth Chen,Hao Truong,14,2,2, Adult Gold Standard  (WTFQ),Sample,1,csc11,40423810,187,Daniele Gozzi,Tango,2
+CA,0,1,Final,Kenneth Chen,Hao Truong,15,2,1, Adult Gold Standard  (WTFQ),Sample,1,csc11,40423810,187,Cecilia Giovacchini,Tango,2
+CA,0,1,Final,Jonathan Chow,Elaine Chow,10,2,1, Adult Gold Standard  (WTFQ),Sample,2,csc11,40423810,179,Gosia Zygadlo,Foxtrot,1
+CA,0,2,Final,Jonathan Chow,Elaine Chow,14,2,2, Adult Gold Standard  (WTFQ),Sample,2,csc11,40423810,179,Daniele Gozzi,Foxtrot,1
+CA,0,2,Final,Jonathan Chow,Elaine Chow,15,2,2, Adult Gold Standard  (WTFQ),Sample,2,csc11,40423810,179,Cecilia Giovacchini,Foxtrot,1
+CA,0,2,Final,Kenneth Chen,Hao Truong,10,1,2, Adult Gold Standard  (WTFQ),Sample,2,csc11,40423810,187,Gosia Zygadlo,Foxtrot,2
+CA,0,1,Final,Kenneth Chen,Hao Truong,14,1,1, Adult Gold Standard  (WTFQ),Sample,2,csc11,40423810,187,Daniele Gozzi,Foxtrot,2
+CA,0,1,Final,Kenneth Chen,Hao Truong,15,1,1, Adult Gold Standard  (WTFQ),Sample,2,csc11,40423810,187,Cecilia Giovacchini,Foxtrot,2
+CA,0,1,Final,Jonathan Chow,Elaine Chow,10,1,1, Adult Gold Standard  (WTFQ),Sample,3,csc11,40423810,179,Gosia Zygadlo,Quickstep,1
+CA,0,1,Final,Jonathan Chow,Elaine Chow,14,1,1, Adult Gold Standard  (WTFQ),Sample,3,csc11,40423810,179,Daniele Gozzi,Quickstep,1
+CA,0,2,Final,Jonathan Chow,Elaine Chow,15,1,2, Adult Gold Standard  (WTFQ),Sample,3,csc11,40423810,179,Cecilia Giovacchini,Quickstep,1
+CA,0,2,Final,Kenneth Chen,Hao Truong,10,2,2, Adult Gold Standard  (WTFQ),Sample,3,csc11,40423810,187,Gosia Zygadlo,Quickstep,2
+CA,0,2,Final,Kenneth Chen,Hao Truong,14,2,2, Adult Gold Standard  (WTFQ),Sample,3,csc11,40423810,187,Daniele Gozzi,Quickstep,2
+CA,0,1,Final,Kenneth Chen,Hao Truong,15,2,1, Adult Gold Standard  (WTFQ),Sample,3,csc11,40423810,187,Cecilia Giovacchini,Quickstep,2
+CA,0,1,Final,Pablo Read,Julia Perlov,10,1,1, Pre-Teen Gold Standard  (WTFQ),Sample,0,csc11,40293810,171,Gosia Zygadlo,Waltz,1
+CA,0,1,Final,Pablo Read,Julia Perlov,14,1,1, Pre-Teen Gold Standard  (WTFQ),Sample,0,csc11,40293810,171,Daniele Gozzi,Waltz,1
+CA,0,1,Final,Pablo Read,Julia Perlov,15,1,1, Pre-Teen Gold Standard  (WTFQ),Sample,0,csc11,40293810,171,Cecilia Giovacchini,Waltz,1
+CA,0,1,Final,Pablo Read,Julia Perlov,10,1,1, Pre-Teen Gold Standard  (WTFQ),Sample,1,csc11,40293810,171,Gosia Zygadlo,Tango,1
+CA,0,1,Final,Pablo Read,Julia Perlov,14,1,1, Pre-Teen Gold Standard  (WTFQ),Sample,1,csc11,40293810,171,Daniele Gozzi,Tango,1
+CA,0,1,Final,Pablo Read,Julia Perlov,15,1,1, Pre-Teen Gold Standard  (WTFQ),Sample,1,csc11,40293810,171,Cecilia Giovacchini,Tango,1
+CA,0,1,Final,Pablo Read,Julia Perlov,10,1,1, Pre-Teen Gold Standard  (WTFQ),Sample,2,csc11,40293810,171,Gosia Zygadlo,Foxtrot,1
+CA,0,1,Final,Pablo Read,Julia Perlov,14,1,1, Pre-Teen Gold Standard  (WTFQ),Sample,2,csc11,40293810,171,Daniele Gozzi,Foxtrot,1
+CA,0,1,Final,Pablo Read,Julia Perlov,15,1,1, Pre-Teen Gold Standard  (WTFQ),Sample,2,csc11,40293810,171,Cecilia Giovacchini,Foxtrot,1
+CA,0,1,Final,Pablo Read,Julia Perlov,10,1,1, Pre-Teen Gold Standard  (WTFQ),Sample,3,csc11,40293810,171,Gosia Zygadlo,Quickstep,1
+CA,0,1,Final,Pablo Read,Julia Perlov,14,1,1, Pre-Teen Gold Standard  (WTFQ),Sample,3,csc11,40293810,171,Daniele Gozzi,Quickstep,1
+CA,0,1,Final,Pablo Read,Julia Perlov,15,1,1, Pre-Teen Gold Standard  (WTFQ),Sample,3,csc11,40293810,171,Cecilia Giovacchini,Quickstep,1
+CA,0,1,Final,Diego Read,Nicole Acton,10,1,1, Jr. Yth. Gold Standard  (WTFQ),Sample,0,csc11,402E3810,186,Gosia Zygadlo,Waltz,1
+CA,0,1,Final,Diego Read,Nicole Acton,14,1,1, Jr. Yth. Gold Standard  (WTFQ),Sample,0,csc11,402E3810,186,Daniele Gozzi,Waltz,1
+CA,0,1,Final,Diego Read,Nicole Acton,15,1,1, Jr. Yth. Gold Standard  (WTFQ),Sample,0,csc11,402E3810,186,Cecilia Giovacchini,Waltz,1
+CA,0,1,Final,Diego Read,Nicole Acton,10,1,1, Jr. Yth. Gold Standard  (WTFQ),Sample,1,csc11,402E3810,186,Gosia Zygadlo,Tango,1
+CA,0,1,Final,Diego Read,Nicole Acton,14,1,1, Jr. Yth. Gold Standard  (WTFQ),Sample,1,csc11,402E3810,186,Daniele Gozzi,Tango,1
+CA,0,1,Final,Diego Read,Nicole Acton,15,1,1, Jr. Yth. Gold Standard  (WTFQ),Sample,1,csc11,402E3810,186,Cecilia Giovacchini,Tango,1
+CA,0,1,Final,Diego Read,Nicole Acton,10,1,1, Jr. Yth. Gold Standard  (WTFQ),Sample,2,csc11,402E3810,186,Gosia Zygadlo,Foxtrot,1
+CA,0,1,Final,Diego Read,Nicole Acton,14,1,1, Jr. Yth. Gold Standard  (WTFQ),Sample,2,csc11,402E3810,186,Daniele Gozzi,Foxtrot,1
+CA,0,1,Final,Diego Read,Nicole Acton,15,1,1, Jr. Yth. Gold Standard  (WTFQ),Sample,2,csc11,402E3810,186,Cecilia Giovacchini,Foxtrot,1
+CA,0,1,Final,Diego Read,Nicole Acton,10,1,1, Jr. Yth. Gold Standard  (WTFQ),Sample,3,csc11,402E3810,186,Gosia Zygadlo,Quickstep,1
+CA,0,1,Final,Diego Read,Nicole Acton,14,1,1, Jr. Yth. Gold Standard  (WTFQ),Sample,3,csc11,402E3810,186,Daniele Gozzi,Quickstep,1
+CA,0,1,Final,Diego Read,Nicole Acton,15,1,1, Jr. Yth. Gold Standard  (WTFQ),Sample,3,csc11,402E3810,186,Cecilia Giovacchini,Quickstep,1
+CA,0,2,Final,TBA Nosovitsky,Rebecca Nosovitsky,10,2,2, Under 19 Ladies Singles Latin  (CR),Sample,0,csc11,40308820,181,Gosia Zygadlo,Cha Cha,1
+CA,0,2,Final,TBA Nosovitsky,Rebecca Nosovitsky,14,2,2, Under 19 Ladies Singles Latin  (CR),Sample,0,csc11,40308820,181,Daniele Gozzi,Cha Cha,1
+CA,0,2,Final,TBA Nosovitsky,Rebecca Nosovitsky,15,2,2, Under 19 Ladies Singles Latin  (CR),Sample,0,csc11,40308820,181,Cecilia Giovacchini,Cha Cha,1
+CA,0,1,Final,TBA Obukhova,Daria Obukhova,10,1,1, Under 19 Ladies Singles Latin  (CR),Sample,0,csc11,40308820,194,Gosia Zygadlo,Cha Cha,2
+CA,0,1,Final,TBA Obukhova,Daria Obukhova,14,1,1, Under 19 Ladies Singles Latin  (CR),Sample,0,csc11,40308820,194,Daniele Gozzi,Cha Cha,2
+CA,0,1,Final,TBA Obukhova,Daria Obukhova,15,1,1, Under 19 Ladies Singles Latin  (CR),Sample,0,csc11,40308820,194,Cecilia Giovacchini,Cha Cha,2
+CA,0,3,Final,TBA Gelerian,Emily Gelerian,10,3,3, Under 19 Ladies Singles Latin  (CR),Sample,0,csc11,40308820,284,Gosia Zygadlo,Cha Cha,3
+CA,0,3,Final,TBA Gelerian,Emily Gelerian,14,3,3, Under 19 Ladies Singles Latin  (CR),Sample,0,csc11,40308820,284,Daniele Gozzi,Cha Cha,3
+CA,0,3,Final,TBA Gelerian,Emily Gelerian,15,3,3, Under 19 Ladies Singles Latin  (CR),Sample,0,csc11,40308820,284,Cecilia Giovacchini,Cha Cha,3
+CA,0,1,Final,TBA Nosovitsky,Rebecca Nosovitsky,10,1,1, Under 19 Ladies Singles Latin  (CR),Sample,1,csc11,40308820,181,Gosia Zygadlo,Rumba,1
+CA,0,1,Final,TBA Nosovitsky,Rebecca Nosovitsky,14,1,1, Under 19 Ladies Singles Latin  (CR),Sample,1,csc11,40308820,181,Daniele Gozzi,Rumba,1
+CA,0,1,Final,TBA Nosovitsky,Rebecca Nosovitsky,15,1,1, Under 19 Ladies Singles Latin  (CR),Sample,1,csc11,40308820,181,Cecilia Giovacchini,Rumba,1
+CA,0,3,Final,TBA Obukhova,Daria Obukhova,10,2,3, Under 19 Ladies Singles Latin  (CR),Sample,1,csc11,40308820,194,Gosia Zygadlo,Rumba,2
+CA,0,2,Final,TBA Obukhova,Daria Obukhova,14,2,2, Under 19 Ladies Singles Latin  (CR),Sample,1,csc11,40308820,194,Daniele Gozzi,Rumba,2
+CA,0,2,Final,TBA Obukhova,Daria Obukhova,15,2,2, Under 19 Ladies Singles Latin  (CR),Sample,1,csc11,40308820,194,Cecilia Giovacchini,Rumba,2
+CA,0,2,Final,TBA Gelerian,Emily Gelerian,10,3,2, Under 19 Ladies Singles Latin  (CR),Sample,1,csc11,40308820,284,Gosia Zygadlo,Rumba,3
+CA,0,3,Final,TBA Gelerian,Emily Gelerian,14,3,3, Under 19 Ladies Singles Latin  (CR),Sample,1,csc11,40308820,284,Daniele Gozzi,Rumba,3
+CA,0,3,Final,TBA Gelerian,Emily Gelerian,15,3,3, Under 19 Ladies Singles Latin  (CR),Sample,1,csc11,40308820,284,Cecilia Giovacchini,Rumba,3
+CA,0,1,Final,Jeremy Elvander,Kennedy Eaton,10,1,1, Pre-Teen Bronze Latin  (CR),Sample,0,csc11,40292820,198,Gosia Zygadlo,Cha Cha,1
+CA,0,1,Final,Jeremy Elvander,Kennedy Eaton,14,1,1, Pre-Teen Bronze Latin  (CR),Sample,0,csc11,40292820,198,Daniele Gozzi,Cha Cha,1
+CA,0,1,Final,Jeremy Elvander,Kennedy Eaton,15,1,1, Pre-Teen Bronze Latin  (CR),Sample,0,csc11,40292820,198,Cecilia Giovacchini,Cha Cha,1
+CA,0,2,Final,Brandon Elvander,Giselle Toth,10,2,2, Pre-Teen Bronze Latin  (CR),Sample,0,csc11,40292820,185,Gosia Zygadlo,Cha Cha,2
+CA,0,2,Final,Brandon Elvander,Giselle Toth,14,2,2, Pre-Teen Bronze Latin  (CR),Sample,0,csc11,40292820,185,Daniele Gozzi,Cha Cha,2
+CA,0,2,Final,Brandon Elvander,Giselle Toth,15,2,2, Pre-Teen Bronze Latin  (CR),Sample,0,csc11,40292820,185,Cecilia Giovacchini,Cha Cha,2
+CA,0,3,Final,Andrew Kuznetsov,Leia Kuntz,10,3,3, Pre-Teen Bronze Latin  (CR),Sample,0,csc11,40292820,164,Gosia Zygadlo,Cha Cha,3
+CA,0,3,Final,Andrew Kuznetsov,Leia Kuntz,14,3,3, Pre-Teen Bronze Latin  (CR),Sample,0,csc11,40292820,164,Daniele Gozzi,Cha Cha,3
+CA,0,3,Final,Andrew Kuznetsov,Leia Kuntz,15,3,3, Pre-Teen Bronze Latin  (CR),Sample,0,csc11,40292820,164,Cecilia Giovacchini,Cha Cha,3
+CA,0,1,Final,Jeremy Elvander,Kennedy Eaton,10,1,1, Pre-Teen Bronze Latin  (CR),Sample,1,csc11,40292820,198,Gosia Zygadlo,Rumba,1
+CA,0,1,Final,Jeremy Elvander,Kennedy Eaton,14,1,1, Pre-Teen Bronze Latin  (CR),Sample,1,csc11,40292820,198,Daniele Gozzi,Rumba,1
+CA,0,1,Final,Jeremy Elvander,Kennedy Eaton,15,1,1, Pre-Teen Bronze Latin  (CR),Sample,1,csc11,40292820,198,Cecilia Giovacchini,Rumba,1
+CA,0,2,Final,Brandon Elvander,Giselle Toth,10,2,2, Pre-Teen Bronze Latin  (CR),Sample,1,csc11,40292820,185,Gosia Zygadlo,Rumba,2
+CA,0,2,Final,Brandon Elvander,Giselle Toth,14,2,2, Pre-Teen Bronze Latin  (CR),Sample,1,csc11,40292820,185,Daniele Gozzi,Rumba,2
+CA,0,2,Final,Brandon Elvander,Giselle Toth,15,2,2, Pre-Teen Bronze Latin  (CR),Sample,1,csc11,40292820,185,Cecilia Giovacchini,Rumba,2
+CA,0,3,Final,Andrew Kuznetsov,Leia Kuntz,10,3,3, Pre-Teen Bronze Latin  (CR),Sample,1,csc11,40292820,164,Gosia Zygadlo,Rumba,3
+CA,0,3,Final,Andrew Kuznetsov,Leia Kuntz,14,3,3, Pre-Teen Bronze Latin  (CR),Sample,1,csc11,40292820,164,Daniele Gozzi,Rumba,3
+CA,0,3,Final,Andrew Kuznetsov,Leia Kuntz,15,3,3, Pre-Teen Bronze Latin  (CR),Sample,1,csc11,40292820,164,Cecilia Giovacchini,Rumba,3
+CA,0,1,Final,Jeremy Elvander,Kennedy Eaton,10,1,1, Pre-Teen Silver Latin  (SCR),Sample,0,csc11,40293020,198,Gosia Zygadlo,Samba,1
+CA,0,1,Final,Jeremy Elvander,Kennedy Eaton,14,1,1, Pre-Teen Silver Latin  (SCR),Sample,0,csc11,40293020,198,Daniele Gozzi,Samba,1
+CA,0,1,Final,Jeremy Elvander,Kennedy Eaton,15,1,1, Pre-Teen Silver Latin  (SCR),Sample,0,csc11,40293020,198,Cecilia Giovacchini,Samba,1
+CA,0,2,Final,Brandon Elvander,Giselle Toth,10,2,2, Pre-Teen Silver Latin  (SCR),Sample,0,csc11,40293020,185,Gosia Zygadlo,Samba,2
+CA,0,2,Final,Brandon Elvander,Giselle Toth,14,2,2, Pre-Teen Silver Latin  (SCR),Sample,0,csc11,40293020,185,Daniele Gozzi,Samba,2
+CA,0,2,Final,Brandon Elvander,Giselle Toth,15,2,2, Pre-Teen Silver Latin  (SCR),Sample,0,csc11,40293020,185,Cecilia Giovacchini,Samba,2
+CA,0,3,Final,Maxim Firsov,Alexis Balgshov,10,3,3, Pre-Teen Silver Latin  (SCR),Sample,0,csc11,40293020,175,Gosia Zygadlo,Samba,3
+CA,0,3,Final,Maxim Firsov,Alexis Balgshov,14,3,3, Pre-Teen Silver Latin  (SCR),Sample,0,csc11,40293020,175,Daniele Gozzi,Samba,3
+CA,0,3,Final,Maxim Firsov,Alexis Balgshov,15,3,3, Pre-Teen Silver Latin  (SCR),Sample,0,csc11,40293020,175,Cecilia Giovacchini,Samba,3
+CA,0,5,Final,Erik Kuznetsov,Daria Sayenko,10,5,5, Pre-Teen Silver Latin  (SCR),Sample,0,csc11,40293020,297,Gosia Zygadlo,Samba,4
+CA,0,5,Final,Erik Kuznetsov,Daria Sayenko,14,5,5, Pre-Teen Silver Latin  (SCR),Sample,0,csc11,40293020,297,Daniele Gozzi,Samba,4
+CA,0,6,Final,Erik Kuznetsov,Daria Sayenko,15,5,6, Pre-Teen Silver Latin  (SCR),Sample,0,csc11,40293020,297,Cecilia Giovacchini,Samba,4
+CA,0,4,Final,Jason Grinshpan,Rachel Shimberg,10,4,4, Pre-Teen Silver Latin  (SCR),Sample,0,csc11,40293020,177,Gosia Zygadlo,Samba,5
+CA,0,7,Final,Jason Grinshpan,Rachel Shimberg,14,4,7, Pre-Teen Silver Latin  (SCR),Sample,0,csc11,40293020,177,Daniele Gozzi,Samba,5
+CA,0,5,Final,Jason Grinshpan,Rachel Shimberg,15,4,5, Pre-Teen Silver Latin  (SCR),Sample,0,csc11,40293020,177,Cecilia Giovacchini,Samba,5
+CA,0,6,Final,Ilan Kinder,Lianna Gurevich,10,6,6, Pre-Teen Silver Latin  (SCR),Sample,0,csc11,40293020,160,Gosia Zygadlo,Samba,6
+CA,0,6,Final,Ilan Kinder,Lianna Gurevich,14,6,6, Pre-Teen Silver Latin  (SCR),Sample,0,csc11,40293020,160,Daniele Gozzi,Samba,6
+CA,0,4,Final,Ilan Kinder,Lianna Gurevich,15,6,4, Pre-Teen Silver Latin  (SCR),Sample,0,csc11,40293020,160,Cecilia Giovacchini,Samba,6
+CA,0,7,Final,Andrew Kuznetsov,Leia Kuntz,10,7,7, Pre-Teen Silver Latin  (SCR),Sample,0,csc11,40293020,164,Gosia Zygadlo,Samba,7
+CA,0,4,Final,Andrew Kuznetsov,Leia Kuntz,14,7,4, Pre-Teen Silver Latin  (SCR),Sample,0,csc11,40293020,164,Daniele Gozzi,Samba,7
+CA,0,7,Final,Andrew Kuznetsov,Leia Kuntz,15,7,7, Pre-Teen Silver Latin  (SCR),Sample,0,csc11,40293020,164,Cecilia Giovacchini,Samba,7
+CA,0,1,Final,Jeremy Elvander,Kennedy Eaton,10,1,1, Pre-Teen Silver Latin  (SCR),Sample,1,csc11,40293020,198,Gosia Zygadlo,Cha Cha,1
+CA,0,1,Final,Jeremy Elvander,Kennedy Eaton,14,1,1, Pre-Teen Silver Latin  (SCR),Sample,1,csc11,40293020,198,Daniele Gozzi,Cha Cha,1
+CA,0,1,Final,Jeremy Elvander,Kennedy Eaton,15,1,1, Pre-Teen Silver Latin  (SCR),Sample,1,csc11,40293020,198,Cecilia Giovacchini,Cha Cha,1
+CA,0,5,Final,Brandon Elvander,Giselle Toth,10,2,5, Pre-Teen Silver Latin  (SCR),Sample,1,csc11,40293020,185,Gosia Zygadlo,Cha Cha,2
+CA,0,2,Final,Brandon Elvander,Giselle Toth,14,2,2, Pre-Teen Silver Latin  (SCR),Sample,1,csc11,40293020,185,Daniele Gozzi,Cha Cha,2
+CA,0,2,Final,Brandon Elvander,Giselle Toth,15,2,2, Pre-Teen Silver Latin  (SCR),Sample,1,csc11,40293020,185,Cecilia Giovacchini,Cha Cha,2
+CA,0,2,Final,Maxim Firsov,Alexis Balgshov,10,3,2, Pre-Teen Silver Latin  (SCR),Sample,1,csc11,40293020,175,Gosia Zygadlo,Cha Cha,3
+CA,0,3,Final,Maxim Firsov,Alexis Balgshov,14,3,3, Pre-Teen Silver Latin  (SCR),Sample,1,csc11,40293020,175,Daniele Gozzi,Cha Cha,3
+CA,0,3,Final,Maxim Firsov,Alexis Balgshov,15,3,3, Pre-Teen Silver Latin  (SCR),Sample,1,csc11,40293020,175,Cecilia Giovacchini,Cha Cha,3
+CA,0,3,Final,Erik Kuznetsov,Daria Sayenko,10,5,3, Pre-Teen Silver Latin  (SCR),Sample,1,csc11,40293020,297,Gosia Zygadlo,Cha Cha,4
+CA,0,5,Final,Erik Kuznetsov,Daria Sayenko,14,5,5, Pre-Teen Silver Latin  (SCR),Sample,1,csc11,40293020,297,Daniele Gozzi,Cha Cha,4
+CA,0,5,Final,Erik Kuznetsov,Daria Sayenko,15,5,5, Pre-Teen Silver Latin  (SCR),Sample,1,csc11,40293020,297,Cecilia Giovacchini,Cha Cha,4
+CA,0,7,Final,Jason Grinshpan,Rachel Shimberg,10,7,7, Pre-Teen Silver Latin  (SCR),Sample,1,csc11,40293020,177,Gosia Zygadlo,Cha Cha,5
+CA,0,6,Final,Jason Grinshpan,Rachel Shimberg,14,7,6, Pre-Teen Silver Latin  (SCR),Sample,1,csc11,40293020,177,Daniele Gozzi,Cha Cha,5
+CA,0,7,Final,Jason Grinshpan,Rachel Shimberg,15,7,7, Pre-Teen Silver Latin  (SCR),Sample,1,csc11,40293020,177,Cecilia Giovacchini,Cha Cha,5
+CA,0,4,Final,Ilan Kinder,Lianna Gurevich,10,4,4, Pre-Teen Silver Latin  (SCR),Sample,1,csc11,40293020,160,Gosia Zygadlo,Cha Cha,6
+CA,0,7,Final,Ilan Kinder,Lianna Gurevich,14,4,7, Pre-Teen Silver Latin  (SCR),Sample,1,csc11,40293020,160,Daniele Gozzi,Cha Cha,6
+CA,0,4,Final,Ilan Kinder,Lianna Gurevich,15,4,4, Pre-Teen Silver Latin  (SCR),Sample,1,csc11,40293020,160,Cecilia Giovacchini,Cha Cha,6
+CA,0,6,Final,Andrew Kuznetsov,Leia Kuntz,10,6,6, Pre-Teen Silver Latin  (SCR),Sample,1,csc11,40293020,164,Gosia Zygadlo,Cha Cha,7
+CA,0,-,Final,Andrew Kuznetsov,Leia Kuntz,14,6,0, Pre-Teen Silver Latin  (SCR),Sample,1,csc11,40293020,164,Daniele Gozzi,Cha Cha,7
+CA,0,6,Final,Andrew Kuznetsov,Leia Kuntz,15,6,6, Pre-Teen Silver Latin  (SCR),Sample,1,csc11,40293020,164,Cecilia Giovacchini,Cha Cha,7
+CA,0,1,Final,Jeremy Elvander,Kennedy Eaton,10,1,1, Pre-Teen Silver Latin  (SCR),Sample,2,csc11,40293020,198,Gosia Zygadlo,Rumba,1
+CA,0,1,Final,Jeremy Elvander,Kennedy Eaton,14,1,1, Pre-Teen Silver Latin  (SCR),Sample,2,csc11,40293020,198,Daniele Gozzi,Rumba,1
+CA,0,1,Final,Jeremy Elvander,Kennedy Eaton,15,1,1, Pre-Teen Silver Latin  (SCR),Sample,2,csc11,40293020,198,Cecilia Giovacchini,Rumba,1
+CA,0,4,Final,Brandon Elvander,Giselle Toth,10,3,4, Pre-Teen Silver Latin  (SCR),Sample,2,csc11,40293020,185,Gosia Zygadlo,Rumba,2
+CA,0,3,Final,Brandon Elvander,Giselle Toth,14,3,3, Pre-Teen Silver Latin  (SCR),Sample,2,csc11,40293020,185,Daniele Gozzi,Rumba,2
+CA,0,2,Final,Brandon Elvander,Giselle Toth,15,3,2, Pre-Teen Silver Latin  (SCR),Sample,2,csc11,40293020,185,Cecilia Giovacchini,Rumba,2
+CA,0,2,Final,Maxim Firsov,Alexis Balgshov,10,2,2, Pre-Teen Silver Latin  (SCR),Sample,2,csc11,40293020,175,Gosia Zygadlo,Rumba,3
+CA,0,2,Final,Maxim Firsov,Alexis Balgshov,14,2,2, Pre-Teen Silver Latin  (SCR),Sample,2,csc11,40293020,175,Daniele Gozzi,Rumba,3
+CA,0,3,Final,Maxim Firsov,Alexis Balgshov,15,2,3, Pre-Teen Silver Latin  (SCR),Sample,2,csc11,40293020,175,Cecilia Giovacchini,Rumba,3
+CA,0,3,Final,Erik Kuznetsov,Daria Sayenko,10,4,3, Pre-Teen Silver Latin  (SCR),Sample,2,csc11,40293020,297,Gosia Zygadlo,Rumba,4
+CA,0,5,Final,Erik Kuznetsov,Daria Sayenko,14,4,5, Pre-Teen Silver Latin  (SCR),Sample,2,csc11,40293020,297,Daniele Gozzi,Rumba,4
+CA,0,5,Final,Erik Kuznetsov,Daria Sayenko,15,4,5, Pre-Teen Silver Latin  (SCR),Sample,2,csc11,40293020,297,Cecilia Giovacchini,Rumba,4
+CA,0,5,Final,Jason Grinshpan,Rachel Shimberg,10,5,5, Pre-Teen Silver Latin  (SCR),Sample,2,csc11,40293020,177,Gosia Zygadlo,Rumba,5
+CA,0,7,Final,Jason Grinshpan,Rachel Shimberg,14,5,7, Pre-Teen Silver Latin  (SCR),Sample,2,csc11,40293020,177,Daniele Gozzi,Rumba,5
+CA,0,4,Final,Jason Grinshpan,Rachel Shimberg,15,5,4, Pre-Teen Silver Latin  (SCR),Sample,2,csc11,40293020,177,Cecilia Giovacchini,Rumba,5
+CA,0,6,Final,Ilan Kinder,Lianna Gurevich,10,6,6, Pre-Teen Silver Latin  (SCR),Sample,2,csc11,40293020,160,Gosia Zygadlo,Rumba,6
+CA,0,4,Final,Ilan Kinder,Lianna Gurevich,14,6,4, Pre-Teen Silver Latin  (SCR),Sample,2,csc11,40293020,160,Daniele Gozzi,Rumba,6
+CA,0,7,Final,Ilan Kinder,Lianna Gurevich,15,6,7, Pre-Teen Silver Latin  (SCR),Sample,2,csc11,40293020,160,Cecilia Giovacchini,Rumba,6
+CA,0,7,Final,Andrew Kuznetsov,Leia Kuntz,10,7,7, Pre-Teen Silver Latin  (SCR),Sample,2,csc11,40293020,164,Gosia Zygadlo,Rumba,7
+CA,0,6,Final,Andrew Kuznetsov,Leia Kuntz,14,7,6, Pre-Teen Silver Latin  (SCR),Sample,2,csc11,40293020,164,Daniele Gozzi,Rumba,7
+CA,0,6,Final,Andrew Kuznetsov,Leia Kuntz,15,7,6, Pre-Teen Silver Latin  (SCR),Sample,2,csc11,40293020,164,Cecilia Giovacchini,Rumba,7
+CA,0,1,Final,TBA Obukhova,Daria Obukhova,10,1,1, Under 19 Ladies Singles Latin  (SJ),Sample,0,csc11,40308821,194,Gosia Zygadlo,Samba,1
+CA,0,1,Final,TBA Obukhova,Daria Obukhova,14,1,1, Under 19 Ladies Singles Latin  (SJ),Sample,0,csc11,40308821,194,Daniele Gozzi,Samba,1
+CA,0,1,Final,TBA Obukhova,Daria Obukhova,15,1,1, Under 19 Ladies Singles Latin  (SJ),Sample,0,csc11,40308821,194,Cecilia Giovacchini,Samba,1
+CA,0,1,Final,TBA Obukhova,Daria Obukhova,10,1,1, Under 19 Ladies Singles Latin  (SJ),Sample,1,csc11,40308821,194,Gosia Zygadlo,Jive,1
+CA,0,1,Final,TBA Obukhova,Daria Obukhova,14,1,1, Under 19 Ladies Singles Latin  (SJ),Sample,1,csc11,40308821,194,Daniele Gozzi,Jive,1
+CA,0,1,Final,TBA Obukhova,Daria Obukhova,15,1,1, Under 19 Ladies Singles Latin  (SJ),Sample,1,csc11,40308821,194,Cecilia Giovacchini,Jive,1
+CA,0,1,Final,Maxim Firsov,Alexis Balgshov,10,1,1, Pre-Teen Gold Latin  (SCRJ),Sample,0,csc11,40293820,175,Gosia Zygadlo,Samba,1
+CA,0,1,Final,Maxim Firsov,Alexis Balgshov,14,1,1, Pre-Teen Gold Latin  (SCRJ),Sample,0,csc11,40293820,175,Daniele Gozzi,Samba,1
+CA,0,1,Final,Maxim Firsov,Alexis Balgshov,15,1,1, Pre-Teen Gold Latin  (SCRJ),Sample,0,csc11,40293820,175,Cecilia Giovacchini,Samba,1
+CA,0,3,Final,Erik Kuznetsov,Daria Sayenko,10,2,3, Pre-Teen Gold Latin  (SCRJ),Sample,0,csc11,40293820,297,Gosia Zygadlo,Samba,2
+CA,0,2,Final,Erik Kuznetsov,Daria Sayenko,14,2,2, Pre-Teen Gold Latin  (SCRJ),Sample,0,csc11,40293820,297,Daniele Gozzi,Samba,2
+CA,0,2,Final,Erik Kuznetsov,Daria Sayenko,15,2,2, Pre-Teen Gold Latin  (SCRJ),Sample,0,csc11,40293820,297,Cecilia Giovacchini,Samba,2
+CA,0,2,Final,Jason Grinshpan,Rachel Shimberg,10,3,2, Pre-Teen Gold Latin  (SCRJ),Sample,0,csc11,40293820,177,Gosia Zygadlo,Samba,3
+CA,0,3,Final,Jason Grinshpan,Rachel Shimberg,14,3,3, Pre-Teen Gold Latin  (SCRJ),Sample,0,csc11,40293820,177,Daniele Gozzi,Samba,3
+CA,0,3,Final,Jason Grinshpan,Rachel Shimberg,15,3,3, Pre-Teen Gold Latin  (SCRJ),Sample,0,csc11,40293820,177,Cecilia Giovacchini,Samba,3
+CA,0,4,Final,Ilan Kinder,Lianna Gurevich,10,4,4, Pre-Teen Gold Latin  (SCRJ),Sample,0,csc11,40293820,160,Gosia Zygadlo,Samba,4
+CA,0,4,Final,Ilan Kinder,Lianna Gurevich,14,4,4, Pre-Teen Gold Latin  (SCRJ),Sample,0,csc11,40293820,160,Daniele Gozzi,Samba,4
+CA,0,4,Final,Ilan Kinder,Lianna Gurevich,15,4,4, Pre-Teen Gold Latin  (SCRJ),Sample,0,csc11,40293820,160,Cecilia Giovacchini,Samba,4
+CA,0,4,Final,Maxim Firsov,Alexis Balgshov,10,4,4, Pre-Teen Gold Latin  (SCRJ),Sample,1,csc11,40293820,175,Gosia Zygadlo,Cha Cha,1
+CA,0,3,Final,Maxim Firsov,Alexis Balgshov,14,4,3, Pre-Teen Gold Latin  (SCRJ),Sample,1,csc11,40293820,175,Daniele Gozzi,Cha Cha,1
+CA,0,4,Final,Maxim Firsov,Alexis Balgshov,15,4,4, Pre-Teen Gold Latin  (SCRJ),Sample,1,csc11,40293820,175,Cecilia Giovacchini,Cha Cha,1
+CA,0,1,Final,Erik Kuznetsov,Daria Sayenko,10,1,1, Pre-Teen Gold Latin  (SCRJ),Sample,1,csc11,40293820,297,Gosia Zygadlo,Cha Cha,2
+CA,0,1,Final,Erik Kuznetsov,Daria Sayenko,14,1,1, Pre-Teen Gold Latin  (SCRJ),Sample,1,csc11,40293820,297,Daniele Gozzi,Cha Cha,2
+CA,0,1,Final,Erik Kuznetsov,Daria Sayenko,15,1,1, Pre-Teen Gold Latin  (SCRJ),Sample,1,csc11,40293820,297,Cecilia Giovacchini,Cha Cha,2
+CA,0,2,Final,Jason Grinshpan,Rachel Shimberg,10,3,2, Pre-Teen Gold Latin  (SCRJ),Sample,1,csc11,40293820,177,Gosia Zygadlo,Cha Cha,3
+CA,0,4,Final,Jason Grinshpan,Rachel Shimberg,14,3,4, Pre-Teen Gold Latin  (SCRJ),Sample,1,csc11,40293820,177,Daniele Gozzi,Cha Cha,3
+CA,0,3,Final,Jason Grinshpan,Rachel Shimberg,15,3,3, Pre-Teen Gold Latin  (SCRJ),Sample,1,csc11,40293820,177,Cecilia Giovacchini,Cha Cha,3
+CA,0,3,Final,Ilan Kinder,Lianna Gurevich,10,2,3, Pre-Teen Gold Latin  (SCRJ),Sample,1,csc11,40293820,160,Gosia Zygadlo,Cha Cha,4
+CA,0,2,Final,Ilan Kinder,Lianna Gurevich,14,2,2, Pre-Teen Gold Latin  (SCRJ),Sample,1,csc11,40293820,160,Daniele Gozzi,Cha Cha,4
+CA,0,2,Final,Ilan Kinder,Lianna Gurevich,15,2,2, Pre-Teen Gold Latin  (SCRJ),Sample,1,csc11,40293820,160,Cecilia Giovacchini,Cha Cha,4
+CA,0,1,Final,Maxim Firsov,Alexis Balgshov,10,1,1, Pre-Teen Gold Latin  (SCRJ),Sample,2,csc11,40293820,175,Gosia Zygadlo,Rumba,1
+CA,0,1,Final,Maxim Firsov,Alexis Balgshov,14,1,1, Pre-Teen Gold Latin  (SCRJ),Sample,2,csc11,40293820,175,Daniele Gozzi,Rumba,1
+CA,0,1,Final,Maxim Firsov,Alexis Balgshov,15,1,1, Pre-Teen Gold Latin  (SCRJ),Sample,2,csc11,40293820,175,Cecilia Giovacchini,Rumba,1
+CA,0,2,Final,Erik Kuznetsov,Daria Sayenko,10,2,2, Pre-Teen Gold Latin  (SCRJ),Sample,2,csc11,40293820,297,Gosia Zygadlo,Rumba,2
+CA,0,2,Final,Erik Kuznetsov,Daria Sayenko,14,2,2, Pre-Teen Gold Latin  (SCRJ),Sample,2,csc11,40293820,297,Daniele Gozzi,Rumba,2
+CA,0,2,Final,Erik Kuznetsov,Daria Sayenko,15,2,2, Pre-Teen Gold Latin  (SCRJ),Sample,2,csc11,40293820,297,Cecilia Giovacchini,Rumba,2
+CA,0,4,Final,Jason Grinshpan,Rachel Shimberg,10,4,4, Pre-Teen Gold Latin  (SCRJ),Sample,2,csc11,40293820,177,Gosia Zygadlo,Rumba,3
+CA,0,4,Final,Jason Grinshpan,Rachel Shimberg,14,4,4, Pre-Teen Gold Latin  (SCRJ),Sample,2,csc11,40293820,177,Daniele Gozzi,Rumba,3
+CA,0,4,Final,Jason Grinshpan,Rachel Shimberg,15,4,4, Pre-Teen Gold Latin  (SCRJ),Sample,2,csc11,40293820,177,Cecilia Giovacchini,Rumba,3
+CA,0,3,Final,Ilan Kinder,Lianna Gurevich,10,3,3, Pre-Teen Gold Latin  (SCRJ),Sample,2,csc11,40293820,160,Gosia Zygadlo,Rumba,4
+CA,0,3,Final,Ilan Kinder,Lianna Gurevich,14,3,3, Pre-Teen Gold Latin  (SCRJ),Sample,2,csc11,40293820,160,Daniele Gozzi,Rumba,4
+CA,0,3,Final,Ilan Kinder,Lianna Gurevich,15,3,3, Pre-Teen Gold Latin  (SCRJ),Sample,2,csc11,40293820,160,Cecilia Giovacchini,Rumba,4
+CA,0,1,Final,Maxim Firsov,Alexis Balgshov,10,1,1, Pre-Teen Gold Latin  (SCRJ),Sample,3,csc11,40293820,175,Gosia Zygadlo,Jive,1
+CA,0,1,Final,Maxim Firsov,Alexis Balgshov,14,1,1, Pre-Teen Gold Latin  (SCRJ),Sample,3,csc11,40293820,175,Daniele Gozzi,Jive,1
+CA,0,1,Final,Maxim Firsov,Alexis Balgshov,15,1,1, Pre-Teen Gold Latin  (SCRJ),Sample,3,csc11,40293820,175,Cecilia Giovacchini,Jive,1
+CA,0,2,Final,Erik Kuznetsov,Daria Sayenko,10,2,2, Pre-Teen Gold Latin  (SCRJ),Sample,3,csc11,40293820,297,Gosia Zygadlo,Jive,2
+CA,0,2,Final,Erik Kuznetsov,Daria Sayenko,14,2,2, Pre-Teen Gold Latin  (SCRJ),Sample,3,csc11,40293820,297,Daniele Gozzi,Jive,2
+CA,0,2,Final,Erik Kuznetsov,Daria Sayenko,15,2,2, Pre-Teen Gold Latin  (SCRJ),Sample,3,csc11,40293820,297,Cecilia Giovacchini,Jive,2
+CA,0,4,Final,Jason Grinshpan,Rachel Shimberg,10,3,4, Pre-Teen Gold Latin  (SCRJ),Sample,3,csc11,40293820,177,Gosia Zygadlo,Jive,3
+CA,0,3,Final,Jason Grinshpan,Rachel Shimberg,14,3,3, Pre-Teen Gold Latin  (SCRJ),Sample,3,csc11,40293820,177,Daniele Gozzi,Jive,3
+CA,0,3,Final,Jason Grinshpan,Rachel Shimberg,15,3,3, Pre-Teen Gold Latin  (SCRJ),Sample,3,csc11,40293820,177,Cecilia Giovacchini,Jive,3
+CA,0,3,Final,Ilan Kinder,Lianna Gurevich,10,4,3, Pre-Teen Gold Latin  (SCRJ),Sample,3,csc11,40293820,160,Gosia Zygadlo,Jive,4
+CA,0,4,Final,Ilan Kinder,Lianna Gurevich,14,4,4, Pre-Teen Gold Latin  (SCRJ),Sample,3,csc11,40293820,160,Daniele Gozzi,Jive,4
+CA,0,4,Final,Ilan Kinder,Lianna Gurevich,15,4,4, Pre-Teen Gold Latin  (SCRJ),Sample,3,csc11,40293820,160,Cecilia Giovacchini,Jive,4
+CA,0,1,Final,ted rocha,dorothy tsang,10,1,1, Senior I Pre-Champ Standard  (WTFQ),Sample,0,csc11,40438310,192,Gosia Zygadlo,Waltz,1
+CA,0,1,Final,ted rocha,dorothy tsang,11,1,1, Senior I Pre-Champ Standard  (WTFQ),Sample,0,csc11,40438310,192,Alise Halbert,Waltz,1
+CA,0,1,Final,ted rocha,dorothy tsang,12,1,1, Senior I Pre-Champ Standard  (WTFQ),Sample,0,csc11,40438310,192,Anton Koukareko,Waltz,1
+CA,0,1,Final,ted rocha,dorothy tsang,13,1,1, Senior I Pre-Champ Standard  (WTFQ),Sample,0,csc11,40438310,192,Rex Lewis,Waltz,1
+CA,0,1,Final,ted rocha,dorothy tsang,14,1,1, Senior I Pre-Champ Standard  (WTFQ),Sample,0,csc11,40438310,192,Daniele Gozzi,Waltz,1
+CA,0,1,Final,ted rocha,dorothy tsang,10,1,1, Senior I Pre-Champ Standard  (WTFQ),Sample,1,csc11,40438310,192,Gosia Zygadlo,Tango,1
+CA,0,1,Final,ted rocha,dorothy tsang,11,1,1, Senior I Pre-Champ Standard  (WTFQ),Sample,1,csc11,40438310,192,Alise Halbert,Tango,1
+CA,0,1,Final,ted rocha,dorothy tsang,12,1,1, Senior I Pre-Champ Standard  (WTFQ),Sample,1,csc11,40438310,192,Anton Koukareko,Tango,1
+CA,0,1,Final,ted rocha,dorothy tsang,13,1,1, Senior I Pre-Champ Standard  (WTFQ),Sample,1,csc11,40438310,192,Rex Lewis,Tango,1
+CA,0,1,Final,ted rocha,dorothy tsang,14,1,1, Senior I Pre-Champ Standard  (WTFQ),Sample,1,csc11,40438310,192,Daniele Gozzi,Tango,1
+CA,0,1,Final,ted rocha,dorothy tsang,10,1,1, Senior I Pre-Champ Standard  (WTFQ),Sample,2,csc11,40438310,192,Gosia Zygadlo,Foxtrot,1
+CA,0,1,Final,ted rocha,dorothy tsang,11,1,1, Senior I Pre-Champ Standard  (WTFQ),Sample,2,csc11,40438310,192,Alise Halbert,Foxtrot,1
+CA,0,1,Final,ted rocha,dorothy tsang,12,1,1, Senior I Pre-Champ Standard  (WTFQ),Sample,2,csc11,40438310,192,Anton Koukareko,Foxtrot,1
+CA,0,1,Final,ted rocha,dorothy tsang,13,1,1, Senior I Pre-Champ Standard  (WTFQ),Sample,2,csc11,40438310,192,Rex Lewis,Foxtrot,1
+CA,0,1,Final,ted rocha,dorothy tsang,14,1,1, Senior I Pre-Champ Standard  (WTFQ),Sample,2,csc11,40438310,192,Daniele Gozzi,Foxtrot,1
+CA,0,1,Final,ted rocha,dorothy tsang,10,1,1, Senior I Pre-Champ Standard  (WTFQ),Sample,3,csc11,40438310,192,Gosia Zygadlo,Quickstep,1
+CA,0,1,Final,ted rocha,dorothy tsang,11,1,1, Senior I Pre-Champ Standard  (WTFQ),Sample,3,csc11,40438310,192,Alise Halbert,Quickstep,1
+CA,0,1,Final,ted rocha,dorothy tsang,12,1,1, Senior I Pre-Champ Standard  (WTFQ),Sample,3,csc11,40438310,192,Anton Koukareko,Quickstep,1
+CA,0,1,Final,ted rocha,dorothy tsang,13,1,1, Senior I Pre-Champ Standard  (WTFQ),Sample,3,csc11,40438310,192,Rex Lewis,Quickstep,1
+CA,0,1,Final,ted rocha,dorothy tsang,14,1,1, Senior I Pre-Champ Standard  (WTFQ),Sample,3,csc11,40438310,192,Daniele Gozzi,Quickstep,1
+CA,0,1,Final,Steven A. Rosenau,Isabelle Jackson,10,1,1, Adult Novice Standard  (WFQ),Sample,0,csc11,40428110,195,Gosia Zygadlo,Waltz,1
+CA,0,2,Final,Steven A. Rosenau,Isabelle Jackson,11,1,2, Adult Novice Standard  (WFQ),Sample,0,csc11,40428110,195,Alise Halbert,Waltz,1
+CA,0,1,Final,Steven A. Rosenau,Isabelle Jackson,12,1,1, Adult Novice Standard  (WFQ),Sample,0,csc11,40428110,195,Anton Koukareko,Waltz,1
+CA,0,2,Final,Steven A. Rosenau,Isabelle Jackson,13,1,2, Adult Novice Standard  (WFQ),Sample,0,csc11,40428110,195,Rex Lewis,Waltz,1
+CA,0,1,Final,Steven A. Rosenau,Isabelle Jackson,14,1,1, Adult Novice Standard  (WFQ),Sample,0,csc11,40428110,195,Daniele Gozzi,Waltz,1
+CA,0,2,Final,ted rocha,dorothy tsang,10,2,2, Adult Novice Standard  (WFQ),Sample,0,csc11,40428110,192,Gosia Zygadlo,Waltz,2
+CA,0,3,Final,ted rocha,dorothy tsang,11,2,3, Adult Novice Standard  (WFQ),Sample,0,csc11,40428110,192,Alise Halbert,Waltz,2
+CA,0,2,Final,ted rocha,dorothy tsang,12,2,2, Adult Novice Standard  (WFQ),Sample,0,csc11,40428110,192,Anton Koukareko,Waltz,2
+CA,0,5,Final,ted rocha,dorothy tsang,13,2,5, Adult Novice Standard  (WFQ),Sample,0,csc11,40428110,192,Rex Lewis,Waltz,2
+CA,0,2,Final,ted rocha,dorothy tsang,14,2,2, Adult Novice Standard  (WFQ),Sample,0,csc11,40428110,192,Daniele Gozzi,Waltz,2
+CA,0,3,Final,Jonathan Chow,Elaine Chow,10,3,3, Adult Novice Standard  (WFQ),Sample,0,csc11,40428110,179,Gosia Zygadlo,Waltz,3
+CA,0,4,Final,Jonathan Chow,Elaine Chow,11,3,4, Adult Novice Standard  (WFQ),Sample,0,csc11,40428110,179,Alise Halbert,Waltz,3
+CA,0,3,Final,Jonathan Chow,Elaine Chow,12,3,3, Adult Novice Standard  (WFQ),Sample,0,csc11,40428110,179,Anton Koukareko,Waltz,3
+CA,0,1,Final,Jonathan Chow,Elaine Chow,13,3,1, Adult Novice Standard  (WFQ),Sample,0,csc11,40428110,179,Rex Lewis,Waltz,3
+CA,0,3,Final,Jonathan Chow,Elaine Chow,14,3,3, Adult Novice Standard  (WFQ),Sample,0,csc11,40428110,179,Daniele Gozzi,Waltz,3
+CA,0,4,Final,John Huang,Angela He,10,4,4, Adult Novice Standard  (WFQ),Sample,0,csc11,40428110,188,Gosia Zygadlo,Waltz,4
+CA,0,5,Final,John Huang,Angela He,11,4,5, Adult Novice Standard  (WFQ),Sample,0,csc11,40428110,188,Alise Halbert,Waltz,4
+CA,0,4,Final,John Huang,Angela He,12,4,4, Adult Novice Standard  (WFQ),Sample,0,csc11,40428110,188,Anton Koukareko,Waltz,4
+CA,0,4,Final,John Huang,Angela He,13,4,4, Adult Novice Standard  (WFQ),Sample,0,csc11,40428110,188,Rex Lewis,Waltz,4
+CA,0,4,Final,John Huang,Angela He,14,4,4, Adult Novice Standard  (WFQ),Sample,0,csc11,40428110,188,Daniele Gozzi,Waltz,4
+CA,0,5,Final,Kenneth Chen,Hao Truong,10,5,5, Adult Novice Standard  (WFQ),Sample,0,csc11,40428110,187,Gosia Zygadlo,Waltz,5
+CA,0,1,Final,Kenneth Chen,Hao Truong,11,5,1, Adult Novice Standard  (WFQ),Sample,0,csc11,40428110,187,Alise Halbert,Waltz,5
+CA,0,5,Final,Kenneth Chen,Hao Truong,12,5,5, Adult Novice Standard  (WFQ),Sample,0,csc11,40428110,187,Anton Koukareko,Waltz,5
+CA,0,3,Final,Kenneth Chen,Hao Truong,13,5,3, Adult Novice Standard  (WFQ),Sample,0,csc11,40428110,187,Rex Lewis,Waltz,5
+CA,0,5,Final,Kenneth Chen,Hao Truong,14,5,5, Adult Novice Standard  (WFQ),Sample,0,csc11,40428110,187,Daniele Gozzi,Waltz,5
+CA,0,1,Final,Steven A. Rosenau,Isabelle Jackson,10,1,1, Adult Novice Standard  (WFQ),Sample,1,csc11,40428110,195,Gosia Zygadlo,Foxtrot,1
+CA,0,1,Final,Steven A. Rosenau,Isabelle Jackson,11,1,1, Adult Novice Standard  (WFQ),Sample,1,csc11,40428110,195,Alise Halbert,Foxtrot,1
+CA,0,1,Final,Steven A. Rosenau,Isabelle Jackson,12,1,1, Adult Novice Standard  (WFQ),Sample,1,csc11,40428110,195,Anton Koukareko,Foxtrot,1
+CA,0,4,Final,Steven A. Rosenau,Isabelle Jackson,13,1,4, Adult Novice Standard  (WFQ),Sample,1,csc11,40428110,195,Rex Lewis,Foxtrot,1
+CA,0,1,Final,Steven A. Rosenau,Isabelle Jackson,14,1,1, Adult Novice Standard  (WFQ),Sample,1,csc11,40428110,195,Daniele Gozzi,Foxtrot,1
+CA,0,2,Final,ted rocha,dorothy tsang,10,2.5,2, Adult Novice Standard  (WFQ),Sample,1,csc11,40428110,192,Gosia Zygadlo,Foxtrot,2
+CA,0,3,Final,ted rocha,dorothy tsang,11,2.5,3, Adult Novice Standard  (WFQ),Sample,1,csc11,40428110,192,Alise Halbert,Foxtrot,2
+CA,0,2,Final,ted rocha,dorothy tsang,12,2.5,2, Adult Novice Standard  (WFQ),Sample,1,csc11,40428110,192,Anton Koukareko,Foxtrot,2
+CA,0,5,Final,ted rocha,dorothy tsang,13,2.5,5, Adult Novice Standard  (WFQ),Sample,1,csc11,40428110,192,Rex Lewis,Foxtrot,2
+CA,0,4,Final,ted rocha,dorothy tsang,14,2.5,4, Adult Novice Standard  (WFQ),Sample,1,csc11,40428110,192,Daniele Gozzi,Foxtrot,2
+CA,0,3,Final,Jonathan Chow,Elaine Chow,10,2.5,3, Adult Novice Standard  (WFQ),Sample,1,csc11,40428110,179,Gosia Zygadlo,Foxtrot,3
+CA,0,4,Final,Jonathan Chow,Elaine Chow,11,2.5,4, Adult Novice Standard  (WFQ),Sample,1,csc11,40428110,179,Alise Halbert,Foxtrot,3
+CA,0,5,Final,Jonathan Chow,Elaine Chow,12,2.5,5, Adult Novice Standard  (WFQ),Sample,1,csc11,40428110,179,Anton Koukareko,Foxtrot,3
+CA,0,1,Final,Jonathan Chow,Elaine Chow,13,2.5,1, Adult Novice Standard  (WFQ),Sample,1,csc11,40428110,179,Rex Lewis,Foxtrot,3
+CA,0,3,Final,Jonathan Chow,Elaine Chow,14,2.5,3, Adult Novice Standard  (WFQ),Sample,1,csc11,40428110,179,Daniele Gozzi,Foxtrot,3
+CA,0,5,Final,John Huang,Angela He,10,4,5, Adult Novice Standard  (WFQ),Sample,1,csc11,40428110,188,Gosia Zygadlo,Foxtrot,4
+CA,0,2,Final,John Huang,Angela He,11,4,2, Adult Novice Standard  (WFQ),Sample,1,csc11,40428110,188,Alise Halbert,Foxtrot,4
+CA,0,3,Final,John Huang,Angela He,12,4,3, Adult Novice Standard  (WFQ),Sample,1,csc11,40428110,188,Anton Koukareko,Foxtrot,4
+CA,0,3,Final,John Huang,Angela He,13,4,3, Adult Novice Standard  (WFQ),Sample,1,csc11,40428110,188,Rex Lewis,Foxtrot,4
+CA,0,5,Final,John Huang,Angela He,14,4,5, Adult Novice Standard  (WFQ),Sample,1,csc11,40428110,188,Daniele Gozzi,Foxtrot,4
+CA,0,4,Final,Kenneth Chen,Hao Truong,10,5,4, Adult Novice Standard  (WFQ),Sample,1,csc11,40428110,187,Gosia Zygadlo,Foxtrot,5
+CA,0,5,Final,Kenneth Chen,Hao Truong,11,5,5, Adult Novice Standard  (WFQ),Sample,1,csc11,40428110,187,Alise Halbert,Foxtrot,5
+CA,0,4,Final,Kenneth Chen,Hao Truong,12,5,4, Adult Novice Standard  (WFQ),Sample,1,csc11,40428110,187,Anton Koukareko,Foxtrot,5
+CA,0,2,Final,Kenneth Chen,Hao Truong,13,5,2, Adult Novice Standard  (WFQ),Sample,1,csc11,40428110,187,Rex Lewis,Foxtrot,5
+CA,0,2,Final,Kenneth Chen,Hao Truong,14,5,2, Adult Novice Standard  (WFQ),Sample,1,csc11,40428110,187,Daniele Gozzi,Foxtrot,5
+CA,0,1,Final,Steven A. Rosenau,Isabelle Jackson,10,1,1, Adult Novice Standard  (WFQ),Sample,2,csc11,40428110,195,Gosia Zygadlo,Quickstep,1
+CA,0,2,Final,Steven A. Rosenau,Isabelle Jackson,11,1,2, Adult Novice Standard  (WFQ),Sample,2,csc11,40428110,195,Alise Halbert,Quickstep,1
+CA,0,1,Final,Steven A. Rosenau,Isabelle Jackson,12,1,1, Adult Novice Standard  (WFQ),Sample,2,csc11,40428110,195,Anton Koukareko,Quickstep,1
+CA,0,3,Final,Steven A. Rosenau,Isabelle Jackson,13,1,3, Adult Novice Standard  (WFQ),Sample,2,csc11,40428110,195,Rex Lewis,Quickstep,1
+CA,0,2,Final,Steven A. Rosenau,Isabelle Jackson,14,1,2, Adult Novice Standard  (WFQ),Sample,2,csc11,40428110,195,Daniele Gozzi,Quickstep,1
+CA,0,2,Final,ted rocha,dorothy tsang,10,2,2, Adult Novice Standard  (WFQ),Sample,2,csc11,40428110,192,Gosia Zygadlo,Quickstep,2
+CA,0,1,Final,ted rocha,dorothy tsang,11,2,1, Adult Novice Standard  (WFQ),Sample,2,csc11,40428110,192,Alise Halbert,Quickstep,2
+CA,0,2,Final,ted rocha,dorothy tsang,12,2,2, Adult Novice Standard  (WFQ),Sample,2,csc11,40428110,192,Anton Koukareko,Quickstep,2
+CA,0,4,Final,ted rocha,dorothy tsang,13,2,4, Adult Novice Standard  (WFQ),Sample,2,csc11,40428110,192,Rex Lewis,Quickstep,2
+CA,0,4,Final,ted rocha,dorothy tsang,14,2,4, Adult Novice Standard  (WFQ),Sample,2,csc11,40428110,192,Daniele Gozzi,Quickstep,2
+CA,0,4,Final,Jonathan Chow,Elaine Chow,10,4,4, Adult Novice Standard  (WFQ),Sample,2,csc11,40428110,179,Gosia Zygadlo,Quickstep,3
+CA,0,5,Final,Jonathan Chow,Elaine Chow,11,4,5, Adult Novice Standard  (WFQ),Sample,2,csc11,40428110,179,Alise Halbert,Quickstep,3
+CA,0,4,Final,Jonathan Chow,Elaine Chow,12,4,4, Adult Novice Standard  (WFQ),Sample,2,csc11,40428110,179,Anton Koukareko,Quickstep,3
+CA,0,2,Final,Jonathan Chow,Elaine Chow,13,4,2, Adult Novice Standard  (WFQ),Sample,2,csc11,40428110,179,Rex Lewis,Quickstep,3
+CA,0,3,Final,Jonathan Chow,Elaine Chow,14,4,3, Adult Novice Standard  (WFQ),Sample,2,csc11,40428110,179,Daniele Gozzi,Quickstep,3
+CA,0,5,Final,John Huang,Angela He,10,5,5, Adult Novice Standard  (WFQ),Sample,2,csc11,40428110,188,Gosia Zygadlo,Quickstep,4
+CA,0,3,Final,John Huang,Angela He,11,5,3, Adult Novice Standard  (WFQ),Sample,2,csc11,40428110,188,Alise Halbert,Quickstep,4
+CA,0,3,Final,John Huang,Angela He,12,5,3, Adult Novice Standard  (WFQ),Sample,2,csc11,40428110,188,Anton Koukareko,Quickstep,4
+CA,0,5,Final,John Huang,Angela He,13,5,5, Adult Novice Standard  (WFQ),Sample,2,csc11,40428110,188,Rex Lewis,Quickstep,4
+CA,0,5,Final,John Huang,Angela He,14,5,5, Adult Novice Standard  (WFQ),Sample,2,csc11,40428110,188,Daniele Gozzi,Quickstep,4
+CA,0,3,Final,Kenneth Chen,Hao Truong,10,3,3, Adult Novice Standard  (WFQ),Sample,2,csc11,40428110,187,Gosia Zygadlo,Quickstep,5
+CA,0,4,Final,Kenneth Chen,Hao Truong,11,3,4, Adult Novice Standard  (WFQ),Sample,2,csc11,40428110,187,Alise Halbert,Quickstep,5
+CA,0,5,Final,Kenneth Chen,Hao Truong,12,3,5, Adult Novice Standard  (WFQ),Sample,2,csc11,40428110,187,Anton Koukareko,Quickstep,5
+CA,0,1,Final,Kenneth Chen,Hao Truong,13,3,1, Adult Novice Standard  (WFQ),Sample,2,csc11,40428110,187,Rex Lewis,Quickstep,5
+CA,0,1,Final,Kenneth Chen,Hao Truong,14,3,1, Adult Novice Standard  (WFQ),Sample,2,csc11,40428110,187,Daniele Gozzi,Quickstep,5
+CA,0,1,Final,Eric Reitz,Anne Reitz,10,1,1, Senior III Novice Standard  (WFQ),Sample,0,csc11,40458110,169,Gosia Zygadlo,Waltz,1
+CA,0,1,Final,Eric Reitz,Anne Reitz,11,1,1, Senior III Novice Standard  (WFQ),Sample,0,csc11,40458110,169,Alise Halbert,Waltz,1
+CA,0,1,Final,Eric Reitz,Anne Reitz,12,1,1, Senior III Novice Standard  (WFQ),Sample,0,csc11,40458110,169,Anton Koukareko,Waltz,1
+CA,0,1,Final,Eric Reitz,Anne Reitz,13,1,1, Senior III Novice Standard  (WFQ),Sample,0,csc11,40458110,169,Rex Lewis,Waltz,1
+CA,0,1,Final,Eric Reitz,Anne Reitz,14,1,1, Senior III Novice Standard  (WFQ),Sample,0,csc11,40458110,169,Daniele Gozzi,Waltz,1
+CA,0,1,Final,Eric Reitz,Anne Reitz,10,1,1, Senior III Novice Standard  (WFQ),Sample,1,csc11,40458110,169,Gosia Zygadlo,Foxtrot,1
+CA,0,1,Final,Eric Reitz,Anne Reitz,11,1,1, Senior III Novice Standard  (WFQ),Sample,1,csc11,40458110,169,Alise Halbert,Foxtrot,1
+CA,0,1,Final,Eric Reitz,Anne Reitz,12,1,1, Senior III Novice Standard  (WFQ),Sample,1,csc11,40458110,169,Anton Koukareko,Foxtrot,1
+CA,0,1,Final,Eric Reitz,Anne Reitz,13,1,1, Senior III Novice Standard  (WFQ),Sample,1,csc11,40458110,169,Rex Lewis,Foxtrot,1
+CA,0,1,Final,Eric Reitz,Anne Reitz,14,1,1, Senior III Novice Standard  (WFQ),Sample,1,csc11,40458110,169,Daniele Gozzi,Foxtrot,1
+CA,0,1,Final,Eric Reitz,Anne Reitz,10,1,1, Senior III Novice Standard  (WFQ),Sample,2,csc11,40458110,169,Gosia Zygadlo,Quickstep,1
+CA,0,1,Final,Eric Reitz,Anne Reitz,11,1,1, Senior III Novice Standard  (WFQ),Sample,2,csc11,40458110,169,Alise Halbert,Quickstep,1
+CA,0,1,Final,Eric Reitz,Anne Reitz,12,1,1, Senior III Novice Standard  (WFQ),Sample,2,csc11,40458110,169,Anton Koukareko,Quickstep,1
+CA,0,1,Final,Eric Reitz,Anne Reitz,13,1,1, Senior III Novice Standard  (WFQ),Sample,2,csc11,40458110,169,Rex Lewis,Quickstep,1
+CA,0,1,Final,Eric Reitz,Anne Reitz,14,1,1, Senior III Novice Standard  (WFQ),Sample,2,csc11,40458110,169,Daniele Gozzi,Quickstep,1
+CA,0,1,Final,Steven A. Rosenau,Isabelle Jackson,10,1,1, Senior I Novice Standard  (WFQ),Sample,0,csc11,40438110,195,Gosia Zygadlo,Waltz,1
+CA,0,1,Final,Steven A. Rosenau,Isabelle Jackson,11,1,1, Senior I Novice Standard  (WFQ),Sample,0,csc11,40438110,195,Alise Halbert,Waltz,1
+CA,0,1,Final,Steven A. Rosenau,Isabelle Jackson,12,1,1, Senior I Novice Standard  (WFQ),Sample,0,csc11,40438110,195,Anton Koukareko,Waltz,1
+CA,0,2,Final,Steven A. Rosenau,Isabelle Jackson,13,1,2, Senior I Novice Standard  (WFQ),Sample,0,csc11,40438110,195,Rex Lewis,Waltz,1
+CA,0,1,Final,Steven A. Rosenau,Isabelle Jackson,14,1,1, Senior I Novice Standard  (WFQ),Sample,0,csc11,40438110,195,Daniele Gozzi,Waltz,1
+CA,0,2,Final,ted rocha,dorothy tsang,10,2,2, Senior I Novice Standard  (WFQ),Sample,0,csc11,40438110,192,Gosia Zygadlo,Waltz,2
+CA,0,2,Final,ted rocha,dorothy tsang,11,2,2, Senior I Novice Standard  (WFQ),Sample,0,csc11,40438110,192,Alise Halbert,Waltz,2
+CA,0,2,Final,ted rocha,dorothy tsang,12,2,2, Senior I Novice Standard  (WFQ),Sample,0,csc11,40438110,192,Anton Koukareko,Waltz,2
+CA,0,3,Final,ted rocha,dorothy tsang,13,2,3, Senior I Novice Standard  (WFQ),Sample,0,csc11,40438110,192,Rex Lewis,Waltz,2
+CA,0,3,Final,ted rocha,dorothy tsang,14,2,3, Senior I Novice Standard  (WFQ),Sample,0,csc11,40438110,192,Daniele Gozzi,Waltz,2
+CA,0,3,Final,Jonathan Chow,Elaine Chow,10,3,3, Senior I Novice Standard  (WFQ),Sample,0,csc11,40438110,179,Gosia Zygadlo,Waltz,3
+CA,0,3,Final,Jonathan Chow,Elaine Chow,11,3,3, Senior I Novice Standard  (WFQ),Sample,0,csc11,40438110,179,Alise Halbert,Waltz,3
+CA,0,3,Final,Jonathan Chow,Elaine Chow,12,3,3, Senior I Novice Standard  (WFQ),Sample,0,csc11,40438110,179,Anton Koukareko,Waltz,3
+CA,0,1,Final,Jonathan Chow,Elaine Chow,13,3,1, Senior I Novice Standard  (WFQ),Sample,0,csc11,40438110,179,Rex Lewis,Waltz,3
+CA,0,2,Final,Jonathan Chow,Elaine Chow,14,3,2, Senior I Novice Standard  (WFQ),Sample,0,csc11,40438110,179,Daniele Gozzi,Waltz,3
+CA,0,1,Final,Steven A. Rosenau,Isabelle Jackson,10,1,1, Senior I Novice Standard  (WFQ),Sample,1,csc11,40438110,195,Gosia Zygadlo,Foxtrot,1
+CA,0,1,Final,Steven A. Rosenau,Isabelle Jackson,11,1,1, Senior I Novice Standard  (WFQ),Sample,1,csc11,40438110,195,Alise Halbert,Foxtrot,1
+CA,0,1,Final,Steven A. Rosenau,Isabelle Jackson,12,1,1, Senior I Novice Standard  (WFQ),Sample,1,csc11,40438110,195,Anton Koukareko,Foxtrot,1
+CA,0,1,Final,Steven A. Rosenau,Isabelle Jackson,13,1,1, Senior I Novice Standard  (WFQ),Sample,1,csc11,40438110,195,Rex Lewis,Foxtrot,1
+CA,0,1,Final,Steven A. Rosenau,Isabelle Jackson,14,1,1, Senior I Novice Standard  (WFQ),Sample,1,csc11,40438110,195,Daniele Gozzi,Foxtrot,1
+CA,0,2,Final,ted rocha,dorothy tsang,10,2,2, Senior I Novice Standard  (WFQ),Sample,1,csc11,40438110,192,Gosia Zygadlo,Foxtrot,2
+CA,0,2,Final,ted rocha,dorothy tsang,11,2,2, Senior I Novice Standard  (WFQ),Sample,1,csc11,40438110,192,Alise Halbert,Foxtrot,2
+CA,0,2,Final,ted rocha,dorothy tsang,12,2,2, Senior I Novice Standard  (WFQ),Sample,1,csc11,40438110,192,Anton Koukareko,Foxtrot,2
+CA,0,2,Final,ted rocha,dorothy tsang,13,2,2, Senior I Novice Standard  (WFQ),Sample,1,csc11,40438110,192,Rex Lewis,Foxtrot,2
+CA,0,2,Final,ted rocha,dorothy tsang,14,2,2, Senior I Novice Standard  (WFQ),Sample,1,csc11,40438110,192,Daniele Gozzi,Foxtrot,2
+CA,0,3,Final,Jonathan Chow,Elaine Chow,10,3,3, Senior I Novice Standard  (WFQ),Sample,1,csc11,40438110,179,Gosia Zygadlo,Foxtrot,3
+CA,0,3,Final,Jonathan Chow,Elaine Chow,11,3,3, Senior I Novice Standard  (WFQ),Sample,1,csc11,40438110,179,Alise Halbert,Foxtrot,3
+CA,0,3,Final,Jonathan Chow,Elaine Chow,12,3,3, Senior I Novice Standard  (WFQ),Sample,1,csc11,40438110,179,Anton Koukareko,Foxtrot,3
+CA,0,3,Final,Jonathan Chow,Elaine Chow,13,3,3, Senior I Novice Standard  (WFQ),Sample,1,csc11,40438110,179,Rex Lewis,Foxtrot,3
+CA,0,3,Final,Jonathan Chow,Elaine Chow,14,3,3, Senior I Novice Standard  (WFQ),Sample,1,csc11,40438110,179,Daniele Gozzi,Foxtrot,3
+CA,0,1,Final,Steven A. Rosenau,Isabelle Jackson,10,1,1, Senior I Novice Standard  (WFQ),Sample,2,csc11,40438110,195,Gosia Zygadlo,Quickstep,1
+CA,0,1,Final,Steven A. Rosenau,Isabelle Jackson,11,1,1, Senior I Novice Standard  (WFQ),Sample,2,csc11,40438110,195,Alise Halbert,Quickstep,1
+CA,0,1,Final,Steven A. Rosenau,Isabelle Jackson,12,1,1, Senior I Novice Standard  (WFQ),Sample,2,csc11,40438110,195,Anton Koukareko,Quickstep,1
+CA,0,3,Final,Steven A. Rosenau,Isabelle Jackson,13,1,3, Senior I Novice Standard  (WFQ),Sample,2,csc11,40438110,195,Rex Lewis,Quickstep,1
+CA,0,1,Final,Steven A. Rosenau,Isabelle Jackson,14,1,1, Senior I Novice Standard  (WFQ),Sample,2,csc11,40438110,195,Daniele Gozzi,Quickstep,1
+CA,0,2,Final,ted rocha,dorothy tsang,10,2,2, Senior I Novice Standard  (WFQ),Sample,2,csc11,40438110,192,Gosia Zygadlo,Quickstep,2
+CA,0,2,Final,ted rocha,dorothy tsang,11,2,2, Senior I Novice Standard  (WFQ),Sample,2,csc11,40438110,192,Alise Halbert,Quickstep,2
+CA,0,2,Final,ted rocha,dorothy tsang,12,2,2, Senior I Novice Standard  (WFQ),Sample,2,csc11,40438110,192,Anton Koukareko,Quickstep,2
+CA,0,2,Final,ted rocha,dorothy tsang,13,2,2, Senior I Novice Standard  (WFQ),Sample,2,csc11,40438110,192,Rex Lewis,Quickstep,2
+CA,0,3,Final,ted rocha,dorothy tsang,14,2,3, Senior I Novice Standard  (WFQ),Sample,2,csc11,40438110,192,Daniele Gozzi,Quickstep,2
+CA,0,3,Final,Jonathan Chow,Elaine Chow,10,3,3, Senior I Novice Standard  (WFQ),Sample,2,csc11,40438110,179,Gosia Zygadlo,Quickstep,3
+CA,0,3,Final,Jonathan Chow,Elaine Chow,11,3,3, Senior I Novice Standard  (WFQ),Sample,2,csc11,40438110,179,Alise Halbert,Quickstep,3
+CA,0,3,Final,Jonathan Chow,Elaine Chow,12,3,3, Senior I Novice Standard  (WFQ),Sample,2,csc11,40438110,179,Anton Koukareko,Quickstep,3
+CA,0,1,Final,Jonathan Chow,Elaine Chow,13,3,1, Senior I Novice Standard  (WFQ),Sample,2,csc11,40438110,179,Rex Lewis,Quickstep,3
+CA,0,2,Final,Jonathan Chow,Elaine Chow,14,3,2, Senior I Novice Standard  (WFQ),Sample,2,csc11,40438110,179,Daniele Gozzi,Quickstep,3
+CA,0,4,Final,Pablo Read,Siena Scoppetta,11,2,4, Junior Pre-Champ Latin  (SCRJ),Sample,0,csc11,402C8320,171,Alise Halbert,Samba,1
+CA,0,3,Final,Pablo Read,Siena Scoppetta,12,2,3, Junior Pre-Champ Latin  (SCRJ),Sample,0,csc11,402C8320,171,Anton Koukareko,Samba,1
+CA,0,3,Final,Pablo Read,Siena Scoppetta,13,2,3, Junior Pre-Champ Latin  (SCRJ),Sample,0,csc11,402C8320,171,Rex Lewis,Samba,1
+CA,0,1,Final,Pablo Read,Siena Scoppetta,14,2,1, Junior Pre-Champ Latin  (SCRJ),Sample,0,csc11,402C8320,171,Daniele Gozzi,Samba,1
+CA,0,1,Final,Pablo Read,Siena Scoppetta,15,2,1, Junior Pre-Champ Latin  (SCRJ),Sample,0,csc11,402C8320,171,Cecilia Giovacchini,Samba,1
+CA,0,3,Final,Bumchin Tegshjargal,Jessica Kolach,11,3,3, Junior Pre-Champ Latin  (SCRJ),Sample,0,csc11,402C8320,156,Alise Halbert,Samba,2
+CA,0,1,Final,Bumchin Tegshjargal,Jessica Kolach,12,3,1, Junior Pre-Champ Latin  (SCRJ),Sample,0,csc11,402C8320,156,Anton Koukareko,Samba,2
+CA,0,2,Final,Bumchin Tegshjargal,Jessica Kolach,13,3,2, Junior Pre-Champ Latin  (SCRJ),Sample,0,csc11,402C8320,156,Rex Lewis,Samba,2
+CA,0,3,Final,Bumchin Tegshjargal,Jessica Kolach,14,3,3, Junior Pre-Champ Latin  (SCRJ),Sample,0,csc11,402C8320,156,Daniele Gozzi,Samba,2
+CA,0,4,Final,Bumchin Tegshjargal,Jessica Kolach,15,3,4, Junior Pre-Champ Latin  (SCRJ),Sample,0,csc11,402C8320,156,Cecilia Giovacchini,Samba,2
+CA,0,1,Final,Diego Read,Simone Timen,11,1,1, Junior Pre-Champ Latin  (SCRJ),Sample,0,csc11,402C8320,186,Alise Halbert,Samba,3
+CA,0,2,Final,Diego Read,Simone Timen,12,1,2, Junior Pre-Champ Latin  (SCRJ),Sample,0,csc11,402C8320,186,Anton Koukareko,Samba,3
+CA,0,1,Final,Diego Read,Simone Timen,13,1,1, Junior Pre-Champ Latin  (SCRJ),Sample,0,csc11,402C8320,186,Rex Lewis,Samba,3
+CA,0,2,Final,Diego Read,Simone Timen,14,1,2, Junior Pre-Champ Latin  (SCRJ),Sample,0,csc11,402C8320,186,Daniele Gozzi,Samba,3
+CA,0,2,Final,Diego Read,Simone Timen,15,1,2, Junior Pre-Champ Latin  (SCRJ),Sample,0,csc11,402C8320,186,Cecilia Giovacchini,Samba,3
+CA,0,2,Final,royce tran,briana diner,11,4,2, Junior Pre-Champ Latin  (SCRJ),Sample,0,csc11,402C8320,162,Alise Halbert,Samba,4
+CA,0,4,Final,royce tran,briana diner,12,4,4, Junior Pre-Champ Latin  (SCRJ),Sample,0,csc11,402C8320,162,Anton Koukareko,Samba,4
+CA,0,5,Final,royce tran,briana diner,13,4,5, Junior Pre-Champ Latin  (SCRJ),Sample,0,csc11,402C8320,162,Rex Lewis,Samba,4
+CA,0,4,Final,royce tran,briana diner,14,4,4, Junior Pre-Champ Latin  (SCRJ),Sample,0,csc11,402C8320,162,Daniele Gozzi,Samba,4
+CA,0,3,Final,royce tran,briana diner,15,4,3, Junior Pre-Champ Latin  (SCRJ),Sample,0,csc11,402C8320,162,Cecilia Giovacchini,Samba,4
+CA,0,6,Final,Noah Lervaag,Taylor Pho,11,5,6, Junior Pre-Champ Latin  (SCRJ),Sample,0,csc11,402C8320,155,Alise Halbert,Samba,5
+CA,0,5,Final,Noah Lervaag,Taylor Pho,12,5,5, Junior Pre-Champ Latin  (SCRJ),Sample,0,csc11,402C8320,155,Anton Koukareko,Samba,5
+CA,0,4,Final,Noah Lervaag,Taylor Pho,13,5,4, Junior Pre-Champ Latin  (SCRJ),Sample,0,csc11,402C8320,155,Rex Lewis,Samba,5
+CA,0,5,Final,Noah Lervaag,Taylor Pho,14,5,5, Junior Pre-Champ Latin  (SCRJ),Sample,0,csc11,402C8320,155,Daniele Gozzi,Samba,5
+CA,0,5,Final,Noah Lervaag,Taylor Pho,15,5,5, Junior Pre-Champ Latin  (SCRJ),Sample,0,csc11,402C8320,155,Cecilia Giovacchini,Samba,5
+CA,0,5,Final,Kevin Grinshpan,Natalie Makedonsky,11,6,5, Junior Pre-Champ Latin  (SCRJ),Sample,0,csc11,402C8320,173,Alise Halbert,Samba,6
+CA,0,6,Final,Kevin Grinshpan,Natalie Makedonsky,12,6,6, Junior Pre-Champ Latin  (SCRJ),Sample,0,csc11,402C8320,173,Anton Koukareko,Samba,6
+CA,0,6,Final,Kevin Grinshpan,Natalie Makedonsky,13,6,6, Junior Pre-Champ Latin  (SCRJ),Sample,0,csc11,402C8320,173,Rex Lewis,Samba,6
+CA,0,6,Final,Kevin Grinshpan,Natalie Makedonsky,14,6,6, Junior Pre-Champ Latin  (SCRJ),Sample,0,csc11,402C8320,173,Daniele Gozzi,Samba,6
+CA,0,6,Final,Kevin Grinshpan,Natalie Makedonsky,15,6,6, Junior Pre-Champ Latin  (SCRJ),Sample,0,csc11,402C8320,173,Cecilia Giovacchini,Samba,6
+CA,0,4,Final,Pablo Read,Siena Scoppetta,11,1,4, Junior Pre-Champ Latin  (SCRJ),Sample,1,csc11,402C8320,171,Alise Halbert,Cha Cha,1
+CA,0,3,Final,Pablo Read,Siena Scoppetta,12,1,3, Junior Pre-Champ Latin  (SCRJ),Sample,1,csc11,402C8320,171,Anton Koukareko,Cha Cha,1
+CA,0,2,Final,Pablo Read,Siena Scoppetta,13,1,2, Junior Pre-Champ Latin  (SCRJ),Sample,1,csc11,402C8320,171,Rex Lewis,Cha Cha,1
+CA,0,1,Final,Pablo Read,Siena Scoppetta,14,1,1, Junior Pre-Champ Latin  (SCRJ),Sample,1,csc11,402C8320,171,Daniele Gozzi,Cha Cha,1
+CA,0,1,Final,Pablo Read,Siena Scoppetta,15,1,1, Junior Pre-Champ Latin  (SCRJ),Sample,1,csc11,402C8320,171,Cecilia Giovacchini,Cha Cha,1
+CA,0,2,Final,Bumchin Tegshjargal,Jessica Kolach,11,2,2, Junior Pre-Champ Latin  (SCRJ),Sample,1,csc11,402C8320,156,Alise Halbert,Cha Cha,2
+CA,0,1,Final,Bumchin Tegshjargal,Jessica Kolach,12,2,1, Junior Pre-Champ Latin  (SCRJ),Sample,1,csc11,402C8320,156,Anton Koukareko,Cha Cha,2
+CA,0,3,Final,Bumchin Tegshjargal,Jessica Kolach,13,2,3, Junior Pre-Champ Latin  (SCRJ),Sample,1,csc11,402C8320,156,Rex Lewis,Cha Cha,2
+CA,0,2,Final,Bumchin Tegshjargal,Jessica Kolach,14,2,2, Junior Pre-Champ Latin  (SCRJ),Sample,1,csc11,402C8320,156,Daniele Gozzi,Cha Cha,2
+CA,0,4,Final,Bumchin Tegshjargal,Jessica Kolach,15,2,4, Junior Pre-Champ Latin  (SCRJ),Sample,1,csc11,402C8320,156,Cecilia Giovacchini,Cha Cha,2
+CA,0,3,Final,Diego Read,Simone Timen,11,3,3, Junior Pre-Champ Latin  (SCRJ),Sample,1,csc11,402C8320,186,Alise Halbert,Cha Cha,3
+CA,0,4,Final,Diego Read,Simone Timen,12,3,4, Junior Pre-Champ Latin  (SCRJ),Sample,1,csc11,402C8320,186,Anton Koukareko,Cha Cha,3
+CA,0,1,Final,Diego Read,Simone Timen,13,3,1, Junior Pre-Champ Latin  (SCRJ),Sample,1,csc11,402C8320,186,Rex Lewis,Cha Cha,3
+CA,0,3,Final,Diego Read,Simone Timen,14,3,3, Junior Pre-Champ Latin  (SCRJ),Sample,1,csc11,402C8320,186,Daniele Gozzi,Cha Cha,3
+CA,0,2,Final,Diego Read,Simone Timen,15,3,2, Junior Pre-Champ Latin  (SCRJ),Sample,1,csc11,402C8320,186,Cecilia Giovacchini,Cha Cha,3
+CA,0,1,Final,royce tran,briana diner,11,4,1, Junior Pre-Champ Latin  (SCRJ),Sample,1,csc11,402C8320,162,Alise Halbert,Cha Cha,4
+CA,0,2,Final,royce tran,briana diner,12,4,2, Junior Pre-Champ Latin  (SCRJ),Sample,1,csc11,402C8320,162,Anton Koukareko,Cha Cha,4
+CA,0,4,Final,royce tran,briana diner,13,4,4, Junior Pre-Champ Latin  (SCRJ),Sample,1,csc11,402C8320,162,Rex Lewis,Cha Cha,4
+CA,0,4,Final,royce tran,briana diner,14,4,4, Junior Pre-Champ Latin  (SCRJ),Sample,1,csc11,402C8320,162,Daniele Gozzi,Cha Cha,4
+CA,0,3,Final,royce tran,briana diner,15,4,3, Junior Pre-Champ Latin  (SCRJ),Sample,1,csc11,402C8320,162,Cecilia Giovacchini,Cha Cha,4
+CA,0,5,Final,Noah Lervaag,Taylor Pho,11,5,5, Junior Pre-Champ Latin  (SCRJ),Sample,1,csc11,402C8320,155,Alise Halbert,Cha Cha,5
+CA,0,5,Final,Noah Lervaag,Taylor Pho,12,5,5, Junior Pre-Champ Latin  (SCRJ),Sample,1,csc11,402C8320,155,Anton Koukareko,Cha Cha,5
+CA,0,5,Final,Noah Lervaag,Taylor Pho,13,5,5, Junior Pre-Champ Latin  (SCRJ),Sample,1,csc11,402C8320,155,Rex Lewis,Cha Cha,5
+CA,0,5,Final,Noah Lervaag,Taylor Pho,14,5,5, Junior Pre-Champ Latin  (SCRJ),Sample,1,csc11,402C8320,155,Daniele Gozzi,Cha Cha,5
+CA,0,5,Final,Noah Lervaag,Taylor Pho,15,5,5, Junior Pre-Champ Latin  (SCRJ),Sample,1,csc11,402C8320,155,Cecilia Giovacchini,Cha Cha,5
+CA,0,6,Final,Kevin Grinshpan,Natalie Makedonsky,11,6,6, Junior Pre-Champ Latin  (SCRJ),Sample,1,csc11,402C8320,173,Alise Halbert,Cha Cha,6
+CA,0,6,Final,Kevin Grinshpan,Natalie Makedonsky,12,6,6, Junior Pre-Champ Latin  (SCRJ),Sample,1,csc11,402C8320,173,Anton Koukareko,Cha Cha,6
+CA,0,6,Final,Kevin Grinshpan,Natalie Makedonsky,13,6,6, Junior Pre-Champ Latin  (SCRJ),Sample,1,csc11,402C8320,173,Rex Lewis,Cha Cha,6
+CA,0,6,Final,Kevin Grinshpan,Natalie Makedonsky,14,6,6, Junior Pre-Champ Latin  (SCRJ),Sample,1,csc11,402C8320,173,Daniele Gozzi,Cha Cha,6
+CA,0,6,Final,Kevin Grinshpan,Natalie Makedonsky,15,6,6, Junior Pre-Champ Latin  (SCRJ),Sample,1,csc11,402C8320,173,Cecilia Giovacchini,Cha Cha,6
+CA,0,4,Final,Pablo Read,Siena Scoppetta,11,1,4, Junior Pre-Champ Latin  (SCRJ),Sample,2,csc11,402C8320,171,Alise Halbert,Rumba,1
+CA,0,4,Final,Pablo Read,Siena Scoppetta,12,1,4, Junior Pre-Champ Latin  (SCRJ),Sample,2,csc11,402C8320,171,Anton Koukareko,Rumba,1
+CA,0,2,Final,Pablo Read,Siena Scoppetta,13,1,2, Junior Pre-Champ Latin  (SCRJ),Sample,2,csc11,402C8320,171,Rex Lewis,Rumba,1
+CA,0,1,Final,Pablo Read,Siena Scoppetta,14,1,1, Junior Pre-Champ Latin  (SCRJ),Sample,2,csc11,402C8320,171,Daniele Gozzi,Rumba,1
+CA,0,1,Final,Pablo Read,Siena Scoppetta,15,1,1, Junior Pre-Champ Latin  (SCRJ),Sample,2,csc11,402C8320,171,Cecilia Giovacchini,Rumba,1
+CA,0,2,Final,Bumchin Tegshjargal,Jessica Kolach,11,2,2, Junior Pre-Champ Latin  (SCRJ),Sample,2,csc11,402C8320,156,Alise Halbert,Rumba,2
+CA,0,1,Final,Bumchin Tegshjargal,Jessica Kolach,12,2,1, Junior Pre-Champ Latin  (SCRJ),Sample,2,csc11,402C8320,156,Anton Koukareko,Rumba,2
+CA,0,4,Final,Bumchin Tegshjargal,Jessica Kolach,13,2,4, Junior Pre-Champ Latin  (SCRJ),Sample,2,csc11,402C8320,156,Rex Lewis,Rumba,2
+CA,0,2,Final,Bumchin Tegshjargal,Jessica Kolach,14,2,2, Junior Pre-Champ Latin  (SCRJ),Sample,2,csc11,402C8320,156,Daniele Gozzi,Rumba,2
+CA,0,3,Final,Bumchin Tegshjargal,Jessica Kolach,15,2,3, Junior Pre-Champ Latin  (SCRJ),Sample,2,csc11,402C8320,156,Cecilia Giovacchini,Rumba,2
+CA,0,3,Final,Diego Read,Simone Timen,11,3,3, Junior Pre-Champ Latin  (SCRJ),Sample,2,csc11,402C8320,186,Alise Halbert,Rumba,3
+CA,0,3,Final,Diego Read,Simone Timen,12,3,3, Junior Pre-Champ Latin  (SCRJ),Sample,2,csc11,402C8320,186,Anton Koukareko,Rumba,3
+CA,0,1,Final,Diego Read,Simone Timen,13,3,1, Junior Pre-Champ Latin  (SCRJ),Sample,2,csc11,402C8320,186,Rex Lewis,Rumba,3
+CA,0,3,Final,Diego Read,Simone Timen,14,3,3, Junior Pre-Champ Latin  (SCRJ),Sample,2,csc11,402C8320,186,Daniele Gozzi,Rumba,3
+CA,0,2,Final,Diego Read,Simone Timen,15,3,2, Junior Pre-Champ Latin  (SCRJ),Sample,2,csc11,402C8320,186,Cecilia Giovacchini,Rumba,3
+CA,0,1,Final,royce tran,briana diner,11,4,1, Junior Pre-Champ Latin  (SCRJ),Sample,2,csc11,402C8320,162,Alise Halbert,Rumba,4
+CA,0,2,Final,royce tran,briana diner,12,4,2, Junior Pre-Champ Latin  (SCRJ),Sample,2,csc11,402C8320,162,Anton Koukareko,Rumba,4
+CA,0,3,Final,royce tran,briana diner,13,4,3, Junior Pre-Champ Latin  (SCRJ),Sample,2,csc11,402C8320,162,Rex Lewis,Rumba,4
+CA,0,4,Final,royce tran,briana diner,14,4,4, Junior Pre-Champ Latin  (SCRJ),Sample,2,csc11,402C8320,162,Daniele Gozzi,Rumba,4
+CA,0,4,Final,royce tran,briana diner,15,4,4, Junior Pre-Champ Latin  (SCRJ),Sample,2,csc11,402C8320,162,Cecilia Giovacchini,Rumba,4
+CA,0,5,Final,Noah Lervaag,Taylor Pho,11,5,5, Junior Pre-Champ Latin  (SCRJ),Sample,2,csc11,402C8320,155,Alise Halbert,Rumba,5
+CA,0,5,Final,Noah Lervaag,Taylor Pho,12,5,5, Junior Pre-Champ Latin  (SCRJ),Sample,2,csc11,402C8320,155,Anton Koukareko,Rumba,5
+CA,0,5,Final,Noah Lervaag,Taylor Pho,13,5,5, Junior Pre-Champ Latin  (SCRJ),Sample,2,csc11,402C8320,155,Rex Lewis,Rumba,5
+CA,0,5,Final,Noah Lervaag,Taylor Pho,14,5,5, Junior Pre-Champ Latin  (SCRJ),Sample,2,csc11,402C8320,155,Daniele Gozzi,Rumba,5
+CA,0,5,Final,Noah Lervaag,Taylor Pho,15,5,5, Junior Pre-Champ Latin  (SCRJ),Sample,2,csc11,402C8320,155,Cecilia Giovacchini,Rumba,5
+CA,0,6,Final,Kevin Grinshpan,Natalie Makedonsky,11,6,6, Junior Pre-Champ Latin  (SCRJ),Sample,2,csc11,402C8320,173,Alise Halbert,Rumba,6
+CA,0,6,Final,Kevin Grinshpan,Natalie Makedonsky,12,6,6, Junior Pre-Champ Latin  (SCRJ),Sample,2,csc11,402C8320,173,Anton Koukareko,Rumba,6
+CA,0,6,Final,Kevin Grinshpan,Natalie Makedonsky,13,6,6, Junior Pre-Champ Latin  (SCRJ),Sample,2,csc11,402C8320,173,Rex Lewis,Rumba,6
+CA,0,6,Final,Kevin Grinshpan,Natalie Makedonsky,14,6,6, Junior Pre-Champ Latin  (SCRJ),Sample,2,csc11,402C8320,173,Daniele Gozzi,Rumba,6
+CA,0,6,Final,Kevin Grinshpan,Natalie Makedonsky,15,6,6, Junior Pre-Champ Latin  (SCRJ),Sample,2,csc11,402C8320,173,Cecilia Giovacchini,Rumba,6
+CA,0,2,Final,Pablo Read,Siena Scoppetta,11,1,2, Junior Pre-Champ Latin  (SCRJ),Sample,3,csc11,402C8320,171,Alise Halbert,Jive,1
+CA,0,1,Final,Pablo Read,Siena Scoppetta,12,1,1, Junior Pre-Champ Latin  (SCRJ),Sample,3,csc11,402C8320,171,Anton Koukareko,Jive,1
+CA,0,2,Final,Pablo Read,Siena Scoppetta,13,1,2, Junior Pre-Champ Latin  (SCRJ),Sample,3,csc11,402C8320,171,Rex Lewis,Jive,1
+CA,0,1,Final,Pablo Read,Siena Scoppetta,14,1,1, Junior Pre-Champ Latin  (SCRJ),Sample,3,csc11,402C8320,171,Daniele Gozzi,Jive,1
+CA,0,1,Final,Pablo Read,Siena Scoppetta,15,1,1, Junior Pre-Champ Latin  (SCRJ),Sample,3,csc11,402C8320,171,Cecilia Giovacchini,Jive,1
+CA,0,4,Final,Bumchin Tegshjargal,Jessica Kolach,11,2,4, Junior Pre-Champ Latin  (SCRJ),Sample,3,csc11,402C8320,156,Alise Halbert,Jive,2
+CA,0,2,Final,Bumchin Tegshjargal,Jessica Kolach,12,2,2, Junior Pre-Champ Latin  (SCRJ),Sample,3,csc11,402C8320,156,Anton Koukareko,Jive,2
+CA,0,3,Final,Bumchin Tegshjargal,Jessica Kolach,13,2,3, Junior Pre-Champ Latin  (SCRJ),Sample,3,csc11,402C8320,156,Rex Lewis,Jive,2
+CA,0,2,Final,Bumchin Tegshjargal,Jessica Kolach,14,2,2, Junior Pre-Champ Latin  (SCRJ),Sample,3,csc11,402C8320,156,Daniele Gozzi,Jive,2
+CA,0,2,Final,Bumchin Tegshjargal,Jessica Kolach,15,2,2, Junior Pre-Champ Latin  (SCRJ),Sample,3,csc11,402C8320,156,Cecilia Giovacchini,Jive,2
+CA,0,3,Final,Diego Read,Simone Timen,11,3,3, Junior Pre-Champ Latin  (SCRJ),Sample,3,csc11,402C8320,186,Alise Halbert,Jive,3
+CA,0,4,Final,Diego Read,Simone Timen,12,3,4, Junior Pre-Champ Latin  (SCRJ),Sample,3,csc11,402C8320,186,Anton Koukareko,Jive,3
+CA,0,1,Final,Diego Read,Simone Timen,13,3,1, Junior Pre-Champ Latin  (SCRJ),Sample,3,csc11,402C8320,186,Rex Lewis,Jive,3
+CA,0,3,Final,Diego Read,Simone Timen,14,3,3, Junior Pre-Champ Latin  (SCRJ),Sample,3,csc11,402C8320,186,Daniele Gozzi,Jive,3
+CA,0,3,Final,Diego Read,Simone Timen,15,3,3, Junior Pre-Champ Latin  (SCRJ),Sample,3,csc11,402C8320,186,Cecilia Giovacchini,Jive,3
+CA,0,1,Final,royce tran,briana diner,11,4,1, Junior Pre-Champ Latin  (SCRJ),Sample,3,csc11,402C8320,162,Alise Halbert,Jive,4
+CA,0,3,Final,royce tran,briana diner,12,4,3, Junior Pre-Champ Latin  (SCRJ),Sample,3,csc11,402C8320,162,Anton Koukareko,Jive,4
+CA,0,4,Final,royce tran,briana diner,13,4,4, Junior Pre-Champ Latin  (SCRJ),Sample,3,csc11,402C8320,162,Rex Lewis,Jive,4
+CA,0,4,Final,royce tran,briana diner,14,4,4, Junior Pre-Champ Latin  (SCRJ),Sample,3,csc11,402C8320,162,Daniele Gozzi,Jive,4
+CA,0,4,Final,royce tran,briana diner,15,4,4, Junior Pre-Champ Latin  (SCRJ),Sample,3,csc11,402C8320,162,Cecilia Giovacchini,Jive,4
+CA,0,5,Final,Noah Lervaag,Taylor Pho,11,5,5, Junior Pre-Champ Latin  (SCRJ),Sample,3,csc11,402C8320,155,Alise Halbert,Jive,5
+CA,0,5,Final,Noah Lervaag,Taylor Pho,12,5,5, Junior Pre-Champ Latin  (SCRJ),Sample,3,csc11,402C8320,155,Anton Koukareko,Jive,5
+CA,0,5,Final,Noah Lervaag,Taylor Pho,13,5,5, Junior Pre-Champ Latin  (SCRJ),Sample,3,csc11,402C8320,155,Rex Lewis,Jive,5
+CA,0,5,Final,Noah Lervaag,Taylor Pho,14,5,5, Junior Pre-Champ Latin  (SCRJ),Sample,3,csc11,402C8320,155,Daniele Gozzi,Jive,5
+CA,0,5,Final,Noah Lervaag,Taylor Pho,15,5,5, Junior Pre-Champ Latin  (SCRJ),Sample,3,csc11,402C8320,155,Cecilia Giovacchini,Jive,5
+CA,0,6,Final,Kevin Grinshpan,Natalie Makedonsky,11,6,6, Junior Pre-Champ Latin  (SCRJ),Sample,3,csc11,402C8320,173,Alise Halbert,Jive,6
+CA,0,6,Final,Kevin Grinshpan,Natalie Makedonsky,12,6,6, Junior Pre-Champ Latin  (SCRJ),Sample,3,csc11,402C8320,173,Anton Koukareko,Jive,6
+CA,0,6,Final,Kevin Grinshpan,Natalie Makedonsky,13,6,6, Junior Pre-Champ Latin  (SCRJ),Sample,3,csc11,402C8320,173,Rex Lewis,Jive,6
+CA,0,6,Final,Kevin Grinshpan,Natalie Makedonsky,14,6,6, Junior Pre-Champ Latin  (SCRJ),Sample,3,csc11,402C8320,173,Daniele Gozzi,Jive,6
+CA,0,6,Final,Kevin Grinshpan,Natalie Makedonsky,15,6,6, Junior Pre-Champ Latin  (SCRJ),Sample,3,csc11,402C8320,173,Cecilia Giovacchini,Jive,6
+CA,0,1,Final,Hugh Chapman,Lorna Roza,11,1,1, Senior I Pre-Champ Rhythm  (CRSB),Sample,0,csc11,40438340,197,Alise Halbert,Cha Cha,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,12,1,1, Senior I Pre-Champ Rhythm  (CRSB),Sample,0,csc11,40438340,197,Anton Koukareko,Cha Cha,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,13,1,1, Senior I Pre-Champ Rhythm  (CRSB),Sample,0,csc11,40438340,197,Rex Lewis,Cha Cha,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,14,1,1, Senior I Pre-Champ Rhythm  (CRSB),Sample,0,csc11,40438340,197,Daniele Gozzi,Cha Cha,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,15,1,1, Senior I Pre-Champ Rhythm  (CRSB),Sample,0,csc11,40438340,197,Cecilia Giovacchini,Cha Cha,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,11,1,1, Senior I Pre-Champ Rhythm  (CRSB),Sample,1,csc11,40438340,197,Alise Halbert,Rumba,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,12,1,1, Senior I Pre-Champ Rhythm  (CRSB),Sample,1,csc11,40438340,197,Anton Koukareko,Rumba,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,13,1,1, Senior I Pre-Champ Rhythm  (CRSB),Sample,1,csc11,40438340,197,Rex Lewis,Rumba,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,14,1,1, Senior I Pre-Champ Rhythm  (CRSB),Sample,1,csc11,40438340,197,Daniele Gozzi,Rumba,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,15,1,1, Senior I Pre-Champ Rhythm  (CRSB),Sample,1,csc11,40438340,197,Cecilia Giovacchini,Rumba,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,11,1,1, Senior I Pre-Champ Rhythm  (CRSB),Sample,2,csc11,40438340,197,Alise Halbert,Swing,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,12,1,1, Senior I Pre-Champ Rhythm  (CRSB),Sample,2,csc11,40438340,197,Anton Koukareko,Swing,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,13,1,1, Senior I Pre-Champ Rhythm  (CRSB),Sample,2,csc11,40438340,197,Rex Lewis,Swing,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,14,1,1, Senior I Pre-Champ Rhythm  (CRSB),Sample,2,csc11,40438340,197,Daniele Gozzi,Swing,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,15,1,1, Senior I Pre-Champ Rhythm  (CRSB),Sample,2,csc11,40438340,197,Cecilia Giovacchini,Swing,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,11,1,1, Senior I Pre-Champ Rhythm  (CRSB),Sample,3,csc11,40438340,197,Alise Halbert,Bolero,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,12,1,1, Senior I Pre-Champ Rhythm  (CRSB),Sample,3,csc11,40438340,197,Anton Koukareko,Bolero,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,13,1,1, Senior I Pre-Champ Rhythm  (CRSB),Sample,3,csc11,40438340,197,Rex Lewis,Bolero,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,14,1,1, Senior I Pre-Champ Rhythm  (CRSB),Sample,3,csc11,40438340,197,Daniele Gozzi,Bolero,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,15,1,1, Senior I Pre-Champ Rhythm  (CRSB),Sample,3,csc11,40438340,197,Cecilia Giovacchini,Bolero,1
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,11,1,1, Youth Pre-Champ Latin  (CSRJ),Sample,0,csc11,402F8320,190,Alise Halbert,Cha Cha,1
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,12,1,1, Youth Pre-Champ Latin  (CSRJ),Sample,0,csc11,402F8320,190,Anton Koukareko,Cha Cha,1
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,13,1,1, Youth Pre-Champ Latin  (CSRJ),Sample,0,csc11,402F8320,190,Rex Lewis,Cha Cha,1
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,14,1,1, Youth Pre-Champ Latin  (CSRJ),Sample,0,csc11,402F8320,190,Daniele Gozzi,Cha Cha,1
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,15,1,1, Youth Pre-Champ Latin  (CSRJ),Sample,0,csc11,402F8320,190,Cecilia Giovacchini,Cha Cha,1
+CA,0,2,Final,Max Kalmanovich,Tanya Smith,11,2,2, Youth Pre-Champ Latin  (CSRJ),Sample,0,csc11,402F8320,180,Alise Halbert,Cha Cha,2
+CA,0,2,Final,Max Kalmanovich,Tanya Smith,12,2,2, Youth Pre-Champ Latin  (CSRJ),Sample,0,csc11,402F8320,180,Anton Koukareko,Cha Cha,2
+CA,0,2,Final,Max Kalmanovich,Tanya Smith,13,2,2, Youth Pre-Champ Latin  (CSRJ),Sample,0,csc11,402F8320,180,Rex Lewis,Cha Cha,2
+CA,0,2,Final,Max Kalmanovich,Tanya Smith,14,2,2, Youth Pre-Champ Latin  (CSRJ),Sample,0,csc11,402F8320,180,Daniele Gozzi,Cha Cha,2
+CA,0,2,Final,Max Kalmanovich,Tanya Smith,15,2,2, Youth Pre-Champ Latin  (CSRJ),Sample,0,csc11,402F8320,180,Cecilia Giovacchini,Cha Cha,2
+CA,0,3,Final,Diego Read,Simone Timen,11,3,3, Youth Pre-Champ Latin  (CSRJ),Sample,0,csc11,402F8320,186,Alise Halbert,Cha Cha,3
+CA,0,4,Final,Diego Read,Simone Timen,12,3,4, Youth Pre-Champ Latin  (CSRJ),Sample,0,csc11,402F8320,186,Anton Koukareko,Cha Cha,3
+CA,0,4,Final,Diego Read,Simone Timen,13,3,4, Youth Pre-Champ Latin  (CSRJ),Sample,0,csc11,402F8320,186,Rex Lewis,Cha Cha,3
+CA,0,3,Final,Diego Read,Simone Timen,14,3,3, Youth Pre-Champ Latin  (CSRJ),Sample,0,csc11,402F8320,186,Daniele Gozzi,Cha Cha,3
+CA,0,3,Final,Diego Read,Simone Timen,15,3,3, Youth Pre-Champ Latin  (CSRJ),Sample,0,csc11,402F8320,186,Cecilia Giovacchini,Cha Cha,3
+CA,0,4,Final,Eli Kolach,Anna Ostrovsky,11,4,4, Youth Pre-Champ Latin  (CSRJ),Sample,0,csc11,402F8320,159,Alise Halbert,Cha Cha,4
+CA,0,3,Final,Eli Kolach,Anna Ostrovsky,12,4,3, Youth Pre-Champ Latin  (CSRJ),Sample,0,csc11,402F8320,159,Anton Koukareko,Cha Cha,4
+CA,0,3,Final,Eli Kolach,Anna Ostrovsky,13,4,3, Youth Pre-Champ Latin  (CSRJ),Sample,0,csc11,402F8320,159,Rex Lewis,Cha Cha,4
+CA,0,4,Final,Eli Kolach,Anna Ostrovsky,14,4,4, Youth Pre-Champ Latin  (CSRJ),Sample,0,csc11,402F8320,159,Daniele Gozzi,Cha Cha,4
+CA,0,4,Final,Eli Kolach,Anna Ostrovsky,15,4,4, Youth Pre-Champ Latin  (CSRJ),Sample,0,csc11,402F8320,159,Cecilia Giovacchini,Cha Cha,4
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,11,1,1, Youth Pre-Champ Latin  (CSRJ),Sample,1,csc11,402F8320,190,Alise Halbert,Samba,1
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,12,1,1, Youth Pre-Champ Latin  (CSRJ),Sample,1,csc11,402F8320,190,Anton Koukareko,Samba,1
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,13,1,1, Youth Pre-Champ Latin  (CSRJ),Sample,1,csc11,402F8320,190,Rex Lewis,Samba,1
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,14,1,1, Youth Pre-Champ Latin  (CSRJ),Sample,1,csc11,402F8320,190,Daniele Gozzi,Samba,1
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,15,1,1, Youth Pre-Champ Latin  (CSRJ),Sample,1,csc11,402F8320,190,Cecilia Giovacchini,Samba,1
+CA,0,2,Final,Max Kalmanovich,Tanya Smith,11,2,2, Youth Pre-Champ Latin  (CSRJ),Sample,1,csc11,402F8320,180,Alise Halbert,Samba,2
+CA,0,2,Final,Max Kalmanovich,Tanya Smith,12,2,2, Youth Pre-Champ Latin  (CSRJ),Sample,1,csc11,402F8320,180,Anton Koukareko,Samba,2
+CA,0,2,Final,Max Kalmanovich,Tanya Smith,13,2,2, Youth Pre-Champ Latin  (CSRJ),Sample,1,csc11,402F8320,180,Rex Lewis,Samba,2
+CA,0,2,Final,Max Kalmanovich,Tanya Smith,14,2,2, Youth Pre-Champ Latin  (CSRJ),Sample,1,csc11,402F8320,180,Daniele Gozzi,Samba,2
+CA,0,2,Final,Max Kalmanovich,Tanya Smith,15,2,2, Youth Pre-Champ Latin  (CSRJ),Sample,1,csc11,402F8320,180,Cecilia Giovacchini,Samba,2
+CA,0,3,Final,Diego Read,Simone Timen,11,3,3, Youth Pre-Champ Latin  (CSRJ),Sample,1,csc11,402F8320,186,Alise Halbert,Samba,3
+CA,0,4,Final,Diego Read,Simone Timen,12,3,4, Youth Pre-Champ Latin  (CSRJ),Sample,1,csc11,402F8320,186,Anton Koukareko,Samba,3
+CA,0,4,Final,Diego Read,Simone Timen,13,3,4, Youth Pre-Champ Latin  (CSRJ),Sample,1,csc11,402F8320,186,Rex Lewis,Samba,3
+CA,0,3,Final,Diego Read,Simone Timen,14,3,3, Youth Pre-Champ Latin  (CSRJ),Sample,1,csc11,402F8320,186,Daniele Gozzi,Samba,3
+CA,0,3,Final,Diego Read,Simone Timen,15,3,3, Youth Pre-Champ Latin  (CSRJ),Sample,1,csc11,402F8320,186,Cecilia Giovacchini,Samba,3
+CA,0,4,Final,Eli Kolach,Anna Ostrovsky,11,4,4, Youth Pre-Champ Latin  (CSRJ),Sample,1,csc11,402F8320,159,Alise Halbert,Samba,4
+CA,0,3,Final,Eli Kolach,Anna Ostrovsky,12,4,3, Youth Pre-Champ Latin  (CSRJ),Sample,1,csc11,402F8320,159,Anton Koukareko,Samba,4
+CA,0,3,Final,Eli Kolach,Anna Ostrovsky,13,4,3, Youth Pre-Champ Latin  (CSRJ),Sample,1,csc11,402F8320,159,Rex Lewis,Samba,4
+CA,0,4,Final,Eli Kolach,Anna Ostrovsky,14,4,4, Youth Pre-Champ Latin  (CSRJ),Sample,1,csc11,402F8320,159,Daniele Gozzi,Samba,4
+CA,0,4,Final,Eli Kolach,Anna Ostrovsky,15,4,4, Youth Pre-Champ Latin  (CSRJ),Sample,1,csc11,402F8320,159,Cecilia Giovacchini,Samba,4
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,11,1,1, Youth Pre-Champ Latin  (CSRJ),Sample,2,csc11,402F8320,190,Alise Halbert,Rumba,1
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,12,1,1, Youth Pre-Champ Latin  (CSRJ),Sample,2,csc11,402F8320,190,Anton Koukareko,Rumba,1
+CA,0,2,Final,Stephen Wang,Susanna Juidlovsey,13,1,2, Youth Pre-Champ Latin  (CSRJ),Sample,2,csc11,402F8320,190,Rex Lewis,Rumba,1
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,14,1,1, Youth Pre-Champ Latin  (CSRJ),Sample,2,csc11,402F8320,190,Daniele Gozzi,Rumba,1
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,15,1,1, Youth Pre-Champ Latin  (CSRJ),Sample,2,csc11,402F8320,190,Cecilia Giovacchini,Rumba,1
+CA,0,2,Final,Max Kalmanovich,Tanya Smith,11,2,2, Youth Pre-Champ Latin  (CSRJ),Sample,2,csc11,402F8320,180,Alise Halbert,Rumba,2
+CA,0,2,Final,Max Kalmanovich,Tanya Smith,12,2,2, Youth Pre-Champ Latin  (CSRJ),Sample,2,csc11,402F8320,180,Anton Koukareko,Rumba,2
+CA,0,1,Final,Max Kalmanovich,Tanya Smith,13,2,1, Youth Pre-Champ Latin  (CSRJ),Sample,2,csc11,402F8320,180,Rex Lewis,Rumba,2
+CA,0,2,Final,Max Kalmanovich,Tanya Smith,14,2,2, Youth Pre-Champ Latin  (CSRJ),Sample,2,csc11,402F8320,180,Daniele Gozzi,Rumba,2
+CA,0,2,Final,Max Kalmanovich,Tanya Smith,15,2,2, Youth Pre-Champ Latin  (CSRJ),Sample,2,csc11,402F8320,180,Cecilia Giovacchini,Rumba,2
+CA,0,3,Final,Diego Read,Simone Timen,11,3,3, Youth Pre-Champ Latin  (CSRJ),Sample,2,csc11,402F8320,186,Alise Halbert,Rumba,3
+CA,0,4,Final,Diego Read,Simone Timen,12,3,4, Youth Pre-Champ Latin  (CSRJ),Sample,2,csc11,402F8320,186,Anton Koukareko,Rumba,3
+CA,0,3,Final,Diego Read,Simone Timen,13,3,3, Youth Pre-Champ Latin  (CSRJ),Sample,2,csc11,402F8320,186,Rex Lewis,Rumba,3
+CA,0,3,Final,Diego Read,Simone Timen,14,3,3, Youth Pre-Champ Latin  (CSRJ),Sample,2,csc11,402F8320,186,Daniele Gozzi,Rumba,3
+CA,0,3,Final,Diego Read,Simone Timen,15,3,3, Youth Pre-Champ Latin  (CSRJ),Sample,2,csc11,402F8320,186,Cecilia Giovacchini,Rumba,3
+CA,0,4,Final,Eli Kolach,Anna Ostrovsky,11,4,4, Youth Pre-Champ Latin  (CSRJ),Sample,2,csc11,402F8320,159,Alise Halbert,Rumba,4
+CA,0,3,Final,Eli Kolach,Anna Ostrovsky,12,4,3, Youth Pre-Champ Latin  (CSRJ),Sample,2,csc11,402F8320,159,Anton Koukareko,Rumba,4
+CA,0,4,Final,Eli Kolach,Anna Ostrovsky,13,4,4, Youth Pre-Champ Latin  (CSRJ),Sample,2,csc11,402F8320,159,Rex Lewis,Rumba,4
+CA,0,4,Final,Eli Kolach,Anna Ostrovsky,14,4,4, Youth Pre-Champ Latin  (CSRJ),Sample,2,csc11,402F8320,159,Daniele Gozzi,Rumba,4
+CA,0,4,Final,Eli Kolach,Anna Ostrovsky,15,4,4, Youth Pre-Champ Latin  (CSRJ),Sample,2,csc11,402F8320,159,Cecilia Giovacchini,Rumba,4
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,11,1,1, Youth Pre-Champ Latin  (CSRJ),Sample,3,csc11,402F8320,190,Alise Halbert,Jive,1
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,12,1,1, Youth Pre-Champ Latin  (CSRJ),Sample,3,csc11,402F8320,190,Anton Koukareko,Jive,1
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,13,1,1, Youth Pre-Champ Latin  (CSRJ),Sample,3,csc11,402F8320,190,Rex Lewis,Jive,1
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,14,1,1, Youth Pre-Champ Latin  (CSRJ),Sample,3,csc11,402F8320,190,Daniele Gozzi,Jive,1
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,15,1,1, Youth Pre-Champ Latin  (CSRJ),Sample,3,csc11,402F8320,190,Cecilia Giovacchini,Jive,1
+CA,0,2,Final,Max Kalmanovich,Tanya Smith,11,2,2, Youth Pre-Champ Latin  (CSRJ),Sample,3,csc11,402F8320,180,Alise Halbert,Jive,2
+CA,0,2,Final,Max Kalmanovich,Tanya Smith,12,2,2, Youth Pre-Champ Latin  (CSRJ),Sample,3,csc11,402F8320,180,Anton Koukareko,Jive,2
+CA,0,2,Final,Max Kalmanovich,Tanya Smith,13,2,2, Youth Pre-Champ Latin  (CSRJ),Sample,3,csc11,402F8320,180,Rex Lewis,Jive,2
+CA,0,2,Final,Max Kalmanovich,Tanya Smith,14,2,2, Youth Pre-Champ Latin  (CSRJ),Sample,3,csc11,402F8320,180,Daniele Gozzi,Jive,2
+CA,0,2,Final,Max Kalmanovich,Tanya Smith,15,2,2, Youth Pre-Champ Latin  (CSRJ),Sample,3,csc11,402F8320,180,Cecilia Giovacchini,Jive,2
+CA,0,3,Final,Diego Read,Simone Timen,11,3,3, Youth Pre-Champ Latin  (CSRJ),Sample,3,csc11,402F8320,186,Alise Halbert,Jive,3
+CA,0,3,Final,Diego Read,Simone Timen,12,3,3, Youth Pre-Champ Latin  (CSRJ),Sample,3,csc11,402F8320,186,Anton Koukareko,Jive,3
+CA,0,3,Final,Diego Read,Simone Timen,13,3,3, Youth Pre-Champ Latin  (CSRJ),Sample,3,csc11,402F8320,186,Rex Lewis,Jive,3
+CA,0,3,Final,Diego Read,Simone Timen,14,3,3, Youth Pre-Champ Latin  (CSRJ),Sample,3,csc11,402F8320,186,Daniele Gozzi,Jive,3
+CA,0,3,Final,Diego Read,Simone Timen,15,3,3, Youth Pre-Champ Latin  (CSRJ),Sample,3,csc11,402F8320,186,Cecilia Giovacchini,Jive,3
+CA,0,4,Final,Eli Kolach,Anna Ostrovsky,11,4,4, Youth Pre-Champ Latin  (CSRJ),Sample,3,csc11,402F8320,159,Alise Halbert,Jive,4
+CA,0,4,Final,Eli Kolach,Anna Ostrovsky,12,4,4, Youth Pre-Champ Latin  (CSRJ),Sample,3,csc11,402F8320,159,Anton Koukareko,Jive,4
+CA,0,4,Final,Eli Kolach,Anna Ostrovsky,13,4,4, Youth Pre-Champ Latin  (CSRJ),Sample,3,csc11,402F8320,159,Rex Lewis,Jive,4
+CA,0,4,Final,Eli Kolach,Anna Ostrovsky,14,4,4, Youth Pre-Champ Latin  (CSRJ),Sample,3,csc11,402F8320,159,Daniele Gozzi,Jive,4
+CA,0,4,Final,Eli Kolach,Anna Ostrovsky,15,4,4, Youth Pre-Champ Latin  (CSRJ),Sample,3,csc11,402F8320,159,Cecilia Giovacchini,Jive,4
+CA,0,1,Final,Bumchin Tegshjargal,Jessica Kolach,11,1,1, Junior Championship Latin  (SCRPJ),Sample,0,csc11,402C8720,156,Alise Halbert,Samba,1
+CA,0,1,Final,Bumchin Tegshjargal,Jessica Kolach,12,1,1, Junior Championship Latin  (SCRPJ),Sample,0,csc11,402C8720,156,Anton Koukareko,Samba,1
+CA,0,2,Final,Bumchin Tegshjargal,Jessica Kolach,13,1,2, Junior Championship Latin  (SCRPJ),Sample,0,csc11,402C8720,156,Rex Lewis,Samba,1
+CA,0,1,Final,Bumchin Tegshjargal,Jessica Kolach,14,1,1, Junior Championship Latin  (SCRPJ),Sample,0,csc11,402C8720,156,Daniele Gozzi,Samba,1
+CA,0,1,Final,Bumchin Tegshjargal,Jessica Kolach,15,1,1, Junior Championship Latin  (SCRPJ),Sample,0,csc11,402C8720,156,Cecilia Giovacchini,Samba,1
+CA,0,2,Final,royce tran,briana diner,11,2,2, Junior Championship Latin  (SCRPJ),Sample,0,csc11,402C8720,162,Alise Halbert,Samba,2
+CA,0,2,Final,royce tran,briana diner,12,2,2, Junior Championship Latin  (SCRPJ),Sample,0,csc11,402C8720,162,Anton Koukareko,Samba,2
+CA,0,3,Final,royce tran,briana diner,13,2,3, Junior Championship Latin  (SCRPJ),Sample,0,csc11,402C8720,162,Rex Lewis,Samba,2
+CA,0,2,Final,royce tran,briana diner,14,2,2, Junior Championship Latin  (SCRPJ),Sample,0,csc11,402C8720,162,Daniele Gozzi,Samba,2
+CA,0,2,Final,royce tran,briana diner,15,2,2, Junior Championship Latin  (SCRPJ),Sample,0,csc11,402C8720,162,Cecilia Giovacchini,Samba,2
+CA,0,3,Final,Eli Kolach,Anna Ostrovsky,11,3,3, Junior Championship Latin  (SCRPJ),Sample,0,csc11,402C8720,159,Alise Halbert,Samba,3
+CA,0,3,Final,Eli Kolach,Anna Ostrovsky,12,3,3, Junior Championship Latin  (SCRPJ),Sample,0,csc11,402C8720,159,Anton Koukareko,Samba,3
+CA,0,1,Final,Eli Kolach,Anna Ostrovsky,13,3,1, Junior Championship Latin  (SCRPJ),Sample,0,csc11,402C8720,159,Rex Lewis,Samba,3
+CA,0,3,Final,Eli Kolach,Anna Ostrovsky,14,3,3, Junior Championship Latin  (SCRPJ),Sample,0,csc11,402C8720,159,Daniele Gozzi,Samba,3
+CA,0,3,Final,Eli Kolach,Anna Ostrovsky,15,3,3, Junior Championship Latin  (SCRPJ),Sample,0,csc11,402C8720,159,Cecilia Giovacchini,Samba,3
+CA,0,4,Final,Noah Lervaag,Taylor Pho,11,4,4, Junior Championship Latin  (SCRPJ),Sample,0,csc11,402C8720,155,Alise Halbert,Samba,4
+CA,0,4,Final,Noah Lervaag,Taylor Pho,12,4,4, Junior Championship Latin  (SCRPJ),Sample,0,csc11,402C8720,155,Anton Koukareko,Samba,4
+CA,0,4,Final,Noah Lervaag,Taylor Pho,13,4,4, Junior Championship Latin  (SCRPJ),Sample,0,csc11,402C8720,155,Rex Lewis,Samba,4
+CA,0,4,Final,Noah Lervaag,Taylor Pho,14,4,4, Junior Championship Latin  (SCRPJ),Sample,0,csc11,402C8720,155,Daniele Gozzi,Samba,4
+CA,0,4,Final,Noah Lervaag,Taylor Pho,15,4,4, Junior Championship Latin  (SCRPJ),Sample,0,csc11,402C8720,155,Cecilia Giovacchini,Samba,4
+CA,0,1,Final,Bumchin Tegshjargal,Jessica Kolach,11,1,1, Junior Championship Latin  (SCRPJ),Sample,1,csc11,402C8720,156,Alise Halbert,Cha Cha,1
+CA,0,1,Final,Bumchin Tegshjargal,Jessica Kolach,12,1,1, Junior Championship Latin  (SCRPJ),Sample,1,csc11,402C8720,156,Anton Koukareko,Cha Cha,1
+CA,0,3,Final,Bumchin Tegshjargal,Jessica Kolach,13,1,3, Junior Championship Latin  (SCRPJ),Sample,1,csc11,402C8720,156,Rex Lewis,Cha Cha,1
+CA,0,1,Final,Bumchin Tegshjargal,Jessica Kolach,14,1,1, Junior Championship Latin  (SCRPJ),Sample,1,csc11,402C8720,156,Daniele Gozzi,Cha Cha,1
+CA,0,1,Final,Bumchin Tegshjargal,Jessica Kolach,15,1,1, Junior Championship Latin  (SCRPJ),Sample,1,csc11,402C8720,156,Cecilia Giovacchini,Cha Cha,1
+CA,0,2,Final,royce tran,briana diner,11,2,2, Junior Championship Latin  (SCRPJ),Sample,1,csc11,402C8720,162,Alise Halbert,Cha Cha,2
+CA,0,2,Final,royce tran,briana diner,12,2,2, Junior Championship Latin  (SCRPJ),Sample,1,csc11,402C8720,162,Anton Koukareko,Cha Cha,2
+CA,0,2,Final,royce tran,briana diner,13,2,2, Junior Championship Latin  (SCRPJ),Sample,1,csc11,402C8720,162,Rex Lewis,Cha Cha,2
+CA,0,2,Final,royce tran,briana diner,14,2,2, Junior Championship Latin  (SCRPJ),Sample,1,csc11,402C8720,162,Daniele Gozzi,Cha Cha,2
+CA,0,2,Final,royce tran,briana diner,15,2,2, Junior Championship Latin  (SCRPJ),Sample,1,csc11,402C8720,162,Cecilia Giovacchini,Cha Cha,2
+CA,0,3,Final,Eli Kolach,Anna Ostrovsky,11,3,3, Junior Championship Latin  (SCRPJ),Sample,1,csc11,402C8720,159,Alise Halbert,Cha Cha,3
+CA,0,3,Final,Eli Kolach,Anna Ostrovsky,12,3,3, Junior Championship Latin  (SCRPJ),Sample,1,csc11,402C8720,159,Anton Koukareko,Cha Cha,3
+CA,0,1,Final,Eli Kolach,Anna Ostrovsky,13,3,1, Junior Championship Latin  (SCRPJ),Sample,1,csc11,402C8720,159,Rex Lewis,Cha Cha,3
+CA,0,3,Final,Eli Kolach,Anna Ostrovsky,14,3,3, Junior Championship Latin  (SCRPJ),Sample,1,csc11,402C8720,159,Daniele Gozzi,Cha Cha,3
+CA,0,3,Final,Eli Kolach,Anna Ostrovsky,15,3,3, Junior Championship Latin  (SCRPJ),Sample,1,csc11,402C8720,159,Cecilia Giovacchini,Cha Cha,3
+CA,0,4,Final,Noah Lervaag,Taylor Pho,11,4,4, Junior Championship Latin  (SCRPJ),Sample,1,csc11,402C8720,155,Alise Halbert,Cha Cha,4
+CA,0,4,Final,Noah Lervaag,Taylor Pho,12,4,4, Junior Championship Latin  (SCRPJ),Sample,1,csc11,402C8720,155,Anton Koukareko,Cha Cha,4
+CA,0,4,Final,Noah Lervaag,Taylor Pho,13,4,4, Junior Championship Latin  (SCRPJ),Sample,1,csc11,402C8720,155,Rex Lewis,Cha Cha,4
+CA,0,4,Final,Noah Lervaag,Taylor Pho,14,4,4, Junior Championship Latin  (SCRPJ),Sample,1,csc11,402C8720,155,Daniele Gozzi,Cha Cha,4
+CA,0,4,Final,Noah Lervaag,Taylor Pho,15,4,4, Junior Championship Latin  (SCRPJ),Sample,1,csc11,402C8720,155,Cecilia Giovacchini,Cha Cha,4
+CA,0,1,Final,Bumchin Tegshjargal,Jessica Kolach,11,1,1, Junior Championship Latin  (SCRPJ),Sample,2,csc11,402C8720,156,Alise Halbert,Rumba,1
+CA,0,1,Final,Bumchin Tegshjargal,Jessica Kolach,12,1,1, Junior Championship Latin  (SCRPJ),Sample,2,csc11,402C8720,156,Anton Koukareko,Rumba,1
+CA,0,2,Final,Bumchin Tegshjargal,Jessica Kolach,13,1,2, Junior Championship Latin  (SCRPJ),Sample,2,csc11,402C8720,156,Rex Lewis,Rumba,1
+CA,0,1,Final,Bumchin Tegshjargal,Jessica Kolach,14,1,1, Junior Championship Latin  (SCRPJ),Sample,2,csc11,402C8720,156,Daniele Gozzi,Rumba,1
+CA,0,1,Final,Bumchin Tegshjargal,Jessica Kolach,15,1,1, Junior Championship Latin  (SCRPJ),Sample,2,csc11,402C8720,156,Cecilia Giovacchini,Rumba,1
+CA,0,2,Final,royce tran,briana diner,11,2,2, Junior Championship Latin  (SCRPJ),Sample,2,csc11,402C8720,162,Alise Halbert,Rumba,2
+CA,0,2,Final,royce tran,briana diner,12,2,2, Junior Championship Latin  (SCRPJ),Sample,2,csc11,402C8720,162,Anton Koukareko,Rumba,2
+CA,0,3,Final,royce tran,briana diner,13,2,3, Junior Championship Latin  (SCRPJ),Sample,2,csc11,402C8720,162,Rex Lewis,Rumba,2
+CA,0,2,Final,royce tran,briana diner,14,2,2, Junior Championship Latin  (SCRPJ),Sample,2,csc11,402C8720,162,Daniele Gozzi,Rumba,2
+CA,0,2,Final,royce tran,briana diner,15,2,2, Junior Championship Latin  (SCRPJ),Sample,2,csc11,402C8720,162,Cecilia Giovacchini,Rumba,2
+CA,0,3,Final,Eli Kolach,Anna Ostrovsky,11,3,3, Junior Championship Latin  (SCRPJ),Sample,2,csc11,402C8720,159,Alise Halbert,Rumba,3
+CA,0,3,Final,Eli Kolach,Anna Ostrovsky,12,3,3, Junior Championship Latin  (SCRPJ),Sample,2,csc11,402C8720,159,Anton Koukareko,Rumba,3
+CA,0,1,Final,Eli Kolach,Anna Ostrovsky,13,3,1, Junior Championship Latin  (SCRPJ),Sample,2,csc11,402C8720,159,Rex Lewis,Rumba,3
+CA,0,3,Final,Eli Kolach,Anna Ostrovsky,14,3,3, Junior Championship Latin  (SCRPJ),Sample,2,csc11,402C8720,159,Daniele Gozzi,Rumba,3
+CA,0,3,Final,Eli Kolach,Anna Ostrovsky,15,3,3, Junior Championship Latin  (SCRPJ),Sample,2,csc11,402C8720,159,Cecilia Giovacchini,Rumba,3
+CA,0,4,Final,Noah Lervaag,Taylor Pho,11,4,4, Junior Championship Latin  (SCRPJ),Sample,2,csc11,402C8720,155,Alise Halbert,Rumba,4
+CA,0,4,Final,Noah Lervaag,Taylor Pho,12,4,4, Junior Championship Latin  (SCRPJ),Sample,2,csc11,402C8720,155,Anton Koukareko,Rumba,4
+CA,0,4,Final,Noah Lervaag,Taylor Pho,13,4,4, Junior Championship Latin  (SCRPJ),Sample,2,csc11,402C8720,155,Rex Lewis,Rumba,4
+CA,0,4,Final,Noah Lervaag,Taylor Pho,14,4,4, Junior Championship Latin  (SCRPJ),Sample,2,csc11,402C8720,155,Daniele Gozzi,Rumba,4
+CA,0,4,Final,Noah Lervaag,Taylor Pho,15,4,4, Junior Championship Latin  (SCRPJ),Sample,2,csc11,402C8720,155,Cecilia Giovacchini,Rumba,4
+CA,0,1,Final,Bumchin Tegshjargal,Jessica Kolach,11,1,1, Junior Championship Latin  (SCRPJ),Sample,3,csc11,402C8720,156,Alise Halbert,Paso Doble,1
+CA,0,1,Final,Bumchin Tegshjargal,Jessica Kolach,12,1,1, Junior Championship Latin  (SCRPJ),Sample,3,csc11,402C8720,156,Anton Koukareko,Paso Doble,1
+CA,0,2,Final,Bumchin Tegshjargal,Jessica Kolach,13,1,2, Junior Championship Latin  (SCRPJ),Sample,3,csc11,402C8720,156,Rex Lewis,Paso Doble,1
+CA,0,1,Final,Bumchin Tegshjargal,Jessica Kolach,14,1,1, Junior Championship Latin  (SCRPJ),Sample,3,csc11,402C8720,156,Daniele Gozzi,Paso Doble,1
+CA,0,1,Final,Bumchin Tegshjargal,Jessica Kolach,15,1,1, Junior Championship Latin  (SCRPJ),Sample,3,csc11,402C8720,156,Cecilia Giovacchini,Paso Doble,1
+CA,0,3,Final,royce tran,briana diner,11,3,3, Junior Championship Latin  (SCRPJ),Sample,3,csc11,402C8720,162,Alise Halbert,Paso Doble,2
+CA,0,2,Final,royce tran,briana diner,12,3,2, Junior Championship Latin  (SCRPJ),Sample,3,csc11,402C8720,162,Anton Koukareko,Paso Doble,2
+CA,0,3,Final,royce tran,briana diner,13,3,3, Junior Championship Latin  (SCRPJ),Sample,3,csc11,402C8720,162,Rex Lewis,Paso Doble,2
+CA,0,3,Final,royce tran,briana diner,14,3,3, Junior Championship Latin  (SCRPJ),Sample,3,csc11,402C8720,162,Daniele Gozzi,Paso Doble,2
+CA,0,2,Final,royce tran,briana diner,15,3,2, Junior Championship Latin  (SCRPJ),Sample,3,csc11,402C8720,162,Cecilia Giovacchini,Paso Doble,2
+CA,0,2,Final,Eli Kolach,Anna Ostrovsky,11,2,2, Junior Championship Latin  (SCRPJ),Sample,3,csc11,402C8720,159,Alise Halbert,Paso Doble,3
+CA,0,3,Final,Eli Kolach,Anna Ostrovsky,12,2,3, Junior Championship Latin  (SCRPJ),Sample,3,csc11,402C8720,159,Anton Koukareko,Paso Doble,3
+CA,0,1,Final,Eli Kolach,Anna Ostrovsky,13,2,1, Junior Championship Latin  (SCRPJ),Sample,3,csc11,402C8720,159,Rex Lewis,Paso Doble,3
+CA,0,2,Final,Eli Kolach,Anna Ostrovsky,14,2,2, Junior Championship Latin  (SCRPJ),Sample,3,csc11,402C8720,159,Daniele Gozzi,Paso Doble,3
+CA,0,3,Final,Eli Kolach,Anna Ostrovsky,15,2,3, Junior Championship Latin  (SCRPJ),Sample,3,csc11,402C8720,159,Cecilia Giovacchini,Paso Doble,3
+CA,0,4,Final,Noah Lervaag,Taylor Pho,11,4,4, Junior Championship Latin  (SCRPJ),Sample,3,csc11,402C8720,155,Alise Halbert,Paso Doble,4
+CA,0,4,Final,Noah Lervaag,Taylor Pho,12,4,4, Junior Championship Latin  (SCRPJ),Sample,3,csc11,402C8720,155,Anton Koukareko,Paso Doble,4
+CA,0,4,Final,Noah Lervaag,Taylor Pho,13,4,4, Junior Championship Latin  (SCRPJ),Sample,3,csc11,402C8720,155,Rex Lewis,Paso Doble,4
+CA,0,4,Final,Noah Lervaag,Taylor Pho,14,4,4, Junior Championship Latin  (SCRPJ),Sample,3,csc11,402C8720,155,Daniele Gozzi,Paso Doble,4
+CA,0,4,Final,Noah Lervaag,Taylor Pho,15,4,4, Junior Championship Latin  (SCRPJ),Sample,3,csc11,402C8720,155,Cecilia Giovacchini,Paso Doble,4
+CA,0,1,Final,Bumchin Tegshjargal,Jessica Kolach,11,1,1, Junior Championship Latin  (SCRPJ),Sample,4,csc11,402C8720,156,Alise Halbert,Jive,1
+CA,0,1,Final,Bumchin Tegshjargal,Jessica Kolach,12,1,1, Junior Championship Latin  (SCRPJ),Sample,4,csc11,402C8720,156,Anton Koukareko,Jive,1
+CA,0,2,Final,Bumchin Tegshjargal,Jessica Kolach,13,1,2, Junior Championship Latin  (SCRPJ),Sample,4,csc11,402C8720,156,Rex Lewis,Jive,1
+CA,0,1,Final,Bumchin Tegshjargal,Jessica Kolach,14,1,1, Junior Championship Latin  (SCRPJ),Sample,4,csc11,402C8720,156,Daniele Gozzi,Jive,1
+CA,0,1,Final,Bumchin Tegshjargal,Jessica Kolach,15,1,1, Junior Championship Latin  (SCRPJ),Sample,4,csc11,402C8720,156,Cecilia Giovacchini,Jive,1
+CA,0,2,Final,royce tran,briana diner,11,2,2, Junior Championship Latin  (SCRPJ),Sample,4,csc11,402C8720,162,Alise Halbert,Jive,2
+CA,0,2,Final,royce tran,briana diner,12,2,2, Junior Championship Latin  (SCRPJ),Sample,4,csc11,402C8720,162,Anton Koukareko,Jive,2
+CA,0,3,Final,royce tran,briana diner,13,2,3, Junior Championship Latin  (SCRPJ),Sample,4,csc11,402C8720,162,Rex Lewis,Jive,2
+CA,0,2,Final,royce tran,briana diner,14,2,2, Junior Championship Latin  (SCRPJ),Sample,4,csc11,402C8720,162,Daniele Gozzi,Jive,2
+CA,0,2,Final,royce tran,briana diner,15,2,2, Junior Championship Latin  (SCRPJ),Sample,4,csc11,402C8720,162,Cecilia Giovacchini,Jive,2
+CA,0,3,Final,Eli Kolach,Anna Ostrovsky,11,3,3, Junior Championship Latin  (SCRPJ),Sample,4,csc11,402C8720,159,Alise Halbert,Jive,3
+CA,0,4,Final,Eli Kolach,Anna Ostrovsky,12,3,4, Junior Championship Latin  (SCRPJ),Sample,4,csc11,402C8720,159,Anton Koukareko,Jive,3
+CA,0,1,Final,Eli Kolach,Anna Ostrovsky,13,3,1, Junior Championship Latin  (SCRPJ),Sample,4,csc11,402C8720,159,Rex Lewis,Jive,3
+CA,0,3,Final,Eli Kolach,Anna Ostrovsky,14,3,3, Junior Championship Latin  (SCRPJ),Sample,4,csc11,402C8720,159,Daniele Gozzi,Jive,3
+CA,0,3,Final,Eli Kolach,Anna Ostrovsky,15,3,3, Junior Championship Latin  (SCRPJ),Sample,4,csc11,402C8720,159,Cecilia Giovacchini,Jive,3
+CA,0,4,Final,Noah Lervaag,Taylor Pho,11,4,4, Junior Championship Latin  (SCRPJ),Sample,4,csc11,402C8720,155,Alise Halbert,Jive,4
+CA,0,3,Final,Noah Lervaag,Taylor Pho,12,4,3, Junior Championship Latin  (SCRPJ),Sample,4,csc11,402C8720,155,Anton Koukareko,Jive,4
+CA,0,4,Final,Noah Lervaag,Taylor Pho,13,4,4, Junior Championship Latin  (SCRPJ),Sample,4,csc11,402C8720,155,Rex Lewis,Jive,4
+CA,0,4,Final,Noah Lervaag,Taylor Pho,14,4,4, Junior Championship Latin  (SCRPJ),Sample,4,csc11,402C8720,155,Daniele Gozzi,Jive,4
+CA,0,4,Final,Noah Lervaag,Taylor Pho,15,4,4, Junior Championship Latin  (SCRPJ),Sample,4,csc11,402C8720,155,Cecilia Giovacchini,Jive,4
+,0,1,Final,Simon Ip,Julia Erhard,11,1,1, Adult Novice Latin  (SCR),Sample,0,csc11,40428120,176,Alise Halbert,Samba,1
+,0,1,Final,Simon Ip,Julia Erhard,12,1,1, Adult Novice Latin  (SCR),Sample,0,csc11,40428120,176,Anton Koukareko,Samba,1
+,0,1,Final,Simon Ip,Julia Erhard,13,1,1, Adult Novice Latin  (SCR),Sample,0,csc11,40428120,176,Rex Lewis,Samba,1
+,0,2,Final,Simon Ip,Julia Erhard,14,1,2, Adult Novice Latin  (SCR),Sample,0,csc11,40428120,176,Daniele Gozzi,Samba,1
+,0,1,Final,Simon Ip,Julia Erhard,15,1,1, Adult Novice Latin  (SCR),Sample,0,csc11,40428120,176,Cecilia Giovacchini,Samba,1
+CA,0,2,Final,Daniel Tran,Taylor Kinney,11,2,2, Adult Novice Latin  (SCR),Sample,0,csc11,40428120,174,Alise Halbert,Samba,2
+CA,0,2,Final,Daniel Tran,Taylor Kinney,12,2,2, Adult Novice Latin  (SCR),Sample,0,csc11,40428120,174,Anton Koukareko,Samba,2
+CA,0,2,Final,Daniel Tran,Taylor Kinney,13,2,2, Adult Novice Latin  (SCR),Sample,0,csc11,40428120,174,Rex Lewis,Samba,2
+CA,0,1,Final,Daniel Tran,Taylor Kinney,14,2,1, Adult Novice Latin  (SCR),Sample,0,csc11,40428120,174,Daniele Gozzi,Samba,2
+CA,0,2,Final,Daniel Tran,Taylor Kinney,15,2,2, Adult Novice Latin  (SCR),Sample,0,csc11,40428120,174,Cecilia Giovacchini,Samba,2
+CA,0,4,Final,Andrew Yao,Donna Nguyen,11,3,4, Adult Novice Latin  (SCR),Sample,0,csc11,40428120,199,Alise Halbert,Samba,3
+CA,0,3,Final,Andrew Yao,Donna Nguyen,12,3,3, Adult Novice Latin  (SCR),Sample,0,csc11,40428120,199,Anton Koukareko,Samba,3
+CA,0,3,Final,Andrew Yao,Donna Nguyen,13,3,3, Adult Novice Latin  (SCR),Sample,0,csc11,40428120,199,Rex Lewis,Samba,3
+CA,0,3,Final,Andrew Yao,Donna Nguyen,14,3,3, Adult Novice Latin  (SCR),Sample,0,csc11,40428120,199,Daniele Gozzi,Samba,3
+CA,0,3,Final,Andrew Yao,Donna Nguyen,15,3,3, Adult Novice Latin  (SCR),Sample,0,csc11,40428120,199,Cecilia Giovacchini,Samba,3
+CA,0,3,Final,Serdar Bulut,Dorota Plucinska,11,4,3, Adult Novice Latin  (SCR),Sample,0,csc11,40428120,184,Alise Halbert,Samba,4
+CA,0,4,Final,Serdar Bulut,Dorota Plucinska,12,4,4, Adult Novice Latin  (SCR),Sample,0,csc11,40428120,184,Anton Koukareko,Samba,4
+CA,0,4,Final,Serdar Bulut,Dorota Plucinska,13,4,4, Adult Novice Latin  (SCR),Sample,0,csc11,40428120,184,Rex Lewis,Samba,4
+CA,0,4,Final,Serdar Bulut,Dorota Plucinska,14,4,4, Adult Novice Latin  (SCR),Sample,0,csc11,40428120,184,Daniele Gozzi,Samba,4
+CA,0,4,Final,Serdar Bulut,Dorota Plucinska,15,4,4, Adult Novice Latin  (SCR),Sample,0,csc11,40428120,184,Cecilia Giovacchini,Samba,4
+,0,2,Final,Simon Ip,Julia Erhard,11,1,2, Adult Novice Latin  (SCR),Sample,1,csc11,40428120,176,Alise Halbert,Cha Cha,1
+,0,1,Final,Simon Ip,Julia Erhard,12,1,1, Adult Novice Latin  (SCR),Sample,1,csc11,40428120,176,Anton Koukareko,Cha Cha,1
+,0,1,Final,Simon Ip,Julia Erhard,13,1,1, Adult Novice Latin  (SCR),Sample,1,csc11,40428120,176,Rex Lewis,Cha Cha,1
+,0,2,Final,Simon Ip,Julia Erhard,14,1,2, Adult Novice Latin  (SCR),Sample,1,csc11,40428120,176,Daniele Gozzi,Cha Cha,1
+,0,1,Final,Simon Ip,Julia Erhard,15,1,1, Adult Novice Latin  (SCR),Sample,1,csc11,40428120,176,Cecilia Giovacchini,Cha Cha,1
+CA,0,1,Final,Daniel Tran,Taylor Kinney,11,2,1, Adult Novice Latin  (SCR),Sample,1,csc11,40428120,174,Alise Halbert,Cha Cha,2
+CA,0,2,Final,Daniel Tran,Taylor Kinney,12,2,2, Adult Novice Latin  (SCR),Sample,1,csc11,40428120,174,Anton Koukareko,Cha Cha,2
+CA,0,2,Final,Daniel Tran,Taylor Kinney,13,2,2, Adult Novice Latin  (SCR),Sample,1,csc11,40428120,174,Rex Lewis,Cha Cha,2
+CA,0,1,Final,Daniel Tran,Taylor Kinney,14,2,1, Adult Novice Latin  (SCR),Sample,1,csc11,40428120,174,Daniele Gozzi,Cha Cha,2
+CA,0,3,Final,Daniel Tran,Taylor Kinney,15,2,3, Adult Novice Latin  (SCR),Sample,1,csc11,40428120,174,Cecilia Giovacchini,Cha Cha,2
+CA,0,4,Final,Andrew Yao,Donna Nguyen,11,3,4, Adult Novice Latin  (SCR),Sample,1,csc11,40428120,199,Alise Halbert,Cha Cha,3
+CA,0,3,Final,Andrew Yao,Donna Nguyen,12,3,3, Adult Novice Latin  (SCR),Sample,1,csc11,40428120,199,Anton Koukareko,Cha Cha,3
+CA,0,3,Final,Andrew Yao,Donna Nguyen,13,3,3, Adult Novice Latin  (SCR),Sample,1,csc11,40428120,199,Rex Lewis,Cha Cha,3
+CA,0,3,Final,Andrew Yao,Donna Nguyen,14,3,3, Adult Novice Latin  (SCR),Sample,1,csc11,40428120,199,Daniele Gozzi,Cha Cha,3
+CA,0,2,Final,Andrew Yao,Donna Nguyen,15,3,2, Adult Novice Latin  (SCR),Sample,1,csc11,40428120,199,Cecilia Giovacchini,Cha Cha,3
+CA,0,3,Final,Serdar Bulut,Dorota Plucinska,11,4,3, Adult Novice Latin  (SCR),Sample,1,csc11,40428120,184,Alise Halbert,Cha Cha,4
+CA,0,4,Final,Serdar Bulut,Dorota Plucinska,12,4,4, Adult Novice Latin  (SCR),Sample,1,csc11,40428120,184,Anton Koukareko,Cha Cha,4
+CA,0,4,Final,Serdar Bulut,Dorota Plucinska,13,4,4, Adult Novice Latin  (SCR),Sample,1,csc11,40428120,184,Rex Lewis,Cha Cha,4
+CA,0,4,Final,Serdar Bulut,Dorota Plucinska,14,4,4, Adult Novice Latin  (SCR),Sample,1,csc11,40428120,184,Daniele Gozzi,Cha Cha,4
+CA,0,4,Final,Serdar Bulut,Dorota Plucinska,15,4,4, Adult Novice Latin  (SCR),Sample,1,csc11,40428120,184,Cecilia Giovacchini,Cha Cha,4
+,0,1,Final,Simon Ip,Julia Erhard,11,1,1, Adult Novice Latin  (SCR),Sample,2,csc11,40428120,176,Alise Halbert,Rumba,1
+,0,1,Final,Simon Ip,Julia Erhard,12,1,1, Adult Novice Latin  (SCR),Sample,2,csc11,40428120,176,Anton Koukareko,Rumba,1
+,0,1,Final,Simon Ip,Julia Erhard,13,1,1, Adult Novice Latin  (SCR),Sample,2,csc11,40428120,176,Rex Lewis,Rumba,1
+,0,1,Final,Simon Ip,Julia Erhard,14,1,1, Adult Novice Latin  (SCR),Sample,2,csc11,40428120,176,Daniele Gozzi,Rumba,1
+,0,1,Final,Simon Ip,Julia Erhard,15,1,1, Adult Novice Latin  (SCR),Sample,2,csc11,40428120,176,Cecilia Giovacchini,Rumba,1
+CA,0,2,Final,Daniel Tran,Taylor Kinney,11,2,2, Adult Novice Latin  (SCR),Sample,2,csc11,40428120,174,Alise Halbert,Rumba,2
+CA,0,2,Final,Daniel Tran,Taylor Kinney,12,2,2, Adult Novice Latin  (SCR),Sample,2,csc11,40428120,174,Anton Koukareko,Rumba,2
+CA,0,2,Final,Daniel Tran,Taylor Kinney,13,2,2, Adult Novice Latin  (SCR),Sample,2,csc11,40428120,174,Rex Lewis,Rumba,2
+CA,0,2,Final,Daniel Tran,Taylor Kinney,14,2,2, Adult Novice Latin  (SCR),Sample,2,csc11,40428120,174,Daniele Gozzi,Rumba,2
+CA,0,3,Final,Daniel Tran,Taylor Kinney,15,2,3, Adult Novice Latin  (SCR),Sample,2,csc11,40428120,174,Cecilia Giovacchini,Rumba,2
+CA,0,4,Final,Andrew Yao,Donna Nguyen,11,3,4, Adult Novice Latin  (SCR),Sample,2,csc11,40428120,199,Alise Halbert,Rumba,3
+CA,0,3,Final,Andrew Yao,Donna Nguyen,12,3,3, Adult Novice Latin  (SCR),Sample,2,csc11,40428120,199,Anton Koukareko,Rumba,3
+CA,0,3,Final,Andrew Yao,Donna Nguyen,13,3,3, Adult Novice Latin  (SCR),Sample,2,csc11,40428120,199,Rex Lewis,Rumba,3
+CA,0,3,Final,Andrew Yao,Donna Nguyen,14,3,3, Adult Novice Latin  (SCR),Sample,2,csc11,40428120,199,Daniele Gozzi,Rumba,3
+CA,0,2,Final,Andrew Yao,Donna Nguyen,15,3,2, Adult Novice Latin  (SCR),Sample,2,csc11,40428120,199,Cecilia Giovacchini,Rumba,3
+CA,0,3,Final,Serdar Bulut,Dorota Plucinska,11,4,3, Adult Novice Latin  (SCR),Sample,2,csc11,40428120,184,Alise Halbert,Rumba,4
+CA,0,4,Final,Serdar Bulut,Dorota Plucinska,12,4,4, Adult Novice Latin  (SCR),Sample,2,csc11,40428120,184,Anton Koukareko,Rumba,4
+CA,0,4,Final,Serdar Bulut,Dorota Plucinska,13,4,4, Adult Novice Latin  (SCR),Sample,2,csc11,40428120,184,Rex Lewis,Rumba,4
+CA,0,4,Final,Serdar Bulut,Dorota Plucinska,14,4,4, Adult Novice Latin  (SCR),Sample,2,csc11,40428120,184,Daniele Gozzi,Rumba,4
+CA,0,4,Final,Serdar Bulut,Dorota Plucinska,15,4,4, Adult Novice Latin  (SCR),Sample,2,csc11,40428120,184,Cecilia Giovacchini,Rumba,4
+CA,0,1,Final,ted rocha,dorothy tsang,10,1,1, Adult Novice Smooth  (WTF),Sample,0,csc11,40428130,192,Gosia Zygadlo,Waltz,1
+CA,0,1,Final,ted rocha,dorothy tsang,11,1,1, Adult Novice Smooth  (WTF),Sample,0,csc11,40428130,192,Alise Halbert,Waltz,1
+CA,0,1,Final,ted rocha,dorothy tsang,12,1,1, Adult Novice Smooth  (WTF),Sample,0,csc11,40428130,192,Anton Koukareko,Waltz,1
+CA,0,1,Final,ted rocha,dorothy tsang,13,1,1, Adult Novice Smooth  (WTF),Sample,0,csc11,40428130,192,Rex Lewis,Waltz,1
+CA,0,1,Final,ted rocha,dorothy tsang,15,1,1, Adult Novice Smooth  (WTF),Sample,0,csc11,40428130,192,Cecilia Giovacchini,Waltz,1
+CA,0,1,Final,ted rocha,dorothy tsang,10,1,1, Adult Novice Smooth  (WTF),Sample,1,csc11,40428130,192,Gosia Zygadlo,Tango,1
+CA,0,1,Final,ted rocha,dorothy tsang,11,1,1, Adult Novice Smooth  (WTF),Sample,1,csc11,40428130,192,Alise Halbert,Tango,1
+CA,0,1,Final,ted rocha,dorothy tsang,12,1,1, Adult Novice Smooth  (WTF),Sample,1,csc11,40428130,192,Anton Koukareko,Tango,1
+CA,0,1,Final,ted rocha,dorothy tsang,13,1,1, Adult Novice Smooth  (WTF),Sample,1,csc11,40428130,192,Rex Lewis,Tango,1
+CA,0,1,Final,ted rocha,dorothy tsang,15,1,1, Adult Novice Smooth  (WTF),Sample,1,csc11,40428130,192,Cecilia Giovacchini,Tango,1
+CA,0,1,Final,ted rocha,dorothy tsang,10,1,1, Adult Novice Smooth  (WTF),Sample,2,csc11,40428130,192,Gosia Zygadlo,Foxtrot,1
+CA,0,1,Final,ted rocha,dorothy tsang,11,1,1, Adult Novice Smooth  (WTF),Sample,2,csc11,40428130,192,Alise Halbert,Foxtrot,1
+CA,0,1,Final,ted rocha,dorothy tsang,12,1,1, Adult Novice Smooth  (WTF),Sample,2,csc11,40428130,192,Anton Koukareko,Foxtrot,1
+CA,0,1,Final,ted rocha,dorothy tsang,13,1,1, Adult Novice Smooth  (WTF),Sample,2,csc11,40428130,192,Rex Lewis,Foxtrot,1
+CA,0,1,Final,ted rocha,dorothy tsang,15,1,1, Adult Novice Smooth  (WTF),Sample,2,csc11,40428130,192,Cecilia Giovacchini,Foxtrot,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,10,1,1, Senior II Novice Smooth  (WTF),Sample,0,csc11,40448130,197,Gosia Zygadlo,Waltz,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,11,1,1, Senior II Novice Smooth  (WTF),Sample,0,csc11,40448130,197,Alise Halbert,Waltz,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,12,1,1, Senior II Novice Smooth  (WTF),Sample,0,csc11,40448130,197,Anton Koukareko,Waltz,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,13,1,1, Senior II Novice Smooth  (WTF),Sample,0,csc11,40448130,197,Rex Lewis,Waltz,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,15,1,1, Senior II Novice Smooth  (WTF),Sample,0,csc11,40448130,197,Cecilia Giovacchini,Waltz,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,10,1,1, Senior II Novice Smooth  (WTF),Sample,1,csc11,40448130,197,Gosia Zygadlo,Tango,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,11,1,1, Senior II Novice Smooth  (WTF),Sample,1,csc11,40448130,197,Alise Halbert,Tango,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,12,1,1, Senior II Novice Smooth  (WTF),Sample,1,csc11,40448130,197,Anton Koukareko,Tango,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,13,1,1, Senior II Novice Smooth  (WTF),Sample,1,csc11,40448130,197,Rex Lewis,Tango,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,15,1,1, Senior II Novice Smooth  (WTF),Sample,1,csc11,40448130,197,Cecilia Giovacchini,Tango,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,10,1,1, Senior II Novice Smooth  (WTF),Sample,2,csc11,40448130,197,Gosia Zygadlo,Foxtrot,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,11,1,1, Senior II Novice Smooth  (WTF),Sample,2,csc11,40448130,197,Alise Halbert,Foxtrot,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,12,1,1, Senior II Novice Smooth  (WTF),Sample,2,csc11,40448130,197,Anton Koukareko,Foxtrot,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,13,1,1, Senior II Novice Smooth  (WTF),Sample,2,csc11,40448130,197,Rex Lewis,Foxtrot,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,15,1,1, Senior II Novice Smooth  (WTF),Sample,2,csc11,40448130,197,Cecilia Giovacchini,Foxtrot,1
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,10,1,1, Youth Championship Latin  (SCRPJ),Sample,0,csc11,402F8720,190,Gosia Zygadlo,Samba,1
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,11,1,1, Youth Championship Latin  (SCRPJ),Sample,0,csc11,402F8720,190,Alise Halbert,Samba,1
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,12,1,1, Youth Championship Latin  (SCRPJ),Sample,0,csc11,402F8720,190,Anton Koukareko,Samba,1
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,13,1,1, Youth Championship Latin  (SCRPJ),Sample,0,csc11,402F8720,190,Rex Lewis,Samba,1
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,15,1,1, Youth Championship Latin  (SCRPJ),Sample,0,csc11,402F8720,190,Cecilia Giovacchini,Samba,1
+CA,0,2,Final,Max Kalmanovich,Tanya Smith,10,2,2, Youth Championship Latin  (SCRPJ),Sample,0,csc11,402F8720,180,Gosia Zygadlo,Samba,2
+CA,0,2,Final,Max Kalmanovich,Tanya Smith,11,2,2, Youth Championship Latin  (SCRPJ),Sample,0,csc11,402F8720,180,Alise Halbert,Samba,2
+CA,0,2,Final,Max Kalmanovich,Tanya Smith,12,2,2, Youth Championship Latin  (SCRPJ),Sample,0,csc11,402F8720,180,Anton Koukareko,Samba,2
+CA,0,2,Final,Max Kalmanovich,Tanya Smith,13,2,2, Youth Championship Latin  (SCRPJ),Sample,0,csc11,402F8720,180,Rex Lewis,Samba,2
+CA,0,2,Final,Max Kalmanovich,Tanya Smith,15,2,2, Youth Championship Latin  (SCRPJ),Sample,0,csc11,402F8720,180,Cecilia Giovacchini,Samba,2
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,10,1,1, Youth Championship Latin  (SCRPJ),Sample,1,csc11,402F8720,190,Gosia Zygadlo,Cha Cha,1
+CA,0,2,Final,Stephen Wang,Susanna Juidlovsey,11,1,2, Youth Championship Latin  (SCRPJ),Sample,1,csc11,402F8720,190,Alise Halbert,Cha Cha,1
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,12,1,1, Youth Championship Latin  (SCRPJ),Sample,1,csc11,402F8720,190,Anton Koukareko,Cha Cha,1
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,13,1,1, Youth Championship Latin  (SCRPJ),Sample,1,csc11,402F8720,190,Rex Lewis,Cha Cha,1
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,15,1,1, Youth Championship Latin  (SCRPJ),Sample,1,csc11,402F8720,190,Cecilia Giovacchini,Cha Cha,1
+CA,0,2,Final,Max Kalmanovich,Tanya Smith,10,2,2, Youth Championship Latin  (SCRPJ),Sample,1,csc11,402F8720,180,Gosia Zygadlo,Cha Cha,2
+CA,0,1,Final,Max Kalmanovich,Tanya Smith,11,2,1, Youth Championship Latin  (SCRPJ),Sample,1,csc11,402F8720,180,Alise Halbert,Cha Cha,2
+CA,0,2,Final,Max Kalmanovich,Tanya Smith,12,2,2, Youth Championship Latin  (SCRPJ),Sample,1,csc11,402F8720,180,Anton Koukareko,Cha Cha,2
+CA,0,2,Final,Max Kalmanovich,Tanya Smith,13,2,2, Youth Championship Latin  (SCRPJ),Sample,1,csc11,402F8720,180,Rex Lewis,Cha Cha,2
+CA,0,2,Final,Max Kalmanovich,Tanya Smith,15,2,2, Youth Championship Latin  (SCRPJ),Sample,1,csc11,402F8720,180,Cecilia Giovacchini,Cha Cha,2
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,10,1,1, Youth Championship Latin  (SCRPJ),Sample,2,csc11,402F8720,190,Gosia Zygadlo,Rumba,1
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,11,1,1, Youth Championship Latin  (SCRPJ),Sample,2,csc11,402F8720,190,Alise Halbert,Rumba,1
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,12,1,1, Youth Championship Latin  (SCRPJ),Sample,2,csc11,402F8720,190,Anton Koukareko,Rumba,1
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,13,1,1, Youth Championship Latin  (SCRPJ),Sample,2,csc11,402F8720,190,Rex Lewis,Rumba,1
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,15,1,1, Youth Championship Latin  (SCRPJ),Sample,2,csc11,402F8720,190,Cecilia Giovacchini,Rumba,1
+CA,0,2,Final,Max Kalmanovich,Tanya Smith,10,2,2, Youth Championship Latin  (SCRPJ),Sample,2,csc11,402F8720,180,Gosia Zygadlo,Rumba,2
+CA,0,2,Final,Max Kalmanovich,Tanya Smith,11,2,2, Youth Championship Latin  (SCRPJ),Sample,2,csc11,402F8720,180,Alise Halbert,Rumba,2
+CA,0,2,Final,Max Kalmanovich,Tanya Smith,12,2,2, Youth Championship Latin  (SCRPJ),Sample,2,csc11,402F8720,180,Anton Koukareko,Rumba,2
+CA,0,2,Final,Max Kalmanovich,Tanya Smith,13,2,2, Youth Championship Latin  (SCRPJ),Sample,2,csc11,402F8720,180,Rex Lewis,Rumba,2
+CA,0,2,Final,Max Kalmanovich,Tanya Smith,15,2,2, Youth Championship Latin  (SCRPJ),Sample,2,csc11,402F8720,180,Cecilia Giovacchini,Rumba,2
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,10,1,1, Youth Championship Latin  (SCRPJ),Sample,3,csc11,402F8720,190,Gosia Zygadlo,Paso Doble,1
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,11,1,1, Youth Championship Latin  (SCRPJ),Sample,3,csc11,402F8720,190,Alise Halbert,Paso Doble,1
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,12,1,1, Youth Championship Latin  (SCRPJ),Sample,3,csc11,402F8720,190,Anton Koukareko,Paso Doble,1
+CA,0,2,Final,Stephen Wang,Susanna Juidlovsey,13,1,2, Youth Championship Latin  (SCRPJ),Sample,3,csc11,402F8720,190,Rex Lewis,Paso Doble,1
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,15,1,1, Youth Championship Latin  (SCRPJ),Sample,3,csc11,402F8720,190,Cecilia Giovacchini,Paso Doble,1
+CA,0,2,Final,Max Kalmanovich,Tanya Smith,10,2,2, Youth Championship Latin  (SCRPJ),Sample,3,csc11,402F8720,180,Gosia Zygadlo,Paso Doble,2
+CA,0,2,Final,Max Kalmanovich,Tanya Smith,11,2,2, Youth Championship Latin  (SCRPJ),Sample,3,csc11,402F8720,180,Alise Halbert,Paso Doble,2
+CA,0,2,Final,Max Kalmanovich,Tanya Smith,12,2,2, Youth Championship Latin  (SCRPJ),Sample,3,csc11,402F8720,180,Anton Koukareko,Paso Doble,2
+CA,0,1,Final,Max Kalmanovich,Tanya Smith,13,2,1, Youth Championship Latin  (SCRPJ),Sample,3,csc11,402F8720,180,Rex Lewis,Paso Doble,2
+CA,0,2,Final,Max Kalmanovich,Tanya Smith,15,2,2, Youth Championship Latin  (SCRPJ),Sample,3,csc11,402F8720,180,Cecilia Giovacchini,Paso Doble,2
+CA,0,2,Final,Stephen Wang,Susanna Juidlovsey,10,1,2, Youth Championship Latin  (SCRPJ),Sample,4,csc11,402F8720,190,Gosia Zygadlo,Jive,1
+CA,0,2,Final,Stephen Wang,Susanna Juidlovsey,11,1,2, Youth Championship Latin  (SCRPJ),Sample,4,csc11,402F8720,190,Alise Halbert,Jive,1
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,12,1,1, Youth Championship Latin  (SCRPJ),Sample,4,csc11,402F8720,190,Anton Koukareko,Jive,1
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,13,1,1, Youth Championship Latin  (SCRPJ),Sample,4,csc11,402F8720,190,Rex Lewis,Jive,1
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,15,1,1, Youth Championship Latin  (SCRPJ),Sample,4,csc11,402F8720,190,Cecilia Giovacchini,Jive,1
+CA,0,1,Final,Max Kalmanovich,Tanya Smith,10,2,1, Youth Championship Latin  (SCRPJ),Sample,4,csc11,402F8720,180,Gosia Zygadlo,Jive,2
+CA,0,1,Final,Max Kalmanovich,Tanya Smith,11,2,1, Youth Championship Latin  (SCRPJ),Sample,4,csc11,402F8720,180,Alise Halbert,Jive,2
+CA,0,2,Final,Max Kalmanovich,Tanya Smith,12,2,2, Youth Championship Latin  (SCRPJ),Sample,4,csc11,402F8720,180,Anton Koukareko,Jive,2
+CA,0,2,Final,Max Kalmanovich,Tanya Smith,13,2,2, Youth Championship Latin  (SCRPJ),Sample,4,csc11,402F8720,180,Rex Lewis,Jive,2
+CA,0,2,Final,Max Kalmanovich,Tanya Smith,15,2,2, Youth Championship Latin  (SCRPJ),Sample,4,csc11,402F8720,180,Cecilia Giovacchini,Jive,2
+CA,0,1,Final,James Kleinrath,Melody Singleton,10,1,1, Senior III Championship Smooth  (WTFV),Sample,0,csc11,40458730,183,Gosia Zygadlo,Waltz,1
+CA,0,1,Final,James Kleinrath,Melody Singleton,11,1,1, Senior III Championship Smooth  (WTFV),Sample,0,csc11,40458730,183,Alise Halbert,Waltz,1
+CA,0,1,Final,James Kleinrath,Melody Singleton,12,1,1, Senior III Championship Smooth  (WTFV),Sample,0,csc11,40458730,183,Anton Koukareko,Waltz,1
+CA,0,1,Final,James Kleinrath,Melody Singleton,13,1,1, Senior III Championship Smooth  (WTFV),Sample,0,csc11,40458730,183,Rex Lewis,Waltz,1
+CA,0,1,Final,James Kleinrath,Melody Singleton,15,1,1, Senior III Championship Smooth  (WTFV),Sample,0,csc11,40458730,183,Cecilia Giovacchini,Waltz,1
+CA,0,1,Final,James Kleinrath,Melody Singleton,10,1,1, Senior III Championship Smooth  (WTFV),Sample,1,csc11,40458730,183,Gosia Zygadlo,Tango,1
+CA,0,1,Final,James Kleinrath,Melody Singleton,11,1,1, Senior III Championship Smooth  (WTFV),Sample,1,csc11,40458730,183,Alise Halbert,Tango,1
+CA,0,1,Final,James Kleinrath,Melody Singleton,12,1,1, Senior III Championship Smooth  (WTFV),Sample,1,csc11,40458730,183,Anton Koukareko,Tango,1
+CA,0,1,Final,James Kleinrath,Melody Singleton,13,1,1, Senior III Championship Smooth  (WTFV),Sample,1,csc11,40458730,183,Rex Lewis,Tango,1
+CA,0,1,Final,James Kleinrath,Melody Singleton,15,1,1, Senior III Championship Smooth  (WTFV),Sample,1,csc11,40458730,183,Cecilia Giovacchini,Tango,1
+CA,0,1,Final,James Kleinrath,Melody Singleton,10,1,1, Senior III Championship Smooth  (WTFV),Sample,2,csc11,40458730,183,Gosia Zygadlo,Foxtrot,1
+CA,0,1,Final,James Kleinrath,Melody Singleton,11,1,1, Senior III Championship Smooth  (WTFV),Sample,2,csc11,40458730,183,Alise Halbert,Foxtrot,1
+CA,0,1,Final,James Kleinrath,Melody Singleton,12,1,1, Senior III Championship Smooth  (WTFV),Sample,2,csc11,40458730,183,Anton Koukareko,Foxtrot,1
+CA,0,1,Final,James Kleinrath,Melody Singleton,13,1,1, Senior III Championship Smooth  (WTFV),Sample,2,csc11,40458730,183,Rex Lewis,Foxtrot,1
+CA,0,1,Final,James Kleinrath,Melody Singleton,15,1,1, Senior III Championship Smooth  (WTFV),Sample,2,csc11,40458730,183,Cecilia Giovacchini,Foxtrot,1
+CA,0,1,Final,James Kleinrath,Melody Singleton,10,1,1, Senior III Championship Smooth  (WTFV),Sample,3,csc11,40458730,183,Gosia Zygadlo,Viennese Waltz,1
+CA,0,1,Final,James Kleinrath,Melody Singleton,11,1,1, Senior III Championship Smooth  (WTFV),Sample,3,csc11,40458730,183,Alise Halbert,Viennese Waltz,1
+CA,0,1,Final,James Kleinrath,Melody Singleton,12,1,1, Senior III Championship Smooth  (WTFV),Sample,3,csc11,40458730,183,Anton Koukareko,Viennese Waltz,1
+CA,0,1,Final,James Kleinrath,Melody Singleton,13,1,1, Senior III Championship Smooth  (WTFV),Sample,3,csc11,40458730,183,Rex Lewis,Viennese Waltz,1
+CA,0,1,Final,James Kleinrath,Melody Singleton,15,1,1, Senior III Championship Smooth  (WTFV),Sample,3,csc11,40458730,183,Cecilia Giovacchini,Viennese Waltz,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,10,1,1, Senior II Pre-Champ Smooth  (WTFV),Sample,0,csc11,40448330,197,Gosia Zygadlo,Waltz,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,11,1,1, Senior II Pre-Champ Smooth  (WTFV),Sample,0,csc11,40448330,197,Alise Halbert,Waltz,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,12,1,1, Senior II Pre-Champ Smooth  (WTFV),Sample,0,csc11,40448330,197,Anton Koukareko,Waltz,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,13,1,1, Senior II Pre-Champ Smooth  (WTFV),Sample,0,csc11,40448330,197,Rex Lewis,Waltz,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,15,1,1, Senior II Pre-Champ Smooth  (WTFV),Sample,0,csc11,40448330,197,Cecilia Giovacchini,Waltz,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,10,1,1, Senior II Pre-Champ Smooth  (WTFV),Sample,1,csc11,40448330,197,Gosia Zygadlo,Tango,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,11,1,1, Senior II Pre-Champ Smooth  (WTFV),Sample,1,csc11,40448330,197,Alise Halbert,Tango,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,12,1,1, Senior II Pre-Champ Smooth  (WTFV),Sample,1,csc11,40448330,197,Anton Koukareko,Tango,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,13,1,1, Senior II Pre-Champ Smooth  (WTFV),Sample,1,csc11,40448330,197,Rex Lewis,Tango,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,15,1,1, Senior II Pre-Champ Smooth  (WTFV),Sample,1,csc11,40448330,197,Cecilia Giovacchini,Tango,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,10,1,1, Senior II Pre-Champ Smooth  (WTFV),Sample,2,csc11,40448330,197,Gosia Zygadlo,Foxtrot,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,11,1,1, Senior II Pre-Champ Smooth  (WTFV),Sample,2,csc11,40448330,197,Alise Halbert,Foxtrot,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,12,1,1, Senior II Pre-Champ Smooth  (WTFV),Sample,2,csc11,40448330,197,Anton Koukareko,Foxtrot,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,13,1,1, Senior II Pre-Champ Smooth  (WTFV),Sample,2,csc11,40448330,197,Rex Lewis,Foxtrot,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,15,1,1, Senior II Pre-Champ Smooth  (WTFV),Sample,2,csc11,40448330,197,Cecilia Giovacchini,Foxtrot,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,10,1,1, Senior II Pre-Champ Smooth  (WTFV),Sample,3,csc11,40448330,197,Gosia Zygadlo,Viennese Waltz,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,11,1,1, Senior II Pre-Champ Smooth  (WTFV),Sample,3,csc11,40448330,197,Alise Halbert,Viennese Waltz,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,12,1,1, Senior II Pre-Champ Smooth  (WTFV),Sample,3,csc11,40448330,197,Anton Koukareko,Viennese Waltz,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,13,1,1, Senior II Pre-Champ Smooth  (WTFV),Sample,3,csc11,40448330,197,Rex Lewis,Viennese Waltz,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,15,1,1, Senior II Pre-Champ Smooth  (WTFV),Sample,3,csc11,40448330,197,Cecilia Giovacchini,Viennese Waltz,1
+CA,0,2,Final,ted rocha,dorothy tsang,10,1,2, Senior I Novice Smooth  (WTF),Sample,0,csc11,40438130,192,Gosia Zygadlo,Waltz,1
+CA,0,1,Final,ted rocha,dorothy tsang,11,1,1, Senior I Novice Smooth  (WTF),Sample,0,csc11,40438130,192,Alise Halbert,Waltz,1
+CA,0,1,Final,ted rocha,dorothy tsang,12,1,1, Senior I Novice Smooth  (WTF),Sample,0,csc11,40438130,192,Anton Koukareko,Waltz,1
+CA,0,2,Final,ted rocha,dorothy tsang,13,1,2, Senior I Novice Smooth  (WTF),Sample,0,csc11,40438130,192,Rex Lewis,Waltz,1
+CA,0,1,Final,ted rocha,dorothy tsang,15,1,1, Senior I Novice Smooth  (WTF),Sample,0,csc11,40438130,192,Cecilia Giovacchini,Waltz,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,10,2,1, Senior I Novice Smooth  (WTF),Sample,0,csc11,40438130,197,Gosia Zygadlo,Waltz,2
+CA,0,2,Final,Hugh Chapman,Lorna Roza,11,2,2, Senior I Novice Smooth  (WTF),Sample,0,csc11,40438130,197,Alise Halbert,Waltz,2
+CA,0,2,Final,Hugh Chapman,Lorna Roza,12,2,2, Senior I Novice Smooth  (WTF),Sample,0,csc11,40438130,197,Anton Koukareko,Waltz,2
+CA,0,1,Final,Hugh Chapman,Lorna Roza,13,2,1, Senior I Novice Smooth  (WTF),Sample,0,csc11,40438130,197,Rex Lewis,Waltz,2
+CA,0,2,Final,Hugh Chapman,Lorna Roza,15,2,2, Senior I Novice Smooth  (WTF),Sample,0,csc11,40438130,197,Cecilia Giovacchini,Waltz,2
+CA,0,2,Final,ted rocha,dorothy tsang,10,1,2, Senior I Novice Smooth  (WTF),Sample,1,csc11,40438130,192,Gosia Zygadlo,Tango,1
+CA,0,1,Final,ted rocha,dorothy tsang,11,1,1, Senior I Novice Smooth  (WTF),Sample,1,csc11,40438130,192,Alise Halbert,Tango,1
+CA,0,1,Final,ted rocha,dorothy tsang,12,1,1, Senior I Novice Smooth  (WTF),Sample,1,csc11,40438130,192,Anton Koukareko,Tango,1
+CA,0,1,Final,ted rocha,dorothy tsang,13,1,1, Senior I Novice Smooth  (WTF),Sample,1,csc11,40438130,192,Rex Lewis,Tango,1
+CA,0,2,Final,ted rocha,dorothy tsang,15,1,2, Senior I Novice Smooth  (WTF),Sample,1,csc11,40438130,192,Cecilia Giovacchini,Tango,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,10,2,1, Senior I Novice Smooth  (WTF),Sample,1,csc11,40438130,197,Gosia Zygadlo,Tango,2
+CA,0,2,Final,Hugh Chapman,Lorna Roza,11,2,2, Senior I Novice Smooth  (WTF),Sample,1,csc11,40438130,197,Alise Halbert,Tango,2
+CA,0,2,Final,Hugh Chapman,Lorna Roza,12,2,2, Senior I Novice Smooth  (WTF),Sample,1,csc11,40438130,197,Anton Koukareko,Tango,2
+CA,0,2,Final,Hugh Chapman,Lorna Roza,13,2,2, Senior I Novice Smooth  (WTF),Sample,1,csc11,40438130,197,Rex Lewis,Tango,2
+CA,0,1,Final,Hugh Chapman,Lorna Roza,15,2,1, Senior I Novice Smooth  (WTF),Sample,1,csc11,40438130,197,Cecilia Giovacchini,Tango,2
+CA,0,2,Final,ted rocha,dorothy tsang,10,1,2, Senior I Novice Smooth  (WTF),Sample,2,csc11,40438130,192,Gosia Zygadlo,Foxtrot,1
+CA,0,1,Final,ted rocha,dorothy tsang,11,1,1, Senior I Novice Smooth  (WTF),Sample,2,csc11,40438130,192,Alise Halbert,Foxtrot,1
+CA,0,1,Final,ted rocha,dorothy tsang,12,1,1, Senior I Novice Smooth  (WTF),Sample,2,csc11,40438130,192,Anton Koukareko,Foxtrot,1
+CA,0,1,Final,ted rocha,dorothy tsang,13,1,1, Senior I Novice Smooth  (WTF),Sample,2,csc11,40438130,192,Rex Lewis,Foxtrot,1
+CA,0,1,Final,ted rocha,dorothy tsang,15,1,1, Senior I Novice Smooth  (WTF),Sample,2,csc11,40438130,192,Cecilia Giovacchini,Foxtrot,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,10,2,1, Senior I Novice Smooth  (WTF),Sample,2,csc11,40438130,197,Gosia Zygadlo,Foxtrot,2
+CA,0,2,Final,Hugh Chapman,Lorna Roza,11,2,2, Senior I Novice Smooth  (WTF),Sample,2,csc11,40438130,197,Alise Halbert,Foxtrot,2
+CA,0,2,Final,Hugh Chapman,Lorna Roza,12,2,2, Senior I Novice Smooth  (WTF),Sample,2,csc11,40438130,197,Anton Koukareko,Foxtrot,2
+CA,0,2,Final,Hugh Chapman,Lorna Roza,13,2,2, Senior I Novice Smooth  (WTF),Sample,2,csc11,40438130,197,Rex Lewis,Foxtrot,2
+CA,0,2,Final,Hugh Chapman,Lorna Roza,15,2,2, Senior I Novice Smooth  (WTF),Sample,2,csc11,40438130,197,Cecilia Giovacchini,Foxtrot,2
+CA,0,3,Final,Stephen Wang,Susanna Juidlovsey,10,1,3, Adult Pre-Champ Latin  (SCRJ),Sample,0,csc11,40428320,190,Gosia Zygadlo,Samba,1
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,11,1,1, Adult Pre-Champ Latin  (SCRJ),Sample,0,csc11,40428320,190,Alise Halbert,Samba,1
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,12,1,1, Adult Pre-Champ Latin  (SCRJ),Sample,0,csc11,40428320,190,Anton Koukareko,Samba,1
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,13,1,1, Adult Pre-Champ Latin  (SCRJ),Sample,0,csc11,40428320,190,Rex Lewis,Samba,1
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,15,1,1, Adult Pre-Champ Latin  (SCRJ),Sample,0,csc11,40428320,190,Cecilia Giovacchini,Samba,1
+CA,0,1,Final,Christian Solares,Whitney Myers,10,2,1, Adult Pre-Champ Latin  (SCRJ),Sample,0,csc11,40428320,193,Gosia Zygadlo,Samba,2
+CA,0,2,Final,Christian Solares,Whitney Myers,11,2,2, Adult Pre-Champ Latin  (SCRJ),Sample,0,csc11,40428320,193,Alise Halbert,Samba,2
+CA,0,3,Final,Christian Solares,Whitney Myers,12,2,3, Adult Pre-Champ Latin  (SCRJ),Sample,0,csc11,40428320,193,Anton Koukareko,Samba,2
+CA,0,2,Final,Christian Solares,Whitney Myers,13,2,2, Adult Pre-Champ Latin  (SCRJ),Sample,0,csc11,40428320,193,Rex Lewis,Samba,2
+CA,0,3,Final,Christian Solares,Whitney Myers,15,2,3, Adult Pre-Champ Latin  (SCRJ),Sample,0,csc11,40428320,193,Cecilia Giovacchini,Samba,2
+CA,0,2,Final,Daniel Tran,Taylor Kinney,10,3,2, Adult Pre-Champ Latin  (SCRJ),Sample,0,csc11,40428320,174,Gosia Zygadlo,Samba,3
+CA,0,3,Final,Daniel Tran,Taylor Kinney,11,3,3, Adult Pre-Champ Latin  (SCRJ),Sample,0,csc11,40428320,174,Alise Halbert,Samba,3
+CA,0,2,Final,Daniel Tran,Taylor Kinney,12,3,2, Adult Pre-Champ Latin  (SCRJ),Sample,0,csc11,40428320,174,Anton Koukareko,Samba,3
+CA,0,3,Final,Daniel Tran,Taylor Kinney,13,3,3, Adult Pre-Champ Latin  (SCRJ),Sample,0,csc11,40428320,174,Rex Lewis,Samba,3
+CA,0,2,Final,Daniel Tran,Taylor Kinney,15,3,2, Adult Pre-Champ Latin  (SCRJ),Sample,0,csc11,40428320,174,Cecilia Giovacchini,Samba,3
+CA,0,4,Final,Todd Marsden,Susanna Hardt,10,4,4, Adult Pre-Champ Latin  (SCRJ),Sample,0,csc11,40428320,165,Gosia Zygadlo,Samba,4
+CA,0,4,Final,Todd Marsden,Susanna Hardt,11,4,4, Adult Pre-Champ Latin  (SCRJ),Sample,0,csc11,40428320,165,Alise Halbert,Samba,4
+CA,0,4,Final,Todd Marsden,Susanna Hardt,12,4,4, Adult Pre-Champ Latin  (SCRJ),Sample,0,csc11,40428320,165,Anton Koukareko,Samba,4
+CA,0,4,Final,Todd Marsden,Susanna Hardt,13,4,4, Adult Pre-Champ Latin  (SCRJ),Sample,0,csc11,40428320,165,Rex Lewis,Samba,4
+CA,0,4,Final,Todd Marsden,Susanna Hardt,15,4,4, Adult Pre-Champ Latin  (SCRJ),Sample,0,csc11,40428320,165,Cecilia Giovacchini,Samba,4
+CA,0,2,Final,Stephen Wang,Susanna Juidlovsey,10,1,2, Adult Pre-Champ Latin  (SCRJ),Sample,1,csc11,40428320,190,Gosia Zygadlo,Cha Cha,1
+CA,0,2,Final,Stephen Wang,Susanna Juidlovsey,11,1,2, Adult Pre-Champ Latin  (SCRJ),Sample,1,csc11,40428320,190,Alise Halbert,Cha Cha,1
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,12,1,1, Adult Pre-Champ Latin  (SCRJ),Sample,1,csc11,40428320,190,Anton Koukareko,Cha Cha,1
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,13,1,1, Adult Pre-Champ Latin  (SCRJ),Sample,1,csc11,40428320,190,Rex Lewis,Cha Cha,1
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,15,1,1, Adult Pre-Champ Latin  (SCRJ),Sample,1,csc11,40428320,190,Cecilia Giovacchini,Cha Cha,1
+CA,0,1,Final,Christian Solares,Whitney Myers,10,2,1, Adult Pre-Champ Latin  (SCRJ),Sample,1,csc11,40428320,193,Gosia Zygadlo,Cha Cha,2
+CA,0,1,Final,Christian Solares,Whitney Myers,11,2,1, Adult Pre-Champ Latin  (SCRJ),Sample,1,csc11,40428320,193,Alise Halbert,Cha Cha,2
+CA,0,2,Final,Christian Solares,Whitney Myers,12,2,2, Adult Pre-Champ Latin  (SCRJ),Sample,1,csc11,40428320,193,Anton Koukareko,Cha Cha,2
+CA,0,2,Final,Christian Solares,Whitney Myers,13,2,2, Adult Pre-Champ Latin  (SCRJ),Sample,1,csc11,40428320,193,Rex Lewis,Cha Cha,2
+CA,0,2,Final,Christian Solares,Whitney Myers,15,2,2, Adult Pre-Champ Latin  (SCRJ),Sample,1,csc11,40428320,193,Cecilia Giovacchini,Cha Cha,2
+CA,0,3,Final,Daniel Tran,Taylor Kinney,10,3,3, Adult Pre-Champ Latin  (SCRJ),Sample,1,csc11,40428320,174,Gosia Zygadlo,Cha Cha,3
+CA,0,3,Final,Daniel Tran,Taylor Kinney,11,3,3, Adult Pre-Champ Latin  (SCRJ),Sample,1,csc11,40428320,174,Alise Halbert,Cha Cha,3
+CA,0,3,Final,Daniel Tran,Taylor Kinney,12,3,3, Adult Pre-Champ Latin  (SCRJ),Sample,1,csc11,40428320,174,Anton Koukareko,Cha Cha,3
+CA,0,3,Final,Daniel Tran,Taylor Kinney,13,3,3, Adult Pre-Champ Latin  (SCRJ),Sample,1,csc11,40428320,174,Rex Lewis,Cha Cha,3
+CA,0,3,Final,Daniel Tran,Taylor Kinney,15,3,3, Adult Pre-Champ Latin  (SCRJ),Sample,1,csc11,40428320,174,Cecilia Giovacchini,Cha Cha,3
+CA,0,4,Final,Todd Marsden,Susanna Hardt,10,4,4, Adult Pre-Champ Latin  (SCRJ),Sample,1,csc11,40428320,165,Gosia Zygadlo,Cha Cha,4
+CA,0,4,Final,Todd Marsden,Susanna Hardt,11,4,4, Adult Pre-Champ Latin  (SCRJ),Sample,1,csc11,40428320,165,Alise Halbert,Cha Cha,4
+CA,0,4,Final,Todd Marsden,Susanna Hardt,12,4,4, Adult Pre-Champ Latin  (SCRJ),Sample,1,csc11,40428320,165,Anton Koukareko,Cha Cha,4
+CA,0,4,Final,Todd Marsden,Susanna Hardt,13,4,4, Adult Pre-Champ Latin  (SCRJ),Sample,1,csc11,40428320,165,Rex Lewis,Cha Cha,4
+CA,0,4,Final,Todd Marsden,Susanna Hardt,15,4,4, Adult Pre-Champ Latin  (SCRJ),Sample,1,csc11,40428320,165,Cecilia Giovacchini,Cha Cha,4
+CA,0,3,Final,Stephen Wang,Susanna Juidlovsey,10,1,3, Adult Pre-Champ Latin  (SCRJ),Sample,2,csc11,40428320,190,Gosia Zygadlo,Rumba,1
+CA,0,2,Final,Stephen Wang,Susanna Juidlovsey,11,1,2, Adult Pre-Champ Latin  (SCRJ),Sample,2,csc11,40428320,190,Alise Halbert,Rumba,1
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,12,1,1, Adult Pre-Champ Latin  (SCRJ),Sample,2,csc11,40428320,190,Anton Koukareko,Rumba,1
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,13,1,1, Adult Pre-Champ Latin  (SCRJ),Sample,2,csc11,40428320,190,Rex Lewis,Rumba,1
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,15,1,1, Adult Pre-Champ Latin  (SCRJ),Sample,2,csc11,40428320,190,Cecilia Giovacchini,Rumba,1
+CA,0,1,Final,Christian Solares,Whitney Myers,10,2,1, Adult Pre-Champ Latin  (SCRJ),Sample,2,csc11,40428320,193,Gosia Zygadlo,Rumba,2
+CA,0,1,Final,Christian Solares,Whitney Myers,11,2,1, Adult Pre-Champ Latin  (SCRJ),Sample,2,csc11,40428320,193,Alise Halbert,Rumba,2
+CA,0,2,Final,Christian Solares,Whitney Myers,12,2,2, Adult Pre-Champ Latin  (SCRJ),Sample,2,csc11,40428320,193,Anton Koukareko,Rumba,2
+CA,0,2,Final,Christian Solares,Whitney Myers,13,2,2, Adult Pre-Champ Latin  (SCRJ),Sample,2,csc11,40428320,193,Rex Lewis,Rumba,2
+CA,0,2,Final,Christian Solares,Whitney Myers,15,2,2, Adult Pre-Champ Latin  (SCRJ),Sample,2,csc11,40428320,193,Cecilia Giovacchini,Rumba,2
+CA,0,2,Final,Daniel Tran,Taylor Kinney,10,3,2, Adult Pre-Champ Latin  (SCRJ),Sample,2,csc11,40428320,174,Gosia Zygadlo,Rumba,3
+CA,0,3,Final,Daniel Tran,Taylor Kinney,11,3,3, Adult Pre-Champ Latin  (SCRJ),Sample,2,csc11,40428320,174,Alise Halbert,Rumba,3
+CA,0,3,Final,Daniel Tran,Taylor Kinney,12,3,3, Adult Pre-Champ Latin  (SCRJ),Sample,2,csc11,40428320,174,Anton Koukareko,Rumba,3
+CA,0,3,Final,Daniel Tran,Taylor Kinney,13,3,3, Adult Pre-Champ Latin  (SCRJ),Sample,2,csc11,40428320,174,Rex Lewis,Rumba,3
+CA,0,3,Final,Daniel Tran,Taylor Kinney,15,3,3, Adult Pre-Champ Latin  (SCRJ),Sample,2,csc11,40428320,174,Cecilia Giovacchini,Rumba,3
+CA,0,4,Final,Todd Marsden,Susanna Hardt,10,4,4, Adult Pre-Champ Latin  (SCRJ),Sample,2,csc11,40428320,165,Gosia Zygadlo,Rumba,4
+CA,0,4,Final,Todd Marsden,Susanna Hardt,11,4,4, Adult Pre-Champ Latin  (SCRJ),Sample,2,csc11,40428320,165,Alise Halbert,Rumba,4
+CA,0,4,Final,Todd Marsden,Susanna Hardt,12,4,4, Adult Pre-Champ Latin  (SCRJ),Sample,2,csc11,40428320,165,Anton Koukareko,Rumba,4
+CA,0,4,Final,Todd Marsden,Susanna Hardt,13,4,4, Adult Pre-Champ Latin  (SCRJ),Sample,2,csc11,40428320,165,Rex Lewis,Rumba,4
+CA,0,4,Final,Todd Marsden,Susanna Hardt,15,4,4, Adult Pre-Champ Latin  (SCRJ),Sample,2,csc11,40428320,165,Cecilia Giovacchini,Rumba,4
+CA,0,3,Final,Stephen Wang,Susanna Juidlovsey,10,1,3, Adult Pre-Champ Latin  (SCRJ),Sample,3,csc11,40428320,190,Gosia Zygadlo,Jive,1
+CA,0,3,Final,Stephen Wang,Susanna Juidlovsey,11,1,3, Adult Pre-Champ Latin  (SCRJ),Sample,3,csc11,40428320,190,Alise Halbert,Jive,1
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,12,1,1, Adult Pre-Champ Latin  (SCRJ),Sample,3,csc11,40428320,190,Anton Koukareko,Jive,1
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,13,1,1, Adult Pre-Champ Latin  (SCRJ),Sample,3,csc11,40428320,190,Rex Lewis,Jive,1
+CA,0,1,Final,Stephen Wang,Susanna Juidlovsey,15,1,1, Adult Pre-Champ Latin  (SCRJ),Sample,3,csc11,40428320,190,Cecilia Giovacchini,Jive,1
+CA,0,2,Final,Christian Solares,Whitney Myers,10,2,2, Adult Pre-Champ Latin  (SCRJ),Sample,3,csc11,40428320,193,Gosia Zygadlo,Jive,2
+CA,0,1,Final,Christian Solares,Whitney Myers,11,2,1, Adult Pre-Champ Latin  (SCRJ),Sample,3,csc11,40428320,193,Alise Halbert,Jive,2
+CA,0,2,Final,Christian Solares,Whitney Myers,12,2,2, Adult Pre-Champ Latin  (SCRJ),Sample,3,csc11,40428320,193,Anton Koukareko,Jive,2
+CA,0,2,Final,Christian Solares,Whitney Myers,13,2,2, Adult Pre-Champ Latin  (SCRJ),Sample,3,csc11,40428320,193,Rex Lewis,Jive,2
+CA,0,2,Final,Christian Solares,Whitney Myers,15,2,2, Adult Pre-Champ Latin  (SCRJ),Sample,3,csc11,40428320,193,Cecilia Giovacchini,Jive,2
+CA,0,1,Final,Daniel Tran,Taylor Kinney,10,3,1, Adult Pre-Champ Latin  (SCRJ),Sample,3,csc11,40428320,174,Gosia Zygadlo,Jive,3
+CA,0,2,Final,Daniel Tran,Taylor Kinney,11,3,2, Adult Pre-Champ Latin  (SCRJ),Sample,3,csc11,40428320,174,Alise Halbert,Jive,3
+CA,0,3,Final,Daniel Tran,Taylor Kinney,12,3,3, Adult Pre-Champ Latin  (SCRJ),Sample,3,csc11,40428320,174,Anton Koukareko,Jive,3
+CA,0,3,Final,Daniel Tran,Taylor Kinney,13,3,3, Adult Pre-Champ Latin  (SCRJ),Sample,3,csc11,40428320,174,Rex Lewis,Jive,3
+CA,0,3,Final,Daniel Tran,Taylor Kinney,15,3,3, Adult Pre-Champ Latin  (SCRJ),Sample,3,csc11,40428320,174,Cecilia Giovacchini,Jive,3
+CA,0,4,Final,Todd Marsden,Susanna Hardt,10,4,4, Adult Pre-Champ Latin  (SCRJ),Sample,3,csc11,40428320,165,Gosia Zygadlo,Jive,4
+CA,0,4,Final,Todd Marsden,Susanna Hardt,11,4,4, Adult Pre-Champ Latin  (SCRJ),Sample,3,csc11,40428320,165,Alise Halbert,Jive,4
+CA,0,4,Final,Todd Marsden,Susanna Hardt,12,4,4, Adult Pre-Champ Latin  (SCRJ),Sample,3,csc11,40428320,165,Anton Koukareko,Jive,4
+CA,0,4,Final,Todd Marsden,Susanna Hardt,13,4,4, Adult Pre-Champ Latin  (SCRJ),Sample,3,csc11,40428320,165,Rex Lewis,Jive,4
+CA,0,4,Final,Todd Marsden,Susanna Hardt,15,4,4, Adult Pre-Champ Latin  (SCRJ),Sample,3,csc11,40428320,165,Cecilia Giovacchini,Jive,4
+CA,0,3,Final,Reza Molavi,Monika Olkawicz,10,4,3, Adult Pre-Champ Standard  (WTFQ),Sample,0,csc11,40428310,168,Gosia Zygadlo,Waltz,1
+CA,0,3,Final,Reza Molavi,Monika Olkawicz,11,4,3, Adult Pre-Champ Standard  (WTFQ),Sample,0,csc11,40428310,168,Alise Halbert,Waltz,1
+CA,0,3,Final,Reza Molavi,Monika Olkawicz,12,4,3, Adult Pre-Champ Standard  (WTFQ),Sample,0,csc11,40428310,168,Anton Koukareko,Waltz,1
+CA,0,3,Final,Reza Molavi,Monika Olkawicz,14,4,3, Adult Pre-Champ Standard  (WTFQ),Sample,0,csc11,40428310,168,Daniele Gozzi,Waltz,1
+CA,0,1,Final,Reza Molavi,Monika Olkawicz,15,4,1, Adult Pre-Champ Standard  (WTFQ),Sample,0,csc11,40428310,168,Cecilia Giovacchini,Waltz,1
+CA,0,2,Final,Christian Solares,Whitney Myers,10,1,2, Adult Pre-Champ Standard  (WTFQ),Sample,0,csc11,40428310,193,Gosia Zygadlo,Waltz,2
+CA,0,1,Final,Christian Solares,Whitney Myers,11,1,1, Adult Pre-Champ Standard  (WTFQ),Sample,0,csc11,40428310,193,Alise Halbert,Waltz,2
+CA,0,4,Final,Christian Solares,Whitney Myers,12,1,4, Adult Pre-Champ Standard  (WTFQ),Sample,0,csc11,40428310,193,Anton Koukareko,Waltz,2
+CA,0,1,Final,Christian Solares,Whitney Myers,14,1,1, Adult Pre-Champ Standard  (WTFQ),Sample,0,csc11,40428310,193,Daniele Gozzi,Waltz,2
+CA,0,3,Final,Christian Solares,Whitney Myers,15,1,3, Adult Pre-Champ Standard  (WTFQ),Sample,0,csc11,40428310,193,Cecilia Giovacchini,Waltz,2
+CA,0,1,Final,Todd Marsden,Susanna Hardt,10,2,1, Adult Pre-Champ Standard  (WTFQ),Sample,0,csc11,40428310,165,Gosia Zygadlo,Waltz,3
+CA,0,2,Final,Todd Marsden,Susanna Hardt,11,2,2, Adult Pre-Champ Standard  (WTFQ),Sample,0,csc11,40428310,165,Alise Halbert,Waltz,3
+CA,0,1,Final,Todd Marsden,Susanna Hardt,12,2,1, Adult Pre-Champ Standard  (WTFQ),Sample,0,csc11,40428310,165,Anton Koukareko,Waltz,3
+CA,0,4,Final,Todd Marsden,Susanna Hardt,14,2,4, Adult Pre-Champ Standard  (WTFQ),Sample,0,csc11,40428310,165,Daniele Gozzi,Waltz,3
+CA,0,4,Final,Todd Marsden,Susanna Hardt,15,2,4, Adult Pre-Champ Standard  (WTFQ),Sample,0,csc11,40428310,165,Cecilia Giovacchini,Waltz,3
+CA,0,4,Final,Douglas Priest,Laura White,10,3,4, Adult Pre-Champ Standard  (WTFQ),Sample,0,csc11,40428310,167,Gosia Zygadlo,Waltz,4
+CA,0,4,Final,Douglas Priest,Laura White,11,3,4, Adult Pre-Champ Standard  (WTFQ),Sample,0,csc11,40428310,167,Alise Halbert,Waltz,4
+CA,0,2,Final,Douglas Priest,Laura White,12,3,2, Adult Pre-Champ Standard  (WTFQ),Sample,0,csc11,40428310,167,Anton Koukareko,Waltz,4
+CA,0,2,Final,Douglas Priest,Laura White,14,3,2, Adult Pre-Champ Standard  (WTFQ),Sample,0,csc11,40428310,167,Daniele Gozzi,Waltz,4
+CA,0,2,Final,Douglas Priest,Laura White,15,3,2, Adult Pre-Champ Standard  (WTFQ),Sample,0,csc11,40428310,167,Cecilia Giovacchini,Waltz,4
+CA,0,5,Final,Scott Lacy,Yuki Watanabe,10,5,5, Adult Pre-Champ Standard  (WTFQ),Sample,0,csc11,40428310,189,Gosia Zygadlo,Waltz,5
+CA,0,5,Final,Scott Lacy,Yuki Watanabe,11,5,5, Adult Pre-Champ Standard  (WTFQ),Sample,0,csc11,40428310,189,Alise Halbert,Waltz,5
+CA,0,5,Final,Scott Lacy,Yuki Watanabe,12,5,5, Adult Pre-Champ Standard  (WTFQ),Sample,0,csc11,40428310,189,Anton Koukareko,Waltz,5
+CA,0,5,Final,Scott Lacy,Yuki Watanabe,14,5,5, Adult Pre-Champ Standard  (WTFQ),Sample,0,csc11,40428310,189,Daniele Gozzi,Waltz,5
+CA,0,5,Final,Scott Lacy,Yuki Watanabe,15,5,5, Adult Pre-Champ Standard  (WTFQ),Sample,0,csc11,40428310,189,Cecilia Giovacchini,Waltz,5
+CA,0,2,Final,Reza Molavi,Monika Olkawicz,10,1,2, Adult Pre-Champ Standard  (WTFQ),Sample,1,csc11,40428310,168,Gosia Zygadlo,Tango,1
+CA,0,1,Final,Reza Molavi,Monika Olkawicz,11,1,1, Adult Pre-Champ Standard  (WTFQ),Sample,1,csc11,40428310,168,Alise Halbert,Tango,1
+CA,0,2,Final,Reza Molavi,Monika Olkawicz,12,1,2, Adult Pre-Champ Standard  (WTFQ),Sample,1,csc11,40428310,168,Anton Koukareko,Tango,1
+CA,0,2,Final,Reza Molavi,Monika Olkawicz,14,1,2, Adult Pre-Champ Standard  (WTFQ),Sample,1,csc11,40428310,168,Daniele Gozzi,Tango,1
+CA,0,1,Final,Reza Molavi,Monika Olkawicz,15,1,1, Adult Pre-Champ Standard  (WTFQ),Sample,1,csc11,40428310,168,Cecilia Giovacchini,Tango,1
+CA,0,3,Final,Christian Solares,Whitney Myers,10,2,3, Adult Pre-Champ Standard  (WTFQ),Sample,1,csc11,40428310,193,Gosia Zygadlo,Tango,2
+CA,0,2,Final,Christian Solares,Whitney Myers,11,2,2, Adult Pre-Champ Standard  (WTFQ),Sample,1,csc11,40428310,193,Alise Halbert,Tango,2
+CA,0,5,Final,Christian Solares,Whitney Myers,12,2,5, Adult Pre-Champ Standard  (WTFQ),Sample,1,csc11,40428310,193,Anton Koukareko,Tango,2
+CA,0,1,Final,Christian Solares,Whitney Myers,14,2,1, Adult Pre-Champ Standard  (WTFQ),Sample,1,csc11,40428310,193,Daniele Gozzi,Tango,2
+CA,0,3,Final,Christian Solares,Whitney Myers,15,2,3, Adult Pre-Champ Standard  (WTFQ),Sample,1,csc11,40428310,193,Cecilia Giovacchini,Tango,2
+CA,0,1,Final,Todd Marsden,Susanna Hardt,10,3,1, Adult Pre-Champ Standard  (WTFQ),Sample,1,csc11,40428310,165,Gosia Zygadlo,Tango,3
+CA,0,3,Final,Todd Marsden,Susanna Hardt,11,3,3, Adult Pre-Champ Standard  (WTFQ),Sample,1,csc11,40428310,165,Alise Halbert,Tango,3
+CA,0,1,Final,Todd Marsden,Susanna Hardt,12,3,1, Adult Pre-Champ Standard  (WTFQ),Sample,1,csc11,40428310,165,Anton Koukareko,Tango,3
+CA,0,4,Final,Todd Marsden,Susanna Hardt,14,3,4, Adult Pre-Champ Standard  (WTFQ),Sample,1,csc11,40428310,165,Daniele Gozzi,Tango,3
+CA,0,4,Final,Todd Marsden,Susanna Hardt,15,3,4, Adult Pre-Champ Standard  (WTFQ),Sample,1,csc11,40428310,165,Cecilia Giovacchini,Tango,3
+CA,0,4,Final,Douglas Priest,Laura White,10,4,4, Adult Pre-Champ Standard  (WTFQ),Sample,1,csc11,40428310,167,Gosia Zygadlo,Tango,4
+CA,0,4,Final,Douglas Priest,Laura White,11,4,4, Adult Pre-Champ Standard  (WTFQ),Sample,1,csc11,40428310,167,Alise Halbert,Tango,4
+CA,0,3,Final,Douglas Priest,Laura White,12,4,3, Adult Pre-Champ Standard  (WTFQ),Sample,1,csc11,40428310,167,Anton Koukareko,Tango,4
+CA,0,3,Final,Douglas Priest,Laura White,14,4,3, Adult Pre-Champ Standard  (WTFQ),Sample,1,csc11,40428310,167,Daniele Gozzi,Tango,4
+CA,0,2,Final,Douglas Priest,Laura White,15,4,2, Adult Pre-Champ Standard  (WTFQ),Sample,1,csc11,40428310,167,Cecilia Giovacchini,Tango,4
+CA,0,5,Final,Scott Lacy,Yuki Watanabe,10,5,5, Adult Pre-Champ Standard  (WTFQ),Sample,1,csc11,40428310,189,Gosia Zygadlo,Tango,5
+CA,0,5,Final,Scott Lacy,Yuki Watanabe,11,5,5, Adult Pre-Champ Standard  (WTFQ),Sample,1,csc11,40428310,189,Alise Halbert,Tango,5
+CA,0,4,Final,Scott Lacy,Yuki Watanabe,12,5,4, Adult Pre-Champ Standard  (WTFQ),Sample,1,csc11,40428310,189,Anton Koukareko,Tango,5
+CA,0,5,Final,Scott Lacy,Yuki Watanabe,14,5,5, Adult Pre-Champ Standard  (WTFQ),Sample,1,csc11,40428310,189,Daniele Gozzi,Tango,5
+CA,0,5,Final,Scott Lacy,Yuki Watanabe,15,5,5, Adult Pre-Champ Standard  (WTFQ),Sample,1,csc11,40428310,189,Cecilia Giovacchini,Tango,5
+CA,0,2,Final,Reza Molavi,Monika Olkawicz,10,1,2, Adult Pre-Champ Standard  (WTFQ),Sample,2,csc11,40428310,168,Gosia Zygadlo,Foxtrot,1
+CA,0,1,Final,Reza Molavi,Monika Olkawicz,11,1,1, Adult Pre-Champ Standard  (WTFQ),Sample,2,csc11,40428310,168,Alise Halbert,Foxtrot,1
+CA,0,2,Final,Reza Molavi,Monika Olkawicz,12,1,2, Adult Pre-Champ Standard  (WTFQ),Sample,2,csc11,40428310,168,Anton Koukareko,Foxtrot,1
+CA,0,4,Final,Reza Molavi,Monika Olkawicz,14,1,4, Adult Pre-Champ Standard  (WTFQ),Sample,2,csc11,40428310,168,Daniele Gozzi,Foxtrot,1
+CA,0,1,Final,Reza Molavi,Monika Olkawicz,15,1,1, Adult Pre-Champ Standard  (WTFQ),Sample,2,csc11,40428310,168,Cecilia Giovacchini,Foxtrot,1
+CA,0,3,Final,Christian Solares,Whitney Myers,10,2,3, Adult Pre-Champ Standard  (WTFQ),Sample,2,csc11,40428310,193,Gosia Zygadlo,Foxtrot,2
+CA,0,2,Final,Christian Solares,Whitney Myers,11,2,2, Adult Pre-Champ Standard  (WTFQ),Sample,2,csc11,40428310,193,Alise Halbert,Foxtrot,2
+CA,0,5,Final,Christian Solares,Whitney Myers,12,2,5, Adult Pre-Champ Standard  (WTFQ),Sample,2,csc11,40428310,193,Anton Koukareko,Foxtrot,2
+CA,0,1,Final,Christian Solares,Whitney Myers,14,2,1, Adult Pre-Champ Standard  (WTFQ),Sample,2,csc11,40428310,193,Daniele Gozzi,Foxtrot,2
+CA,0,2,Final,Christian Solares,Whitney Myers,15,2,2, Adult Pre-Champ Standard  (WTFQ),Sample,2,csc11,40428310,193,Cecilia Giovacchini,Foxtrot,2
+CA,0,1,Final,Todd Marsden,Susanna Hardt,10,3,1, Adult Pre-Champ Standard  (WTFQ),Sample,2,csc11,40428310,165,Gosia Zygadlo,Foxtrot,3
+CA,0,3,Final,Todd Marsden,Susanna Hardt,11,3,3, Adult Pre-Champ Standard  (WTFQ),Sample,2,csc11,40428310,165,Alise Halbert,Foxtrot,3
+CA,0,1,Final,Todd Marsden,Susanna Hardt,12,3,1, Adult Pre-Champ Standard  (WTFQ),Sample,2,csc11,40428310,165,Anton Koukareko,Foxtrot,3
+CA,0,3,Final,Todd Marsden,Susanna Hardt,14,3,3, Adult Pre-Champ Standard  (WTFQ),Sample,2,csc11,40428310,165,Daniele Gozzi,Foxtrot,3
+CA,0,5,Final,Todd Marsden,Susanna Hardt,15,3,5, Adult Pre-Champ Standard  (WTFQ),Sample,2,csc11,40428310,165,Cecilia Giovacchini,Foxtrot,3
+CA,0,4,Final,Douglas Priest,Laura White,10,4,4, Adult Pre-Champ Standard  (WTFQ),Sample,2,csc11,40428310,167,Gosia Zygadlo,Foxtrot,4
+CA,0,5,Final,Douglas Priest,Laura White,11,4,5, Adult Pre-Champ Standard  (WTFQ),Sample,2,csc11,40428310,167,Alise Halbert,Foxtrot,4
+CA,0,3,Final,Douglas Priest,Laura White,12,4,3, Adult Pre-Champ Standard  (WTFQ),Sample,2,csc11,40428310,167,Anton Koukareko,Foxtrot,4
+CA,0,2,Final,Douglas Priest,Laura White,14,4,2, Adult Pre-Champ Standard  (WTFQ),Sample,2,csc11,40428310,167,Daniele Gozzi,Foxtrot,4
+CA,0,3,Final,Douglas Priest,Laura White,15,4,3, Adult Pre-Champ Standard  (WTFQ),Sample,2,csc11,40428310,167,Cecilia Giovacchini,Foxtrot,4
+CA,0,5,Final,Scott Lacy,Yuki Watanabe,10,5,5, Adult Pre-Champ Standard  (WTFQ),Sample,2,csc11,40428310,189,Gosia Zygadlo,Foxtrot,5
+CA,0,4,Final,Scott Lacy,Yuki Watanabe,11,5,4, Adult Pre-Champ Standard  (WTFQ),Sample,2,csc11,40428310,189,Alise Halbert,Foxtrot,5
+CA,0,4,Final,Scott Lacy,Yuki Watanabe,12,5,4, Adult Pre-Champ Standard  (WTFQ),Sample,2,csc11,40428310,189,Anton Koukareko,Foxtrot,5
+CA,0,5,Final,Scott Lacy,Yuki Watanabe,14,5,5, Adult Pre-Champ Standard  (WTFQ),Sample,2,csc11,40428310,189,Daniele Gozzi,Foxtrot,5
+CA,0,4,Final,Scott Lacy,Yuki Watanabe,15,5,4, Adult Pre-Champ Standard  (WTFQ),Sample,2,csc11,40428310,189,Cecilia Giovacchini,Foxtrot,5
+CA,0,2,Final,Reza Molavi,Monika Olkawicz,10,1,2, Adult Pre-Champ Standard  (WTFQ),Sample,3,csc11,40428310,168,Gosia Zygadlo,Quickstep,1
+CA,0,2,Final,Reza Molavi,Monika Olkawicz,11,1,2, Adult Pre-Champ Standard  (WTFQ),Sample,3,csc11,40428310,168,Alise Halbert,Quickstep,1
+CA,0,1,Final,Reza Molavi,Monika Olkawicz,12,1,1, Adult Pre-Champ Standard  (WTFQ),Sample,3,csc11,40428310,168,Anton Koukareko,Quickstep,1
+CA,0,3,Final,Reza Molavi,Monika Olkawicz,14,1,3, Adult Pre-Champ Standard  (WTFQ),Sample,3,csc11,40428310,168,Daniele Gozzi,Quickstep,1
+CA,0,1,Final,Reza Molavi,Monika Olkawicz,15,1,1, Adult Pre-Champ Standard  (WTFQ),Sample,3,csc11,40428310,168,Cecilia Giovacchini,Quickstep,1
+CA,0,3,Final,Christian Solares,Whitney Myers,10,2,3, Adult Pre-Champ Standard  (WTFQ),Sample,3,csc11,40428310,193,Gosia Zygadlo,Quickstep,2
+CA,0,1,Final,Christian Solares,Whitney Myers,11,2,1, Adult Pre-Champ Standard  (WTFQ),Sample,3,csc11,40428310,193,Alise Halbert,Quickstep,2
+CA,0,5,Final,Christian Solares,Whitney Myers,12,2,5, Adult Pre-Champ Standard  (WTFQ),Sample,3,csc11,40428310,193,Anton Koukareko,Quickstep,2
+CA,0,1,Final,Christian Solares,Whitney Myers,14,2,1, Adult Pre-Champ Standard  (WTFQ),Sample,3,csc11,40428310,193,Daniele Gozzi,Quickstep,2
+CA,0,2,Final,Christian Solares,Whitney Myers,15,2,2, Adult Pre-Champ Standard  (WTFQ),Sample,3,csc11,40428310,193,Cecilia Giovacchini,Quickstep,2
+CA,0,1,Final,Todd Marsden,Susanna Hardt,10,3,1, Adult Pre-Champ Standard  (WTFQ),Sample,3,csc11,40428310,165,Gosia Zygadlo,Quickstep,3
+CA,0,3,Final,Todd Marsden,Susanna Hardt,11,3,3, Adult Pre-Champ Standard  (WTFQ),Sample,3,csc11,40428310,165,Alise Halbert,Quickstep,3
+CA,0,2,Final,Todd Marsden,Susanna Hardt,12,3,2, Adult Pre-Champ Standard  (WTFQ),Sample,3,csc11,40428310,165,Anton Koukareko,Quickstep,3
+CA,0,4,Final,Todd Marsden,Susanna Hardt,14,3,4, Adult Pre-Champ Standard  (WTFQ),Sample,3,csc11,40428310,165,Daniele Gozzi,Quickstep,3
+CA,0,5,Final,Todd Marsden,Susanna Hardt,15,3,5, Adult Pre-Champ Standard  (WTFQ),Sample,3,csc11,40428310,165,Cecilia Giovacchini,Quickstep,3
+CA,0,4,Final,Douglas Priest,Laura White,10,4,4, Adult Pre-Champ Standard  (WTFQ),Sample,3,csc11,40428310,167,Gosia Zygadlo,Quickstep,4
+CA,0,5,Final,Douglas Priest,Laura White,11,4,5, Adult Pre-Champ Standard  (WTFQ),Sample,3,csc11,40428310,167,Alise Halbert,Quickstep,4
+CA,0,3,Final,Douglas Priest,Laura White,12,4,3, Adult Pre-Champ Standard  (WTFQ),Sample,3,csc11,40428310,167,Anton Koukareko,Quickstep,4
+CA,0,2,Final,Douglas Priest,Laura White,14,4,2, Adult Pre-Champ Standard  (WTFQ),Sample,3,csc11,40428310,167,Daniele Gozzi,Quickstep,4
+CA,0,3,Final,Douglas Priest,Laura White,15,4,3, Adult Pre-Champ Standard  (WTFQ),Sample,3,csc11,40428310,167,Cecilia Giovacchini,Quickstep,4
+CA,0,5,Final,Scott Lacy,Yuki Watanabe,10,5,5, Adult Pre-Champ Standard  (WTFQ),Sample,3,csc11,40428310,189,Gosia Zygadlo,Quickstep,5
+CA,0,4,Final,Scott Lacy,Yuki Watanabe,11,5,4, Adult Pre-Champ Standard  (WTFQ),Sample,3,csc11,40428310,189,Alise Halbert,Quickstep,5
+CA,0,4,Final,Scott Lacy,Yuki Watanabe,12,5,4, Adult Pre-Champ Standard  (WTFQ),Sample,3,csc11,40428310,189,Anton Koukareko,Quickstep,5
+CA,0,5,Final,Scott Lacy,Yuki Watanabe,14,5,5, Adult Pre-Champ Standard  (WTFQ),Sample,3,csc11,40428310,189,Daniele Gozzi,Quickstep,5
+CA,0,4,Final,Scott Lacy,Yuki Watanabe,15,5,4, Adult Pre-Champ Standard  (WTFQ),Sample,3,csc11,40428310,189,Cecilia Giovacchini,Quickstep,5
+CA,0,1,Final,ted rocha,dorothy tsang,10,1,1, Senior I Pre-Champ Smooth  (WTFV),Sample,0,csc11,40438330,192,Gosia Zygadlo,Waltz,1
+CA,0,1,Final,ted rocha,dorothy tsang,11,1,1, Senior I Pre-Champ Smooth  (WTFV),Sample,0,csc11,40438330,192,Alise Halbert,Waltz,1
+CA,0,1,Final,ted rocha,dorothy tsang,12,1,1, Senior I Pre-Champ Smooth  (WTFV),Sample,0,csc11,40438330,192,Anton Koukareko,Waltz,1
+CA,0,1,Final,ted rocha,dorothy tsang,14,1,1, Senior I Pre-Champ Smooth  (WTFV),Sample,0,csc11,40438330,192,Daniele Gozzi,Waltz,1
+CA,0,1,Final,ted rocha,dorothy tsang,15,1,1, Senior I Pre-Champ Smooth  (WTFV),Sample,0,csc11,40438330,192,Cecilia Giovacchini,Waltz,1
+CA,0,2,Final,Hugh Chapman,Lorna Roza,10,2,2, Senior I Pre-Champ Smooth  (WTFV),Sample,0,csc11,40438330,197,Gosia Zygadlo,Waltz,2
+CA,0,2,Final,Hugh Chapman,Lorna Roza,11,2,2, Senior I Pre-Champ Smooth  (WTFV),Sample,0,csc11,40438330,197,Alise Halbert,Waltz,2
+CA,0,2,Final,Hugh Chapman,Lorna Roza,12,2,2, Senior I Pre-Champ Smooth  (WTFV),Sample,0,csc11,40438330,197,Anton Koukareko,Waltz,2
+CA,0,2,Final,Hugh Chapman,Lorna Roza,14,2,2, Senior I Pre-Champ Smooth  (WTFV),Sample,0,csc11,40438330,197,Daniele Gozzi,Waltz,2
+CA,0,2,Final,Hugh Chapman,Lorna Roza,15,2,2, Senior I Pre-Champ Smooth  (WTFV),Sample,0,csc11,40438330,197,Cecilia Giovacchini,Waltz,2
+CA,0,1,Final,ted rocha,dorothy tsang,10,1,1, Senior I Pre-Champ Smooth  (WTFV),Sample,1,csc11,40438330,192,Gosia Zygadlo,Tango,1
+CA,0,2,Final,ted rocha,dorothy tsang,11,1,2, Senior I Pre-Champ Smooth  (WTFV),Sample,1,csc11,40438330,192,Alise Halbert,Tango,1
+CA,0,1,Final,ted rocha,dorothy tsang,12,1,1, Senior I Pre-Champ Smooth  (WTFV),Sample,1,csc11,40438330,192,Anton Koukareko,Tango,1
+CA,0,1,Final,ted rocha,dorothy tsang,14,1,1, Senior I Pre-Champ Smooth  (WTFV),Sample,1,csc11,40438330,192,Daniele Gozzi,Tango,1
+CA,0,1,Final,ted rocha,dorothy tsang,15,1,1, Senior I Pre-Champ Smooth  (WTFV),Sample,1,csc11,40438330,192,Cecilia Giovacchini,Tango,1
+CA,0,2,Final,Hugh Chapman,Lorna Roza,10,2,2, Senior I Pre-Champ Smooth  (WTFV),Sample,1,csc11,40438330,197,Gosia Zygadlo,Tango,2
+CA,0,1,Final,Hugh Chapman,Lorna Roza,11,2,1, Senior I Pre-Champ Smooth  (WTFV),Sample,1,csc11,40438330,197,Alise Halbert,Tango,2
+CA,0,2,Final,Hugh Chapman,Lorna Roza,12,2,2, Senior I Pre-Champ Smooth  (WTFV),Sample,1,csc11,40438330,197,Anton Koukareko,Tango,2
+CA,0,2,Final,Hugh Chapman,Lorna Roza,14,2,2, Senior I Pre-Champ Smooth  (WTFV),Sample,1,csc11,40438330,197,Daniele Gozzi,Tango,2
+CA,0,2,Final,Hugh Chapman,Lorna Roza,15,2,2, Senior I Pre-Champ Smooth  (WTFV),Sample,1,csc11,40438330,197,Cecilia Giovacchini,Tango,2
+CA,0,2,Final,ted rocha,dorothy tsang,10,1,2, Senior I Pre-Champ Smooth  (WTFV),Sample,2,csc11,40438330,192,Gosia Zygadlo,Foxtrot,1
+CA,0,1,Final,ted rocha,dorothy tsang,11,1,1, Senior I Pre-Champ Smooth  (WTFV),Sample,2,csc11,40438330,192,Alise Halbert,Foxtrot,1
+CA,0,1,Final,ted rocha,dorothy tsang,12,1,1, Senior I Pre-Champ Smooth  (WTFV),Sample,2,csc11,40438330,192,Anton Koukareko,Foxtrot,1
+CA,0,2,Final,ted rocha,dorothy tsang,14,1,2, Senior I Pre-Champ Smooth  (WTFV),Sample,2,csc11,40438330,192,Daniele Gozzi,Foxtrot,1
+CA,0,1,Final,ted rocha,dorothy tsang,15,1,1, Senior I Pre-Champ Smooth  (WTFV),Sample,2,csc11,40438330,192,Cecilia Giovacchini,Foxtrot,1
+CA,0,1,Final,Hugh Chapman,Lorna Roza,10,2,1, Senior I Pre-Champ Smooth  (WTFV),Sample,2,csc11,40438330,197,Gosia Zygadlo,Foxtrot,2
+CA,0,2,Final,Hugh Chapman,Lorna Roza,11,2,2, Senior I Pre-Champ Smooth  (WTFV),Sample,2,csc11,40438330,197,Alise Halbert,Foxtrot,2
+CA,0,2,Final,Hugh Chapman,Lorna Roza,12,2,2, Senior I Pre-Champ Smooth  (WTFV),Sample,2,csc11,40438330,197,Anton Koukareko,Foxtrot,2
+CA,0,1,Final,Hugh Chapman,Lorna Roza,14,2,1, Senior I Pre-Champ Smooth  (WTFV),Sample,2,csc11,40438330,197,Daniele Gozzi,Foxtrot,2
+CA,0,2,Final,Hugh Chapman,Lorna Roza,15,2,2, Senior I Pre-Champ Smooth  (WTFV),Sample,2,csc11,40438330,197,Cecilia Giovacchini,Foxtrot,2
+CA,0,1,Final,ted rocha,dorothy tsang,10,1,1, Senior I Pre-Champ Smooth  (WTFV),Sample,3,csc11,40438330,192,Gosia Zygadlo,Viennese Waltz,1
+CA,0,1,Final,ted rocha,dorothy tsang,11,1,1, Senior I Pre-Champ Smooth  (WTFV),Sample,3,csc11,40438330,192,Alise Halbert,Viennese Waltz,1
+CA,0,1,Final,ted rocha,dorothy tsang,12,1,1, Senior I Pre-Champ Smooth  (WTFV),Sample,3,csc11,40438330,192,Anton Koukareko,Viennese Waltz,1
+CA,0,2,Final,ted rocha,dorothy tsang,14,1,2, Senior I Pre-Champ Smooth  (WTFV),Sample,3,csc11,40438330,192,Daniele Gozzi,Viennese Waltz,1
+CA,0,1,Final,ted rocha,dorothy tsang,15,1,1, Senior I Pre-Champ Smooth  (WTFV),Sample,3,csc11,40438330,192,Cecilia Giovacchini,Viennese Waltz,1
+CA,0,2,Final,Hugh Chapman,Lorna Roza,10,2,2, Senior I Pre-Champ Smooth  (WTFV),Sample,3,csc11,40438330,197,Gosia Zygadlo,Viennese Waltz,2
+CA,0,2,Final,Hugh Chapman,Lorna Roza,11,2,2, Senior I Pre-Champ Smooth  (WTFV),Sample,3,csc11,40438330,197,Alise Halbert,Viennese Waltz,2
+CA,0,2,Final,Hugh Chapman,Lorna Roza,12,2,2, Senior I Pre-Champ Smooth  (WTFV),Sample,3,csc11,40438330,197,Anton Koukareko,Viennese Waltz,2
+CA,0,1,Final,Hugh Chapman,Lorna Roza,14,2,1, Senior I Pre-Champ Smooth  (WTFV),Sample,3,csc11,40438330,197,Daniele Gozzi,Viennese Waltz,2
+CA,0,2,Final,Hugh Chapman,Lorna Roza,15,2,2, Senior I Pre-Champ Smooth  (WTFV),Sample,3,csc11,40438330,197,Cecilia Giovacchini,Viennese Waltz,2
+CA,0,1,Final,James Kleinrath,Melody Singleton,10,1,1, Senior II Championship Smooth  (WTFV),Sample,0,csc11,40448730,183,Gosia Zygadlo,Waltz,1
+CA,0,1,Final,James Kleinrath,Melody Singleton,11,1,1, Senior II Championship Smooth  (WTFV),Sample,0,csc11,40448730,183,Alise Halbert,Waltz,1
+CA,0,1,Final,James Kleinrath,Melody Singleton,12,1,1, Senior II Championship Smooth  (WTFV),Sample,0,csc11,40448730,183,Anton Koukareko,Waltz,1
+CA,0,1,Final,James Kleinrath,Melody Singleton,14,1,1, Senior II Championship Smooth  (WTFV),Sample,0,csc11,40448730,183,Daniele Gozzi,Waltz,1
+CA,0,1,Final,James Kleinrath,Melody Singleton,15,1,1, Senior II Championship Smooth  (WTFV),Sample,0,csc11,40448730,183,Cecilia Giovacchini,Waltz,1
+CA,0,1,Final,James Kleinrath,Melody Singleton,10,1,1, Senior II Championship Smooth  (WTFV),Sample,1,csc11,40448730,183,Gosia Zygadlo,Tango,1
+CA,0,1,Final,James Kleinrath,Melody Singleton,11,1,1, Senior II Championship Smooth  (WTFV),Sample,1,csc11,40448730,183,Alise Halbert,Tango,1
+CA,0,1,Final,James Kleinrath,Melody Singleton,12,1,1, Senior II Championship Smooth  (WTFV),Sample,1,csc11,40448730,183,Anton Koukareko,Tango,1
+CA,0,1,Final,James Kleinrath,Melody Singleton,14,1,1, Senior II Championship Smooth  (WTFV),Sample,1,csc11,40448730,183,Daniele Gozzi,Tango,1
+CA,0,1,Final,James Kleinrath,Melody Singleton,15,1,1, Senior II Championship Smooth  (WTFV),Sample,1,csc11,40448730,183,Cecilia Giovacchini,Tango,1
+CA,0,1,Final,James Kleinrath,Melody Singleton,10,1,1, Senior II Championship Smooth  (WTFV),Sample,2,csc11,40448730,183,Gosia Zygadlo,Foxtrot,1
+CA,0,1,Final,James Kleinrath,Melody Singleton,11,1,1, Senior II Championship Smooth  (WTFV),Sample,2,csc11,40448730,183,Alise Halbert,Foxtrot,1
+CA,0,1,Final,James Kleinrath,Melody Singleton,12,1,1, Senior II Championship Smooth  (WTFV),Sample,2,csc11,40448730,183,Anton Koukareko,Foxtrot,1
+CA,0,1,Final,James Kleinrath,Melody Singleton,14,1,1, Senior II Championship Smooth  (WTFV),Sample,2,csc11,40448730,183,Daniele Gozzi,Foxtrot,1
+CA,0,1,Final,James Kleinrath,Melody Singleton,15,1,1, Senior II Championship Smooth  (WTFV),Sample,2,csc11,40448730,183,Cecilia Giovacchini,Foxtrot,1
+CA,0,1,Final,James Kleinrath,Melody Singleton,10,1,1, Senior II Championship Smooth  (WTFV),Sample,3,csc11,40448730,183,Gosia Zygadlo,Viennese Waltz,1
+CA,0,1,Final,James Kleinrath,Melody Singleton,11,1,1, Senior II Championship Smooth  (WTFV),Sample,3,csc11,40448730,183,Alise Halbert,Viennese Waltz,1
+CA,0,1,Final,James Kleinrath,Melody Singleton,12,1,1, Senior II Championship Smooth  (WTFV),Sample,3,csc11,40448730,183,Anton Koukareko,Viennese Waltz,1
+CA,0,1,Final,James Kleinrath,Melody Singleton,14,1,1, Senior II Championship Smooth  (WTFV),Sample,3,csc11,40448730,183,Daniele Gozzi,Viennese Waltz,1
+CA,0,1,Final,James Kleinrath,Melody Singleton,15,1,1, Senior II Championship Smooth  (WTFV),Sample,3,csc11,40448730,183,Cecilia Giovacchini,Viennese Waltz,1
+CA,0,1,Final,Reza Molavi,Monika Olkawicz,10,1,1, Adult Championship Standard  (WTVFQ),Sample,0,csc11,40428710,168,Gosia Zygadlo,Waltz,1
+CA,0,1,Final,Reza Molavi,Monika Olkawicz,11,1,1, Adult Championship Standard  (WTVFQ),Sample,0,csc11,40428710,168,Alise Halbert,Waltz,1
+CA,0,1,Final,Reza Molavi,Monika Olkawicz,12,1,1, Adult Championship Standard  (WTVFQ),Sample,0,csc11,40428710,168,Anton Koukareko,Waltz,1
+CA,0,1,Final,Reza Molavi,Monika Olkawicz,14,1,1, Adult Championship Standard  (WTVFQ),Sample,0,csc11,40428710,168,Daniele Gozzi,Waltz,1
+CA,0,1,Final,Reza Molavi,Monika Olkawicz,15,1,1, Adult Championship Standard  (WTVFQ),Sample,0,csc11,40428710,168,Cecilia Giovacchini,Waltz,1
+CA,0,1,Final,Reza Molavi,Monika Olkawicz,10,1,1, Adult Championship Standard  (WTVFQ),Sample,1,csc11,40428710,168,Gosia Zygadlo,Tango,1
+CA,0,1,Final,Reza Molavi,Monika Olkawicz,11,1,1, Adult Championship Standard  (WTVFQ),Sample,1,csc11,40428710,168,Alise Halbert,Tango,1
+CA,0,1,Final,Reza Molavi,Monika Olkawicz,12,1,1, Adult Championship Standard  (WTVFQ),Sample,1,csc11,40428710,168,Anton Koukareko,Tango,1
+CA,0,1,Final,Reza Molavi,Monika Olkawicz,14,1,1, Adult Championship Standard  (WTVFQ),Sample,1,csc11,40428710,168,Daniele Gozzi,Tango,1
+CA,0,1,Final,Reza Molavi,Monika Olkawicz,15,1,1, Adult Championship Standard  (WTVFQ),Sample,1,csc11,40428710,168,Cecilia Giovacchini,Tango,1
+CA,0,1,Final,Reza Molavi,Monika Olkawicz,10,1,1, Adult Championship Standard  (WTVFQ),Sample,2,csc11,40428710,168,Gosia Zygadlo,Viennese Waltz,1
+CA,0,1,Final,Reza Molavi,Monika Olkawicz,11,1,1, Adult Championship Standard  (WTVFQ),Sample,2,csc11,40428710,168,Alise Halbert,Viennese Waltz,1
+CA,0,1,Final,Reza Molavi,Monika Olkawicz,12,1,1, Adult Championship Standard  (WTVFQ),Sample,2,csc11,40428710,168,Anton Koukareko,Viennese Waltz,1
+CA,0,1,Final,Reza Molavi,Monika Olkawicz,14,1,1, Adult Championship Standard  (WTVFQ),Sample,2,csc11,40428710,168,Daniele Gozzi,Viennese Waltz,1
+CA,0,1,Final,Reza Molavi,Monika Olkawicz,15,1,1, Adult Championship Standard  (WTVFQ),Sample,2,csc11,40428710,168,Cecilia Giovacchini,Viennese Waltz,1
+CA,0,1,Final,Reza Molavi,Monika Olkawicz,10,1,1, Adult Championship Standard  (WTVFQ),Sample,3,csc11,40428710,168,Gosia Zygadlo,Foxtrot,1
+CA,0,1,Final,Reza Molavi,Monika Olkawicz,11,1,1, Adult Championship Standard  (WTVFQ),Sample,3,csc11,40428710,168,Alise Halbert,Foxtrot,1
+CA,0,1,Final,Reza Molavi,Monika Olkawicz,12,1,1, Adult Championship Standard  (WTVFQ),Sample,3,csc11,40428710,168,Anton Koukareko,Foxtrot,1
+CA,0,1,Final,Reza Molavi,Monika Olkawicz,14,1,1, Adult Championship Standard  (WTVFQ),Sample,3,csc11,40428710,168,Daniele Gozzi,Foxtrot,1
+CA,0,1,Final,Reza Molavi,Monika Olkawicz,15,1,1, Adult Championship Standard  (WTVFQ),Sample,3,csc11,40428710,168,Cecilia Giovacchini,Foxtrot,1
+CA,0,1,Final,Reza Molavi,Monika Olkawicz,10,1,1, Adult Championship Standard  (WTVFQ),Sample,4,csc11,40428710,168,Gosia Zygadlo,Quickstep,1
+CA,0,1,Final,Reza Molavi,Monika Olkawicz,11,1,1, Adult Championship Standard  (WTVFQ),Sample,4,csc11,40428710,168,Alise Halbert,Quickstep,1
+CA,0,1,Final,Reza Molavi,Monika Olkawicz,12,1,1, Adult Championship Standard  (WTVFQ),Sample,4,csc11,40428710,168,Anton Koukareko,Quickstep,1
+CA,0,1,Final,Reza Molavi,Monika Olkawicz,14,1,1, Adult Championship Standard  (WTVFQ),Sample,4,csc11,40428710,168,Daniele Gozzi,Quickstep,1
+CA,0,1,Final,Reza Molavi,Monika Olkawicz,15,1,1, Adult Championship Standard  (WTVFQ),Sample,4,csc11,40428710,168,Cecilia Giovacchini,Quickstep,1
+CA,0,1,Final,Winston Chow,Lilly T.F. Chow,10,1,1, Senior II Championship Standard  (WTVFQ),Sample,0,csc11,40448710,161,Gosia Zygadlo,Waltz,1
+CA,0,2,Final,Winston Chow,Lilly T.F. Chow,11,1,2, Senior II Championship Standard  (WTVFQ),Sample,0,csc11,40448710,161,Alise Halbert,Waltz,1
+CA,0,1,Final,Winston Chow,Lilly T.F. Chow,12,1,1, Senior II Championship Standard  (WTVFQ),Sample,0,csc11,40448710,161,Anton Koukareko,Waltz,1
+CA,0,1,Final,Winston Chow,Lilly T.F. Chow,14,1,1, Senior II Championship Standard  (WTVFQ),Sample,0,csc11,40448710,161,Daniele Gozzi,Waltz,1
+CA,0,1,Final,Winston Chow,Lilly T.F. Chow,15,1,1, Senior II Championship Standard  (WTVFQ),Sample,0,csc11,40448710,161,Cecilia Giovacchini,Waltz,1
+CA,0,3,Final,Scott Lacy,Yuki Watanabe,10,3,3, Senior II Championship Standard  (WTVFQ),Sample,0,csc11,40448710,189,Gosia Zygadlo,Waltz,2
+CA,0,1,Final,Scott Lacy,Yuki Watanabe,11,3,1, Senior II Championship Standard  (WTVFQ),Sample,0,csc11,40448710,189,Alise Halbert,Waltz,2
+CA,0,2,Final,Scott Lacy,Yuki Watanabe,12,3,2, Senior II Championship Standard  (WTVFQ),Sample,0,csc11,40448710,189,Anton Koukareko,Waltz,2
+CA,0,3,Final,Scott Lacy,Yuki Watanabe,14,3,3, Senior II Championship Standard  (WTVFQ),Sample,0,csc11,40448710,189,Daniele Gozzi,Waltz,2
+CA,0,3,Final,Scott Lacy,Yuki Watanabe,15,3,3, Senior II Championship Standard  (WTVFQ),Sample,0,csc11,40448710,189,Cecilia Giovacchini,Waltz,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,10,2,2, Senior II Championship Standard  (WTVFQ),Sample,0,csc11,40448710,183,Gosia Zygadlo,Waltz,3
+CA,0,3,Final,James Kleinrath,Melody Singleton,11,2,3, Senior II Championship Standard  (WTVFQ),Sample,0,csc11,40448710,183,Alise Halbert,Waltz,3
+CA,0,3,Final,James Kleinrath,Melody Singleton,12,2,3, Senior II Championship Standard  (WTVFQ),Sample,0,csc11,40448710,183,Anton Koukareko,Waltz,3
+CA,0,2,Final,James Kleinrath,Melody Singleton,14,2,2, Senior II Championship Standard  (WTVFQ),Sample,0,csc11,40448710,183,Daniele Gozzi,Waltz,3
+CA,0,2,Final,James Kleinrath,Melody Singleton,15,2,2, Senior II Championship Standard  (WTVFQ),Sample,0,csc11,40448710,183,Cecilia Giovacchini,Waltz,3
+CA,0,1,Final,Winston Chow,Lilly T.F. Chow,10,1,1, Senior II Championship Standard  (WTVFQ),Sample,1,csc11,40448710,161,Gosia Zygadlo,Tango,1
+CA,0,2,Final,Winston Chow,Lilly T.F. Chow,11,1,2, Senior II Championship Standard  (WTVFQ),Sample,1,csc11,40448710,161,Alise Halbert,Tango,1
+CA,0,1,Final,Winston Chow,Lilly T.F. Chow,12,1,1, Senior II Championship Standard  (WTVFQ),Sample,1,csc11,40448710,161,Anton Koukareko,Tango,1
+CA,0,1,Final,Winston Chow,Lilly T.F. Chow,14,1,1, Senior II Championship Standard  (WTVFQ),Sample,1,csc11,40448710,161,Daniele Gozzi,Tango,1
+CA,0,1,Final,Winston Chow,Lilly T.F. Chow,15,1,1, Senior II Championship Standard  (WTVFQ),Sample,1,csc11,40448710,161,Cecilia Giovacchini,Tango,1
+CA,0,3,Final,Scott Lacy,Yuki Watanabe,10,2,3, Senior II Championship Standard  (WTVFQ),Sample,1,csc11,40448710,189,Gosia Zygadlo,Tango,2
+CA,0,1,Final,Scott Lacy,Yuki Watanabe,11,2,1, Senior II Championship Standard  (WTVFQ),Sample,1,csc11,40448710,189,Alise Halbert,Tango,2
+CA,0,2,Final,Scott Lacy,Yuki Watanabe,12,2,2, Senior II Championship Standard  (WTVFQ),Sample,1,csc11,40448710,189,Anton Koukareko,Tango,2
+CA,0,3,Final,Scott Lacy,Yuki Watanabe,14,2,3, Senior II Championship Standard  (WTVFQ),Sample,1,csc11,40448710,189,Daniele Gozzi,Tango,2
+CA,0,2,Final,Scott Lacy,Yuki Watanabe,15,2,2, Senior II Championship Standard  (WTVFQ),Sample,1,csc11,40448710,189,Cecilia Giovacchini,Tango,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,10,3,2, Senior II Championship Standard  (WTVFQ),Sample,1,csc11,40448710,183,Gosia Zygadlo,Tango,3
+CA,0,3,Final,James Kleinrath,Melody Singleton,11,3,3, Senior II Championship Standard  (WTVFQ),Sample,1,csc11,40448710,183,Alise Halbert,Tango,3
+CA,0,3,Final,James Kleinrath,Melody Singleton,12,3,3, Senior II Championship Standard  (WTVFQ),Sample,1,csc11,40448710,183,Anton Koukareko,Tango,3
+CA,0,2,Final,James Kleinrath,Melody Singleton,14,3,2, Senior II Championship Standard  (WTVFQ),Sample,1,csc11,40448710,183,Daniele Gozzi,Tango,3
+CA,0,3,Final,James Kleinrath,Melody Singleton,15,3,3, Senior II Championship Standard  (WTVFQ),Sample,1,csc11,40448710,183,Cecilia Giovacchini,Tango,3
+CA,0,1,Final,Winston Chow,Lilly T.F. Chow,10,1,1, Senior II Championship Standard  (WTVFQ),Sample,2,csc11,40448710,161,Gosia Zygadlo,Viennese Waltz,1
+CA,0,2,Final,Winston Chow,Lilly T.F. Chow,11,1,2, Senior II Championship Standard  (WTVFQ),Sample,2,csc11,40448710,161,Alise Halbert,Viennese Waltz,1
+CA,0,1,Final,Winston Chow,Lilly T.F. Chow,12,1,1, Senior II Championship Standard  (WTVFQ),Sample,2,csc11,40448710,161,Anton Koukareko,Viennese Waltz,1
+CA,0,1,Final,Winston Chow,Lilly T.F. Chow,14,1,1, Senior II Championship Standard  (WTVFQ),Sample,2,csc11,40448710,161,Daniele Gozzi,Viennese Waltz,1
+CA,0,1,Final,Winston Chow,Lilly T.F. Chow,15,1,1, Senior II Championship Standard  (WTVFQ),Sample,2,csc11,40448710,161,Cecilia Giovacchini,Viennese Waltz,1
+CA,0,3,Final,Scott Lacy,Yuki Watanabe,10,2,3, Senior II Championship Standard  (WTVFQ),Sample,2,csc11,40448710,189,Gosia Zygadlo,Viennese Waltz,2
+CA,0,1,Final,Scott Lacy,Yuki Watanabe,11,2,1, Senior II Championship Standard  (WTVFQ),Sample,2,csc11,40448710,189,Alise Halbert,Viennese Waltz,2
+CA,0,2,Final,Scott Lacy,Yuki Watanabe,12,2,2, Senior II Championship Standard  (WTVFQ),Sample,2,csc11,40448710,189,Anton Koukareko,Viennese Waltz,2
+CA,0,3,Final,Scott Lacy,Yuki Watanabe,14,2,3, Senior II Championship Standard  (WTVFQ),Sample,2,csc11,40448710,189,Daniele Gozzi,Viennese Waltz,2
+CA,0,2,Final,Scott Lacy,Yuki Watanabe,15,2,2, Senior II Championship Standard  (WTVFQ),Sample,2,csc11,40448710,189,Cecilia Giovacchini,Viennese Waltz,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,10,3,2, Senior II Championship Standard  (WTVFQ),Sample,2,csc11,40448710,183,Gosia Zygadlo,Viennese Waltz,3
+CA,0,3,Final,James Kleinrath,Melody Singleton,11,3,3, Senior II Championship Standard  (WTVFQ),Sample,2,csc11,40448710,183,Alise Halbert,Viennese Waltz,3
+CA,0,3,Final,James Kleinrath,Melody Singleton,12,3,3, Senior II Championship Standard  (WTVFQ),Sample,2,csc11,40448710,183,Anton Koukareko,Viennese Waltz,3
+CA,0,2,Final,James Kleinrath,Melody Singleton,14,3,2, Senior II Championship Standard  (WTVFQ),Sample,2,csc11,40448710,183,Daniele Gozzi,Viennese Waltz,3
+CA,0,3,Final,James Kleinrath,Melody Singleton,15,3,3, Senior II Championship Standard  (WTVFQ),Sample,2,csc11,40448710,183,Cecilia Giovacchini,Viennese Waltz,3
+CA,0,1,Final,Winston Chow,Lilly T.F. Chow,10,1,1, Senior II Championship Standard  (WTVFQ),Sample,3,csc11,40448710,161,Gosia Zygadlo,Foxtrot,1
+CA,0,1,Final,Winston Chow,Lilly T.F. Chow,11,1,1, Senior II Championship Standard  (WTVFQ),Sample,3,csc11,40448710,161,Alise Halbert,Foxtrot,1
+CA,0,1,Final,Winston Chow,Lilly T.F. Chow,12,1,1, Senior II Championship Standard  (WTVFQ),Sample,3,csc11,40448710,161,Anton Koukareko,Foxtrot,1
+CA,0,1,Final,Winston Chow,Lilly T.F. Chow,14,1,1, Senior II Championship Standard  (WTVFQ),Sample,3,csc11,40448710,161,Daniele Gozzi,Foxtrot,1
+CA,0,1,Final,Winston Chow,Lilly T.F. Chow,15,1,1, Senior II Championship Standard  (WTVFQ),Sample,3,csc11,40448710,161,Cecilia Giovacchini,Foxtrot,1
+CA,0,2,Final,Scott Lacy,Yuki Watanabe,10,3,2, Senior II Championship Standard  (WTVFQ),Sample,3,csc11,40448710,189,Gosia Zygadlo,Foxtrot,2
+CA,0,2,Final,Scott Lacy,Yuki Watanabe,11,3,2, Senior II Championship Standard  (WTVFQ),Sample,3,csc11,40448710,189,Alise Halbert,Foxtrot,2
+CA,0,3,Final,Scott Lacy,Yuki Watanabe,12,3,3, Senior II Championship Standard  (WTVFQ),Sample,3,csc11,40448710,189,Anton Koukareko,Foxtrot,2
+CA,0,3,Final,Scott Lacy,Yuki Watanabe,14,3,3, Senior II Championship Standard  (WTVFQ),Sample,3,csc11,40448710,189,Daniele Gozzi,Foxtrot,2
+CA,0,3,Final,Scott Lacy,Yuki Watanabe,15,3,3, Senior II Championship Standard  (WTVFQ),Sample,3,csc11,40448710,189,Cecilia Giovacchini,Foxtrot,2
+CA,0,3,Final,James Kleinrath,Melody Singleton,10,2,3, Senior II Championship Standard  (WTVFQ),Sample,3,csc11,40448710,183,Gosia Zygadlo,Foxtrot,3
+CA,0,3,Final,James Kleinrath,Melody Singleton,11,2,3, Senior II Championship Standard  (WTVFQ),Sample,3,csc11,40448710,183,Alise Halbert,Foxtrot,3
+CA,0,2,Final,James Kleinrath,Melody Singleton,12,2,2, Senior II Championship Standard  (WTVFQ),Sample,3,csc11,40448710,183,Anton Koukareko,Foxtrot,3
+CA,0,2,Final,James Kleinrath,Melody Singleton,14,2,2, Senior II Championship Standard  (WTVFQ),Sample,3,csc11,40448710,183,Daniele Gozzi,Foxtrot,3
+CA,0,2,Final,James Kleinrath,Melody Singleton,15,2,2, Senior II Championship Standard  (WTVFQ),Sample,3,csc11,40448710,183,Cecilia Giovacchini,Foxtrot,3
+CA,0,1,Final,Winston Chow,Lilly T.F. Chow,10,1,1, Senior II Championship Standard  (WTVFQ),Sample,4,csc11,40448710,161,Gosia Zygadlo,Quickstep,1
+CA,0,2,Final,Winston Chow,Lilly T.F. Chow,11,1,2, Senior II Championship Standard  (WTVFQ),Sample,4,csc11,40448710,161,Alise Halbert,Quickstep,1
+CA,0,1,Final,Winston Chow,Lilly T.F. Chow,12,1,1, Senior II Championship Standard  (WTVFQ),Sample,4,csc11,40448710,161,Anton Koukareko,Quickstep,1
+CA,0,3,Final,Winston Chow,Lilly T.F. Chow,14,1,3, Senior II Championship Standard  (WTVFQ),Sample,4,csc11,40448710,161,Daniele Gozzi,Quickstep,1
+CA,0,1,Final,Winston Chow,Lilly T.F. Chow,15,1,1, Senior II Championship Standard  (WTVFQ),Sample,4,csc11,40448710,161,Cecilia Giovacchini,Quickstep,1
+CA,0,3,Final,Scott Lacy,Yuki Watanabe,10,2,3, Senior II Championship Standard  (WTVFQ),Sample,4,csc11,40448710,189,Gosia Zygadlo,Quickstep,2
+CA,0,1,Final,Scott Lacy,Yuki Watanabe,11,2,1, Senior II Championship Standard  (WTVFQ),Sample,4,csc11,40448710,189,Alise Halbert,Quickstep,2
+CA,0,2,Final,Scott Lacy,Yuki Watanabe,12,2,2, Senior II Championship Standard  (WTVFQ),Sample,4,csc11,40448710,189,Anton Koukareko,Quickstep,2
+CA,0,1,Final,Scott Lacy,Yuki Watanabe,14,2,1, Senior II Championship Standard  (WTVFQ),Sample,4,csc11,40448710,189,Daniele Gozzi,Quickstep,2
+CA,0,3,Final,Scott Lacy,Yuki Watanabe,15,2,3, Senior II Championship Standard  (WTVFQ),Sample,4,csc11,40448710,189,Cecilia Giovacchini,Quickstep,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,10,3,2, Senior II Championship Standard  (WTVFQ),Sample,4,csc11,40448710,183,Gosia Zygadlo,Quickstep,3
+CA,0,3,Final,James Kleinrath,Melody Singleton,11,3,3, Senior II Championship Standard  (WTVFQ),Sample,4,csc11,40448710,183,Alise Halbert,Quickstep,3
+CA,0,3,Final,James Kleinrath,Melody Singleton,12,3,3, Senior II Championship Standard  (WTVFQ),Sample,4,csc11,40448710,183,Anton Koukareko,Quickstep,3
+CA,0,2,Final,James Kleinrath,Melody Singleton,14,3,2, Senior II Championship Standard  (WTVFQ),Sample,4,csc11,40448710,183,Daniele Gozzi,Quickstep,3
+CA,0,2,Final,James Kleinrath,Melody Singleton,15,3,2, Senior II Championship Standard  (WTVFQ),Sample,4,csc11,40448710,183,Cecilia Giovacchini,Quickstep,3
+CA,0,1,Final,Douglas Priest,Laura White,10,1,1, Senior I Championship Standard  (WTVFQ),Sample,0,csc11,40438710,167,Gosia Zygadlo,Waltz,1
+CA,0,1,Final,Douglas Priest,Laura White,11,1,1, Senior I Championship Standard  (WTVFQ),Sample,0,csc11,40438710,167,Alise Halbert,Waltz,1
+CA,0,1,Final,Douglas Priest,Laura White,12,1,1, Senior I Championship Standard  (WTVFQ),Sample,0,csc11,40438710,167,Anton Koukareko,Waltz,1
+CA,0,1,Final,Douglas Priest,Laura White,14,1,1, Senior I Championship Standard  (WTVFQ),Sample,0,csc11,40438710,167,Daniele Gozzi,Waltz,1
+CA,0,1,Final,Douglas Priest,Laura White,15,1,1, Senior I Championship Standard  (WTVFQ),Sample,0,csc11,40438710,167,Cecilia Giovacchini,Waltz,1
+CA,0,1,Final,Douglas Priest,Laura White,10,1,1, Senior I Championship Standard  (WTVFQ),Sample,1,csc11,40438710,167,Gosia Zygadlo,Tango,1
+CA,0,1,Final,Douglas Priest,Laura White,11,1,1, Senior I Championship Standard  (WTVFQ),Sample,1,csc11,40438710,167,Alise Halbert,Tango,1
+CA,0,1,Final,Douglas Priest,Laura White,12,1,1, Senior I Championship Standard  (WTVFQ),Sample,1,csc11,40438710,167,Anton Koukareko,Tango,1
+CA,0,1,Final,Douglas Priest,Laura White,14,1,1, Senior I Championship Standard  (WTVFQ),Sample,1,csc11,40438710,167,Daniele Gozzi,Tango,1
+CA,0,1,Final,Douglas Priest,Laura White,15,1,1, Senior I Championship Standard  (WTVFQ),Sample,1,csc11,40438710,167,Cecilia Giovacchini,Tango,1
+CA,0,1,Final,Douglas Priest,Laura White,10,1,1, Senior I Championship Standard  (WTVFQ),Sample,2,csc11,40438710,167,Gosia Zygadlo,Viennese Waltz,1
+CA,0,1,Final,Douglas Priest,Laura White,11,1,1, Senior I Championship Standard  (WTVFQ),Sample,2,csc11,40438710,167,Alise Halbert,Viennese Waltz,1
+CA,0,1,Final,Douglas Priest,Laura White,12,1,1, Senior I Championship Standard  (WTVFQ),Sample,2,csc11,40438710,167,Anton Koukareko,Viennese Waltz,1
+CA,0,1,Final,Douglas Priest,Laura White,14,1,1, Senior I Championship Standard  (WTVFQ),Sample,2,csc11,40438710,167,Daniele Gozzi,Viennese Waltz,1
+CA,0,1,Final,Douglas Priest,Laura White,15,1,1, Senior I Championship Standard  (WTVFQ),Sample,2,csc11,40438710,167,Cecilia Giovacchini,Viennese Waltz,1
+CA,0,1,Final,Douglas Priest,Laura White,10,1,1, Senior I Championship Standard  (WTVFQ),Sample,3,csc11,40438710,167,Gosia Zygadlo,Foxtrot,1
+CA,0,1,Final,Douglas Priest,Laura White,11,1,1, Senior I Championship Standard  (WTVFQ),Sample,3,csc11,40438710,167,Alise Halbert,Foxtrot,1
+CA,0,1,Final,Douglas Priest,Laura White,12,1,1, Senior I Championship Standard  (WTVFQ),Sample,3,csc11,40438710,167,Anton Koukareko,Foxtrot,1
+CA,0,1,Final,Douglas Priest,Laura White,14,1,1, Senior I Championship Standard  (WTVFQ),Sample,3,csc11,40438710,167,Daniele Gozzi,Foxtrot,1
+CA,0,1,Final,Douglas Priest,Laura White,15,1,1, Senior I Championship Standard  (WTVFQ),Sample,3,csc11,40438710,167,Cecilia Giovacchini,Foxtrot,1
+CA,0,1,Final,Douglas Priest,Laura White,10,1,1, Senior I Championship Standard  (WTVFQ),Sample,4,csc11,40438710,167,Gosia Zygadlo,Quickstep,1
+CA,0,1,Final,Douglas Priest,Laura White,11,1,1, Senior I Championship Standard  (WTVFQ),Sample,4,csc11,40438710,167,Alise Halbert,Quickstep,1
+CA,0,1,Final,Douglas Priest,Laura White,12,1,1, Senior I Championship Standard  (WTVFQ),Sample,4,csc11,40438710,167,Anton Koukareko,Quickstep,1
+CA,0,1,Final,Douglas Priest,Laura White,14,1,1, Senior I Championship Standard  (WTVFQ),Sample,4,csc11,40438710,167,Daniele Gozzi,Quickstep,1
+CA,0,1,Final,Douglas Priest,Laura White,15,1,1, Senior I Championship Standard  (WTVFQ),Sample,4,csc11,40438710,167,Cecilia Giovacchini,Quickstep,1
+CA,0,1,Final,Winston Chow,Lilly T.F. Chow,10,1,1, Senior III Championship Standard  (WTFQV),Sample,0,csc11,40458710,161,Gosia Zygadlo,Waltz,1
+CA,0,1,Final,Winston Chow,Lilly T.F. Chow,11,1,1, Senior III Championship Standard  (WTFQV),Sample,0,csc11,40458710,161,Alise Halbert,Waltz,1
+CA,0,1,Final,Winston Chow,Lilly T.F. Chow,12,1,1, Senior III Championship Standard  (WTFQV),Sample,0,csc11,40458710,161,Anton Koukareko,Waltz,1
+CA,0,1,Final,Winston Chow,Lilly T.F. Chow,14,1,1, Senior III Championship Standard  (WTFQV),Sample,0,csc11,40458710,161,Daniele Gozzi,Waltz,1
+CA,0,1,Final,Winston Chow,Lilly T.F. Chow,15,1,1, Senior III Championship Standard  (WTFQV),Sample,0,csc11,40458710,161,Cecilia Giovacchini,Waltz,1
+CA,0,2,Final,James Kleinrath,Melody Singleton,10,2,2, Senior III Championship Standard  (WTFQV),Sample,0,csc11,40458710,183,Gosia Zygadlo,Waltz,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,11,2,2, Senior III Championship Standard  (WTFQV),Sample,0,csc11,40458710,183,Alise Halbert,Waltz,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,12,2,2, Senior III Championship Standard  (WTFQV),Sample,0,csc11,40458710,183,Anton Koukareko,Waltz,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,14,2,2, Senior III Championship Standard  (WTFQV),Sample,0,csc11,40458710,183,Daniele Gozzi,Waltz,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,15,2,2, Senior III Championship Standard  (WTFQV),Sample,0,csc11,40458710,183,Cecilia Giovacchini,Waltz,2
+CA,0,1,Final,Winston Chow,Lilly T.F. Chow,10,1,1, Senior III Championship Standard  (WTFQV),Sample,1,csc11,40458710,161,Gosia Zygadlo,Tango,1
+CA,0,1,Final,Winston Chow,Lilly T.F. Chow,11,1,1, Senior III Championship Standard  (WTFQV),Sample,1,csc11,40458710,161,Alise Halbert,Tango,1
+CA,0,1,Final,Winston Chow,Lilly T.F. Chow,12,1,1, Senior III Championship Standard  (WTFQV),Sample,1,csc11,40458710,161,Anton Koukareko,Tango,1
+CA,0,1,Final,Winston Chow,Lilly T.F. Chow,14,1,1, Senior III Championship Standard  (WTFQV),Sample,1,csc11,40458710,161,Daniele Gozzi,Tango,1
+CA,0,1,Final,Winston Chow,Lilly T.F. Chow,15,1,1, Senior III Championship Standard  (WTFQV),Sample,1,csc11,40458710,161,Cecilia Giovacchini,Tango,1
+CA,0,2,Final,James Kleinrath,Melody Singleton,10,2,2, Senior III Championship Standard  (WTFQV),Sample,1,csc11,40458710,183,Gosia Zygadlo,Tango,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,11,2,2, Senior III Championship Standard  (WTFQV),Sample,1,csc11,40458710,183,Alise Halbert,Tango,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,12,2,2, Senior III Championship Standard  (WTFQV),Sample,1,csc11,40458710,183,Anton Koukareko,Tango,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,14,2,2, Senior III Championship Standard  (WTFQV),Sample,1,csc11,40458710,183,Daniele Gozzi,Tango,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,15,2,2, Senior III Championship Standard  (WTFQV),Sample,1,csc11,40458710,183,Cecilia Giovacchini,Tango,2
+CA,0,1,Final,Winston Chow,Lilly T.F. Chow,10,1,1, Senior III Championship Standard  (WTFQV),Sample,2,csc11,40458710,161,Gosia Zygadlo,Foxtrot,1
+CA,0,1,Final,Winston Chow,Lilly T.F. Chow,11,1,1, Senior III Championship Standard  (WTFQV),Sample,2,csc11,40458710,161,Alise Halbert,Foxtrot,1
+CA,0,1,Final,Winston Chow,Lilly T.F. Chow,12,1,1, Senior III Championship Standard  (WTFQV),Sample,2,csc11,40458710,161,Anton Koukareko,Foxtrot,1
+CA,0,2,Final,Winston Chow,Lilly T.F. Chow,14,1,2, Senior III Championship Standard  (WTFQV),Sample,2,csc11,40458710,161,Daniele Gozzi,Foxtrot,1
+CA,0,2,Final,Winston Chow,Lilly T.F. Chow,15,1,2, Senior III Championship Standard  (WTFQV),Sample,2,csc11,40458710,161,Cecilia Giovacchini,Foxtrot,1
+CA,0,2,Final,James Kleinrath,Melody Singleton,10,2,2, Senior III Championship Standard  (WTFQV),Sample,2,csc11,40458710,183,Gosia Zygadlo,Foxtrot,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,11,2,2, Senior III Championship Standard  (WTFQV),Sample,2,csc11,40458710,183,Alise Halbert,Foxtrot,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,12,2,2, Senior III Championship Standard  (WTFQV),Sample,2,csc11,40458710,183,Anton Koukareko,Foxtrot,2
+CA,0,1,Final,James Kleinrath,Melody Singleton,14,2,1, Senior III Championship Standard  (WTFQV),Sample,2,csc11,40458710,183,Daniele Gozzi,Foxtrot,2
+CA,0,1,Final,James Kleinrath,Melody Singleton,15,2,1, Senior III Championship Standard  (WTFQV),Sample,2,csc11,40458710,183,Cecilia Giovacchini,Foxtrot,2
+CA,0,1,Final,Winston Chow,Lilly T.F. Chow,10,1,1, Senior III Championship Standard  (WTFQV),Sample,3,csc11,40458710,161,Gosia Zygadlo,Quickstep,1
+CA,0,1,Final,Winston Chow,Lilly T.F. Chow,11,1,1, Senior III Championship Standard  (WTFQV),Sample,3,csc11,40458710,161,Alise Halbert,Quickstep,1
+CA,0,1,Final,Winston Chow,Lilly T.F. Chow,12,1,1, Senior III Championship Standard  (WTFQV),Sample,3,csc11,40458710,161,Anton Koukareko,Quickstep,1
+CA,0,2,Final,Winston Chow,Lilly T.F. Chow,14,1,2, Senior III Championship Standard  (WTFQV),Sample,3,csc11,40458710,161,Daniele Gozzi,Quickstep,1
+CA,0,1,Final,Winston Chow,Lilly T.F. Chow,15,1,1, Senior III Championship Standard  (WTFQV),Sample,3,csc11,40458710,161,Cecilia Giovacchini,Quickstep,1
+CA,0,2,Final,James Kleinrath,Melody Singleton,10,2,2, Senior III Championship Standard  (WTFQV),Sample,3,csc11,40458710,183,Gosia Zygadlo,Quickstep,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,11,2,2, Senior III Championship Standard  (WTFQV),Sample,3,csc11,40458710,183,Alise Halbert,Quickstep,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,12,2,2, Senior III Championship Standard  (WTFQV),Sample,3,csc11,40458710,183,Anton Koukareko,Quickstep,2
+CA,0,1,Final,James Kleinrath,Melody Singleton,14,2,1, Senior III Championship Standard  (WTFQV),Sample,3,csc11,40458710,183,Daniele Gozzi,Quickstep,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,15,2,2, Senior III Championship Standard  (WTFQV),Sample,3,csc11,40458710,183,Cecilia Giovacchini,Quickstep,2
+CA,0,1,Final,Winston Chow,Lilly T.F. Chow,10,1,1, Senior III Championship Standard  (WTFQV),Sample,4,csc11,40458710,161,Gosia Zygadlo,Viennese Waltz,1
+CA,0,1,Final,Winston Chow,Lilly T.F. Chow,11,1,1, Senior III Championship Standard  (WTFQV),Sample,4,csc11,40458710,161,Alise Halbert,Viennese Waltz,1
+CA,0,1,Final,Winston Chow,Lilly T.F. Chow,12,1,1, Senior III Championship Standard  (WTFQV),Sample,4,csc11,40458710,161,Anton Koukareko,Viennese Waltz,1
+CA,0,2,Final,Winston Chow,Lilly T.F. Chow,14,1,2, Senior III Championship Standard  (WTFQV),Sample,4,csc11,40458710,161,Daniele Gozzi,Viennese Waltz,1
+CA,0,1,Final,Winston Chow,Lilly T.F. Chow,15,1,1, Senior III Championship Standard  (WTFQV),Sample,4,csc11,40458710,161,Cecilia Giovacchini,Viennese Waltz,1
+CA,0,2,Final,James Kleinrath,Melody Singleton,10,2,2, Senior III Championship Standard  (WTFQV),Sample,4,csc11,40458710,183,Gosia Zygadlo,Viennese Waltz,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,11,2,2, Senior III Championship Standard  (WTFQV),Sample,4,csc11,40458710,183,Alise Halbert,Viennese Waltz,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,12,2,2, Senior III Championship Standard  (WTFQV),Sample,4,csc11,40458710,183,Anton Koukareko,Viennese Waltz,2
+CA,0,1,Final,James Kleinrath,Melody Singleton,14,2,1, Senior III Championship Standard  (WTFQV),Sample,4,csc11,40458710,183,Daniele Gozzi,Viennese Waltz,2
+CA,0,2,Final,James Kleinrath,Melody Singleton,15,2,2, Senior III Championship Standard  (WTFQV),Sample,4,csc11,40458710,183,Cecilia Giovacchini,Viennese Waltz,2
