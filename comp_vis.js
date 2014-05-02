@@ -1,5 +1,5 @@
 var MIN_TEXT = 14;
-var BAR_MARGIN = 1;
+var BAR_MARGIN = 0;
 var TEXT_MARGIN = 2;
 
 var margin = {
@@ -10,13 +10,20 @@ var margin = {
 };
 
 var pane;
+var pane_refresh;
 var svg;
 
 var width;
 var height;
 var graph;
 
-var hl_first = true;
+function refresh_all_panes() {
+    pane_refresh.forEach(function(d){
+        d.forEach(function(e){
+            e();
+        })
+    })
+}
 
 function lh(d) {
     return d[1][0];
@@ -113,10 +120,10 @@ function set_hl() {
         .attr("r",function(d){
             if (is_hl(d)) {
                 hl_mode = true;
-                front(d3.select(this));
             }
             if (is_hover(d)) {
                 var circ = d3.select(this);
+                front(circ);
                 svg[circ.attr("py")][circ.attr("px")].selectAll("text.note")
                     .text(function(e){return marks(d,d3.select(this).attr("heat_id"))+"/"+d3.select(this).attr("j_base")})
                     .attr("y",d3.select(this).attr("cy"))
@@ -174,42 +181,46 @@ function make_pane(py,px,tr) {
                 .datum(time);
         }
         pane[py][px].selectAll("select#comp>option").sort(function(a,b){return -d3.ascending(a,b)});
+        sel.append("option").attr("value","").html("");
         pane[py][px].select("select#comp")
             //.html(sel_html)
             .on("change",function() {
                 load_comp(this.options[this.selectedIndex].value);
             });
     });
-    
     load_comp("mit14");
     
     data = [];
     function load_comp(comp) {
-        d3.json("data/"+comp+"/res_data.json", function(error,data){
-            console.log(data);
-            
-            var sel = pane[py][px].select("select#round");
-            sel.html('');
-            data.forEach(function(heat,ii) {
-                if (true) {
-                    sel.append("option")
-                        .attr({
-                            value:ii.toString()
-                        })
-                        .html(heat[0][".name"])
-                        .datum(heat[0][".name"]);
-                    //sel_html += ("<option value="+ii.toString()+">"+heat[0][".name"]+"</option>");
-                }
-            });
-            pane[py][px].selectAll("select#round>option").sort(function(a,b){return d3.ascending(a,b)});
-            pane[py][px].select("select#round")
-                //.html(sel_html)
-                .on("change",function() {
-                    draw_rnd(data,this.options[this.selectedIndex].value);
+        if (comp==="") {
+            svg[py][px].selectAll("*").remove();
+            pane[py][px].select("select#round").html("");
+        }
+        else {
+            d3.json("data/"+comp+"/res_data.json", function(error,data){
+                var sel = pane[py][px].select("select#round");
+                sel.html('');
+                data.forEach(function(heat,ii) {
+                    if (true) {
+                        sel.append("option")
+                            .attr({
+                                value:ii.toString()
+                            })
+                            .html(heat[0][".name"])
+                            .datum(heat[0][".name"]);
+                        //sel_html += ("<option value="+ii.toString()+">"+heat[0][".name"]+"</option>");
+                    }
                 });
-            
-            draw_rnd(data,0);
-        });
+                pane[py][px].selectAll("select#round>option").sort(function(a,b){return d3.ascending(a,b)});
+                pane[py][px].select("select#round")
+                    //.html(sel_html)
+                    .on("change",function() {
+                        draw_rnd(data,this.options[this.selectedIndex].value);
+                    });
+                
+                draw_rnd(data,0);
+            });
+        }
     }
     
     function result(d,rnd) {
@@ -220,13 +231,16 @@ function make_pane(py,px,tr) {
     }
     
     function draw_rnd(data,rnd_id) {
+        pane_refresh[py][px] = function() {
+            draw_rnd(data,rnd_id);
+        };
+        
         svg[py][px].selectAll("*").remove();
         
         var rnd = data[rnd_id];
-        //console.log(rnd);
         
         rnd[1].sort(function(a,b) {
-            if (hl_first) {
+            if (d3.select("input#hl_first").property("checked")) {
                 if (is_stuck(a) && !is_stuck(b))
                     return -1;
                 if (is_stuck(b) && !is_stuck(a))
@@ -348,8 +362,8 @@ function make_pane(py,px,tr) {
             })
             .on("click", function(d) {
                 hl_toggle(d);
-                if (hl_first) {
-                    draw_rnd(data,rnd_id);
+                if (d3.select("input#hl_first").property("checked")) {
+                    refresh_all_panes();
                 }
                 set_hl();
                 front(svg[py][px].selectAll("text.note"));
@@ -378,11 +392,15 @@ function make_full_table(xcols,yrows) {
         }
     }
     svg = [];
-    pane.forEach(function(d){
+    pane_refresh = [];
+    pane.forEach(function(d,ii){
         svg.push([]);
+        pane_refresh.push([]);
+        d.forEach(function(){
+            svg[ii].push(0);
+            pane_refresh[ii].push(0);
+        })
     });
-    
-    console.log(pane);
     
     width = Math.max(400,1200 / pane[0].length) - margin.left - margin.right;
     height = Math.max(350,600 / pane.length) - margin.bottom - margin.top;
@@ -407,12 +425,16 @@ var tip = d3.select("body").append("div")
     .text("(competitor)");
     
 d3.selectAll("button.panes")
-    .on("click",function() {
-        console.log(d3.select(this).attr("xp"));
+    .on("click",function(){
         make_full_table(d3.select(this).attr("xp"),d3.select(this).attr("yp"));
     });
+d3.select("input#hl_first")
+    .on("click",refresh_all_panes);
 d3.select("button#clear_sel")
-    .on("click",clear_hl);
+    .on("click",function(){
+        clear_hl();
+        refresh_all_panes();
+    });
 d3.select("button#hbdt")
     .on("click",function(){
         d3.json("selections/hbdt.json",function(error,hbdt){
@@ -420,9 +442,8 @@ d3.select("button#hbdt")
             hbdt.forEach(function(d) {
                 hl_toggle([['',d,d]]);
             });
-            console.log(leads);
-            set_hl();
-        })
-    })
+            refresh_all_panes();
+        });
+    });
 
 make_full_table(1,1);
