@@ -402,7 +402,7 @@ function make_full_table(xcols,yrows) {
         })
     });
     
-    width = Math.max(400,1100 / pane[0].length) - margin.left - margin.right;
+    width = Math.max(400,1000 / pane[0].length) - margin.left - margin.right;
     height = Math.max(350,600 / pane.length) - margin.bottom - margin.top;
     graph = {
         height: height,
