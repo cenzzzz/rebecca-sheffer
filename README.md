@@ -1,6 +1,6 @@
 Ballroom Events Explorer (git README)
 ===================
-If you'd like to figure out what all the moving parts are in this project, well, you're in the right place. Otherwise, you might want to just go to the [main view](http://rosswry.github.io/cs171-final-ry-ross/) or the [about page](http://rosswry.github.io/cs171-final-ry-ross/about.html).
+If you'd like to figure out what all the moving parts are in this project, well, you're in the right place. Otherwise, you might want to just go to the [main view](index.html) or the [about page](about.html).
 
 ### Code
 The main visualization view is `comp_vis.html`, which in the `gh-pages` branch is set to `index.html`. But that's just a skeletal framework of the DOM; the real d3-driven meat is in `comp_vis.js`. A small amount of styling is included directly in `comp_vis.html`.
