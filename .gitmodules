@@ -1,0 +1,3 @@
+[submodule "DanceMarkScraper"]
+	path = DanceMarkScraper
+	url = https://github.com/CloudCray/DanceMarkScraper.git
